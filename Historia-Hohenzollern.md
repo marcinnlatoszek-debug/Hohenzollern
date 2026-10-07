@@ -20,6 +20,7 @@ Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym 
 | Źródła i dodatkowe potwierdzenia | Sekcje 12–13 |
 | Ustalenia narracyjne i dawne referencje | Sekcja 14 |
 | Organizacja plików | Sekcja 15 |
+| Pakiet wejściowy do opowiadań dla GPT-6 Astra | Sekcja 16 |
 
 ## 1. Karta wznowienia i zapis nowych danych
 
@@ -422,3 +423,176 @@ Dawne odnośniki do obrazów w archiwum dokumentują pochodzenie zapisów. Nie k
 - Pozostały **222 obrazy o nieustalonym związku z kampanią**, zapisane poza jej folderami i wyszczególnione w „Grafiki-do-rozpoznania.md”. Nie uznawać ich za źródła bieżącego save’a. Obrazy rozpoznane jako niezwiązane z kampanią zachowano.
 - Podgląd nierozpoznanych obrazów w przeglądarce został odrzucony przez automatyczną kontrolę dostępu z powodu braku zgody; urywki OCR nie wystarczyły do przypisania wszystkich plików.
 - Nie ustalono nowej daty zatrzymania gry ani wydarzeń z 2–20 kwietnia 1070. Porządkowanie i usuwanie plików nie są zdarzeniami gry.
+
+## 16. Pakiet wejściowy do opowiadań — GPT-6 Astra
+
+Aktualizacja organizacyjna: 7 października 2026. Ta sekcja nie jest wydarzeniem z gry. Jest przypiętym pakietem wejściowym do właściwych opowiadań.
+
+### 16.1. Zasada modelu
+
+- Właściwe opowiadania projektu „Nobilis gens Hohenzollern” pisze wyłącznie GPT-6 Astra.
+- Inne modele mogą analizować screeny, ustalać fakty, porządkować kanon, przygotowywać scenę, sprawdzać realia i wykonywać drobne poprawki materiałów.
+- Po wyczerpaniu limitu Astry nie zastępować jej innym modelem przy pisaniu właściwego opowiadania.
+- Przed rozpoczęciem opowiadania Astra ma oprzeć się na najnowszej wersji tego pliku, a szczególnie na sekcjach 1, 2, 6, 7, 8, 14 i 16 oraz na sekcjach chronologicznych właściwych dla daty sceny.
+
+### 16.2. Nadrzędna reguła kanonu
+
+**GRA DAJE FAKT, KRONIKA DAJE ŻYCIE.**
+
+Opowiadanie może rozwijać:
+- dialog,
+- pogodę,
+- rytm dnia,
+- zwykłe czynności,
+- atmosferę miejsca,
+- drobne gesty i zachowania zgodne z potwierdzonymi cechami,
+- prawdopodobne realia XI-wiecznej Szwabii.
+
+Opowiadanie nie może samodzielnie ustanawiać:
+- nowych wydarzeń politycznych,
+- nowych małżeństw, narodzin, zgonów i sukcesji,
+- nowych sojuszy lub wojen,
+- nowych cech postaci,
+- wyników działań i schematów z CK3,
+- nowych tytułów, ziem, roszczeń ani wyników bitew,
+- aktualnych liczb wojska, złota, prestiżu, pobożności lub innych zasobów, jeśli nie pochodzą z właściwego datowanego źródła.
+
+Brak danych oznacza **NIEUSTALONE**. Narracja nie wypełnia luk w save’ie.
+
+### 16.3. Bezpieczny punkt narracyjny bieżącego save’a
+
+- Pewny punkt kontynuacji wskazany przez gracza: **21 marca 1070**.
+- Najpóźniejszy odzyskany szczegółowy stan: **1 kwietnia 1070**.
+- Faktyczna data obecnego zatrzymania gry: **NIEUSTALONA**.
+- Wydarzenia **2–20 kwietnia 1070**: **NIEODZYSKANE / NIEUSTALONE**.
+
+Dopóki gracz nie dostarczy nowych danych, właściwe opowiadanie może bezpiecznie wykorzystywać fakty potwierdzone do 1 kwietnia 1070. Nie przedstawiać okresu 2–20 kwietnia jako znanego przebiegu kampanii.
+
+### 16.4. Rdzeń bohatera
+
+**Burkhard von Hohenzollern**
+- hrabia Zollern;
+- wasal księcia Rudolfa;
+- Szwab, obrządek rzymski;
+- styl życia: Zarządzanie, skupienie na bogactwie;
+- potwierdzone cechy: **Ambitny, Cierpliwy, Opanowany**;
+- potwierdzone pozostałe cechy/atuty: **Budowniczy fortuny ★★★, Patriarcha, Umięśniony, Ogrodnik**;
+- na potwierdzonym stanie z 1 kwietnia 1070 jest marszałkiem księcia Rudolfa, lecz data objęcia urzędu pozostaje nieustalona;
+- bardzo poważnie rozważa wysunięcie roszczeń wobec Friedricha z Hohenbergu; na 1 kwietnia jest to **zamiar**, nie potwierdzone rozpoczęcie działania.
+
+W narracji Burkhard powinien wynikać z tych cech i swojej pozycji, a nie z dowolnie dopisanej psychologii.
+
+### 16.5. Rodzina i najbliższe relacje
+
+- **Hedwig** — żona Burkharda, ród Hupoldingów, matka Ferdinanda.
+- **Ferdinand** — syn Burkharda i Hedwig, następca według historycznej karty; dokładny dzień narodzin nieodzyskany.
+- **Hartmann z Zurychu** — brat Hedwig, szwagier Burkharda; historycznie posiada Zurych i Nördlingen. Burkhard zabiegał o sojusz z Hartmannem, lecz Hartmann w odzyskanym potwierdzeniu nie chciał go zawrzeć. Późniejszy wynik pozostaje nieustalony.
+- **Hupold III** — ojciec Hedwig, zmarł 18 września 1069 ze starości; związany z nim dawny sojusz wygasł.
+
+Nie dopisywać nowych członków rodziny ani nowych więzi genealogicznych bez źródła.
+
+### 16.6. Rada Burkharda — stan 1 kwietnia 1070
+
+| Osoba | Funkcja | Zadanie |
+|---|---|---|
+| Hedwig | Małżonka | Asystuj władcy |
+| Dietrich | Kapelan | Twórzcie relacje religijne |
+| Amalrich | Kanclerz | Sprawy zagraniczne |
+| Folmar | Zarządca | Pobieraj podatki |
+| Baldarich | Marszałek | Zorganizuj armię |
+| Kuno z dworu Burkharda | Mistrz szpiegów | Zapobiegaj spiskom |
+
+Kuno z rady Burkharda i Kuno z Wirtembergii to dwie różne osoby.
+
+### 16.7. Postacie szczególnie użyteczne narracyjnie
+
+- **Helferich** — dworzanin i rycerz; 16 września 1066 przegrał pojedynek z Burkhardem i dołączył ranny.
+- **Simon von Lichtenberg** — dworzanin i rycerz; mąż Ursuli.
+- **Ursula von Lichtenberg** — żona Simona.
+- **Siegfried** — rycerz; potwierdzone cechy: Cyniczny, Bojaźliwy, Współczujący; Wykwalifikowany taktyk, Inżynier wojskowy, Silny, Hastilude.
+- **Adalbero** — rycerz; historycznie bardzo wysoka waleczność; potwierdzona cecha „Postać szkaradna”. Nie dopisywać mu pełnej osobowości bez źródła.
+- **Emma** — zatwierdzona postać; w starszym źródle żona Baldaricha.
+- **Friedrich z Hohenbergu** — sąsiad i potencjalny cel roszczeń Burkharda; odrębny od Friedricha z Grüningen.
+- **Książę Rudolf** — senior Burkharda.
+- **Arcybiskup Otto z Trewiru** — syn Eberharda VI z Nellenburga; potwierdzone cechy: Tchórzliwy, Sadystyczny, Uczciwy; Wnikliwy myśliciel.
+- **Otto III z Burgau** i arcybiskup Otto z Trewiru to dwie różne osoby.
+
+Pozostałe zatwierdzone postacie pozostają dostępne w sekcji 7. Nie przenosić do opowiadania brakujących statystyk ani osobowości jako pewnych faktów.
+
+### 16.8. Przestrzeń narracyjna
+
+**Zollern**
+- niewielka XI-wieczna siedziba na wzgórzu;
+- skromna, funkcjonalna, bez późnośredniowiecznej monumentalności;
+- rozwój 8 w odzyskanym stanie;
+- historycznie potwierdzona zabudowa obejmuje pola uprawne, bastiony i mury kurtynowe oraz gródek stożkowaty I, z zachowaniem daty źródła.
+
+**Hohenberg**
+- graniczy z Zollern od zachodu;
+- rozwój 9 w potwierdzeniu gracza bez odzyskanej daty gry;
+- jest ważnym kierunkiem ambicji Burkharda.
+
+**Tybinga / Tübingen**
+- pobliski ważny ośrodek na północ od Zollern;
+- może występować w realistycznych trasach, podróżach, wiadomościach, handlu i kontaktach regionalnych;
+- nie dopisywać jej konkretnych więzi politycznych z Burkhardem bez źródła.
+
+**Karczma „Pod Czarnym Jeleniem”**
+- ustalone miejsce narracyjne przy drodze do Zollern;
+- nazwa „Pod Trzema Dębami” została odrzucona;
+- rynek przy karczmie został usunięty z kanonu.
+
+### 16.9. Realizm i styl opowiadań
+
+- Realizm możliwie bliski XI-wiecznej Szwabii.
+- Unikać współczesnej mentalności, urzędowego języka XXI wieku i późnośredniowiecznych instytucji przedstawianych jako oczywiste.
+- Nie przedstawiać zamku Zollern jako późniejszej monumentalnej twierdzy.
+- Mechaniki CK3 przekładać na działania ludzi. Postacie nie mówią o procentach opinii, punktach prestiżu, szansach powodzenia czy „taskach rady”.
+- Dialog ma być naturalny i oszczędny; nie stylizować każdej kwestii na sztuczny archaizm.
+- Dopuszczalne są małe historie codzienności: spór, podróżny, kupiec, naprawa, posłaniec, polowanie, pogoda, praca ludzi dworu, kłopot na drodze, krótka eskorta lub lokalna sprzeczka — o ile nie tworzą nowego twardego faktu save’a.
+- Patrole i eskorty ludzi Burkharda są dopuszczonym elementem żywego świata, ale konkretna potyczka, strata, schwytanie, zwycięstwo lub ważny transport nie staje się kanonem bez potwierdzenia z gry albo przez gracza.
+- Źródła niepewne historycznie przedstawiać jako prawdopodobne tło, nie jako niezaprzeczalny zwyczaj.
+
+### 16.10. Bezpieczne kierunki pierwszych scen
+
+Do czasu nowych danych z gry można tworzyć sceny oparte na:
+- codzienności Zollern przed lub około 1 kwietnia 1070;
+- posiedzeniu lub następstwach pracy rady z 1 kwietnia, bez dopisywania nowych wyników zadań;
+- rozważaniu przez Burkharda sprawy Hohenbergu, z zachowaniem statusu „zamiar”;
+- obowiązkach Burkharda jako marszałka Rudolfa, bez wymyślania niepotwierdzonej kampanii wojennej;
+- relacji Burkharda z Hedwig i małym Ferdinandem;
+- napięciu wokół Hartmanna i niezrealizowanego na odzyskanym etapie sojuszu;
+- życiu rycerzy, dworzan, kapelana i służby;
+- wiadomościach docierających do Zollern, o ile nie rozstrzygają nieustalonych wojen świata;
+- realistycznych podróżach i kontaktach na osi Zollern–Tybinga–Hohenberg, bez dopisywania nowych politycznych rezultatów.
+
+### 16.11. Czerwone linie przed napisaniem sceny po 1 kwietnia 1070
+
+Bez nowych danych z gry nie wolno przyjąć jako faktu, że:
+- Burkhard rozpoczął fabrykowanie roszczenia do Hohenbergu;
+- zdobył roszczenie;
+- wypowiedział Friedrichowi wojnę;
+- wygrał lub przegrał wojnę;
+- Hartmann zawarł sojusz z Burkhardem;
+- zmieniła się rodzina lub sukcesja;
+- zmieniły się aktualne zasoby i liczebność armii;
+- zakończyła się któraś z obserwowanych wojen świata;
+- znamy przebieg wydarzeń 2–20 kwietnia 1070.
+
+Jeżeli opowiadanie miałoby zależeć od któregoś z tych punktów, najpierw potrzebne jest nowe potwierdzenie gracza albo czytelny materiał z gry.
+
+### 16.12. Referencje wizualne
+
+Dawne zapisane obrazy zostały wyłączone z aktywnych referencji podczas porządkowania 7 października 2026. Nie odtwarzać wyglądu postaci z pamięci ani z dawnych niezweryfikowanych opisów jako obowiązującego wzorca. Gdy gracz dostarczy nowy czytelny screen postaci, można zbudować nowy zatwierdzony wzorzec wyglądu zgodnie z zasadami projektu.
+
+### 16.13. Procedura dla Astry
+
+Przed właściwym opowiadaniem:
+1. ustalić datę i miejsce sceny na podstawie polecenia gracza;
+2. sprawdzić, które fakty są potwierdzone dla tej daty;
+3. oddzielić fakty gry od swobodnej warstwy narracyjnej;
+4. zachować osobowość tylko na podstawie zatwierdzonych cech;
+5. nie zamykać otwartych spraw bez źródła;
+6. pisać scenę żywo i literacko, ale tak, by po usunięciu dialogu i ozdobników nie powstał żaden nowy „fakt save’a”.
+
+**Status sekcji:** przypięty materiał roboczy dla GPT-6 Astra. W razie zmiany kampanii aktualizować go razem z główną kartą, a nie prowadzić jako osobny równoległy kanon.
