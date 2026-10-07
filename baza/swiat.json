@@ -3,12 +3,14 @@
   "campaign": "Nobilis gens Hohenzollern",
   "prepared_at": "2026-10-07",
   "canonical_file": "Historia-Hohenzollern.md",
-  "baseline_blob": "30ee5a455bcda9ed6f02517eceb47121d07c8fed",
+  "baseline_blob": "5934c46c486b7b4ef6f1047fd773591edfdf4d87",
   "clocks": {
-    "latest_recorded_game_date": "1070-05-06",
+    "latest_recorded_game_date": "1070-06-02",
     "last_reported_narrative_date": "1070-05-01",
     "narrative_date_source": "KANON-19.1",
-    "real_time_advances_game": false
+    "real_time_advances_game": false,
+    "latest_screen_state_date": "1070-05-06",
+    "current_game_date_source": "direct_player_confirmation_2026-10-07"
   },
   "people": [
     {
@@ -4220,6 +4222,12 @@
       "kind": "observation_reference",
       "file": "baza/swiat.json",
       "observation_id": "E028"
+    },
+    {
+      "id": "USER-2026-10-07-02JUN",
+      "kind": "direct_player_confirmation",
+      "detail": "Gracz podał bieżącą datę save'a: 2 czerwca 1070.",
+      "recorded_at": "2026-10-07"
     }
   ],
   "observations": [
@@ -4597,6 +4605,18 @@
       "sources": [
         "IMG-1791281945618",
         "IMG-1791282007354"
+      ],
+      "person_ids": []
+    },
+    {
+      "id": "E029",
+      "kind": "game_observation",
+      "game_date": "1070-06-02",
+      "date_evidence": "Jednoznaczne potwierdzenie gracza",
+      "subject": "Zegar kampanii",
+      "reading": "Bieżąca data save'a to 2 czerwca 1070. Ostatnia pełniej udokumentowana migawka ekranowa pozostaje z 6 maja 1070; nie przenosić automatycznie stanu z 6 maja na 2 czerwca.",
+      "sources": [
+        "USER-2026-10-07-02JUN"
       ],
       "person_ids": []
     }
@@ -5540,6 +5560,15 @@
         "S1; wynik działania nieodzyskany"
       ],
       "source": "KANON-4"
+    },
+    {
+      "id": "CH017",
+      "date_evidence": "2 czerwca 1070",
+      "record": [
+        "Bieżąca data save'a potwierdzona bezpośrednio przez gracza",
+        "Nie jest pełnym odczytem stanu świata; ostatni pełniej udokumentowany punkt ekranami to 6 maja 1070"
+      ],
+      "source": "E029"
     }
   ],
   "inferences": [
