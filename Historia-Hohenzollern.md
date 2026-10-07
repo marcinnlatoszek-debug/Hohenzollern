@@ -2,7 +2,7 @@
 
 Uporządkowano i audytowano: 7 października 2026. Nadrzędna karta: `Historia-Hohenzollern.md` w repozytorium `marcinnlatoszek-debug/Hohenzollern`. Powiązana kopia: `libfile_741508510f8881918f4aec6d592c08d2`; przed użyciem porównać jej aktualność z repozytorium.
 
-**Status: kampania aktywna. Bieżąca data save'a: 2 czerwca 1070 — jednoznaczne potwierdzenie gracza z 7 października 2026. Najnowszy bezpośrednio potwierdzony stan na czytelnych screenach: 6 maja 1070. Przebieg części wydarzeń między 6 maja a 2 czerwca nie został jeszcze odtworzony; brak danych pozostaje brakiem danych.**
+**Status: kampania aktywna. Najpóźniejszy odzyskany datowany fakt gry: 15 września 1070. Docelowa granica nowego opowiadania: 20 września 1070. Nowe potwierdzenia gracza z czerwca–września są w sekcji 22 i uaktualniają starsze zapisy o bieżącej dacie oraz etapie Hohenbergu. Sama granica opowiadania nie jest pełną migawką save’a.**
 
 Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym eksportem poprzednich rozmów ani pełną kopią „CZYSTEGO KANONU KONTYNUACYJNEGO BIEŻĄCEGO SAVE’A”. Brak odzyskanej informacji pozostaje brakiem danych.
 
@@ -929,3 +929,19 @@ Przy wznowieniu oprócz tego kanonu odczytać bazę. Każdy nowy screen aktualiz
 Każda postać otrzymuje stałą kartę życia opartą na wieku, cechach, rodzinie, obowiązkach i biografii. W kolejnych scenach utrwalać osobisty głos, rytm dnia, cele literackie, obietnice oraz to, co sama wie i pamięta. Dane literackie oznaczać jako narrację. Człowiek znany tylko z drzewa może uczestniczyć w świecie, lecz zakres przedstawienia musi respektować braki danych. Lista 22 głównych osób nie ogranicza liczby ludzi kampanii.
 
 Świat zachowuje ciągłość między scenami i etapami czasu kampanii. **Aktualny zegar gry wynosi 2 czerwca 1070; ostatnia pełniej udokumentowana migawka ekranowa pozostaje z 6 maja 1070.** Baza nie uruchamia samodzielnego procesu działającego po zamknięciu rozmowy; jej rolą jest trwała pamięć i podstawa spójnego prowadzenia. Nowe screeny nie zostały jeszcze przesłane w tej sesji — przygotowano ich procedurę przyjęcia.
+
+
+## 22. Potwierdzenia gracza: czerwiec–wrzesień 1070
+
+Uzupełniono 7 października 2026 przy przygotowaniu kontynuacji do 20 września. Źródło: odzyskane jednoznaczne wypowiedzi gracza z wątku „Kontynuacja wirtualnego świata”. Starsze zapisy o nieustalonym wyborze „Znaku niebios” i Hohenbergu pozostają historią wcześniejszej wiedzy; niniejsze wpisy aktualizują je, nie usuwając źródeł.
+
+| ID | Data gry | Osoba / sprawa | Potwierdzona informacja | Etap | Źródło |
+|---|---|---|---|---|---|
+| E031 | 27 czerwca 1070 | Burkhard / Znak niebios | Gracz potwierdził datę i wybór odpowiedzi 4: „Niebiosa nie są mi winne żadnych odpowiedzi.” Skutki mechaniczne pozostają nieustalone. Uzupełnienie E030. | wybór | Potwierdzenie gracza odzyskane z rozmowy, 7 X 2026, 18:57:41 UTC |
+| E032 | 9 lipca 1070 | Burkhard, Dietrich / Hohenberg | Burkhard zleca kapelanowi Dietrichowi fabrykowanie roszczenia do Hohenbergu. Działanie rozpoczęte; nie potwierdzono uzyskania roszczenia, wojny ani wyniku. | działanie | Potwierdzenie gracza odzyskane z rozmowy, 7 X 2026, 19:04:36 UTC |
+| E033 | 15 września 1070 | Burkhard, Hedwig / Doskonałe gospodarstwo domowe | Wydarzenie daje Burkhardowi 150 prestiżu. Tekst zaznacza, że nastąpiło to mimo kiepskiej umiejętności zarządzania małżonka/małżonki. Nie tworzy nowej cechy Hedwig ani odrębnego znanego przebiegu domowej sceny. | wynik wydarzenia | Potwierdzenie gracza odzyskane z rozmowy, 7 X 2026, 19:06:42 UTC |
+| E034 | wrzesień 1070, po E033; dokładny dzień nieustalony | Burkhard / sława | Burkhard osiąga kolejny poziom sławy: „Postać wybitna”. Nie dopisywać dodatkowych skutków politycznych lub nowych tytułów. | stan | Potwierdzenie gracza odzyskane z rozmowy, 7 X 2026, 19:06:42 UTC |
+
+**Zegary:** ostatni rozdział „Przejście” kończy się 3 czerwca 1070. Nowe zlecenie użytkownika „20 wrzesnia 1070” wyznacza koniec kontynuacji; okres po 3 czerwca do 20 września wynosi 109 dni. Najpóźniejszy odzyskany fakt z dokładną datą gry pochodzi z 15 września; nie utożsamiać daty granicznej opowiadania z pełną kartą bieżących zasobów, rady, rodziny i wojen.
+
+**Otwarte:** rezultat pracy Dietricha; roszczenie i wojna o Hohenberg; sojusz z Hartmannem; mechaniczne skutki wyboru 27 czerwca; dokładny dzień poziomu sławy; inne nieudokumentowane wydarzenia lata. Codzienność i dialogi pozostają narracją, nie nowymi faktami gry.
