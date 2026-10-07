@@ -3,7 +3,7 @@
   "campaign": "Nobilis gens Hohenzollern",
   "prepared_at": "2026-10-07",
   "canonical_file": "Historia-Hohenzollern.md",
-  "baseline_blob": "5934c46c486b7b4ef6f1047fd773591edfdf4d87",
+  "baseline_blob": "f75ae02833c58ee611bb9c77bc01b0d6148557a6",
   "clocks": {
     "latest_recorded_game_date": "1070-06-02",
     "last_reported_narrative_date": "1070-05-01",
@@ -21,7 +21,8 @@
       "age_evidence": "18 na 4 VI 1069; na 6 V 1070 z tego źródła możliwe 18–19",
       "continuity": "Rządy od 1066, Hedwig, Ferdinand, urząd u Rudolfa, zamiar Hohenbergu; konflikt tooltipu w 18.3",
       "sources": [
-        "KANON-19.3"
+        "KANON-19.3",
+        "E030"
       ],
       "life": {
         "scene_date": null,
@@ -44,7 +45,8 @@
           "observation_ids": [
             "E004",
             "E005",
-            "E008"
+            "E008",
+            "E030"
           ],
           "biography_reference": "Rządy od 1066, Hedwig, Ferdinand, urząd u Rudolfa, zamiar Hohenbergu; konflikt tooltipu w 18.3"
         },
@@ -4228,6 +4230,12 @@
       "kind": "direct_player_confirmation",
       "detail": "Gracz podał bieżącą datę save'a: 2 czerwca 1070.",
       "recorded_at": "2026-10-07"
+    },
+    {
+      "id": "SCREEN-2026-10-07-ZNAK-NIEBIOS",
+      "kind": "game_screenshot",
+      "detail": "Czytelny screen wydarzenia „Znak niebios”: tekst o zaćmionym księżycu w kształcie miedzianego sierpa oraz cztery widoczne odpowiedzi. Data gry niewidoczna na kadrze; wybrana odpowiedź i skutek niepotwierdzone.",
+      "recorded_at": "2026-10-07"
     }
   ],
   "observations": [
@@ -4619,6 +4627,20 @@
         "USER-2026-10-07-02JUN"
       ],
       "person_ids": []
+    },
+    {
+      "id": "E030",
+      "kind": "game_observation",
+      "game_date": null,
+      "date_evidence": "Data gry niewidoczna na screenie",
+      "subject": "Burkhard / wydarzenie „Znak niebios”",
+      "reading": "Pojawiło się wydarzenie „Znak niebios”. Tekst: „Sen nie nadchodzi. Szukam spokojnego mroku i spoglądam w niebo. Dziś widać na nim księżyc zaćmiony do kształtu miedzianego sierpa. Takie znaki nigdy nie są pozbawione znaczenia.” Dostępne odpowiedzi: „Zbadam ten omen.”; „Przez ten znak jaśnieje łaska Boga.”; „Taki znak zwiastuje podbój!”; „Niebiosa nie są mi winne żadnych odpowiedzi.” Screen nie potwierdza wyboru ani skutku.",
+      "sources": [
+        "SCREEN-2026-10-07-ZNAK-NIEBIOS"
+      ],
+      "person_ids": [
+        "P01"
+      ]
     }
   ],
   "snapshots": [
@@ -5569,6 +5591,15 @@
         "Nie jest pełnym odczytem stanu świata; ostatni pełniej udokumentowany punkt ekranami to 6 maja 1070"
       ],
       "source": "E029"
+    },
+    {
+      "id": "CH018",
+      "date_evidence": "nieustalona data gry; screen przesłany 7 października 2026",
+      "record": [
+        "Burkhard otrzymał wydarzenie „Znak niebios” dotyczące zaćmionego księżyca opisanego jako miedziany sierp.",
+        "Na ekranie były cztery możliwe odpowiedzi; wybrana odpowiedź i jej skutek pozostają nieustalone."
+      ],
+      "source": "E030"
     }
   ],
   "inferences": [
