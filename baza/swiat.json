@@ -3,7 +3,7 @@
   "campaign": "Nobilis gens Hohenzollern",
   "prepared_at": "2026-10-07",
   "canonical_file": "Historia-Hohenzollern.md",
-  "baseline_blob": "f75ae02833c58ee611bb9c77bc01b0d6148557a6",
+  "baseline_blob": "6d964ce5bdd7c4d8b9332b3d912415535630b7bb",
   "clocks": {
     "latest_recorded_game_date": "1070-09-15",
     "last_reported_narrative_date": "1070-09-20",
@@ -235,7 +235,8 @@
       "age_evidence": "33 na starszej karcie bez daty",
       "continuity": "Marszałek, Emma, obowiązki wojskowe; potwierdzenie urzędu 6 V 1070",
       "sources": [
-        "KANON-19.3"
+        "KANON-19.3",
+        "E036"
       ],
       "life": {
         "scene_date": null,
@@ -250,9 +251,12 @@
             "R038"
           ],
           "snapshot_ids": [
-            "ST005"
+            "ST005",
+            "ST069"
           ],
-          "observation_ids": [],
+          "observation_ids": [
+            "E036"
+          ],
           "biography_reference": "Marszałek, Emma, obowiązki wojskowe; potwierdzenie urzędu 6 V 1070"
         },
         "portrayal_status": "ready_with_known_limits",
@@ -264,6 +268,12 @@
       "unknowns": [
         "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
+      ],
+      "visual_references": [
+        {
+          "snapshot_id": "ST069",
+          "source": "SCREENSET-2026-10-07-BALDARICH-BARBERSHOP"
+        }
       ]
     },
     {
@@ -395,7 +405,8 @@
       "age_evidence": "33 na starszej karcie bez daty",
       "continuity": "Kapelan, sprawy religijne, dawne przekonywanie z nierozstrzygniętym wynikiem",
       "sources": [
-        "KANON-19.3"
+        "KANON-19.3",
+        "E035"
       ],
       "life": {
         "scene_date": "1070-07-09",
@@ -414,10 +425,12 @@
         "basis": {
           "relationship_ids": [],
           "snapshot_ids": [
-            "ST002"
+            "ST002",
+            "ST068"
           ],
           "observation_ids": [
-            "E018"
+            "E018",
+            "E035"
           ],
           "biography_reference": "Kapelan, sprawy religijne, dawne przekonywanie z nierozstrzygniętym wynikiem"
         },
@@ -430,6 +443,12 @@
       "unknowns": [
         "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
+      ],
+      "visual_references": [
+        {
+          "snapshot_id": "ST068",
+          "source": "SCREENSET-2026-10-07-DIETRICH-BARBERSHOP"
+        }
       ]
     },
     {
@@ -4365,6 +4384,90 @@
       "detail": "We wrześniu 1070, po wydarzeniu z 15 września, Burkhard osiąga poziom sławy „Postać wybitna”; dokładny dzień nieustalony.",
       "recorded_at": "2026-10-07",
       "conversation_timestamp": "2026-10-07T19:06:42Z"
+    },
+    {
+      "id": "SCREENSET-2026-10-07-DIETRICH-BARBERSHOP",
+      "kind": "game_screenshot_set",
+      "detail": "Sześć kadrów Barbershop modelu podpisanego „Nadworny kapelan Dietrich”. Data 1070-03-21 pochodzi z nazw plików; na kadrach brak zegara gry. Nazwa pliku zawiera postać gracza Burkharda, ale tożsamość modelu ustala etykieta nad postacią.",
+      "recorded_at": "2026-10-07",
+      "files": [
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_03_21_0053.png",
+          "file_id": "file_0000000060cc8246b39b35003d25e25a"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_03_21_0054.png",
+          "file_id": "file_00000000f7e081f485a3f54cea00ea13"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_03_21_0055.png",
+          "file_id": "file_00000000ce908210bfcac22d7cdb6642"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_03_21_0056.png",
+          "file_id": "file_000000005638820a8bf80e79e628a8e2"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_03_21_0057.png",
+          "file_id": "file_0000000058f082109b7999c6ee233cba"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_03_21_0058.png",
+          "file_id": "file_00000000e79081f485e7717f5844830c"
+        }
+      ]
+    },
+    {
+      "id": "SCREENSET-2026-10-07-BALDARICH-BARBERSHOP",
+      "kind": "game_screenshot_set",
+      "detail": "Jedenaście kadrów Barbershop modelu podpisanego „Burmistrz Baldarich (Reutlingen)”, z widocznym napisem „Miasto Reutlingen” na dalszych ujęciach. Data 1070-09-19 pochodzi z nazw plików; na kadrach brak zegara gry.",
+      "recorded_at": "2026-10-07",
+      "files": [
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0000.png",
+          "file_id": "file_00000000c3f4824698cd15968a0ec376"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0001.png",
+          "file_id": "file_00000000e53081f492171d6d7292eb72"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0002.png",
+          "file_id": "file_000000008a0481f4b13ac1fe1c6869eb"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0003.png",
+          "file_id": "file_00000000c5f481f49fe564172fd62538"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0004.png",
+          "file_id": "file_000000000e2881f482686a7d8e2003e6"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0005.png",
+          "file_id": "file_0000000089bc81f4bc52f30d65e8bde1"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0006.png",
+          "file_id": "file_00000000f9788210a971d8a33fb08f25"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0007.png",
+          "file_id": "file_00000000c6b482109ee982ec5a2d10cf"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0008.png",
+          "file_id": "file_00000000accc821090b2891a9a2971b1"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0009.png",
+          "file_id": "file_00000000816c821087d8c1d0def3f2b8"
+        },
+        {
+          "name": "Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0010.png",
+          "file_id": "file_00000000f92482108be1569bca91a6d4"
+        }
+      ]
     }
   ],
   "observations": [
@@ -4828,6 +4931,34 @@
       ],
       "person_ids": [
         "P01"
+      ]
+    },
+    {
+      "id": "E035",
+      "kind": "game_observation",
+      "game_date": "1070-03-21",
+      "date_evidence": "Data z automatycznej nazwy pliku Barbershop; zegar gry niewidoczny na kadrze",
+      "subject": "Dietrich — referencja wyglądu",
+      "reading": "Sześć kadrów pokazuje model podpisany „Nadworny kapelan Dietrich”: tonsura / wygolony wierzch głowy z pasmem włosów po bokach i z tyłu, jasnobrązowe włosy, krótki zarost, jasne oczy, ciemny habit. Kadry obejmują profil lewy, przód i profil prawy.",
+      "sources": [
+        "SCREENSET-2026-10-07-DIETRICH-BARBERSHOP"
+      ],
+      "person_ids": [
+        "P08"
+      ]
+    },
+    {
+      "id": "E036",
+      "kind": "game_observation",
+      "game_date": "1070-09-19",
+      "date_evidence": "Data z automatycznej nazwy pliku Barbershop; zegar gry niewidoczny na kadrze",
+      "subject": "Baldarich — burmistrz Reutlingen i referencja wyglądu",
+      "reading": "Jedenaście kadrów pokazuje model podpisany „Burmistrz Baldarich (Reutlingen)”; widoczny także napis „Miasto Reutlingen”. Wygląd: krótko przystrzyżone rudawe/jasnobrązowe włosy, krótka broda, jasne oczy; kolczuga, zielona tunika/surkot z brązowym obszyciem, pas i broń przy boku. Potwierdza tytuł burmistrza Reutlingen na tej dacie; nie rozstrzyga, czy nadal pełnił funkcję marszałka.",
+      "sources": [
+        "SCREENSET-2026-10-07-BALDARICH-BARBERSHOP"
+      ],
+      "person_ids": [
+        "P04"
       ]
     }
   ],
@@ -5624,6 +5755,48 @@
         "ui_personality_profile": "Analityczny nikczemnik"
       },
       "source": "E014"
+    },
+    {
+      "id": "ST068",
+      "person_id": "P08",
+      "game_date": "1070-03-21",
+      "data": {
+        "visual_reference": {
+          "role_label": "Nadworny kapelan Dietrich",
+          "hair": "tonsura; jasnobrązowe włosy po bokach i z tyłu",
+          "facial_hair": "krótki zarost",
+          "eyes": "jasne",
+          "clothing": "ciemny habit kapelana",
+          "angles": [
+            "lewy profil",
+            "przód",
+            "prawy profil"
+          ]
+        }
+      },
+      "source": "E035"
+    },
+    {
+      "id": "ST069",
+      "person_id": "P04",
+      "game_date": "1070-09-19",
+      "data": {
+        "title_label": "Burmistrz Baldarich (Reutlingen)",
+        "holding_label": "Miasto Reutlingen",
+        "visual_reference": {
+          "hair": "krótkie rudawe/jasnobrązowe włosy",
+          "facial_hair": "krótka broda",
+          "eyes": "jasne",
+          "clothing": "kolczuga, zielona tunika/surkot z brązowym obszyciem, pas i broń przy boku",
+          "angles": [
+            "przód",
+            "półprofil",
+            "profil",
+            "pełna sylwetka"
+          ]
+        }
+      },
+      "source": "E036"
     }
   ],
   "chronology": [
