@@ -826,6 +826,15 @@ Nazwy, identyfikatory i czas przesłania źródeł w 18.5. E004–E028 są uzupe
 |---|---|---|---|---|
 | E029 | **2 czerwca 1070** | Zegar kampanii | Gracz podał bezpośrednio „2 czerwca”. Traktować jako aktualną datę save'a. Nie przenosić automatycznie stanu rad, zasobów, wojen, relacji ani otwartych działań z 6 maja na 2 czerwca bez nowych danych. | Jednoznaczna wypowiedź gracza w aktywnej rozmowie, 7 października 2026 |
 
+
+### 18.7. Wydarzenie „Znak niebios” — nowy screen
+
+| ID | Data gry | Osoba / sprawa | Potwierdzona informacja | Etap | Źródło |
+|---|---|---|---|---|---|
+| E030 | **nieustalona na tym kadrze** | Burkhard / wydarzenie religijno-omeniczne | Na ekranie pojawia się wydarzenie **„Znak niebios”**. Tekst wydarzenia: „Sen nie nadchodzi. Szukam spokojnego mroku i spoglądam w niebo. Dziś widać na nim księżyc zaćmiony do kształtu miedzianego sierpa. Takie znaki nigdy nie są pozbawione znaczenia.” Widoczne są cztery odpowiedzi: **„Zbadam ten omen.”**, **„Przez ten znak jaśnieje łaska Boga.”**, **„Taki znak zwiastuje podbój!”**, **„Niebiosa nie są mi winne żadnych odpowiedzi.”** | stan / dostępny wybór | Czytelny screen wydarzenia przesłany przez gracza 7 października 2026 |
+
+**Granica faktu:** screen potwierdza pojawienie się wydarzenia, jego treść i cztery dostępne odpowiedzi. Nie potwierdza, którą odpowiedź gracz wybrał ani jakie były jej skutki. Na samym kadrze nie ma czytelnej daty gry, dlatego nie przypisywać wydarzenia automatycznie do 6 maja ani 2 czerwca 1070 bez dodatkowego potwierdzenia.
+
 ## 19. Czas, wiek i ciągłość wirtualnego świata
 
 Zasady organizacyjne przyjęte w odpowiedzi na polecenie gracza z 7 października 2026. Nie są nowym wydarzeniem gry ani autonomicznym symulatorem.
