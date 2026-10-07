@@ -2,7 +2,7 @@
 
 Uporządkowano i audytowano: 7 października 2026. Nadrzędna karta: `Historia-Hohenzollern.md` w repozytorium `marcinnlatoszek-debug/Hohenzollern`. Powiązana kopia: `libfile_741508510f8881918f4aec6d592c08d2`; przed użyciem porównać jej aktualność z repozytorium.
 
-**Status: kampania aktywna. Najnowszy bezpośrednio potwierdzony stan na czytelnych screenach: 6 maja 1070. Przebieg części wydarzeń między wcześniejszymi punktami kontrolnymi a 6 maja nie został odtworzony; brak danych pozostaje brakiem danych.**
+**Status: kampania aktywna. Bieżąca data save'a: 2 czerwca 1070 — jednoznaczne potwierdzenie gracza z 7 października 2026. Najnowszy bezpośrednio potwierdzony stan na czytelnych screenach: 6 maja 1070. Przebieg części wydarzeń między 6 maja a 2 czerwca nie został jeszcze odtworzony; brak danych pozostaje brakiem danych.**
 
 Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym eksportem poprzednich rozmów ani pełną kopią „CZYSTEGO KANONU KONTYNUACYJNEGO BIEŻĄCEGO SAVE’A”. Brak odzyskanej informacji pozostaje brakiem danych.
 
@@ -32,7 +32,7 @@ Aktualizacja organizacji zapisu: 7 października 2026. Nie jest to nowe wydarzen
 
 **Główna karta do dalszej pracy: ten plik „Historia-Hohenzollern.md”.** Starsze kanony są źródłami historycznymi; nie tworzyć kolejnej równoległej karty bieżącego stanu. Identyfikator tej karty: `libfile_741508510f8881918f4aec6d592c08d2`.
 
-**Aktualne doprecyzowanie po audycie:** najnowszy punkt 6 maja w sekcji 17; bezpośrednie dodatkowe odczyty w sekcji 18; zasady czasu i kart życia w sekcji 19. Starsze wpisy „brak odczytu obrazów” dotyczą tamtych prób, nie audytu z sekcji 18. 21 kwietnia 1070 był końcem wcześniejszego etapu; kampania trwa dalej.
+**Aktualne doprecyzowanie po audycie:** bieżąca data save'a została przez gracza przesunięta do **2 czerwca 1070**. Najnowszy pełniej udokumentowany punkt ekranami pozostaje 6 maja w sekcji 17; bezpośrednie dodatkowe odczyty są w sekcji 18; zasady czasu i kart życia w sekcji 19. Starsze wpisy „brak odczytu obrazów” dotyczą tamtych prób, nie audytu z sekcji 18. 21 kwietnia 1070 był końcem wcześniejszego etapu; kampania trwa dalej.
 
 ### 1.1. Co wiadomo przy wznowieniu kampanii
 
@@ -43,7 +43,7 @@ Każde pole ma własną datę i źródło. Poniższe zestawienie nie przedstawia
 | Postać gracza | Burkhard von Hohenzollern, hrabia Zollern; senior: książę Rudolf | S2; pełna data karty nieodzyskana |
 | Punkt kontynuacji wskazany przez gracza | 21 marca 1070 | S2 |
 | Najnowszy bezpośrednio potwierdzony stan | Czytelne screeny kart postaci, rad i drzew dynastii: 6 maja 1070; pełny zapis w sekcji 17 | Nowe screeny gracza z 7 października 2026 |
-| Faktyczna data obecnego zatrzymania gry | Nieustalona w dostępnych źródłach; nie utożsamiać jej automatycznie z datą rady ani żądaną granicą opowiadania | Do potwierdzenia z gry albo przez gracza |
+| Faktyczna data obecnego zatrzymania gry | **2 czerwca 1070** | Jednoznaczne potwierdzenie gracza z 7 października 2026; nie oznacza pełnego odczytu stanu świata z tej daty |
 | Cechy Burkharda | Ambitny, Cierpliwy, Opanowany; Budowniczy fortuny ★★★; Patriarcha; Umięśniony; Ogrodnik | S2; data odczytu cech nieodzyskana |
 | Styl życia | Zarządzanie; skupienie na bogactwie | S1: 4 czerwca 1069; S2 potwierdza bez odzyskanej daty gry |
 | Urząd u seniora | Burkhard jest marszałkiem księcia Rudolfa | S3; data objęcia urzędu nieodzyskana |
@@ -122,6 +122,7 @@ Dodano kartę kontynuacji, otwarte sprawy, regułę zapisu danych w trakcie sesj
 | 21 kwietnia 1070 | Wcześniejsza granica etapu wskazana przez gracza | Kampania później wznowiona |
 | 1 maja 1070 | Punkt wcześniejszego mostu narracyjnego | Nie jest odczytem stanu gry |
 | 6 maja 1070 | Najnowszy zapisany datowany stan rad i dynastii | Sekcja 17; nie ustala wszystkich zmian w okresie pośrednim |
+| 2 czerwca 1070 | Bieżąca data save'a, podana bezpośrednio przez gracza | Potwierdza zegar gry; nie stanowi pełnej migawki rad, zasobów, relacji ani wydarzeń od 7 maja |
 
 ## 4. Chronologia rodu i wydarzeń miejscowych
 
@@ -819,6 +820,12 @@ Nazwy, identyfikatory i czas przesłania źródeł w 18.5. E004–E028 są uzupe
 | image-1791333225119.jpg | libfile_147d1e50b3f8819185ec8bda490054fe | 07.10.2026 02:33 | Szczegółowo | Mapa Szwabii: orientacja; nie potwierdza nowego wydarzenia |
 | image-1791372605194.jpg | libfile_5d3b106a3d0081918d2545f5da9e4661 | 07.10.2026 13:30 | Przegląd | Klawiatura laptopa; poza źródłami kampanii |
 
+### 18.6. Bieżąca data save'a — bezpośrednie potwierdzenie gracza
+
+| ID | Data gry | Osoba / sprawa | Potwierdzenie | Źródło |
+|---|---|---|---|---|
+| E029 | **2 czerwca 1070** | Zegar kampanii | Gracz podał bezpośrednio „2 czerwca”. Traktować jako aktualną datę save'a. Nie przenosić automatycznie stanu rad, zasobów, wojen, relacji ani otwartych działań z 6 maja na 2 czerwca bez nowych danych. | Jednoznaczna wypowiedź gracza w aktywnej rozmowie, 7 października 2026 |
+
 ## 19. Czas, wiek i ciągłość wirtualnego świata
 
 Zasady organizacyjne przyjęte w odpowiedzi na polecenie gracza z 7 października 2026. Nie są nowym wydarzeniem gry ani autonomicznym symulatorem.
@@ -827,11 +834,11 @@ Zasady organizacyjne przyjęte w odpowiedzi na polecenie gracza z 7 październik
 
 | Zegar | Stan / reguła |
 |---|---|
-| Gry | Najnowszy zapisany punkt kontrolny: 6 maja 1070. Nie jest dowodem, że gra nadal stoi dokładnie tego dnia |
+| Gry | **Bieżąca data save'a: 2 czerwca 1070** — potwierdzenie gracza. Najnowszy pełniej udokumentowany punkt ekranami: 6 maja 1070 |
 | Kroniki | Wcześniejsza rozmowa doprowadziła most narracyjny do 1 maja 1070. Jest to punkt literacki odnotowany w historii rozmowy, nie potwierdzenie decyzji gracza z tego dnia; pełnego opowiadania nie odzyskano w repozytorium |
 | Rzeczywisty | 7 października 2026 — dzień audytu. Godziny i dni poza grą nie dodają automatycznie czasu ludziom kampanii |
 
-**21 kwietnia 1070 był wcześniejszym końcem etapu; kampania została wznowiona. Nie zamykać świata na tej dacie.** Różnica między 1 kwietnia i 6 maja to 35 dni, między 21 marca i 6 maja to 46 dni, między 1 maja i 6 maja to 5 dni. To odległości kalendarzowe, nie odzyskana lista wydarzeń.
+**21 kwietnia 1070 był wcześniejszym końcem etapu; kampania została wznowiona. Nie zamykać świata na tej dacie.** Różnica między 1 kwietnia i 6 maja to 35 dni, między 21 marca i 6 maja to 46 dni, między 1 maja i 6 maja to 5 dni, a między 6 maja i 2 czerwca to 27 dni. To odległości kalendarzowe, nie odzyskana lista wydarzeń.
 
 Przy każdym przejściu do nowej daty: zapisać datę poprzednią i docelową, upływ dni, nowe fakty z gry oraz skutki czasu dla scen. Nie przeskakiwać z daty literackiej do najnowszej daty gry bez sprawdzenia okresu pośredniego. Scena wcześniejsza nie może korzystać z przyszłej wiedzy postaci.
 
@@ -898,7 +905,7 @@ Ostatnie położenie polityczne nie jest fizycznym miejscem pobytu. Funkcja mars
 
 **Gotowe:** jeden nadrzędny dokument, bazowe 22 tożsamości, dodatkowi ludzie, datowane punkty 1066–1070, rozdzielenie czasu gry/kroniki, rejestr dostępnych fotografii, nowe odczyty, zasady starzenia i pamięci biograficznej. Świat można prowadzić dalej w scenach zgodnych z tymi ograniczeniami.
 
-**Otwarte:** pełne daty urodzenia; datowane aktualne karty rodziny i dworu; komplet tooltipów cech; konflikt „Inteligentny”; dokładna data zatrzymania gry po punkcie 6 maja; przebieg nieodzyskanych wydarzeń kwietnia; wynik starania o Hartmanna; etap Hohenbergu; pełne prawa sukcesji; zakończenia wojen świata; oryginały screenów majowych niedostępne w obecnym spisie. Te braki nie zatrzymują codziennych scen, ale ograniczają konkretne twierdzenia, które od nich zależą.
+**Otwarte:** pełne daty urodzenia; datowane aktualne karty rodziny i dworu; komplet tooltipów cech; konflikt „Inteligentny”; **pełny przebieg i stan świata między 7 maja a 2 czerwca 1070**; przebieg nieodzyskanych wydarzeń kwietnia; wynik starania o Hartmanna; etap Hohenbergu; pełne prawa sukcesji; zakończenia wojen świata; oryginały screenów majowych niedostępne w obecnym spisie. Te braki nie zatrzymują codziennych scen, ale ograniczają konkretne twierdzenia, które od nich zależą.
 
 **Wnioski organizacyjne:** trwała ciągłość powstaje przez datowane karty życia i pamięć scen, a nie samo zapewnienie „zapamiętałem”. Każdy człowiek ma historię, wiek i ograniczoną wiedzę; nie każdy ma w tej chwili pełną kartę. Fakty najnowszego punktu nie przenoszą się wstecz. Interpretacje polityczne pozostają analizą w tle, zgodnie z sekcją 17; nie rozstrzygać przyszłych zdarzeń.
 
@@ -912,4 +919,4 @@ Przy wznowieniu oprócz tego kanonu odczytać bazę. Każdy nowy screen aktualiz
 
 Każda postać otrzymuje stałą kartę życia opartą na wieku, cechach, rodzinie, obowiązkach i biografii. W kolejnych scenach utrwalać osobisty głos, rytm dnia, cele literackie, obietnice oraz to, co sama wie i pamięta. Dane literackie oznaczać jako narrację. Człowiek znany tylko z drzewa może uczestniczyć w świecie, lecz zakres przedstawienia musi respektować braki danych. Lista 22 głównych osób nie ogranicza liczby ludzi kampanii.
 
-Świat zachowuje ciągłość między scenami i etapami czasu kampanii. Baza nie uruchamia samodzielnego procesu działającego po zamknięciu rozmowy; jej rolą jest trwała pamięć i podstawa spójnego prowadzenia. Nowe screeny nie zostały jeszcze przesłane w tej sesji — przygotowano ich procedurę przyjęcia.
+Świat zachowuje ciągłość między scenami i etapami czasu kampanii. **Aktualny zegar gry wynosi 2 czerwca 1070; ostatnia pełniej udokumentowana migawka ekranowa pozostaje z 6 maja 1070.** Baza nie uruchamia samodzielnego procesu działającego po zamknięciu rozmowy; jej rolą jest trwała pamięć i podstawa spójnego prowadzenia. Nowe screeny nie zostały jeszcze przesłane w tej sesji — przygotowano ich procedurę przyjęcia.
