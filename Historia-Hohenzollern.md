@@ -945,3 +945,13 @@ Uzupełniono 7 października 2026 przy przygotowaniu kontynuacji do 20 września
 **Zegary:** ostatni rozdział „Przejście” kończy się 3 czerwca 1070. Nowe zlecenie użytkownika „20 wrzesnia 1070” wyznacza koniec kontynuacji; okres po 3 czerwca do 20 września wynosi 109 dni. Najpóźniejszy odzyskany fakt z dokładną datą gry pochodzi z 15 września; nie utożsamiać daty granicznej opowiadania z pełną kartą bieżących zasobów, rady, rodziny i wojen.
 
 **Otwarte:** rezultat pracy Dietricha; roszczenie i wojna o Hohenberg; sojusz z Hartmannem; mechaniczne skutki wyboru 27 czerwca; dokładny dzień poziomu sławy; inne nieudokumentowane wydarzenia lata. Codzienność i dialogi pozostają narracją, nie nowymi faktami gry.
+
+
+## 23. Pamięć literacka opowiadań — NARRACJA
+
+Ta sekcja i `baza/swiat.json:narrative_events` zachowują pamięć scen. Nie są nowymi faktami save’a ani potwierdzeniem wyników działań.
+
+- **„Przejście”, 3 czerwca 1070:** zapisany tekst `Opowiadanie-1070-06-03.md` (`libfile_156b35f9f1688191859fa88ccd79504a`). Burkhard po uwagach Hedwig organizuje wąskie przejście dla prania obok grządek, przesadza rośliny i układa kamienie. Folmar uczestniczy w naprawie. Wieczorna rozmowa z Siegfriedem, potem powrót do Hedwig i Ferdinanda. Nie rozstrzyga spraw politycznych.
+- **„Do jesieni”, po 3 czerwca – 20 września 1070:** zapisany tekst `Opowiadanie-1070-09-20.md` (`libfile_7902229d46488191a1a4a65ecc7ca2b6`). Sceny: bezsenna noc 27 VI, zlecenie dla Dietricha 9 VII, codzienność lata, rozmowa małżonków 15 IX, modlitwa Hedwig i obecność Burkharda w rocznicę śmierci Hupolda 18 IX, ogród i powrót z dzieckiem 20 IX. W nocy strażnik słyszy zdanie Burkharda o niebiosach; Hedwig słyszy tylko, że nie mógł spać. Dietrich nie obiecuje terminu. Drobna obietnica literacka Burkharda 15 IX: nie każe Hedwig sprawdzać rachunków Folmara. Hedwig 18 IX wie, że mąż pamiętał o śmierci ojca. Finał nie orzeka o bieżącym posiadaczu Hohenbergu, posiadaniu roszczenia ani wyniku działania. Dokładny przebieg i pamięć scen zapisano jako N001–N008 w bazie.
+
+**Ostatni koniec narracji: 20 września 1070, drzwi domu w Zollern, Burkhard z Ferdinandem na ręku i Hedwig obok.** Najpóźniejszy odzyskany fakt gry z dokładną datą pozostaje z 15 września (E033); granica opowiadania nie stanowi pełnego odczytu gry. Kolejna kontynuacja zaczyna się po tej scenie.
