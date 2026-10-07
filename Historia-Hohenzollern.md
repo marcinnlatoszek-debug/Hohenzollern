@@ -1,6 +1,6 @@
 # Historia Hohenzollernów — bieżący save
 
-Uporządkowano: 7 października 2026. Jedyna główna karta kontynuacji: `libfile_741508510f8881918f4aec6d592c08d2`.
+Uporządkowano i audytowano: 7 października 2026. Nadrzędna karta: `Historia-Hohenzollern.md` w repozytorium `marcinnlatoszek-debug/Hohenzollern`. Powiązana kopia: `libfile_741508510f8881918f4aec6d592c08d2`; przed użyciem porównać jej aktualność z repozytorium.
 
 **Status: kampania aktywna. Najnowszy bezpośrednio potwierdzony stan na czytelnych screenach: 6 maja 1070. Przebieg części wydarzeń między wcześniejszymi punktami kontrolnymi a 6 maja nie został odtworzony; brak danych pozostaje brakiem danych.**
 
@@ -22,12 +22,17 @@ Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym 
 | Organizacja plików | Sekcja 15 |
 | Pakiet wejściowy do opowiadań dla GPT-6 Astra | Sekcja 16 |
 | Potwierdzony stan polityczny, rady i dynastie na 6 maja 1070 | Sekcja 17 |
+| Audyt, nowe odczyty, konflikty i rejestr fotografii | Sekcja 18 |
+| Zegary świata, starzenie i karty życia postaci | Sekcja 19 |
+| Gotowość i pozostałe braki | Sekcja 20 |
 
 ## 1. Karta wznowienia i zapis nowych danych
 
 Aktualizacja organizacji zapisu: 7 października 2026. Nie jest to nowe wydarzenie w grze.
 
 **Główna karta do dalszej pracy: ten plik „Historia-Hohenzollern.md”.** Starsze kanony są źródłami historycznymi; nie tworzyć kolejnej równoległej karty bieżącego stanu. Identyfikator tej karty: `libfile_741508510f8881918f4aec6d592c08d2`.
+
+**Aktualne doprecyzowanie po audycie:** najnowszy punkt 6 maja w sekcji 17; bezpośrednie dodatkowe odczyty w sekcji 18; zasady czasu i kart życia w sekcji 19. Starsze wpisy „brak odczytu obrazów” dotyczą tamtych prób, nie audytu z sekcji 18. 21 kwietnia 1070 był końcem wcześniejszego etapu; kampania trwa dalej.
 
 ### 1.1. Co wiadomo przy wznowieniu kampanii
 
@@ -44,7 +49,7 @@ Każde pole ma własną datę i źródło. Poniższe zestawienie nie przedstawia
 | Urząd u seniora | Burkhard jest marszałkiem księcia Rudolfa | S3; data objęcia urzędu nieodzyskana |
 | Rodzina | Hedwig — żona; Ferdinand — syn i następca na historycznej karcie | S1: 4 czerwca 1069; późniejszy pełny stan rodziny nieodzyskany |
 | Sojusz Burkharda | Brak aktywnego sojuszu według kanonu gracza | S2; nie przenosić tego bez daty na 20 kwietnia |
-| Hohenberg | Burkhard poważnie rozważa wysunięcie roszczeń wobec Friedricha z Hohenbergu | S3: 1 kwietnia 1070; zapisany zamiar |
+| Hohenberg | Burkhard poważnie rozważa wysunięcie roszczeń wobec Friedricha Hohenberga | S3: 1 kwietnia 1070; zapisany zamiar |
 | Aktualne zasoby i wojsko | Brak pełnej aktualizacji kwietniowej; historyczne wartości pozostają w sekcji 5 z własnymi datami | Nie używać liczb z 1069 jako pewnego stanu na kwiecień 1070 |
 | Wydarzenia 2–20 kwietnia 1070 | Nieodzyskane; okres pozostaje otwarty | Brak potwierdzonego ciągu zdarzeń |
 
@@ -61,11 +66,11 @@ Każde pole ma własną datę i źródło. Poniższe zestawienie nie przedstawia
 
 ### 1.3. Obowiązujący sposób pracy podczas rozmowy o kampanii
 
-1. Przy wznowieniu odczytać najnowszą wersję tej karty oraz sekcje potrzebne do bieżącego zadania. Nie zastępować odczytu pamięcią rozmowy ani starszym streszczeniem.
+1. Przy wznowieniu odczytać najnowszą wersję tej karty z repozytorium oraz sekcje potrzebne do bieżącego zadania; starsza kopia nie ma pierwszeństwa przed aktualnym repozytorium. Nie zastępować odczytu pamięcią rozmowy ani starszym streszczeniem.
 2. Po otrzymaniu istotnej porcji danych z gry lub jednoznacznego potwierdzenia gracza odczytać materiał, porównać go z kartą i zapisać potwierdzone zmiany w tym pliku w trakcie aktywnej rozmowy. Nie odkładać wszystkich zmian do końca sesji. Użytkownik nie musi przepisywać ekranów ani przygotowywać technicznego rejestru.
 3. Każdy nowy fakt zapisać z datą gry, osobą lub sprawą, konkretną zmianą i źródłem. Gdy data gry jest niewidoczna, wpisać „nieustalona”; data przesłania wiadomości nie zastępuje daty gry.
 4. Zachować dokładną treść ważnego potwierdzenia gracza przy jego źródle, jeśli jest dostępna. Dla obrazu podać nazwę i identyfikator, jeśli zostały zwrócone. Wskazać panel, tooltip lub kartę, z której pochodzi odczyt. Sam automatyczny odczyt tekstu nie oznacza obejrzenia obrazu.
-5. Zaktualizować właściwe pole oraz chronologię. Starszej wartości z jej datą nie usuwać tylko dlatego, że pojawiła się nowsza. Nie przeliczać wieku, zasobów i wojsk na późniejszy dzień bez danych.
+5. Zaktualizować właściwe pole oraz chronologię. Starszej wartości z jej datą nie usuwać tylko dlatego, że pojawiła się nowsza. Nie przeliczać zasobów i wojsk bez danych. Wiek wolno wyliczyć z potwierdzonej daty urodzenia lub ograniczyć do przedziału z datowanej karty — zgodnie z sekcją 19; nie wymyślać urodzin.
 6. Oddzielnie zapisywać zamiar, rozpoczęte działanie i rezultat. Nierozstrzygnięta sprawa pozostaje w tabeli otwartych spraw. Sprzeczność źródeł wymaga jawnego wpisu; w razie braku podstaw nie wybierać wersji po cichu.
 7. Kronikę i opowiadania tworzyć na podstawie zapisanych faktów. Dialogi i codzienność mogą rozwijać scenę; nie tworzą nowych faktów politycznych, rodzinnych ani osobowości postaci.
 8. „Zapisz stan”, „koniec na dziś” lub „koniec na dzisiaj” oznacza dodatkowy przegląd całej bieżącej sesji, zapis pozostałych potwierdzonych danych, wskazanie ostatniej potwierdzonej daty oraz aktualizację otwartych spraw.
@@ -111,9 +116,12 @@ Dodano kartę kontynuacji, otwarte sprawy, regułę zapisu danych w trakcie sesj
 | 4 czerwca 1069 | Szczegółowy historyczny stan rodziny, Burkharda i Zollern | Zachować jako stan z tej daty |
 | 18 listopada 1069 | Stan po sukcesji Hartmanna i zasoby na pasku gry | Nie jest datą śmierci Hupolda III |
 | 8 lutego 1070 | Ostatnia czytelna data obserwowanych wojen w starszym archiwum | Wojny pozostają nierozstrzygnięte w odzyskanych danych |
-| 21 marca 1070 | Pewny punkt kontynuacji wskazany w kanonie gracza | Szczegółowy stan całego save’a nieodzyskany |
+| 21 marca 1070 | Punkt gracza, dodatkowo bezpośredni ekran rady Rudolfa i pasek Burkharda | Odczyty E004–E005, sekcja 18; nie jest pełnym stanem świata |
 | 1 kwietnia 1070 | Obsada i zadania rady; rozważanie roszczeń do Hohenbergu | Brak potwierdzenia rozpoczęcia roszczenia lub wojny |
-| 20 kwietnia 1070 | Żądana granica uzupełnienia | Stan i wydarzenia nieustalone w odzyskanym materiale |
+| 20 kwietnia 1070 | Dawna żądana granica uzupełnienia | Stan i wydarzenia nieustalone |
+| 21 kwietnia 1070 | Wcześniejsza granica etapu wskazana przez gracza | Kampania później wznowiona |
+| 1 maja 1070 | Punkt wcześniejszego mostu narracyjnego | Nie jest odczytem stanu gry |
+| 6 maja 1070 | Najnowszy zapisany datowany stan rad i dynastii | Sekcja 17; nie ustala wszystkich zmian w okresie pośrednim |
 
 ## 4. Chronologia rodu i wydarzeń miejscowych
 
@@ -157,7 +165,7 @@ Dziad Burkharda władał Zollern i Hohenbergiem. Ojciec utracił Hohenberg za m�
 
 **21 marca:** pewny punkt kontynuacji bieżącego save’a, wskazany w kanonie gracza. Nie odzyskano z tego dnia pełnego zestawu statystyk, zasobów, wojsk i aktywnych działań.
 
-**1 kwietnia:** potwierdzony skład i zadania rady Burkharda, zapisane w sekcji 6. Gracz podał, że Burkhard bardzo poważnie rozważa rychłe wysunięcie roszczeń wobec Friedricha z Hohenbergu. Hohenberg graniczy z Zollern od zachodu. Jest to zamiar. Nie odzyskano potwierdzenia rozpoczęcia fabrykowania roszczenia, uzyskania roszczenia, wypowiedzenia wojny ani przejęcia Hohenbergu.
+**1 kwietnia:** potwierdzony skład i zadania rady Burkharda, zapisane w sekcji 6. Gracz podał, że Burkhard bardzo poważnie rozważa rychłe wysunięcie roszczeń wobec Friedricha Hohenberga. Hohenberg graniczy z Zollern od zachodu. Jest to zamiar. Nie odzyskano potwierdzenia rozpoczęcia fabrykowania roszczenia, uzyskania roszczenia, wypowiedzenia wojny ani przejęcia Hohenbergu.
 
 **2–20 kwietnia:** brak odzyskanych, potwierdzonych wydarzeń. Nie zapisywać tego przedziału jako okresu bez wydarzeń. Wcześniejszy opis asystenta dotyczący 2 kwietnia nie stanowi samodzielnego dowodu stanu gry.
 
@@ -269,8 +277,8 @@ Odzyskano nazwy i identyfikację 22 zatwierdzonych postaci. **Nie odzyskano wszy
 | 13 | Adalbero | Rycerz |
 | 14 | Emma | Zatwierdzona postać; w starszym źródle żona Baldaricha |
 | 15 | Welf IV z Ravensburga | Zatwierdzona postać; pełna karta nieodzyskana |
-| 16 | Friedrich z Hohenbergu | Odrębny od Friedricha z Grüningen; adresat rozważanych roszczeń Burkharda |
-| 17 | Friedrich z Grüningen | Odrębny od Friedricha z Hohenbergu |
+| 16 | Friedrich Hohenberg | Odrębny od Friedricha z Grüningen; adresat rozważanych roszczeń Burkharda |
+| 17 | Friedrich z Grüningen | Odrębny od Friedricha Hohenberga |
 | 18 | Louis z Sundgau | Zatwierdzona postać; pełna karta nieodzyskana |
 | 19 | Otto III z Burgau | Zatwierdzona postać; pełna karta nieodzyskana |
 | 20 | Hartmann z Zurychu | Brat Hedwig, szwagier Burkharda; historycznie potwierdzone tytuły Zurych i Nördlingen |
@@ -286,7 +294,7 @@ Odzyskano nazwy i identyfikację 22 zatwierdzonych postaci. **Nie odzyskano wszy
 | Adalbero | Postać szkaradna | Historyczny odczyt zapisany w S1; nie jest pełnym zestawem osobowości |
 | Arcybiskup Otto z Trewiru | Tchórzliwy, Sadystyczny, Uczciwy; Wnikliwy myśliciel | Odzyskane potwierdzenie gracza; zaakceptowany jako dodatkowa pełnoprawna postać kampanii |
 
-Starszy dokument S1 pozostawiał nazwy cech Burkharda nieustalone. Późniejszy kanon gracza potwierdził zestaw zapisany powyżej. Nie mieszać go z dawnym zestawem „Pracowity, Inteligentny”.
+Starszy dokument S1 pozostawiał nazwy cech Burkharda nieustalone. Późniejszy kanon gracza potwierdził zestaw zapisany powyżej. Nie przywracać dawnego zestawu „Pracowity, Inteligentny” jako kompletu. Nowy bezpośredni tooltip Intrygi wskazujący „Inteligentny” zapisano oddzielnie jako konflikt w sekcji 18.3; data tego kadru pozostaje NIEUSTALONA.
 
 **Pozostałe osoby poza numerowanym rejestrem:** Ferdinand; zmarły Hupold III; arcybiskup Otto z Trewiru; Guillaume z Besançon; Gerhard II ze Strasburga; Gertrude, medyczka w starszych zapisach. Nie ustalać dla nich nowych statystyk, wieku lub osobowości z niepełnego odczytu.
 
@@ -343,9 +351,9 @@ Starsza sekwencja zawiera również panel wojny wyzwoleńczej: około 11 miesię
 6. Dodano identyfikację 22 zatwierdzonych postaci i sześć sojuszy z kanonu gracza.
 7. Zaktualizowano potwierdzone nazwy cech Burkharda na podstawie późniejszego kanonu gracza.
 
-## 11. Nieustalone informacje potrzebne do zamknięcia na 20 kwietnia
+## 11. Historyczne braki rekonstrukcji do 20 kwietnia — aktualne braki w sekcji 20
 
-- Potwierdzenie roku żądanej granicy: przyjęto roboczo 1070 na podstawie ostatnich punktów kampanii.
+- Rok 1070 został później jednoznacznie podany przez gracza; brak dotyczy przebiegu wydarzeń, nie roku granicy.
 - Wydarzenia i decyzje gracza między 2 a 20 kwietnia oraz stan na 20 kwietnia.
 - Czy rozpoczęto fabrykowanie roszczenia do Hohenbergu, uzyskano roszczenie lub wypowiedziano wojnę.
 - Wynik przekonywania Hartmanna i późniejszy stan sojuszy.
@@ -478,7 +486,7 @@ Dopóki gracz nie dostarczy nowych danych, właściwe opowiadanie może bezpiecz
 - potwierdzone cechy: **Ambitny, Cierpliwy, Opanowany**;
 - potwierdzone pozostałe cechy/atuty: **Budowniczy fortuny ★★★, Patriarcha, Umięśniony, Ogrodnik**;
 - na potwierdzonym stanie z 1 kwietnia 1070 jest marszałkiem księcia Rudolfa, lecz data objęcia urzędu pozostaje nieustalona;
-- bardzo poważnie rozważa wysunięcie roszczeń wobec Friedricha z Hohenbergu; na 1 kwietnia jest to **zamiar**, nie potwierdzone rozpoczęcie działania.
+- bardzo poważnie rozważa wysunięcie roszczeń wobec Friedricha Hohenberga; na 1 kwietnia jest to **zamiar**, nie potwierdzone rozpoczęcie działania.
 
 W narracji Burkhard powinien wynikać z tych cech i swojej pozycji, a nie z dowolnie dopisanej psychologii.
 
@@ -512,7 +520,7 @@ Kuno z rady Burkharda i Kuno z Wirtembergii to dwie różne osoby.
 - **Siegfried** — rycerz; potwierdzone cechy: Cyniczny, Bojaźliwy, Współczujący; Wykwalifikowany taktyk, Inżynier wojskowy, Silny, Hastilude.
 - **Adalbero** — rycerz; historycznie bardzo wysoka waleczność; potwierdzona cecha „Postać szkaradna”. Nie dopisywać mu pełnej osobowości bez źródła.
 - **Emma** — zatwierdzona postać; w starszym źródle żona Baldaricha.
-- **Friedrich z Hohenbergu** — sąsiad i potencjalny cel roszczeń Burkharda; odrębny od Friedricha z Grüningen.
+- **Friedrich Hohenberg** — sąsiad i potencjalny cel roszczeń Burkharda; odrębny od Friedricha z Grüningen.
 - **Książę Rudolf** — senior Burkharda.
 - **Arcybiskup Otto z Trewiru** — syn Eberharda VI z Nellenburga; potwierdzone cechy: Tchórzliwy, Sadystyczny, Uczciwy; Wnikliwy myśliciel.
 - **Otto III z Burgau** i arcybiskup Otto z Trewiru to dwie różne osoby.
@@ -552,6 +560,8 @@ Pozostałe zatwierdzone postacie pozostają dostępne w sekcji 7. Nie przenosić
 - Dopuszczalne są małe historie codzienności: spór, podróżny, kupiec, naprawa, posłaniec, polowanie, pogoda, praca ludzi dworu, kłopot na drodze, krótka eskorta lub lokalna sprzeczka — o ile nie tworzą nowego twardego faktu save’a.
 - Patrole i eskorty ludzi Burkharda są dopuszczonym elementem żywego świata, ale konkretna potyczka, strata, schwytanie, zwycięstwo lub ważny transport nie staje się kanonem bez potwierdzenia z gry albo przez gracza.
 - Źródła niepewne historycznie przedstawiać jako prawdopodobne tło, nie jako niezaprzeczalny zwyczaj.
+
+**Aktualizacja pakietu po audycie:** sekcje 16.10–16.11 opisują wcześniejszą granicę dostępnych danych. Przy dalszych scenach stosować również sekcje 17–20, datowanie każdej informacji i kartę życia Pxx. Nie przenosić stanu majowego wstecz.
 
 ### 16.10. Bezpieczne kierunki pierwszych scen
 
@@ -686,3 +696,209 @@ Przy następnych screenach sukcesji analizować osobno:
 - głowę domu i głowę dynastii.
 
 Wnioski o możliwym kryzysie sukcesyjnym lub przyszłych ruchach postaci pozostają **cichą analizą**. W opowiadaniach mogą pojawiać się jedynie subtelne, trudne do wychwycenia sygnały wynikające z danych gry.
+
+## 18. Audyt źródeł i uzupełnienia — 7 października 2026
+
+### 18.1. Zakres i pierwszeństwo źródeł
+
+Odczytano aktualny plik `Historia-Hohenzollern.md` z repozytorium `marcinnlatoszek-debug/Hohenzollern`, blob bazowy `791f2f96bb3c33bab5d4fb7099dbf4c18583f57d`. Repozytorium zawierało w katalogu głównym jeden plik. Jego sekcja 17 zawiera stan z 6 maja 1070. Kopia dokumentu w zapisanych plikach, wersja 3, była starsza i kończyła się na 1 kwietnia; nie wolno nią nadpisywać nowszego kanonu. Przy kontynuacji nadrzędny jest aktualny plik repozytorium; pozostałe kopie muszą być z nim zgodne.
+
+Przejrzano treść archiwalnego wspólnego kanonu, kanonu czerwcowego i rozszerzonego kanonu do 8 lutego 1070. Surowy OCR zachowano jako materiał pomocniczy, bez uznawania go za samodzielny dowód. Nie odtwarzano starej kampanii ani odrzuconych wzorców wyglądu.
+
+Spis dostępnych plików z okresu **6–7 października 2026 według czasu polskiego** zwrócił 60 pozycji: 51 fotografii gry, 1 fotografię klawiatury, 3 wykresy, 2 ilustracje, 2 pliki Markdown i historyczną kartę dynastii. Wszystkie 52 fotografie przejrzano wizualnie w zestawieniach; wszystkie 51 fotografii gry otwarto również osobno. Nieczytelnych szczegółów nie rekonstruowano. Rejestr w 18.5 podaje zakres odczytu każdej fotografii. Ilustracje i historia rzeczywistej dynastii nie tworzą faktów save'a.
+
+**Granica audytu:** fotografie rad i drzew z 6 maja, na których oparto sekcję 17 w poprzedniej sesji, nie zostały zwrócone jako osobne pliki przez ten spis. Zachowano ich zapis w aktualnym kanonie, ale nie deklaruje się ponownego obejrzenia tych oryginałów. Analogicznie portrety z balwierza wymienione w historii rozmów nie pojawiły się w spisie. Audyt obejmuje wszystkie fotografie dostępne w tym spisie, nie wszystkie załączniki osadzone we wszystkich czatach.
+
+### 18.2. Nowe bezpośrednie odczyty
+
+Daty przesłania zdjęcia nie są datami gry. Nie łączyć uciętych fotografii z datą sąsiedniego pliku wyłącznie na podstawie kolejności.
+
+| ID | Data gry | Osoba / sprawa | Odczyt | Źródło: nazwa fotografii |
+|---|---|---|---|---|
+| E004 | 21 marca 1070, widoczna | Rada Rudolfa | Adelaide +3; Werner, Nauka 13, opinia −8; Kuno z Wirtembergii, Dyplomacja 22, −65; Hartmann, Zarządzanie 8, −63; Burkhard marszałkiem, Walka 11; Louis, Intryga 11, −100. Opinia Burkharda zasłonięta w tym kadrze | image-1791243245160.jpg; dodatkowe tooltipy image-1791247963312.jpg, image-1791248005499.jpg, image-1791248047367.jpg |
+| E005 | 21 marca 1070, widoczna | Pasek zasobów Burkharda | 51 złota, 964 prestiżu, 123 pobożności, 62 renomy, 393 żołnierzy; domena na pasku 1/4. Historyczna karta z czerwca ma 1/5; zachować oba odczyty z datami | image-1791247963312.jpg |
+| E006 | NIEUSTALONA | Kuno z dworu Burkharda | 25 lat, mistrz szpiegów, bez ziemi, brak małżonki na karcie; Szwab, wiara rzymska, niskie urodzenie; 5 / 8 / 4 / 13 / 13, waleczność 0; 0 złota, 150 prestiżu, 62 pobożności; opinia o Burkhardzie +7. Profil UI „Tchórz” | image-1791289904490.jpg; image-1791289918827.jpg |
+| E007 | NIEUSTALONA | Friedrich Hohenberg | 20 lat; hrabia Hohenbergu, Szwab, wiara rzymska, Hohenzollernowie na etykiecie domu; 5 / 12 / 6 / 8 / 0, waleczność 9, postrach 0; 143 złota, 365 prestiżu, 41 pobożności; domena 1/5, 279 żołnierzy, 1 tytuł, 0 dzieci, 6 dworzan, 1 poddany; profil UI „Irracjonalny antagonista” | image-1791239844963.jpg |
+| E008 | NIEUSTALONA | Friedrich → Burkhard | Opinia −14: sprawy zagraniczne +3, postać znana −5, osobista dyplomacja +3, niecierpliwy wobec cierpliwego −15. Tooltip bezpośrednio wskazuje niecierpliwość Friedricha; innych ikon nie nazywać bez tooltipu | image-1791248156986.jpg |
+| E009 | NIEUSTALONA | Rudolf | 44 lata, książę Szwabii, dom Rheinfeldenów; 8 / 11 / 7 / 10 / 7, waleczność 9, postrach 9; 139 złota, 724 prestiżu, 62 pobożności, domena 0/5, 1134 żołnierzy, 3 tytuły. Profil UI „Pazerny oportunista”; archetyp wojowniczy, postawa wasala wojownicza. Nie zastępuje kompletu nazw cech | image-1791238716857.jpg; image-1791285359183.jpg |
+| E010 | NIEUSTALONA | Siegfried | 33 lata, rycerz, bez ziemi i małżonki na karcie; zdrowie „Dobre”, źródła: „Postać silna” i „Osobisty medyk”; opinia +44; 25 złota, 300 prestiżu, 110 pobożności. Uciętej pierwszej statystyki nie uzupełniać | image-1791304285926.jpg |
+| E011 | NIEUSTALONA | Arcybiskup Otto z Trewiru | 37 lat; wiara rzymska, kultura frankońska, dom Nellenburgów; 7 / 5 / 3 / 3 / 14, waleczność 11, postrach 21; 39 złota, 347 prestiżu, 115 pobożności; 838 żołnierzy; 1 tytuł, 2 roszczenia, 0 dzieci, 6 rodzeństwa, 12 dworzan, 4 podwładnych; profil UI „Zły panikarz”. Ojca potwierdza wcześniejszy kanon | image-1791312740446.jpg |
+| E012 | NIEUSTALONA | Eberhard VI z Nellenburga | 55 lat na karcie; profil UI „Cyniczny łajdak”, archetyp nieobliczalny, postawa prowincjonalna. Nazw ikon osobowości nie odgadywać | image-1791249538872.jpg |
+| E013 | NIEUSTALONA | Thomas z Rottweil | Burmistrz, 34 lata, kanclerz Friedricha; Szwab, wiara rzymska, niskie urodzenie; 15 / 13 / 4 / 0 / 4, waleczność 8; 55 złota, 668 prestiżu, 308 pobożności, 103 żołnierzy, 1 tytuł; profil „Irracjonalny sługus”. Odrębna postać regionalna, poza bazową listą 22 | image-1791250603241.jpg |
+| E014 | NIEUSTALONA | Otto z Schwyz | Burmistrz, 28 lat, marszałek Hartmanna; Szwab, wiara rzymska, niskie urodzenie; 6 / 7 / 10 / 5 / 12, waleczność 2; 91 złota, 150 prestiżu, 244 pobożności, 107 żołnierzy, 1 tytuł; profil „Analityczny nikczemnik”. Odrębny od obu Ottonów w kanonie | image-1791250670994.jpg |
+| E015 | NIEUSTALONA | Wojsko Hartmanna | 410/410 pospolitego ruszenia, 2 rycerzy, 300/300 ciężkozbrojnych piechurów, 200/200 pikinierów; karta 912. Nie dodawać tego automatycznie do wojska Burkharda | image-1791331500838.jpg |
+| E016 | NIEUSTALONA | Wojsko Rudolfa | 830/830 pospolitego ruszenia, 4 rycerzy, 200/200 pikinierów, 100/100 ciężkozbrojnych piechurów. Osobno sojusznicy: 208/208 pospolitego ruszenia, 2 rycerzy, 100/100 ciężkozbrojnych piechurów. Ich tożsamości nie ustala sam tooltip | image-1791331532037.jpg; image-1791285359183.jpg |
+| E017 | NIEUSTALONA | Wojsko Friedricha Hohenberga | 177/177 pospolitego ruszenia, 2 rycerzy, 100/100 pikinierów; karta 279 | image-1791331717752.jpg |
+| E018 | 21 marca 1070 | Zadania rady Burkharda | Dietrich „Twórz relacje religijne”; Kuno „Zapobiegaj spiskom”. Możliwe skutki wymienione w tooltipach nie są potwierdzonymi wydarzeniami. Zadania te są zatem pokazane już przed punktem 1 kwietnia | image-1791282778112.jpg; image-1791282808415.jpg |
+| E019 | NIEUSTALONA | Adelheid z Zurychu | 21 lat na uciętej karcie; małżonka Hartmanna; profil UI „Bezbożna oportunistka”; tooltip cechy dowódcy „Leśna wojowniczka”, przewaga w lesie +2 i w tajdze +2. Odróżniać ją od Adelaide małżonki Rudolfa i jego córki; innych imienniczek nie scalać bez genealogii | image-1791242656525.jpg |
+| E020 | NIEUSTALONA | Welf | Tooltip cechy dowódcy „Brawurowy”, minimalny rzut podczas bitwy −2, maksymalny +3; kierunek „Eksperymentalny dowódca”. Wiek 35 na uciętej karcie. Powiązanie z P15 wynika z imienia Welf w tooltipie i końcówki tytułu; nie rekonstruować całej karty | image-1791241215082.jpg |
+| E021 | NIEUSTALONA | Werner, medyk | Tooltip nazywa go Wernerem; „Początkujący medyk”, Nauka +1, mała premia przeciw chorobom; etykieta osobistego medyka i profil „Urażony łajdak”. Ucięta karta nie rozstrzyga pełnej tożsamości; nie scalać automatycznie z biskupem Wernerem w radzie Rudolfa | image-1791243444567.jpg |
+
+
+| E022 | NIEUSTALONA | Ulm | Rozwój 8; +4% podatku i pospolitego ruszenia, +1200 limitu zaopatrzenia; postęp rozwoju 52/100, miesięcznie +1,4. Ulm i Helfenstein w osobnych panelach pozostają różnymi posiadłościami | image-1791245806699.jpg; image-1791245771248.jpg; image-1791245793393.jpg |
+| E023 | NIEUSTALONA, termin widoczny | Wirtembergia | Kuno właścicielem hrabstwa; kontrola 100, rozwój 9, powszechna opinia +5. Modyfikator „Niewykorzystane grunty rolne”: podatki −10%, wskazany koniec 31 sierpnia 1072. Zapisać termin do sprawdzenia, bez wymyślania daty początku | image-1791247472774.jpg |
+| E024 | NIEUSTALONA | Rudolf → Heinrich IV | Opinia −40. Wśród składników: ambitny −15, arogancki −5, małe podatki +5, niewielkie pospolite ruszenie +5, ograniczona władza korony −5, podział konfederacyjny −10, długie rządy +2, elekcja książęca +10, kultura −10, wybitny +3; dodatkowa nieprzetłumaczona etykieta UI −20. Tooltip daje częściowy ślad praw, nie pełny panel sukcesji | image-1791247924453.jpg |
+| E025 | 21 marca 1070, widoczna | Werner → Rudolf | Opinia −8; składniki obejmują splendor dworu +16, krótkie panowanie −5, pokorny −5, gniewny jako grzech −10, osobisty medyk +5, irytację −9, wygasającą o 1,20 rocznie. Jest to bezpośredni ślad medycznej funkcji Wernera z rady; nie rozstrzyga sam pełnej tożsamości uciętej karty E021 | image-1791247945134.jpg |
+| E026 | NIEUSTALONA | Sojusz Rudolf–Gerhard II | Tooltip wiąże sojusz z małżeństwem Adalberta z domu Rheinfeldenów i Matildy (nazwa rodu w tym zdjęciu niewystarczająco czytelna); sam sojusz był już zapisany w sekcji 8. Nie dopowiadać nowej ceremonii | image-1791272723611.jpg |
+| E027 | 21 marca 1070 dla Sulz; pozostałe kadry bez daty | Geografia | Sulz: biskupstwo na równinach, hrabstwo Bertholda II „Brodatego”, rozwój 8; Hohenberg: równiny, Friedrich Hohenberg, rozwój 9; Rottweil: wzgórza, ten sam hrabia, rozwój 9; Sigmaringen: równiny, Friedrich z Grüningen, rozwój 8. Mapa wspiera orientację, nie fikcyjne czasy podróży | image-1791246349506.jpg; image-1791246433312.jpg; image-1791246113325.jpg; image-1791246252497.jpg; image-1791246136363.jpg |
+| E028 | NIEUSTALONA | Planowanie budów | Ekran zamku: cena 605, czas 3 lata; ekran miasta: cena 302, czas 3 lata. Przycisk „Ulepsz” nie dowodzi rozpoczęcia; brak pewnej lokalizacji uciętego zamku. Trzy lata są czasem projektu, nie terminem zakończenia istniejącej budowy | image-1791281945618.jpg; image-1791282007354.jpg |
+
+Nazwy, identyfikatory i czas przesłania źródeł w 18.5. E004–E028 są uzupełnieniem odczytów, nie nowymi zdarzeniami rozgrywki z 7 października.
+
+### 18.3. Konflikty i granice interpretacji
+
+1. **Burkhard — cecha wrodzona:** image-1791283408789.jpg pokazuje tooltip Intrygi 10: podstawa 5, ambitny +1, **inteligentny +3**, wsparcie małżonki +1. Jest to bezpośredni odczyt tego kadru, sprzeczny z wcześniejszym całkowitym wykluczaniem słowa „Inteligentny”. Data kadru nieustalona. Zapisać jako dodatkową obserwację wymagającą datowania i aktualnego tooltipu cechy; nie usuwać potwierdzonych Ambitny/Cierpliwy/Opanowany ani nie przywracać „Pracowity”. Nie tworzyć drugiego Burkharda ani nie zakładać zmiany save'a bez dowodu.
+2. **Kuno — wiek:** 21 lat w starszej karcie, 25 lat w dostępnej fotografii. Ponieważ data starszej karty nie została odzyskana, nie traktować różnicy jako błędu ani nie przypisywać czterech lat do konkretnego przedziału. Bieżący wiek na 6 maja wymaga datowanej karty.
+3. **Opinie:** 21 marca rada Rudolfa ma Werner −8, Kuno −65, Hartmann −63; sekcja 17 zapisuje odpowiednio −7, −64, −62 na 6 maja. To dwa datowane stany, nie sprzeczność. Zmiana liczby nie dowodzi pojednania, buntu czy spisku.
+4. **Domena:** pasek Burkharda 1/4 na 21 marca, historyczna karta 1/5; nie ujednolicać bez ustalenia dat i rodzaju panelu.
+5. **Friedrich:** obowiązująca forma narracyjna i kanoniczna to **Friedrich Hohenberg**. Etykieta „Hohenzollernów” z gry jest nazwą domu na UI, nie sposobem odmiany jego nazwiska. Friedrich z Grüningen jest osobną osobą.
+6. **Imiona powtarzające się:** rycerz Siegfried ≠ arcybiskup Siegfried z Moguncji; Kuno dworzanin ≠ Kuno z Wirtembergii ≠ Kuno w drzewie Rheinfeldenów; Otto z Schwyz ≠ Otto III z Burgau ≠ arcybiskup Otto z Trewiru. Adelaide małżonka Rudolfa ≠ jego córka Adelaide; Bertha cesarzowa ≠ Bertha córka Rudolfa.
+7. **Sukcesja:** oznaczenie głównego dziedzica nie rozstrzyga całości praw. Dwór i drzewo rodzinne nie dowodzą przebywania wszystkich osób w jednej siedzibie.
+8. **Budowa:** ekran ulepszenia lub przycisk „Ulepsz” nie potwierdza rozpoczęcia ani ukończenia inwestycji. Tooltip zadania rady zawiera możliwe skutki; nie dowodzi, że wystąpił któryś z nich.
+
+### 18.4. Gertruda — odzyskane jednoznaczne potwierdzenie gracza
+
+Źródło S5: wyciąg wcześniejszej wypowiedzi użytkownika z 7 października 2026, 00:45:13 UTC. **Gertruda: 26 lat, Szwabka, wiara rzymska, osobisty medyk; 8 / 2 / 7 / 5 / 16; lubieżna, sprawiedliwa, leniwa, wnikliwa myślicielka, medyczka, urodziwa; rywal Kuno.** Wyciąg asystenta wiązał kartę z 1 kwietnia 1070, ale sama odzyskana wypowiedź gracza nie zawiera tej daty: w rejestrze odczytu data gry pozostaje NIEUSTALONA. „Gertrude” w starszych tekstach i „Gertruda” traktować jako warianty zapisu tej samej medyczki, bez tworzenia dwóch osób. Przybycie około listopada 1068 pozostaje niepotwierdzonym przybliżeniem z dawnej wypowiedzi asystenta. Rywala Kuno roboczo wiązano z dworem Burkharda; pełna karta relacji powinna potwierdzić tożsamość przy potrzebie rozstrzygnięcia.
+
+### 18.5. Rejestr dostępnych fotografii
+
+„Przegląd” oznacza rozpoznanie widocznego tematu w zestawieniu. „Szczegółowo” oznacza dodatkowe otwarcie pojedynczego obrazu. Otwarcie obrazu nie oznacza, że wszystkie drobne liczby i ikony są czytelne; zachowano granice każdego odczytu. Datowanie pojedynczego zdjęcia jest niezależne od daty jego przesłania.
+
+| Fotografia | ID źródła | Przesłano (Warszawa) | Zakres | Temat / granica |
+|---|---|---|---|---|
+| image-1791237640634.jpg | libfile_3e6778ce7cd48191aa01de4a928ae310 | 06.10.2026 00:00 | Szczegółowo | Siegfried: tooltip Hastilude; ikony poza tooltipem nieodczytane |
+| image-1791238716857.jpg | libfile_216645ecd220819197c7cecd840506f9 | 06.10.2026 00:18 | Szczegółowo | Rudolf: osobowość i archetyp; E009 |
+| image-1791239844963.jpg | libfile_4cae2e7edb848191a8f7fc5eff338c3a | 06.10.2026 00:37 | Szczegółowo | Friedrich Hohenberg: karta; E007 |
+| image-1791241215082.jpg | libfile_51cb6ee2b5548191a957ed2f2e59c9df | 06.10.2026 01:00 | Szczegółowo | Welf: Brawurowy; E020 |
+| image-1791242656525.jpg | libfile_51151c797e74819185da8fca7a0b7f74 | 06.10.2026 01:24 | Szczegółowo | Adelheid z Zurychu: Leśna wojowniczka; E019 |
+| image-1791243245160.jpg | libfile_3f291e4349e08191affa77d5fc8c2d6e | 06.10.2026 01:34 | Szczegółowo | Rada Rudolfa i efekty urzędu Burkharda; E004 |
+| image-1791243444567.jpg | libfile_3e54de7a28a88191a0c496bcca2e802b | 06.10.2026 01:37 | Szczegółowo | Werner: Początkujący medyk; E021 |
+| image-1791245771248.jpg | libfile_34054f4a7e088191912bfdce2492ab16 | 06.10.2026 02:16 | Szczegółowo | Ulm: panel hrabstwa i posiadłości; brak nowego wydarzenia |
+| image-1791245793393.jpg | libfile_b856dfb99e788191bf9c2f23f3bedf22 | 06.10.2026 02:16 | Szczegółowo | Ulm / Helfenstein: panel; brak nowego wydarzenia |
+| image-1791245806699.jpg | libfile_c0d4108282388191bf24c7989992b23d | 06.10.2026 02:16 | Szczegółowo | Ulm: tooltip rozwoju; E022 |
+| image-1791246113325.jpg | libfile_3b820041dfa88191859bf23cde8f413b | 06.10.2026 02:21 | Szczegółowo | Mapa: baronia Hohenberg; nieustalona data pojedynczego kadru |
+| image-1791246136363.jpg | libfile_6226f035bb2c8191a9f4e8e4852682ad | 06.10.2026 02:22 | Szczegółowo | Mapa: Sigmaringen; nieustalona data pojedynczego kadru |
+| image-1791246252497.jpg | libfile_447108d2678c8191870e84e7e6fdc034 | 06.10.2026 02:24 | Szczegółowo | Mapa: Rottweil; nieustalona data pojedynczego kadru |
+| image-1791246349506.jpg | libfile_e345c4f986c88191b1824b8c59803957 | 06.10.2026 02:25 | Szczegółowo | Mapa: Sulz; widoczny punkt 21 marca 1070; szczegóły tooltipu wymagają pełnego odczytu |
+| image-1791246433312.jpg | libfile_0c6b2c6161208191a8624789cbfeff1e | 06.10.2026 02:27 | Szczegółowo | Sulz: tooltip kaplicy; nie dowodzi nowej budowy |
+| image-1791247472774.jpg | libfile_9a81a937c58881918f1d5889823225ca | 06.10.2026 02:44 | Szczegółowo | Württemberg: Niewykorzystane grunty rolne do 31 VIII 1072; E023 |
+| image-1791247924453.jpg | libfile_6aa3d75de6ec8191885dff9faf58661e | 06.10.2026 02:52 | Szczegółowo | Rudolf → Heinrich IV: opinia −40 i składniki; E024 |
+| image-1791247945134.jpg | libfile_6e4bb346df6c8191883a0135a327afa1 | 06.10.2026 02:52 | Szczegółowo | Werner → Rudolf: opinia −8, medyk i irytacja; E025 |
+| image-1791247963312.jpg | libfile_4f704a6e11fc819192b56cec5d1e7c66 | 06.10.2026 02:52 | Szczegółowo | Rada Rudolfa: opinia Adelaide i pasek gracza; E004–E005 |
+| image-1791248005499.jpg | libfile_e76b4090bce0819180f8c742cf5eab72 | 06.10.2026 02:53 | Szczegółowo | Rada Rudolfa: opinia Kuna; E004 |
+| image-1791248047367.jpg | libfile_a8bc341657a48191a3b1d807236a1346 | 06.10.2026 02:54 | Szczegółowo | Rada Rudolfa: opinia Hartmanna; E004 |
+| image-1791248156986.jpg | libfile_772b00b4fb6c8191bd95e05745e851e3 | 06.10.2026 02:55 | Szczegółowo | Friedrich Hohenberg: opinia i niecierpliwość; E008 |
+| image-1791248748043.jpg | libfile_21edf151a7f08191a0e42e878cd642c9 | 06.10.2026 03:05 | Szczegółowo | Mapa Szwabii: orientacja; nie potwierdza wydarzenia |
+| image-1791249040197.jpg | libfile_6c83e27569a0819198704257c1f14757 | 06.10.2026 03:10 | Szczegółowo | Mapa Szwabii: orientacja; nie potwierdza wydarzenia |
+| image-1791249060099.jpg | libfile_3fa32161446481918ffaf221f546f8d9 | 06.10.2026 03:11 | Szczegółowo | Mapa Szwabii: orientacja; nie potwierdza wydarzenia |
+| image-1791249325230.jpg | libfile_9afbc1bb3b58819192824f2399fc1414 | 06.10.2026 03:15 | Szczegółowo | Karta i profil osobowości: rozmazane; NIE ROZPOZNANO szczegółów |
+| image-1791249359090.jpg | libfile_851545045c548191bac63d84b406c3f8 | 06.10.2026 03:16 | Szczegółowo | Karta i profil osobowości: rozmazane; NIE ROZPOZNANO szczegółów |
+| image-1791249538872.jpg | libfile_5635fd8f33c0819197df1e1017f3ace8 | 06.10.2026 03:19 | Szczegółowo | Eberhard VI: wiek i profil; E012 |
+| image-1791250603241.jpg | libfile_7c57c477e920819194ab8e7ea9b8533c | 06.10.2026 03:36 | Szczegółowo | Thomas z Rottweil: karta; E013 |
+| image-1791250670994.jpg | libfile_628c3ecff2608191ae2444bf91b93bfa | 06.10.2026 03:37 | Szczegółowo | Otto z Schwyz: karta; E014 |
+| image-1791272723611.jpg | libfile_d4a21e818e9081918b8296545056bacc | 06.10.2026 09:45 | Szczegółowo | Rudolf: etykieta sojuszu Gerharda II ze Strasburga; zapis wcześniejszy w sekcji 8 |
+| image-1791272843642.jpg | libfile_25e34eaa9cf08191957188486ac5209e | 06.10.2026 09:47 | Szczegółowo | Mapa okolic Szwabii i Zollern; orientacja |
+| image-1791272887233.jpg | libfile_11544a190fe881919cf2e10494861add | 06.10.2026 09:48 | Szczegółowo | Strasburg: panel hrabstwa; bez wyniku wojny |
+| image-1791281945618.jpg | libfile_323b98cb1ba881919fe33eaba3bbca50 | 06.10.2026 12:19 | Szczegółowo | Zamek: ekran ulepszenia gródka; nie potwierdza realizacji |
+| image-1791282007354.jpg | libfile_ee062576d128819198ea9d02bbb728ec | 06.10.2026 12:20 | Szczegółowo | Miasto: ekran ulepszenia; nie potwierdza realizacji |
+| image-1791282778112.jpg | libfile_66f3bfaa255481918f55db9cc8839fc9 | 06.10.2026 12:33 | Szczegółowo | Dietrich: zadanie religijne; E018 |
+| image-1791282808415.jpg | libfile_0c3b346d3b688191b5382c39c8b89c9d | 06.10.2026 12:33 | Szczegółowo | Kuno: zapobieganie spiskom; E018 |
+| image-1791283408789.jpg | libfile_06bcb66b5e9481919b3be1d1b6d3e7ae | 06.10.2026 12:43 | Szczegółowo | Burkhard: tooltip Intrygi, konflikt Inteligentny; 18.3 |
+| image-1791285334729.jpg | libfile_9535c527394c81919ad2a17cb007a718 | 06.10.2026 13:15 | Szczegółowo | Rudolf: karta, częściowo rozmyta; liczby z czytelniejszego kadru E009 |
+| image-1791285359183.jpg | libfile_ec460f761f148191ab962b5db96f57da | 06.10.2026 13:16 | Szczegółowo | Rudolf: karta i wojsko; E009/E016 |
+| image-1791289904490.jpg | libfile_fdb981f89f108191abd7c8e7e64555b7 | 06.10.2026 14:31 | Szczegółowo | Kuno z dworu: karta i opinia; E006 |
+| image-1791289918827.jpg | libfile_b8da2020d32c8191917bd9877d42ba5e | 06.10.2026 14:32 | Szczegółowo | Kuno z dworu: drugi kadr; E006 |
+| image-1791294444217.jpg | libfile_93d84c35adf88191b3f5c7c3153bba4e | 06.10.2026 15:47 | Szczegółowo | Kuno z dworu: tooltip profilu Tchórz; E006 |
+| image-1791304285926.jpg | libfile_060ca4d8fddc8191931b91dd74086310 | 06.10.2026 18:31 | Szczegółowo | Siegfried: zdrowie i karta; E010 |
+| image-1791310150337.jpg | libfile_3fff964fe8ec81919966f5ba228eb378 | 06.10.2026 20:09 | Szczegółowo | Ucięta karta i wojsko: 177/177, 2 rycerzy, 100/100 pikinierów; nie identyfikować z samego tooltipu |
+| image-1791312740446.jpg | libfile_bc0f8d049598819188699df280d5a78d | 06.10.2026 20:52 | Szczegółowo | Otto z Trewiru: karta; E011 |
+| image-1791317838868.jpg | libfile_8cab3ab1d41481918c15973dab24049c | 06.10.2026 22:17 | Szczegółowo | Tooltip „Chciwy fanatyk”; tożsamość w uciętym kadrze NIEUSTALONA |
+| image-1791331500838.jpg | libfile_75d5bc6d0b50819185c1cb9ee7db84e8 | 07.10.2026 02:05 | Szczegółowo | Hartmann: wojsko; E015 |
+| image-1791331532037.jpg | libfile_427d1b4d61ec8191a6aec5fefc01f53f | 07.10.2026 02:05 | Szczegółowo | Rudolf: wojsko i sojusznicy; E016 |
+| image-1791331717752.jpg | libfile_105b9302c0c48191a3f57b7d4ffdfc5f | 07.10.2026 02:08 | Szczegółowo | Friedrich Hohenberg: wojsko; E017 |
+| image-1791333225119.jpg | libfile_147d1e50b3f8819185ec8bda490054fe | 07.10.2026 02:33 | Szczegółowo | Mapa Szwabii: orientacja; nie potwierdza nowego wydarzenia |
+| image-1791372605194.jpg | libfile_5d3b106a3d0081918d2545f5da9e4661 | 07.10.2026 13:30 | Przegląd | Klawiatura laptopa; poza źródłami kampanii |
+
+## 19. Czas, wiek i ciągłość wirtualnego świata
+
+Zasady organizacyjne przyjęte w odpowiedzi na polecenie gracza z 7 października 2026. Nie są nowym wydarzeniem gry ani autonomicznym symulatorem.
+
+### 19.1. Trzy odrębne zegary
+
+| Zegar | Stan / reguła |
+|---|---|
+| Gry | Najnowszy zapisany punkt kontrolny: 6 maja 1070. Nie jest dowodem, że gra nadal stoi dokładnie tego dnia |
+| Kroniki | Wcześniejsza rozmowa doprowadziła most narracyjny do 1 maja 1070. Jest to punkt literacki odnotowany w historii rozmowy, nie potwierdzenie decyzji gracza z tego dnia; pełnego opowiadania nie odzyskano w repozytorium |
+| Rzeczywisty | 7 października 2026 — dzień audytu. Godziny i dni poza grą nie dodają automatycznie czasu ludziom kampanii |
+
+**21 kwietnia 1070 był wcześniejszym końcem etapu; kampania została wznowiona. Nie zamykać świata na tej dacie.** Różnica między 1 kwietnia i 6 maja to 35 dni, między 21 marca i 6 maja to 46 dni, między 1 maja i 6 maja to 5 dni. To odległości kalendarzowe, nie odzyskana lista wydarzeń.
+
+Przy każdym przejściu do nowej daty: zapisać datę poprzednią i docelową, upływ dni, nowe fakty z gry oraz skutki czasu dla scen. Nie przeskakiwać z daty literackiej do najnowszej daty gry bez sprawdzenia okresu pośredniego. Scena wcześniejsza nie może korzystać z przyszłej wiedzy postaci.
+
+### 19.2. Starzenie i dzieci
+
+1. **Gdy znana data urodzenia:** wiek w dniu sceny = różnica lat pomniejszona o jeden, jeśli urodziny jeszcze nie minęły. Dla niemowlęcia liczyć również miesiące i dni. Wpis obliczony oznaczać „wyliczony z daty urodzenia”, nie „odczytany z karty”. To doprecyzowanie wcześniejszej reguły nieprzeliczania wieku bez danych.
+2. **Gdy znamy tylko wiek A na datę D:** narodziny mieszczą się w przedziale po D minus (A+1) lat do D minus A lat włącznie. W późniejszej scenie używać przedziału możliwego wieku albo ostrożnego opisu etapu życia. Nie wymyślać dnia urodzin i nie dodawać roku życia wszystkim 1 stycznia.
+3. **Gdy brak daty karty:** wiek zostaje przy swoim źródle. Upływ czasu nie pozwala nadać mu nowej dokładnej wartości.
+4. **Narodziny i dorastanie:** zachowywać kolejność etapów; Ferdinand nie pozostaje wiecznie noworodkiem. Na 6 maja 1070 sam zapis „0 lat na 4 czerwca 1069” dopuszcza 0 albo 1 ukończony rok, bez ustalonego dnia narodzin. Nie nadawać dziecku zbyt dojrzałej mowy, obowiązków ani dorosłej osobowości. Konkretne osiągnięcia rozwojowe w scenach są narracją, nie odczytem gry.
+5. **Starsze osoby:** starzenie nie oznacza automatycznego osłabienia zdrowia, obniżenia statystyk czy zgonu. Hupold III nie starzeje się dalej po potwierdzonej śmierci.
+
+### 19.3. Stała karta życia każdej osoby
+
+P01–P22 odpowiadają bazowemu rejestrowi 22 osób. Każda karta od tej pory przechowuje: nazwę i warianty, dom i dynastię, ostatnią datę potwierdzenia życia, datę urodzenia lub ograniczenie wieku, stan rodziny, urzędy, miejsce potwierdzone i miejsce sceny, cechy, relacje kierunkowe, wydarzenia biograficzne, pamięć literacką oraz źródła. **Wymienienie w rejestrze nie gwarantuje pełnej karty ani życia na najnowszą datę.**
+
+| ID | Osoba | Kotwica wieku | Oś ciągłości do prowadzenia |
+|---|---|---|---|
+| P01 | Burkhard von Hohenzollern | 18 na 4 VI 1069; na 6 V 1070 z tego źródła możliwe 18–19 | Rządy od 1066, Hedwig, Ferdinand, urząd u Rudolfa, zamiar Hohenbergu; konflikt tooltipu w 18.3 |
+| P02 | Hedwig | 19 na 4 VI 1069; na 6 V 1070 możliwe 19–20 | Małżeństwo, macierzyństwo, brat Hartmann, zgon ojca, dom Hupoldingów / dynastia Etichonenów |
+| P03 | Rudolf | 44 na fotografii bez daty | Senior Burkharda, własna rada, małżonka i czworo dzieci; nie łączyć wszystkich w jednej scenie bez podstaw |
+| P04 | Baldarich | 33 na starszej karcie bez daty | Marszałek, Emma, obowiązki wojskowe; potwierdzenie urzędu 6 V 1070 |
+| P05 | Amalrich | 17 na starszej karcie bez daty | Kanclerz i rycerz; potwierdzenie urzędu 6 V 1070 |
+| P06 | Folmar | 33 na starszej karcie bez daty | Zarządca i rycerz; podatki jako zadanie, bez wymyślania rezultatów |
+| P07 | Kuno z dworu | 21 starsza karta; 25 dostępna fotografia, daty NIEUSTALONE | Mistrz szpiegów, Gertruda w zapisie rywalizacji do weryfikacji tożsamości |
+| P08 | Dietrich | 33 na starszej karcie bez daty | Kapelan, sprawy religijne, dawne przekonywanie z nierozstrzygniętym wynikiem |
+| P09 | Helferich | NIEUSTALONY | Pojedynek i przyjęcie 16 IX 1066; nie przenosić dawnej rany na maj 1070 |
+| P10 | Simon von Lichtenberg | NIEUSTALONY | Rycerz, mąż Ursuli; zapis Röd nie tworzy drugiej osoby |
+| P11 | Ursula von Lichtenberg | NIEUSTALONY | Żona Simona; własny punkt widzenia bez wymyślania cech i dzieci |
+| P12 | Siegfried | 33, fotografia bez daty | Przyjęcie 8 XII 1066; cechy w sekcji 7; zdrowie z datą odczytu, bez prognozy |
+| P13 | Adalbero | 42, historyczna karta bez dnia | Przybycie 31 V 1069 według odzyskanego zapisu; doświadczenie rycerza, bez wymyślonej przeszłości |
+| P14 | Emma | NIEUSTALONY | Żona Baldaricha w starszym źródle; obecny stan wymaga potwierdzenia |
+| P15 | Welf IV z Ravensburga | 35 na uciętej karcie przypisanej w E020, data NIEUSTALONA | Dom Welfów / dynastia Bonifazich; syn Otakar według sekcji 17; Brawurowy z tooltipu |
+| P16 | Friedrich Hohenberg | 20, fotografia bez daty | Hohenberg, niecierpliwość w tooltipie, napięcie z Burkhardem; brak potwierdzenia wojny |
+| P17 | Friedrich z Grüningen | NIEUSTALONY | Dom Hohenstaufenów, sześcioro dzieci z drzewa, sojusze z własną datą |
+| P18 | Louis z Sundgau | NIEUSTALONY | Mistrz szpiegów Rudolfa na 6 V; opinia nie jest dowodem konkretnego spisku |
+| P19 | Otto III z Burgau | NIEUSTALONY | Sojusz z Eberhardem VI w kanonie; odrębna osoba od arcybiskupa i burmistrza |
+| P20 | Hartmann z Zurychu | 24 na 18 XI 1069; na 6 V 1070 możliwe 24–25 | Brat Hedwig, sukcesja Nördlingen, własny syn Hartmann, urząd u Rudolfa, otwarty sojusz Burkharda |
+| P21 | Eberhard VI z Nellenburga | 55, fotografia bez daty | Ojciec Ottona z Trewiru, siedmioro dzieci w drzewie; dom / dynastia według źródła |
+| P22 | Kuno z Wirtembergii | NIEUSTALONY | Kanclerz Rudolfa; dzieci Bruno i Konrad; odrębny od Kuna dworzanina |
+
+Daty urodzenia P01–P22 pozostają NIEUSTALONE. Rejestr ma przechowywać ten brak, a nie maskować go datą fikcyjną. Dodatkowe osoby mają osobne karty: Ferdinand (wiek jak wyżej), Gertruda (26 bez daty), Hupold III (1 I 1009 – 18 IX 1069), Otto z Trewiru (37 bez daty), Thomas (34 bez daty), Otto z Schwyz (28 bez daty), cesarz i rada cesarska (wieki na 6 V w sekcji 17), Adelaide i Werner oraz członkowie drzew rodzinnych. Lista 22 nie jest limitem ludności świata.
+
+### 19.4. Pamięć ludzi i życia poza sceną
+
+Potwierdzony fakt ma trwałe konsekwencje biograficzne: Hedwig ma za sobą śmierć ojca; Hartmann sukcesję; Helferich pojedynek; Siegfried i Adalbero własne przybycia. To nie resetuje się wraz z rozdziałem. **Wiedza konkretnej osoby o zdarzeniu** wymaga jednak obecności, wiadomości albo narracyjnie zaznaczonego sposobu dotarcia informacji. Nie nadawać wszystkim wszechwiedzy.
+
+W warstwie literackiej zapisywać po scenie: kto był obecny, co usłyszał, co obiecał, jaki drobny spór lub gest pamięta, kiedy i gdzie scena się skończyła. Oznaczać jako NARRACJA. Dalsze dialogi mogą nawiązywać do tej pamięci, ale scena nie ustanawia mechanicznej przyjaźni, romansu, rywalizacji lub nowej cechy bez gry albo potwierdzenia gracza.
+
+Podczas upływu tygodni obowiązki trwają: praca rady, gospodarstwa, nabożeństwa, opieka nad dzieckiem, ćwiczenia rycerzy, służba i podróże. Dopuszczalne są zmiany rytmu i pory roku; konkretna pogoda jest narracją. Nie symulować automatycznych zysków, zakończeń budów, ciąży, leczenia, śmierci, spisków ani rozstrzygnięć wojny. Ludzie mają własne cele i ograniczoną wiedzę; ich cele literackie nie są nowym zamiarem zapisanym przez grę.
+
+Ostatnie położenie polityczne nie jest fizycznym miejscem pobytu. Funkcja marszałka Rudolfa nie znaczy, że Burkhard codziennie przebywa u Rudolfa; domowników nie przenosić natychmiast między siedzibami. Podróż i wiadomość potrzebują czasu, lecz dokładne czasy nie są ustalone bez trasy i źródła.
+
+### 19.5. Procedura kolejnego etapu
+
+1. Odczytać aktualną kartę repozytorium; sprawdzić sekcje 17–19 i wcześniejsze fakty potrzebne do daty sceny.
+2. Po screenie zapisać jego datę gry, widoczną zmianę, osobę Pxx i źródło. Rozdzielić odczyt, wniosek i narrację.
+3. Sprawdzić wiek i etap życia, urząd, rodzinę, relacje, miejsce oraz wiedzę każdej osoby w scenie. Uwzględnić przyszłe terminy, w tym 31 VIII 1072 z E023, i rzeczywiście rozpoczęte działania z własnymi datami. Braków nie uzupełniać pewnym twierdzeniem.
+4. Zaktualizować datowany stan i chronologię; zachować starszy odczyt. Nowe życie, zgon, małżeństwo i sukcesja otrzymują osobny wpis.
+5. Przed opowiadaniem przygotować Astrze krótki pakiet: czas, miejsce, postacie, fakty dostępne tego dnia, pamięć poprzednich scen, sprawy otwarte. Właściwe opowiadanie pozostaje zadaniem Astry.
+6. Po scenie utrwalić wyłącznie jej pamięć literacką w wyraźnie oznaczonym wpisie; nie przepisywać jej do faktów save'a.
+7. Przy końcu sesji zapisać najnowszy punkt gry, ostatnią datę kroniki i konkretne otwarte sprawy. GitHub przechowuje historię zmian. Nie obiecywać autonomicznego działania świata po zamknięciu rozmowy ani niezawodnej pamięci bez odczytu pliku.
+
+## 20. Karta gotowości po audycie
+
+**Gotowe:** jeden nadrzędny dokument, bazowe 22 tożsamości, dodatkowi ludzie, datowane punkty 1066–1070, rozdzielenie czasu gry/kroniki, rejestr dostępnych fotografii, nowe odczyty, zasady starzenia i pamięci biograficznej. Świat można prowadzić dalej w scenach zgodnych z tymi ograniczeniami.
+
+**Otwarte:** pełne daty urodzenia; datowane aktualne karty rodziny i dworu; komplet tooltipów cech; konflikt „Inteligentny”; dokładna data zatrzymania gry po punkcie 6 maja; przebieg nieodzyskanych wydarzeń kwietnia; wynik starania o Hartmanna; etap Hohenbergu; pełne prawa sukcesji; zakończenia wojen świata; oryginały screenów majowych niedostępne w obecnym spisie. Te braki nie zatrzymują codziennych scen, ale ograniczają konkretne twierdzenia, które od nich zależą.
+
+**Wnioski organizacyjne:** trwała ciągłość powstaje przez datowane karty życia i pamięć scen, a nie samo zapewnienie „zapamiętałem”. Każdy człowiek ma historię, wiek i ograniczoną wiedzę; nie każdy ma w tej chwili pełną kartę. Fakty najnowszego punktu nie przenoszą się wstecz. Interpretacje polityczne pozostają analizą w tle, zgodnie z sekcją 17; nie rozstrzygać przyszłych zdarzeń.
+
