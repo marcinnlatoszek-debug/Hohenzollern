@@ -2,7 +2,7 @@
 
 Uporządkowano: 7 października 2026. Jedyna główna karta kontynuacji: `libfile_741508510f8881918f4aec6d592c08d2`.
 
-**Status: rekonstrukcja częściowa. Ostatni odzyskany datowany stan: 1 kwietnia 1070. Faktyczna data zatrzymania gry jest nieustalona. Wydarzenia 2–20 kwietnia 1070 nie zostały odzyskane.**
+**Status: kampania aktywna. Najnowszy bezpośrednio potwierdzony stan na czytelnych screenach: 6 maja 1070. Przebieg części wydarzeń między wcześniejszymi punktami kontrolnymi a 6 maja nie został odtworzony; brak danych pozostaje brakiem danych.**
 
 Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym eksportem poprzednich rozmów ani pełną kopią „CZYSTEGO KANONU KONTYNUACYJNEGO BIEŻĄCEGO SAVE’A”. Brak odzyskanej informacji pozostaje brakiem danych.
 
@@ -21,6 +21,7 @@ Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym 
 | Ustalenia narracyjne i dawne referencje | Sekcja 14 |
 | Organizacja plików | Sekcja 15 |
 | Pakiet wejściowy do opowiadań dla GPT-6 Astra | Sekcja 16 |
+| Potwierdzony stan polityczny, rady i dynastie na 6 maja 1070 | Sekcja 17 |
 
 ## 1. Karta wznowienia i zapis nowych danych
 
@@ -36,7 +37,7 @@ Każde pole ma własną datę i źródło. Poniższe zestawienie nie przedstawia
 |---|---|---|
 | Postać gracza | Burkhard von Hohenzollern, hrabia Zollern; senior: książę Rudolf | S2; pełna data karty nieodzyskana |
 | Punkt kontynuacji wskazany przez gracza | 21 marca 1070 | S2 |
-| Najpóźniejszy odzyskany datowany fragment stanu | Rada i jej zadania: 1 kwietnia 1070; pełny zapis w sekcji 6 | S3 |
+| Najnowszy bezpośrednio potwierdzony stan | Czytelne screeny kart postaci, rad i drzew dynastii: 6 maja 1070; pełny zapis w sekcji 17 | Nowe screeny gracza z 7 października 2026 |
 | Faktyczna data obecnego zatrzymania gry | Nieustalona w dostępnych źródłach; nie utożsamiać jej automatycznie z datą rady ani żądaną granicą opowiadania | Do potwierdzenia z gry albo przez gracza |
 | Cechy Burkharda | Ambitny, Cierpliwy, Opanowany; Budowniczy fortuny ★★★; Patriarcha; Umięśniony; Ogrodnik | S2; data odczytu cech nieodzyskana |
 | Styl życia | Zarządzanie; skupienie na bogactwie | S1: 4 czerwca 1069; S2 potwierdza bez odzyskanej daty gry |
@@ -247,7 +248,6 @@ Dietrich: kultura frankońska. Pozostali w tym zestawie: kultura szwabska. Obrz�
 **Kuno z rady Burkharda jest inną osobą niż Kuno z Wirtembergii.**
 
 W tej samej odzyskanej sekwencji gracz potwierdził, że Burkhard jest marszałkiem swojego seniora Rudolfa. Podane efekty urzędu: +2 waleczności, +10% poborowych, −10% kosztów utrzymania armii, +10% doświadczenia stylu życia Walki. Nie odzyskano daty objęcia urzędu.
-
 ## 7. Rejestr postaci z kanonu gracza
 
 Odzyskano nazwy i identyfikację 22 zatwierdzonych postaci. **Nie odzyskano wszystkich ich pełnych kart.** Puste dane nie oznaczają braku danej cechy w grze.
@@ -462,9 +462,9 @@ Brak danych oznacza **NIEUSTALONE**. Narracja nie wypełnia luk w save’ie.
 ### 16.3. Bezpieczny punkt narracyjny bieżącego save’a
 
 - Pewny punkt kontynuacji wskazany przez gracza: **21 marca 1070**.
-- Najpóźniejszy odzyskany szczegółowy stan: **1 kwietnia 1070**.
-- Faktyczna data obecnego zatrzymania gry: **NIEUSTALONA**.
-- Wydarzenia **2–20 kwietnia 1070**: **NIEODZYSKANE / NIEUSTALONE**.
+- Najnowszy bezpośrednio potwierdzony szczegółowy stan: **6 maja 1070**.
+- Screeny z 6 maja 1070 potwierdzają bieżącą obsadę rad, część relacji/opinii, stan cesarza Heinricha IV oraz kilka drzew dynastii.
+- Przebieg zdarzeń pomiędzy wcześniejszymi punktami kontrolnymi a 6 maja pozostaje niepełny tam, gdzie nie dostarczono bezpośredniego źródła.
 
 Dopóki gracz nie dostarczy nowych danych, właściwe opowiadanie może bezpiecznie wykorzystywać fakty potwierdzone do 1 kwietnia 1070. Nie przedstawiać okresu 2–20 kwietnia jako znanego przebiegu kampanii.
 
@@ -596,3 +596,93 @@ Przed właściwym opowiadaniem:
 6. pisać scenę żywo i literacko, ale tak, by po usunięciu dialogu i ozdobników nie powstał żaden nowy „fakt save’a”.
 
 **Status sekcji:** przypięty materiał roboczy dla GPT-6 Astra. W razie zmiany kampanii aktualizować go razem z główną kartą, a nie prowadzić jako osobny równoległy kanon.
+
+
+## 17. Potwierdzony stan polityczny, rady i dynastie — 6 maja 1070
+
+Źródło: bezpośrednio obejrzane, czytelne screeny CK3 dostarczone przez gracza 7 października 2026. Data 6 maja 1070 jest widoczna na interfejsie przy ekranach rad i drzew dynastii. Fakty z UI oddzielać od prognoz politycznych. Prognoz i możliwych zagrożeń nie przedstawiać graczowi jako ostrzeżeń; mogą służyć wyłącznie do cichej analizy i subtelnego foreshadowingu w opowiadaniach.
+
+### 17.1. Rada Burkharda
+
+| Osoba | Funkcja | Właściwa umiejętność | Opinia widoczna na ekranie |
+|---|---|---:|---:|
+| Hedwig | Małżonka — asystuje władcy | — | +28 |
+| Dietrich | Nadworny kapelan | Nauka 15 | +12 |
+| Amalrich | Kanclerz | Dyplomacja 6 | -2 |
+| Folmar | Zarządca | Zarządzanie 11 | +23 |
+| Baldarich | Marszałek | Walka 14 | -27 |
+| Kuno z dworu Burkharda | Mistrz szpiegów | Intryga 13 | +8 |
+
+**Rozróżnienie:** Kuno będący mistrzem szpiegów Burkharda nie jest automatycznie hrabią Kuno z Wirtembergii. Traktować ich jako dwie różne osoby, dopóki gra nie pokaże inaczej.
+
+### 17.2. Rada księcia Rudolfa
+
+Burkhard jest potwierdzonym **marszałkiem księcia Rudolfa**.
+
+| Osoba | Funkcja | Właściwa umiejętność | Opinia widoczna wobec Rudolfa |
+|---|---|---:|---:|
+| Księżna Adelaide | Małżonka — asysta | — | +3 |
+| Biskup Werner | Kapelan | Nauka 13 | -7 |
+| Hrabia Kuno z Wirtembergii | Kanclerz | Dyplomacja 22 | -64 |
+| Hrabia Hartmann z Zurychu | Zarządca | Zarządzanie 8 | -62 |
+| Hrabia Burkhard z Zollern | Marszałek | Walka 11 | -64 |
+| Hrabia Louis z Sundgau | Mistrz szpiegów | Intryga 11 | -100 |
+
+Wartości opinii są twardym faktem UI. Ich znaczenie polityczne analizować w tle, bez jawnego ostrzegania gracza.
+
+### 17.3. Cesarz Heinrich IV i jego rada
+
+**Cesarz niemiecki Heinrich IV**, 20 lat; ród Salierów; kultura frankońska; obrządek rzymski; profil AI: **„Urażony ateista”**. Statystyki: Dyplomacja 8, Walka 13, Zarządzanie 15, Intryga 12, Nauka 12, Waleczność 1. Zasoby widoczne na karcie: 101 złota, 1004 prestiżu, 146 pobożności; domena 4/5; siła wojskowa 6396. Ma 8 tytułów, 1 dziecko i 6 rodzeństwa. Jedyne widoczne dziecko jest oznaczone jako **główny dziedzic**. Małżonką jest cesarzowa Bertha.
+
+Rada Heinricha IV:
+- cesarzowa **Bertha** — asystuje, opinia +38;
+- książę-arcybiskup **Siegfried z Moguncji** — kapelan, Nauka 11, opinia -8;
+- książę **Ordulf z Angrii** — kanclerz, Dyplomacja 15, opinia -29;
+- król **Wratysław z Czech** — zarządca, Zarządzanie 26, opinia -43;
+- książę **Gerhard „Żywy Cud” z Górnej Lotaryngii** — marszałek, Walka 15, opinia +100;
+- księżna **Matilda z Toskanii** — mistrz szpiegów, Intryga 11, opinia -78.
+
+### 17.4. Karty członków rady cesarskiej
+
+**Cesarzowa Bertha**, 21 lat; ród Sabaudów; kultura frankońska; obrządek rzymski; profil AI „Niegodziwa fanatyczka”; bez ziemi; 4 roszczenia; 1 dziecko; 6 rodzeństwa. Statystyki 1 / 6 / 10 / 11 / 5; Waleczność 5. 0 złota, 309 prestiżu, 32 pobożności.
+
+**Książę-arcybiskup Siegfried (Moguncja)**, 39 lat; ród Reginbodonenów; kultura frankońska; obrządek rzymski; profil AI „Honorowy ryzykant”. Statystyki 8 / 7 / 9 / 2 / 11; Waleczność 8. 39 złota, 484 prestiżu, 293 pobożności; siła wojskowa 1376. Archidiecezja Moguncja ma rząd kościelny. Siegfried ma 5 tytułów, co najmniej 3 roszczenia, 0 dzieci, 2 rodzeństwa, 16 dworzan, 1 poddanego/wasala i 52 podatników. Na karcie pokazano osobno zwierzchnika kościelnego oraz seniora świeckiego.
+
+**Książę Ordulf (Angria)**, 49 lat; kanclerz Heinricha IV; ród Billungów; kultura saska; obrządek rzymski; profil AI „Bezbożny panikarz”. Statystyki 15 / 4 / 8 / 9 / 15; Waleczność 7. 210 złota, 841 prestiżu, 175 pobożności; domena 3/5; siła wojskowa 2694. 7 tytułów, co najmniej 7 roszczeń, 1 dziecko, 4 rodzeństwa.
+
+**Król Wratysław (Czechy)**, 38 lat; zarządca Heinricha IV; ród Przemyślidów; kultura czeska; obrządek rzymski; profil AI „Nieustraszony idealista”. Statystyki 7 / 16 / 26 / 2 / 14; Waleczność 12. 66 złota, 1476 prestiżu, 433 pobożności; domena 3/5; siła wojskowa 4850. 11 tytułów, co najmniej 4 roszczenia, 6 dzieci, 4 rodzeństwa.
+
+**Książę Gerhard „Żywy Cud” (Górna Lotaryngia)**, 49 lat; marszałek Heinricha IV; ród Chatenois; kultura frankońska; obrządek rzymski; profil AI „Śmiały myśliciel”. Statystyki 10 / 15 / 13 / 7 / 6; Waleczność 10. 50 złota, 750 prestiżu, 48 pobożności; domena 3/5; siła wojskowa 2366. 5 tytułów, co najmniej 1 roszczenie, 3 dzieci, 1 rodzeństwo.
+
+**Księżna Matilda (Toskania)**, 24 lata; mistrz szpiegów Heinricha IV; ród Canossów; kultura włoska; obrządek rzymski; profil AI „Analityczna fanatyczka”. Statystyki 17 / 9 / 17 / 11 / 24; Waleczność 6. 70 złota, -162 prestiżu, 1321 pobożności; domena 2/5; siła wojskowa 2907. 8 tytułów, co najmniej 6 roszczeń, 2 dzieci, 2 rodzeństwa.
+
+### 17.5. Drzewa dynastii i potwierdzone pokrewieństwa
+
+**Dynastia Rheinfeldenów** — 7 żyjących członków, renoma 294. Zmarły Kuno jest ojcem księcia Rudolfa i Adalberta. Rudolf ma czworo pokazanych dzieci: Adelaide, Berthold, Agnes i Bertha. Adalbert ma syna Kuno.
+
+**Dynastia Hohenstaufenów** — 8 żyjących członków, renoma 92. Hrabia Friedrich z Grüningen ma sześcioro pokazanych dzieci: Friedrich, Ludwig, Otto, hrabina Adelheid, Konrad i Walther.
+
+**Dynastia Württembergów** — 3 żyjących członków, renoma 60. Hrabia Kuno z Wirtembergii ma dwoje pokazanych dzieci: Bruno i Konrad.
+
+**Dynastia Nellenburgów** — 7 żyjących członków, renoma 224. Zmarły hrabia Eberhard V jest ojcem hrabiego Eberharda VI. Eberhard VI ma siedmioro pokazanych dzieci: arcybiskup Otto, Ekkehard, Burkhard, Heinrich, Eberhard, hrabina Irmengard i Adelheid.
+
+**Dynastia Etichonenów** — 34 żyjących członków, renoma 510. W gałęzi/domie Hupoldingów: zmarły hrabia Hupold II → zmarły hrabia Hupold III → hrabia Hartmann i hrabina Hedwig. Hartmann i Hedwig są rodzeństwem. Hartmann ma syna Hartmanna. **Hedwig należy do domu Hupoldingów w dynastii Etichonenów** — rozróżniać dom od dynastii.
+
+**Dynastia Bonifazich** — 12 żyjących członków, renoma 108. W pokazanej linii książę Alberto Azzo II jest ojcem hrabiego Welfa IV, Ugo i Folco. Hrabia Welf IV ma syna Otakara. **Welf IV należy do domu Welfów w dynastii Bonifazich** — rozróżniać dom od dynastii.
+
+### 17.6. Sukcesja — granica pewności
+
+Na screenach potwierdzono kilka osób oznaczonych jako **główny dziedzic**, ale nie pokazano pełnego panelu praw sukcesyjnych Świętego Cesarstwa Rzymskiego, księcia Rudolfa ani Burkharda. Nie wolno z samego oznaczenia „główny dziedzic” rekonstruować pełnego prawa sukcesji ani podziału wszystkich tytułów.
+
+Przy następnych screenach sukcesji analizować osobno:
+- prawo płci;
+- rodzaj sukcesji państwa i poszczególnych tytułów;
+- ewentualne prawa elekcyjne;
+- kolejność wszystkich dziedziców;
+- przewidywany podział domeny;
+- roszczenia przechodzące na dzieci;
+- dynastię/dom potomstwa;
+- małżeństwa patrylinearne i matrylinearne;
+- głowę domu i głowę dynastii.
+
+Wnioski o możliwym kryzysie sukcesyjnym lub przyszłych ruchach postaci pozostają **cichą analizą**. W opowiadaniach mogą pojawiać się jedynie subtelne, trudne do wychwycenia sygnały wynikające z danych gry.
