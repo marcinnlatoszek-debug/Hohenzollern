@@ -6,8 +6,8 @@
   "baseline_blob": "f75ae02833c58ee611bb9c77bc01b0d6148557a6",
   "clocks": {
     "latest_recorded_game_date": "1070-09-15",
-    "last_reported_narrative_date": "1070-06-03",
-    "narrative_date_source": "Opowiadanie Przejście z 3 czerwca, widoczne w rozmowie",
+    "last_reported_narrative_date": "1070-09-20",
+    "narrative_date_source": "N008 / Do jesieni",
     "real_time_advances_game": false,
     "latest_screen_state_date": "1070-05-06",
     "current_game_date_source": "E033; ostatni odzyskany fakt z dokładną datą, nie pełna migawka save’a",
@@ -26,13 +26,49 @@
         "E030"
       ],
       "life": {
-        "scene_date": null,
-        "scene_place": null,
+        "scene_date": "1070-09-20",
+        "scene_place": "Zollern",
         "knowledge": [],
-        "memories": [],
+        "memories": [
+          {
+            "event_id": "N002",
+            "kind": "NARRACJA",
+            "summary": "Przejście przy grządkach jest używane przez kobiety niosące pranie; Burkhard strząsa mydliny z liści. Trwa codzienna praca domu."
+          },
+          {
+            "event_id": "N003",
+            "kind": "NARRACJA",
+            "summary": "Bezsenność i obserwacja miedzianego sierpa księżyca. Burkhard wypowiada potwierdzony wybór: Niebiosa nie są mi winne żadnych odpowiedzi. Odsyła strażnika na miejsce; w izbie Hedwig pyta, co się stało, słyszy tylko, że nie mógł spać."
+          },
+          {
+            "event_id": "N004",
+            "kind": "NARRACJA",
+            "summary": "Przy stole Burkhard zleca Dietrichowi przygotowanie roszczenia do Hohenbergu. Dietrich nie podaje terminu, zamierza zacząć od ustalenia, kogo warto pytać. Nie ma zdobytego dokumentu, znaleziska ani sukcesu."
+          },
+          {
+            "event_id": "N005",
+            "kind": "NARRACJA",
+            "summary": "Most sezonowy: siano, zwózka zboża, praca ogrodu, rachunki i opieka nad coraz cięższym, ruchliwym małym Ferdinandem. Bez samodzielnie ustanowionych wyników gry."
+          },
+          {
+            "event_id": "N006",
+            "kind": "NARRACJA",
+            "summary": "Uznanie dla gospodarstwa ujęte narracyjnie, bez oficjalnej nagrody, uczty lub poselstwa. Burkhard chwali Hedwig, gdy ogląda przetarte płótno; ona przyjmuje to rzeczowo i z humorem, prosi, by nie kazał jej sprawdzać rachunków Folmara. Burkhard ustępuje jej światła przy robocie."
+          },
+          {
+            "event_id": "N007",
+            "kind": "NARRACJA",
+            "summary": "Rocznica śmierci Hupolda: Hedwig dłużej zostaje na modlitwie; Burkhard opiekuje się synem. Po jej powrocie potwierdza, że pamiętał, i na jej prośbę zostaje obok. Bez dopisanej biografii ojca i bez rozstrzygnięcia spraw Hartmanna."
+          },
+          {
+            "event_id": "N008",
+            "kind": "NARRACJA",
+            "summary": "Burkhard usuwa suche łodygi w ogrodzie. Z Hedwig i Ferdinandem wraca do domu, przepuszcza kobietę z pustą kadzią na wąskim przejściu. Trzymając syna, odczuwa zmianę jego ciężaru i sposobu noszenia względem czerwca."
+          }
+        ],
         "promises": [],
         "narrative_goals": [],
-        "last_scene": null,
+        "last_scene": "N008",
         "basis": {
           "relationship_ids": [
             "R032",
@@ -73,13 +109,44 @@
         "KANON-19.3"
       ],
       "life": {
-        "scene_date": null,
-        "scene_place": null,
+        "scene_date": "1070-09-20",
+        "scene_place": "Zollern",
         "knowledge": [],
-        "memories": [],
+        "memories": [
+          {
+            "event_id": "N002",
+            "kind": "NARRACJA",
+            "summary": "Przejście przy grządkach jest używane przez kobiety niosące pranie; Burkhard strząsa mydliny z liści. Trwa codzienna praca domu."
+          },
+          {
+            "event_id": "N003",
+            "kind": "NARRACJA",
+            "summary": "Bezsenność i obserwacja miedzianego sierpa księżyca. Burkhard wypowiada potwierdzony wybór: Niebiosa nie są mi winne żadnych odpowiedzi. Odsyła strażnika na miejsce; w izbie Hedwig pyta, co się stało, słyszy tylko, że nie mógł spać."
+          },
+          {
+            "event_id": "N005",
+            "kind": "NARRACJA",
+            "summary": "Most sezonowy: siano, zwózka zboża, praca ogrodu, rachunki i opieka nad coraz cięższym, ruchliwym małym Ferdinandem. Bez samodzielnie ustanowionych wyników gry."
+          },
+          {
+            "event_id": "N006",
+            "kind": "NARRACJA",
+            "summary": "Uznanie dla gospodarstwa ujęte narracyjnie, bez oficjalnej nagrody, uczty lub poselstwa. Burkhard chwali Hedwig, gdy ogląda przetarte płótno; ona przyjmuje to rzeczowo i z humorem, prosi, by nie kazał jej sprawdzać rachunków Folmara. Burkhard ustępuje jej światła przy robocie."
+          },
+          {
+            "event_id": "N007",
+            "kind": "NARRACJA",
+            "summary": "Rocznica śmierci Hupolda: Hedwig dłużej zostaje na modlitwie; Burkhard opiekuje się synem. Po jej powrocie potwierdza, że pamiętał, i na jej prośbę zostaje obok. Bez dopisanej biografii ojca i bez rozstrzygnięcia spraw Hartmanna."
+          },
+          {
+            "event_id": "N008",
+            "kind": "NARRACJA",
+            "summary": "Burkhard usuwa suche łodygi w ogrodzie. Z Hedwig i Ferdinandem wraca do domu, przepuszcza kobietę z pustą kadzią na wąskim przejściu. Trzymając syna, odczuwa zmianę jego ciężaru i sposobu noszenia względem czerwca."
+          }
+        ],
         "promises": [],
         "narrative_goals": [],
-        "last_scene": null,
+        "last_scene": "N008",
         "basis": {
           "relationship_ids": [
             "R026",
@@ -248,12 +315,18 @@
       ],
       "life": {
         "scene_date": null,
-        "scene_place": null,
+        "scene_place": "Zollern",
         "knowledge": [],
-        "memories": [],
+        "memories": [
+          {
+            "event_id": "N005",
+            "kind": "NARRACJA",
+            "summary": "Most sezonowy: siano, zwózka zboża, praca ogrodu, rachunki i opieka nad coraz cięższym, ruchliwym małym Ferdinandem. Bez samodzielnie ustanowionych wyników gry."
+          }
+        ],
         "promises": [],
         "narrative_goals": [],
-        "last_scene": null,
+        "last_scene": "N005",
         "basis": {
           "relationship_ids": [],
           "snapshot_ids": [
@@ -325,13 +398,19 @@
         "KANON-19.3"
       ],
       "life": {
-        "scene_date": null,
-        "scene_place": null,
+        "scene_date": "1070-07-09",
+        "scene_place": "Zollern",
         "knowledge": [],
-        "memories": [],
+        "memories": [
+          {
+            "event_id": "N004",
+            "kind": "NARRACJA",
+            "summary": "Przy stole Burkhard zleca Dietrichowi przygotowanie roszczenia do Hohenbergu. Dietrich nie podaje terminu, zamierza zacząć od ustalenia, kogo warto pytać. Nie ma zdobytego dokumentu, znaleziska ani sukcesu."
+          }
+        ],
         "promises": [],
         "narrative_goals": [],
-        "last_scene": null,
+        "last_scene": "N004",
         "basis": {
           "relationship_ids": [],
           "snapshot_ids": [
@@ -943,13 +1022,34 @@
         "KANON-6"
       ],
       "life": {
-        "scene_date": null,
-        "scene_place": null,
+        "scene_date": "1070-09-20",
+        "scene_place": "Zollern",
         "knowledge": [],
-        "memories": [],
+        "memories": [
+          {
+            "event_id": "N002",
+            "kind": "NARRACJA",
+            "summary": "Przejście przy grządkach jest używane przez kobiety niosące pranie; Burkhard strząsa mydliny z liści. Trwa codzienna praca domu."
+          },
+          {
+            "event_id": "N005",
+            "kind": "NARRACJA",
+            "summary": "Most sezonowy: siano, zwózka zboża, praca ogrodu, rachunki i opieka nad coraz cięższym, ruchliwym małym Ferdinandem. Bez samodzielnie ustanowionych wyników gry."
+          },
+          {
+            "event_id": "N007",
+            "kind": "NARRACJA",
+            "summary": "Rocznica śmierci Hupolda: Hedwig dłużej zostaje na modlitwie; Burkhard opiekuje się synem. Po jej powrocie potwierdza, że pamiętał, i na jej prośbę zostaje obok. Bez dopisanej biografii ojca i bez rozstrzygnięcia spraw Hartmanna."
+          },
+          {
+            "event_id": "N008",
+            "kind": "NARRACJA",
+            "summary": "Burkhard usuwa suche łodygi w ogrodzie. Z Hedwig i Ferdinandem wraca do domu, przepuszcza kobietę z pustą kadzią na wąskim przejściu. Trzymając syna, odczuwa zmianę jego ciężaru i sposobu noszenia względem czerwca."
+          }
+        ],
         "promises": [],
         "narrative_goals": [],
-        "last_scene": null,
+        "last_scene": "N008",
         "basis": {
           "relationship_ids": [
             "R032",
@@ -5768,7 +5868,154 @@
       "limits": "Powinowactwo nie jest pokrewieństwem biologicznym; nie zmienia dynastii Burkharda."
     }
   ],
-  "narrative_events": [],
+  "narrative_events": [
+    {
+      "id": "N001",
+      "kind": "NARRACJA",
+      "game_date": "1070-06-03",
+      "place": "Zollern",
+      "person_ids": [
+        "P01",
+        "P02",
+        "P06",
+        "P12",
+        "P23"
+      ],
+      "summary": "Przejście: Burkhard po rozmowie z Hedwig zmienia drogę przez ogród dla służby z praniem, przesadza rośliny i układa kamienie. Wieczorem wraca po rozmowie z Siegfriedem do Hedwig i Ferdinanda, mówi „Jestem”.",
+      "source": {
+        "library_file_id": "libfile_156b35f9f1688191859fa88ccd79504a",
+        "file_name": "Opowiadanie-1070-06-03.md"
+      }
+    },
+    {
+      "id": "N002",
+      "kind": "NARRACJA",
+      "date_evidence": "czerwiec 1070, po 3 czerwca",
+      "place": "Zollern",
+      "person_ids": [
+        "P01",
+        "P02",
+        "P23"
+      ],
+      "summary": "Przejście przy grządkach jest używane przez kobiety niosące pranie; Burkhard strząsa mydliny z liści. Trwa codzienna praca domu.",
+      "knowledge": null,
+      "promises": [],
+      "source": {
+        "library_file_id": "libfile_7902229d46488191a1a4a65ecc7ca2b6",
+        "file_name": "Opowiadanie-1070-09-20.md"
+      }
+    },
+    {
+      "id": "N003",
+      "kind": "NARRACJA",
+      "date_evidence": "1070-06-27",
+      "place": "Zollern",
+      "person_ids": [
+        "P01",
+        "P02"
+      ],
+      "summary": "Bezsenność i obserwacja miedzianego sierpa księżyca. Burkhard wypowiada potwierdzony wybór: Niebiosa nie są mi winne żadnych odpowiedzi. Odsyła strażnika na miejsce; w izbie Hedwig pyta, co się stało, słyszy tylko, że nie mógł spać.",
+      "knowledge": "Strażnik słyszy zdanie o niebiosach. Hedwig nie dostaje w tej scenie opowieści o zaćmieniu.",
+      "promises": [],
+      "source": {
+        "library_file_id": "libfile_7902229d46488191a1a4a65ecc7ca2b6",
+        "file_name": "Opowiadanie-1070-09-20.md"
+      }
+    },
+    {
+      "id": "N004",
+      "kind": "NARRACJA",
+      "date_evidence": "1070-07-09",
+      "place": "Zollern",
+      "person_ids": [
+        "P01",
+        "P08"
+      ],
+      "summary": "Przy stole Burkhard zleca Dietrichowi przygotowanie roszczenia do Hohenbergu. Dietrich nie podaje terminu, zamierza zacząć od ustalenia, kogo warto pytać. Nie ma zdobytego dokumentu, znaleziska ani sukcesu.",
+      "knowledge": "Obaj wiedzą o rozpoczętym zadaniu i jego celu. Dietrich zna opowieść o dziadzie i utracie Hohenbergu przez ojca.",
+      "promises": [
+        "Burkhard każe Dietrichowi przyjść, gdy będzie potrzebował jego udziału; nie wyznacza terminu."
+      ],
+      "source": {
+        "library_file_id": "libfile_7902229d46488191a1a4a65ecc7ca2b6",
+        "file_name": "Opowiadanie-1070-09-20.md"
+      }
+    },
+    {
+      "id": "N005",
+      "kind": "NARRACJA",
+      "date_evidence": "lipiec–wrzesień 1070",
+      "place": "Zollern",
+      "person_ids": [
+        "P01",
+        "P02",
+        "P23",
+        "P06"
+      ],
+      "summary": "Most sezonowy: siano, zwózka zboża, praca ogrodu, rachunki i opieka nad coraz cięższym, ruchliwym małym Ferdinandem. Bez samodzielnie ustanowionych wyników gry.",
+      "knowledge": null,
+      "promises": [],
+      "source": {
+        "library_file_id": "libfile_7902229d46488191a1a4a65ecc7ca2b6",
+        "file_name": "Opowiadanie-1070-09-20.md"
+      }
+    },
+    {
+      "id": "N006",
+      "kind": "NARRACJA",
+      "date_evidence": "1070-09-15",
+      "place": "Zollern",
+      "person_ids": [
+        "P01",
+        "P02"
+      ],
+      "summary": "Uznanie dla gospodarstwa ujęte narracyjnie, bez oficjalnej nagrody, uczty lub poselstwa. Burkhard chwali Hedwig, gdy ogląda przetarte płótno; ona przyjmuje to rzeczowo i z humorem, prosi, by nie kazał jej sprawdzać rachunków Folmara. Burkhard ustępuje jej światła przy robocie.",
+      "knowledge": "Hedwig słyszy od Burkharda, że chwalą gospodarstwo.",
+      "promises": [
+        "Burkhard mówi, że nie każe Hedwig sprawdzać rachunków Folmara — drobna obietnica literacka."
+      ],
+      "source": {
+        "library_file_id": "libfile_7902229d46488191a1a4a65ecc7ca2b6",
+        "file_name": "Opowiadanie-1070-09-20.md"
+      }
+    },
+    {
+      "id": "N007",
+      "kind": "NARRACJA",
+      "date_evidence": "1070-09-18",
+      "place": "Zollern",
+      "person_ids": [
+        "P01",
+        "P02",
+        "P23"
+      ],
+      "summary": "Rocznica śmierci Hupolda: Hedwig dłużej zostaje na modlitwie; Burkhard opiekuje się synem. Po jej powrocie potwierdza, że pamiętał, i na jej prośbę zostaje obok. Bez dopisanej biografii ojca i bez rozstrzygnięcia spraw Hartmanna.",
+      "knowledge": "Hedwig dowiaduje się, że Burkhard pamiętał datę.",
+      "promises": [],
+      "source": {
+        "library_file_id": "libfile_7902229d46488191a1a4a65ecc7ca2b6",
+        "file_name": "Opowiadanie-1070-09-20.md"
+      }
+    },
+    {
+      "id": "N008",
+      "kind": "NARRACJA",
+      "date_evidence": "1070-09-20",
+      "place": "Zollern",
+      "person_ids": [
+        "P01",
+        "P02",
+        "P23"
+      ],
+      "summary": "Burkhard usuwa suche łodygi w ogrodzie. Z Hedwig i Ferdinandem wraca do domu, przepuszcza kobietę z pustą kadzią na wąskim przejściu. Trzymając syna, odczuwa zmianę jego ciężaru i sposobu noszenia względem czerwca.",
+      "knowledge": null,
+      "promises": [],
+      "source": {
+        "library_file_id": "libfile_7902229d46488191a1a4a65ecc7ca2b6",
+        "file_name": "Opowiadanie-1070-09-20.md"
+      }
+    }
+  ],
   "pending_inputs": [],
   "future_checks": [
     {
