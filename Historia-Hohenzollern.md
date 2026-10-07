@@ -835,6 +835,39 @@ Nazwy, identyfikatory i czas przesłania źródeł w 18.5. E004–E028 są uzupe
 
 **Granica faktu:** screen potwierdza pojawienie się wydarzenia, jego treść i cztery dostępne odpowiedzi. Nie potwierdza, którą odpowiedź gracz wybrał ani jakie były jej skutki. Na samym kadrze nie ma czytelnej daty gry, dlatego nie przypisywać wydarzenia automatycznie do 6 maja ani 2 czerwca 1070 bez dodatkowego potwierdzenia.
 
+
+### 18.8. Referencje wyglądu: Dietrich i Baldarich
+
+Nowe kadry z trybu Barbershop służą jako **referencje wyglądu postaci**, a nie jako samodzielny dowód wszystkich ich cech, relacji lub miejsca pobytu. Nazwa pliku zawiera „Hrabia_Burkhard_(Zollern)”, ponieważ zrzut został wykonany z poziomu postaci gracza; **nie oznacza to, że model na kadrze przedstawia Burkharda**. Tożsamość modelu ustala widoczna etykieta nad postacią.
+
+| ID | Data gry | Osoba / sprawa | Potwierdzona informacja | Etap | Źródło |
+|---|---|---|---|---|---|
+| E035 | **21 marca 1070** — data z nazwy pliku Barbershop | Dietrich (P08) | Sześć kadrów pokazuje model podpisany **„Nadworny kapelan Dietrich”**. Referencja wyglądu: tonsura / wygolony wierzch głowy z pasmem włosów po bokach i z tyłu, jasnobrązowe włosy, krótki zarost, jasne oczy, ciemny habit kapelana. Kadry obejmują profil lewy, przód i profil prawy. | stan / referencja wizualna | SCREENSET-2026-10-07-DIETRICH-BARBERSHOP |
+| E036 | **19 września 1070** — data z nazwy pliku Barbershop | Baldarich (P04) | Jedenaście kadrów pokazuje model podpisany **„Burmistrz Baldarich (Reutlingen)”**; na dalszych ujęciach widoczny jest również podpis **„Miasto Reutlingen”**. Referencja wyglądu: krótko przystrzyżone rudawe/jasnobrązowe włosy, krótka broda, jasne oczy; kolczuga, zielona tunika/surkot z brązowym obszyciem, pas i broń przy boku. **Potwierdza tytuł burmistrza Reutlingen na tej dacie; nie dowodzi, że przestał pełnić wcześniejszą funkcję marszałka, ani że nadal ją pełnił.** | stan / referencja wizualna | SCREENSET-2026-10-07-BALDARICH-BARBERSHOP |
+
+**Pliki źródłowe Dietricha — 21 III 1070:**  
+`Barbershop_Hrabia_Burkhard_(Zollern)_1070_03_21_0053.png` (file_0000000060cc8246b39b35003d25e25a),  
+`...0054.png` (file_00000000f7e081f485a3f54cea00ea13),  
+`...0055.png` (file_00000000ce908210bfcac22d7cdb6642),  
+`...0056.png` (file_000000005638820a8bf80e79e628a8e2),  
+`...0057.png` (file_0000000058f082109b7999c6ee233cba),  
+`...0058.png` (file_00000000e79081f485e7717f5844830c).
+
+**Pliki źródłowe Baldaricha — 19 IX 1070:**  
+`Barbershop_Hrabia_Burkhard_(Zollern)_1070_09_19_0000.png` (file_00000000c3f4824698cd15968a0ec376),  
+`...0001.png` (file_00000000e53081f492171d6d7292eb72),  
+`...0002.png` (file_000000008a0481f4b13ac1fe1c6869eb),  
+`...0003.png` (file_00000000c5f481f49fe564172fd62538),  
+`...0004.png` (file_000000000e2881f482686a7d8e2003e6),  
+`...0005.png` (file_0000000089bc81f4bc52f30d65e8bde1),  
+`...0006.png` (file_00000000f9788210a971d8a33fb08f25),  
+`...0007.png` (file_00000000c6b482109ee982ec5a2d10cf),  
+`...0008.png` (file_00000000accc821090b2891a9a2971b1),  
+`...0009.png` (file_00000000816c821087d8c1d0def3f2b8),  
+`...0010.png` (file_00000000f92482108be1569bca91a6d4).
+
+**Uwaga o dacie:** daty 21 III i 19 IX 1070 pochodzą z automatycznych nazw plików Barbershop. Na samych kadrach nie widać zegara gry, dlatego źródło daty jest jawnie oznaczone jako nazwa pliku.
+
 ## 19. Czas, wiek i ciągłość wirtualnego świata
 
 Zasady organizacyjne przyjęte w odpowiedzi na polecenie gracza z 7 października 2026. Nie są nowym wydarzeniem gry ani autonomicznym symulatorem.
