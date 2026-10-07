@@ -902,3 +902,14 @@ Ostatnie położenie polityczne nie jest fizycznym miejscem pobytu. Funkcja mars
 
 **Wnioski organizacyjne:** trwała ciągłość powstaje przez datowane karty życia i pamięć scen, a nie samo zapewnienie „zapamiętałem”. Każdy człowiek ma historię, wiek i ograniczoną wiedzę; nie każdy ma w tej chwili pełną kartę. Fakty najnowszego punktu nie przenoszą się wstecz. Interpretacje polityczne pozostają analizą w tle, zgodnie z sekcją 17; nie rozstrzygać przyszłych zdarzeń.
 
+
+
+## 21. Rozbudowana baza i życie wszystkich rozpoznanych osób
+
+Na polecenie gracza z 7 października 2026 utworzono [baza/swiat.json](baza/swiat.json) oraz [procedurę prowadzenia świata](baza/README.md). Baza startuje z 69 rozróżnionymi osobami, 48 relacjami, 6 drzewami dynastii i 67 zapisami stanu. Nie jest to deklaracja pełnych kart wszystkich osób ani ich życia na najnowszy dzień.
+
+Przy wznowieniu oprócz tego kanonu odczytać bazę. Każdy nowy screen aktualizuje źródła, datowane stany i właściwe osoby; nowe koneksje rodzinne oraz logiczne wnioski przekazywać graczowi. Kanon pozostaje nadrzędny, baza stanowi jego uporządkowaną reprezentację. Rozbieżności naprawiać przed sceną, zachowując historię źródeł.
+
+Każda postać otrzymuje stałą kartę życia opartą na wieku, cechach, rodzinie, obowiązkach i biografii. W kolejnych scenach utrwalać osobisty głos, rytm dnia, cele literackie, obietnice oraz to, co sama wie i pamięta. Dane literackie oznaczać jako narrację. Człowiek znany tylko z drzewa może uczestniczyć w świecie, lecz zakres przedstawienia musi respektować braki danych. Lista 22 głównych osób nie ogranicza liczby ludzi kampanii.
+
+Świat zachowuje ciągłość między scenami i etapami czasu kampanii. Baza nie uruchamia samodzielnego procesu działającego po zamknięciu rozmowy; jej rolą jest trwała pamięć i podstawa spójnego prowadzenia. Nowe screeny nie zostały jeszcze przesłane w tej sesji — przygotowano ich procedurę przyjęcia.
