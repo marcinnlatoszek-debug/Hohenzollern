@@ -5,12 +5,13 @@
   "canonical_file": "Historia-Hohenzollern.md",
   "baseline_blob": "f75ae02833c58ee611bb9c77bc01b0d6148557a6",
   "clocks": {
-    "latest_recorded_game_date": "1070-06-02",
-    "last_reported_narrative_date": "1070-05-01",
-    "narrative_date_source": "KANON-19.1",
+    "latest_recorded_game_date": "1070-09-15",
+    "last_reported_narrative_date": "1070-06-03",
+    "narrative_date_source": "Opowiadanie Przejście z 3 czerwca, widoczne w rozmowie",
     "real_time_advances_game": false,
     "latest_screen_state_date": "1070-05-06",
-    "current_game_date_source": "direct_player_confirmation_2026-10-07"
+    "current_game_date_source": "E033; ostatni odzyskany fakt z dokładną datą, nie pełna migawka save’a",
+    "target_narrative_date": "1070-09-20"
   },
   "people": [
     {
@@ -4236,6 +4237,34 @@
       "kind": "game_screenshot",
       "detail": "Czytelny screen wydarzenia „Znak niebios”: tekst o zaćmionym księżycu w kształcie miedzianego sierpa oraz cztery widoczne odpowiedzi. Data gry niewidoczna na kadrze; wybrana odpowiedź i skutek niepotwierdzone.",
       "recorded_at": "2026-10-07"
+    },
+    {
+      "id": "USER-2026-10-07-E031",
+      "kind": "direct_player_confirmation_recovered",
+      "detail": "Potwierdzono datę wydarzenia i wybór odpowiedzi 4: „Niebiosa nie są mi winne żadnych odpowiedzi.” Skutki mechaniczne nieustalone.",
+      "recorded_at": "2026-10-07",
+      "conversation_timestamp": "2026-10-07T18:57:41Z"
+    },
+    {
+      "id": "USER-2026-10-07-E032",
+      "kind": "direct_player_confirmation_recovered",
+      "detail": "Burkhard zleca Dietrichowi fabrykowanie roszczenia do Hohenbergu. Rozpoczęte działanie; uzyskanie roszczenia, wojna i wynik niepotwierdzone.",
+      "recorded_at": "2026-10-07",
+      "conversation_timestamp": "2026-10-07T19:04:36Z"
+    },
+    {
+      "id": "USER-2026-10-07-E033",
+      "kind": "direct_player_confirmation_recovered",
+      "detail": "Burkhard zyskuje 150 prestiżu mimo kiepskiej umiejętności zarządzania małżonka/małżonki. Nie ustala to konkretnego przebiegu sceny domowej.",
+      "recorded_at": "2026-10-07",
+      "conversation_timestamp": "2026-10-07T19:06:42Z"
+    },
+    {
+      "id": "USER-2026-10-07-E034",
+      "kind": "direct_player_confirmation_recovered",
+      "detail": "We wrześniu 1070, po wydarzeniu z 15 września, Burkhard osiąga poziom sławy „Postać wybitna”; dokładny dzień nieustalony.",
+      "recorded_at": "2026-10-07",
+      "conversation_timestamp": "2026-10-07T19:06:42Z"
     }
   ],
   "observations": [
@@ -4637,6 +4666,65 @@
       "reading": "Pojawiło się wydarzenie „Znak niebios”. Tekst: „Sen nie nadchodzi. Szukam spokojnego mroku i spoglądam w niebo. Dziś widać na nim księżyc zaćmiony do kształtu miedzianego sierpa. Takie znaki nigdy nie są pozbawione znaczenia.” Dostępne odpowiedzi: „Zbadam ten omen.”; „Przez ten znak jaśnieje łaska Boga.”; „Taki znak zwiastuje podbój!”; „Niebiosa nie są mi winne żadnych odpowiedzi.” Screen nie potwierdza wyboru ani skutku.",
       "sources": [
         "SCREEN-2026-10-07-ZNAK-NIEBIOS"
+      ],
+      "person_ids": [
+        "P01"
+      ]
+    },
+    {
+      "id": "E031",
+      "kind": "game_observation",
+      "game_date": "1070-06-27",
+      "date_evidence": "Jednoznaczne potwierdzenie gracza",
+      "subject": "Znak niebios",
+      "reading": "Potwierdzono datę wydarzenia i wybór odpowiedzi 4: „Niebiosa nie są mi winne żadnych odpowiedzi.” Skutki mechaniczne nieustalone.",
+      "sources": [
+        "USER-2026-10-07-E031"
+      ],
+      "person_ids": [
+        "P01"
+      ]
+    },
+    {
+      "id": "E032",
+      "kind": "game_observation",
+      "game_date": "1070-07-09",
+      "date_evidence": "Jednoznaczne potwierdzenie gracza",
+      "subject": "Hohenberg",
+      "reading": "Burkhard zleca Dietrichowi fabrykowanie roszczenia do Hohenbergu. Rozpoczęte działanie; uzyskanie roszczenia, wojna i wynik niepotwierdzone.",
+      "sources": [
+        "USER-2026-10-07-E032"
+      ],
+      "person_ids": [
+        "P01",
+        "P08",
+        "P16"
+      ]
+    },
+    {
+      "id": "E033",
+      "kind": "game_observation",
+      "game_date": "1070-09-15",
+      "date_evidence": "Jednoznaczne potwierdzenie gracza",
+      "subject": "Doskonałe gospodarstwo domowe",
+      "reading": "Burkhard zyskuje 150 prestiżu mimo kiepskiej umiejętności zarządzania małżonka/małżonki. Nie ustala to konkretnego przebiegu sceny domowej.",
+      "sources": [
+        "USER-2026-10-07-E033"
+      ],
+      "person_ids": [
+        "P01",
+        "P02"
+      ]
+    },
+    {
+      "id": "E034",
+      "kind": "game_observation",
+      "game_date": null,
+      "date_evidence": "Wrzesień 1070, po 15 września; dokładny dzień nieustalony",
+      "subject": "Postać wybitna",
+      "reading": "We wrześniu 1070, po wydarzeniu z 15 września, Burkhard osiąga poziom sławy „Postać wybitna”; dokładny dzień nieustalony.",
+      "sources": [
+        "USER-2026-10-07-E034"
       ],
       "person_ids": [
         "P01"
@@ -5600,6 +5688,42 @@
         "Na ekranie były cztery możliwe odpowiedzi; wybrana odpowiedź i jej skutek pozostają nieustalone."
       ],
       "source": "E030"
+    },
+    {
+      "id": "CH019",
+      "date_evidence": "1070-06-27",
+      "record": [
+        "Potwierdzono datę wydarzenia i wybór odpowiedzi 4: „Niebiosa nie są mi winne żadnych odpowiedzi.” Skutki mechaniczne nieustalone.",
+        "Potwierdzenie gracza odzyskane z rozmowy"
+      ],
+      "source": "E031"
+    },
+    {
+      "id": "CH020",
+      "date_evidence": "1070-07-09",
+      "record": [
+        "Burkhard zleca Dietrichowi fabrykowanie roszczenia do Hohenbergu. Rozpoczęte działanie; uzyskanie roszczenia, wojna i wynik niepotwierdzone.",
+        "Potwierdzenie gracza odzyskane z rozmowy"
+      ],
+      "source": "E032"
+    },
+    {
+      "id": "CH021",
+      "date_evidence": "1070-09-15",
+      "record": [
+        "Burkhard zyskuje 150 prestiżu mimo kiepskiej umiejętności zarządzania małżonka/małżonki. Nie ustala to konkretnego przebiegu sceny domowej.",
+        "Potwierdzenie gracza odzyskane z rozmowy"
+      ],
+      "source": "E033"
+    },
+    {
+      "id": "CH022",
+      "date_evidence": "wrzesień 1070 po 15 IX",
+      "record": [
+        "We wrześniu 1070, po wydarzeniu z 15 września, Burkhard osiąga poziom sławy „Postać wybitna”; dokładny dzień nieustalony.",
+        "Potwierdzenie gracza odzyskane z rozmowy"
+      ],
+      "source": "E034"
     }
   ],
   "inferences": [
