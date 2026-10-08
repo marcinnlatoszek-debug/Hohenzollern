@@ -4,6 +4,10 @@
 
 Stan początkowy z 7 października 2026: **69 osób, 48 relacji, 6 drzew dynastii, 67 zapisów stanu, 25 odczytów screenów, 16 historycznych wpisów chronologii i 4 wnioski z podanymi przesłankami**. Rejestr źródeł obejmuje 51 fotografii kampanii oraz fotografię klawiatury wyłączoną z kanonu. Majowe oryginały nie zostały ponownie otwarte; wykorzystano ich zapis z sekcji 17. Dane nie oznaczają 69 pełnych kart ani 69 osób żyjących na najnowszą datę.
 
+## Priorytet natywnego save’a — od 8 października 2026
+
+**Najnowszy natywny plik .ck3 jest źródłem bieżącej prawdy mechanicznej i ma pierwszeństwo przed screenshotami.** Wyraźne rzadkie poprawki autora, jak **Friedrich Hohenberg / dynastia Hohenberg**, są nadrzędne dla nazwy i tożsamości kanonicznej, ale nie zmieniają ID mechanicznych. Każdy kolejny save wpisywać niezwłocznie do [kanonu](../Historia-Hohenzollern.md) i `swiat.json`, zachowując historyczne migawki. **Aktualny save: 24 września 1070**, atlas księstwa: [Szwabia-1070-09-24.md](Szwabia-1070-09-24.md). Narrator może wykrywać zagrożenia i zapowiadać możliwe skutki, lecz nie dopisuje jako faktów przyszłych wojen, zdrad ani sukcesji.
+
 ## Jak czytać bazę
 
 | Część | Zawartość |
