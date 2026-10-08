@@ -4538,6 +4538,15 @@
       "kind": "explicit_authorial_canon_override",
       "recorded_at": "2026-10-08",
       "detail": "Friedrich Hohenberg, dynastia Hohenberg to świadoma korekta autora kampanii. Wszystkie pozostałe wartości przyjmować z save’a."
+    },
+    {
+      "id": "SAVE-NEIGHBORS-1070-09-24",
+      "kind": "derived_regional_scan_of_native_ck3_save",
+      "underlying_source": "SAVE-CK3-1070-09-24",
+      "file": "von_Hohenzollern.ck3",
+      "game_date": "1070-09-24",
+      "atlas": "baza/Sasiedzi-Szwabii-1070-09-24.md",
+      "scope": "14 duchies, cross-border counties, active wars, factions, schemes"
     }
   ],
   "observations": [
@@ -5048,6 +5057,21 @@
         "P03",
         "P16",
         "P17",
+        "P20"
+      ]
+    },
+    {
+      "id": "E038",
+      "kind": "native_save_observation",
+      "game_date": "1070-09-24",
+      "date_evidence": "Data natywnego save’a",
+      "subject": "Sąsiedztwo Szwabii i konflikty regionalne",
+      "reading": "Wojna Vratislava z Czech o Nordgau, wojna Ernsta o Styrię, udział bawarskiego Ottona w wojnie o Miśnię, frakcja Konrada z Hohenlohe przeciw Annonowi, zabiegi cesarza wobec Siegfrieda i rozbieżności de iure/de facto hrabstw szwabskich; szczegóły w atlasie sąsiedztwa.",
+      "sources": [
+        "SAVE-NEIGHBORS-1070-09-24"
+      ],
+      "person_ids": [
+        "P03",
         "P20"
       ]
     }
@@ -6096,6 +6120,15 @@
         "SAVE-CK3-1070-09-24"
       ],
       "source": "E037"
+    },
+    {
+      "id": "CH024",
+      "date_evidence": "1070-09-24",
+      "record": [
+        "Migawka polityki otoczenia Szwabii: aktywne wojny i frakcje; powiązania prawne i lenne z 14 księstwami wybranymi do atlasu. Wszystko odnosi się do tego samego dnia save’a co CH023.",
+        "SAVE-NEIGHBORS-1070-09-24"
+      ],
+      "source": "E038"
     }
   ],
   "inferences": [
@@ -6666,5 +6699,254 @@
     ],
     "interpretation_note": "Scenariusze i ostrzeżenia są hipotezami narratora, nie faktami przyszłości.",
     "detail_file": "baza/Szwabia-1070-09-24.md"
+  },
+  "neighboring_regions_current_state": {
+    "date": "1070-09-24",
+    "source": "SAVE-CK3-1070-09-24",
+    "atlas_file": "baza/Sasiedzi-Szwabii-1070-09-24.md",
+    "scope": "14 księstw pogranicznych i politycznie powiązanych; de iure 81 hrabstw; stan save, nie kartograficzna pełna granica",
+    "duchies": [
+      {
+        "id": 1198,
+        "name": "Alzacja",
+        "holder_id": null,
+        "claimants": 0
+      },
+      {
+        "id": 983,
+        "name": "Augsburg",
+        "holder_id": null,
+        "claimants": 0
+      },
+      {
+        "id": 1184,
+        "name": "Churrätien",
+        "holder_id": null,
+        "claimants": 0
+      },
+      {
+        "id": 1132,
+        "name": "Wschodnia Frankonia",
+        "holder_id": 28593,
+        "claimants": 3,
+        "strength": 813
+      },
+      {
+        "id": 942,
+        "name": "Nordgau",
+        "holder_id": 33396,
+        "claimants": 16,
+        "strength": 669
+      },
+      {
+        "id": 905,
+        "name": "Bawaria",
+        "holder_id": 32148,
+        "claimants": 0,
+        "strength": 1800
+      },
+      {
+        "id": 1060,
+        "name": "Karyntia",
+        "holder_id": 38069,
+        "claimants": 5,
+        "strength": 1816
+      },
+      {
+        "id": 837,
+        "name": "Górna Lotaryngia",
+        "holder_id": 32273,
+        "claimants": 14,
+        "strength": 2492
+      },
+      {
+        "id": 1089,
+        "name": "Zachodnia Frankonia",
+        "holder_id": 38652,
+        "claimants": 3,
+        "strength": 6078
+      },
+      {
+        "id": 7607,
+        "name": "Górna Burgundia",
+        "holder_id": 31537,
+        "claimants": 0,
+        "strength": 1282
+      },
+      {
+        "id": 2328,
+        "name": "Lombardia",
+        "holder_id": 30342,
+        "claimants": 2,
+        "strength": 1410
+      },
+      {
+        "id": 1003,
+        "name": "Styria",
+        "holder_id": 32817,
+        "claimants": 3,
+        "strength": 1886
+      },
+      {
+        "id": 1020,
+        "name": "Austria",
+        "holder_id": 35179,
+        "claimants": 2,
+        "strength": 153
+      },
+      {
+        "id": 3417,
+        "name": "Czechy",
+        "holder_id": 34276,
+        "claimants": 4,
+        "strength": 4891
+      }
+    ],
+    "cross_border_counties": [
+      {
+        "id": 997,
+        "dejure": 983,
+        "defacto": 1216
+      },
+      {
+        "id": 1000,
+        "dejure": 983,
+        "defacto": 1216
+      },
+      {
+        "id": 1157,
+        "dejure": 1132,
+        "defacto": 1216
+      },
+      {
+        "id": 1193,
+        "dejure": 1184,
+        "defacto": 1216
+      },
+      {
+        "id": 1211,
+        "dejure": 1198,
+        "defacto": 1216
+      },
+      {
+        "id": 1231,
+        "dejure": 1216,
+        "defacto": 1060
+      },
+      {
+        "id": 1070,
+        "dejure": 1060,
+        "defacto": 1003
+      }
+    ],
+    "active_wars": [
+      {
+        "id": 58,
+        "type": "claim_cb",
+        "attacker": 34276,
+        "defender": 33396,
+        "target": 942
+      },
+      {
+        "id": 16,
+        "type": "claim_cb",
+        "attacker": 35179,
+        "defender": 32817,
+        "target_titles": [
+          1003,
+          1040
+        ]
+      },
+      {
+        "id": 33554449,
+        "type": "individual_duchy_de_jure_cb",
+        "attacker": 33265,
+        "defender": 30556,
+        "target": 3542,
+        "ally_attacker": 32148
+      },
+      {
+        "id": 92,
+        "type": "liberty_faction_war",
+        "attacker": 33544,
+        "defender": 33377,
+        "defender_ally": 34276
+      },
+      {
+        "id": 113,
+        "type": "ep3_laamp_apprehend_adventurer_cb",
+        "attacker": 37080,
+        "defender": 38652
+      },
+      {
+        "id": 127,
+        "type": "ep3_laamp_apprehend_adventurer_cb",
+        "attacker": 37080,
+        "defender": 34082
+      }
+    ],
+    "factions": [
+      {
+        "id": 16777333,
+        "type": "liberty_faction",
+        "leader": 34084,
+        "target": 28593,
+        "discontent": 100,
+        "power": 75.156,
+        "power_threshold": 50
+      },
+      {
+        "id": 145,
+        "type": "liberty_faction",
+        "leader": 38124,
+        "target": 32273,
+        "power": 17.72,
+        "power_threshold": 70
+      },
+      {
+        "id": 211,
+        "type": "liberty_faction",
+        "leader": 37282,
+        "target": 32148,
+        "power": 24.024,
+        "power_threshold": 50
+      },
+      {
+        "id": 83,
+        "type": "liberty_faction",
+        "leader": 30392,
+        "target": 37721,
+        "power": 17.451,
+        "power_threshold": 50
+      }
+    ],
+    "schemes": [
+      {
+        "id": 220,
+        "type": "sway",
+        "owner": 38652,
+        "target": 34082
+      },
+      {
+        "id": 33554542,
+        "type": "sway",
+        "owner": 32148,
+        "target": 31305
+      },
+      {
+        "id": 67108981,
+        "type": "sway",
+        "owner": 33396,
+        "target": 33078
+      },
+      {
+        "id": 33554828,
+        "type": "murder",
+        "owner": 34463,
+        "target": 33564,
+        "exposed": false
+      }
+    ],
+    "interpretation": "Fakty mechaniki zapisane jako stan 24 IX 1070. Przewidywania nie są wydarzeniami, schematy tajne nie są wiedzą postaci."
   }
 }
