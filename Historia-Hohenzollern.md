@@ -28,6 +28,7 @@ Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym 
 | Zegary świata, starzenie i karty życia postaci | Sekcja 19 |
 | Gotowość i pozostałe braki | Sekcja 20 |
 | Stan save’a i atlas całej Szwabii | Sekcja 24 i `baza/Szwabia-1070-09-24.md` |
+| Księstwa sąsiednie, wojny, frakcje | Sekcja 25 i `baza/Sasiedzi-Szwabii-1070-09-24.md` |
 
 ## 1. Karta wznowienia i zapis nowych danych
 
@@ -1034,4 +1035,19 @@ Ta sekcja i `baza/swiat.json:narrative_events` zachowują pamięć scen. Nie są
 5. **Sundgau i Zollern:** realnie zapisane listy roszczeniodawców, bez domniemywania ich konkretnych planów.
 
 **Procedura:** przy każdym następnym zapisie CK3 automatycznie (w bieżącej aktywnej rozmowie) odczytać źródło, skorygować aktualny stan w sekcji 24 / najnowszej analogicznej sekcji i `baza/swiat.json`, pozostawić historię datowanych stanów, a następnie dopracować odpowiednie napięcia kroniki.
+
+
+## 25. Otoczenie Szwabii: księstwa sąsiednie i polityczne napięcia — save 24 września 1070
+
+**Nadrzędne źródło:** ten sam natywny `von_Hohenzollern.ck3` 1.20.0.4 z 24 września 1070; SHA-256 `93c678bd1c9aa73f58ad51f504f508ff5517927dc8a6a4023a8b437f45f4decc`. Rozszerzenie analizy nie jest przesunięciem czasu gry. Szczegóły: [baza/Sasiedzi-Szwabii-1070-09-24.md](baza/Sasiedzi-Szwabii-1070-09-24.md). Użytkownik polecił uwzględniać również wydarzenia u sąsiadów Szwabii, jako źródło realistycznych napięć politycznych w żywej kronice.
+
+**Wojny bieżące:** Vratislav z Czech `34276` atakuje Nordgau księcia Dietpolda `33396` (wojna `58`); Ernst z Austrii `35179` walczy o Styrię przeciw Otakarowi `32817` (wojna `16`); książę Otto Bawarski `32148` uczestniczy po stronie atakującej w wojnie o Miśnię `33554449`, ale głównym inicjatorem jest inny Otto `33265`. Vratislav uczestniczy również po stronie obrońców odrębnej wojny wolnościowej `92`. Cesarz Heinrich `38652` i arcybiskup Siegfried `34082` toczą odrębne konflikty z Hereweardem `37080`.
+
+**Aktywna frakcja:** Konrad z Hohenlohe `34084` przewodzi frakcji wolnościowej przeciw Annonowi `28593` we Wschodniej Frankonii. Dane save’a: `discontent=100`, `power=75.156`, `power_threshold=50` (frakcja `16777333`). Nie jest to potwierdzenie wybuchu buntu.
+
+**Rozbieżności de iure/de facto:** Nördlingen (prawnie Wschodnia Frankonia), Zürich (Churrätien), Sundgau (Alzacja), Ravensburg i Burgau (Augsburg) podlegają **faktycznie Rudolfowi**. Baden, prawnie szwabskie, podlega Karyntii. Alzacja, Augsburg i Churrätien jako tytuły książęce nie mają posiadaczy; ich hrabstwa są rzeczywiście podzielone między kilku seniorów.
+
+**Działania:** cesarz prowadzi `sway` względem arcybiskupa Siegfrieda, książę Bawarii `sway` względem Kuna z Regensburga, a Dietpold z Nordgau `sway` względem Potho z Leuchtenburga. Sekretna próba `murder` Udalricha `34463` przeciw Reginhardowi `33564` ma `scheme_exposed=false`; jest faktem mechaniki, ale nie wiedzą powszechną bohaterów.
+
+**Zasada interpretacyjna:** chronologia i bieżące działania są faktem z save’a. Napięcie, wiadomości dochodzące do Zollern, rozmowy i możliwe skutki są warstwą kroniki. Nie przypisywać bohaterom nieujawnionych sekretów ani nie orzekać o przyszłych wynikach wojny, buntu czy intrygi. Najnowszy save zachowuje pierwszeństwo przed wcześniejszymi screenami z wyjątkiem rzadkich świadomych korekt autorskich (Friedrich Hohenberg, dynastia Hohenberg).
 
