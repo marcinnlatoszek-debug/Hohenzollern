@@ -5,25 +5,27 @@
   "canonical_file": "Historia-Hohenzollern.md",
   "baseline_blob": "6d964ce5bdd7c4d8b9332b3d912415535630b7bb",
   "clocks": {
-    "latest_recorded_game_date": "1070-09-15",
+    "latest_recorded_game_date": "1070-09-24",
     "last_reported_narrative_date": "1070-09-20",
     "narrative_date_source": "N008 / Do jesieni",
     "real_time_advances_game": false,
     "latest_screen_state_date": "1070-05-06",
-    "current_game_date_source": "E033; ostatni odzyskany fakt z dokładną datą, nie pełna migawka save’a",
-    "target_narrative_date": "1070-09-20"
+    "current_game_date_source": "SAVE-CK3-1070-09-24 (von_Hohenzollern.ck3)",
+    "target_narrative_date": "1070-09-20",
+    "latest_native_save_date": "1070-09-24"
   },
   "people": [
     {
       "id": "P01",
       "name": "Burkhard von Hohenzollern",
       "aliases": [],
-      "birth_date": null,
+      "birth_date": "1050-08-15",
       "age_evidence": "18 na 4 VI 1069; na 6 V 1070 z tego źródła możliwe 18–19",
       "continuity": "Rządy od 1066, Hedwig, Ferdinand, urząd u Rudolfa, zamiar Hohenbergu; konflikt tooltipu w 18.3",
       "sources": [
         "KANON-19.3",
-        "E030"
+        "E030",
+        "SAVE-CK3-1070-09-24"
       ],
       "life": {
         "scene_date": "1070-09-20",
@@ -94,8 +96,16 @@
         "narrative_fields_status": "Do uzupełnienia i utrwalenia przy pierwszej scenie; nie tworzyć wspomnień nieodbytych scen."
       },
       "unknowns": [
-        "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
+      ],
+      "save_character_id": 62640,
+      "current_traits_from_save": [
+        "ambitious",
+        "diligent",
+        "patient",
+        "education_stewardship_3",
+        "lifestyle_gardener",
+        "intellect_good_2"
       ]
     },
     {
@@ -106,7 +116,8 @@
       "age_evidence": "19 na 4 VI 1069; na 6 V 1070 możliwe 19–20",
       "continuity": "Małżeństwo, macierzyństwo, brat Hartmann, zgon ojca, dom Hupoldingów / dynastia Etichonenów",
       "sources": [
-        "KANON-19.3"
+        "KANON-19.3",
+        "SAVE-CK3-1070-09-24"
       ],
       "life": {
         "scene_date": "1070-09-20",
@@ -170,6 +181,13 @@
       "unknowns": [
         "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
+      ],
+      "save_character_id": 38603,
+      "current_traits_from_save": [
+        "paranoid",
+        "impatient",
+        "gregarious",
+        "education_diplomacy_1"
       ]
     },
     {
@@ -180,7 +198,8 @@
       "age_evidence": "44 na fotografii bez daty",
       "continuity": "Senior Burkharda, własna rada, małżonka i czworo dzieci; nie łączyć wszystkich w jednej scenie bez podstaw",
       "sources": [
-        "KANON-19.3"
+        "KANON-19.3",
+        "SAVE-CK3-1070-09-24"
       ],
       "life": {
         "scene_date": null,
@@ -225,6 +244,15 @@
       "unknowns": [
         "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
+      ],
+      "save_character_id": 33217,
+      "current_traits_from_save": [
+        "wrathful",
+        "ambitious",
+        "arrogant",
+        "education_learning_2",
+        "whole_of_body",
+        "rough_terrain_expert"
       ]
     },
     {
@@ -406,7 +434,8 @@
       "continuity": "Kapelan, sprawy religijne, dawne przekonywanie z nierozstrzygniętym wynikiem",
       "sources": [
         "KANON-19.3",
-        "E035"
+        "E035",
+        "SAVE-CK3-1070-09-24"
       ],
       "life": {
         "scene_date": "1070-07-09",
@@ -449,7 +478,8 @@
           "snapshot_id": "ST068",
           "source": "SCREENSET-2026-10-07-DIETRICH-BARBERSHOP"
         }
-      ]
+      ],
+      "save_character_id": 45489
     },
     {
       "id": "P09",
@@ -726,7 +756,8 @@
       "age_evidence": "20, fotografia bez daty",
       "continuity": "Hohenberg, niecierpliwość w tooltipie, napięcie z Burkhardem; brak potwierdzenia wojny",
       "sources": [
-        "KANON-19.3"
+        "KANON-19.3",
+        "SAVE-CK3-1070-09-24"
       ],
       "life": {
         "scene_date": null,
@@ -759,6 +790,18 @@
       "unknowns": [
         "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
+      ],
+      "save_character_id": 38601,
+      "canonical_dynasty": "Hohenberg",
+      "mechanical_dynasty_id": 4222,
+      "mechanical_house_id": 4222,
+      "canonical_name_override_source": "USER-2026-10-08-HOHENBERG",
+      "current_traits_from_save": [
+        "fickle",
+        "vengeful",
+        "impatient",
+        "education_martial_2",
+        "rough_terrain_expert"
       ]
     },
     {
@@ -769,7 +812,8 @@
       "age_evidence": "NIEUSTALONY",
       "continuity": "Dom Hohenstaufenów, sześcioro dzieci z drzewa, sojusze z własną datą",
       "sources": [
-        "KANON-19.3"
+        "KANON-19.3",
+        "SAVE-CK3-1070-09-24"
       ],
       "life": {
         "scene_date": null,
@@ -807,7 +851,8 @@
       "unknowns": [
         "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
-      ]
+      ],
+      "save_character_id": 32163
     },
     {
       "id": "P18",
@@ -895,7 +940,8 @@
       "age_evidence": "24 na 18 XI 1069; na 6 V 1070 możliwe 24–25",
       "continuity": "Brat Hedwig, sukcesja Nördlingen, własny syn Hartmann, urząd u Rudolfa, otwarty sojusz Burkharda",
       "sources": [
-        "KANON-19.3"
+        "KANON-19.3",
+        "SAVE-CK3-1070-09-24"
       ],
       "life": {
         "scene_date": null,
@@ -933,6 +979,13 @@
       "unknowns": [
         "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
+      ],
+      "save_character_id": 37494,
+      "current_traits_from_save": [
+        "deceitful",
+        "fickle",
+        "patient",
+        "education_diplomacy_2"
       ]
     },
     {
@@ -1034,11 +1087,12 @@
       "id": "P23",
       "name": "Ferdinand",
       "aliases": [],
-      "birth_date": null,
+      "birth_date": "1068-11-30",
       "age_evidence": "0 lat na 1069-06-04",
       "continuity": null,
       "sources": [
-        "KANON-6"
+        "KANON-6",
+        "SAVE-CK3-1070-09-24"
       ],
       "life": {
         "scene_date": "1070-09-20",
@@ -1085,9 +1139,9 @@
         "narrative_fields_status": "Do uzupełnienia i utrwalenia przy pierwszej scenie; nie tworzyć wspomnień nieodbytych scen."
       },
       "unknowns": [
-        "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
-      ]
+      ],
+      "save_character_id": 68600
     },
     {
       "id": "P24",
@@ -4468,6 +4522,22 @@
           "file_id": "file_00000000f92482108be1569bca91a6d4"
         }
       ]
+    },
+    {
+      "id": "SAVE-CK3-1070-09-24",
+      "kind": "native_ck3_save",
+      "file": "von_Hohenzollern.ck3",
+      "game_date": "1070-09-24",
+      "version": "1.20.0.4",
+      "sha256": "93c678bd1c9aa73f58ad51f504f508ff5517927dc8a6a4023a8b437f45f4decc",
+      "authority": "primary_for_current_mechanics",
+      "note": "Bezpośredni odczyt natywnego save’a, tytuły i życie postaci."
+    },
+    {
+      "id": "USER-2026-10-08-HOHENBERG",
+      "kind": "explicit_authorial_canon_override",
+      "recorded_at": "2026-10-08",
+      "detail": "Friedrich Hohenberg, dynastia Hohenberg to świadoma korekta autora kampanii. Wszystkie pozostałe wartości przyjmować z save’a."
     }
   ],
   "observations": [
@@ -4959,6 +5029,26 @@
       ],
       "person_ids": [
         "P04"
+      ]
+    },
+    {
+      "id": "E037",
+      "kind": "native_save_observation",
+      "game_date": "1070-09-24",
+      "date_evidence": "Data wewnątrz natywnego save’a",
+      "subject": "Księstwo Szwabii i otoczenie",
+      "reading": "11 hrabstw de facto pod Rudolfem; 7 de iure; Baden de iure w Szwabii, de facto w Karyntii; Hedwig roszczenie do Nördlingen; aktywne sway Burkharda wobec Hartmanna, Rudolfa wobec Kuna, Friedricha z Grüningen wobec Albericha; Friedrich Hohenberg z następcą Rudolfem.",
+      "sources": [
+        "SAVE-CK3-1070-09-24",
+        "USER-2026-10-08-HOHENBERG"
+      ],
+      "person_ids": [
+        "P01",
+        "P02",
+        "P03",
+        "P16",
+        "P17",
+        "P20"
       ]
     }
   ],
@@ -5997,6 +6087,15 @@
         "Potwierdzenie gracza odzyskane z rozmowy"
       ],
       "source": "E034"
+    },
+    {
+      "id": "CH023",
+      "date_evidence": "1070-09-24",
+      "record": [
+        "Bezpośredni odczyt natywnego save’a, 11 bezpośrednich hrabstw Rudolfa i 7 hrabstw Szwabii de iure. Aktywne działania i sukcesje w sekcji 24 głównego kanonu oraz atlasie.",
+        "SAVE-CK3-1070-09-24"
+      ],
+      "source": "E037"
     }
   ],
   "inferences": [
@@ -6205,7 +6304,8 @@
       "person_id": "P01",
       "subject": "Inteligentny w tooltipie Intrygi",
       "source": "IMG-1791283408789",
-      "status": "needs_dated_trait_tooltip"
+      "status": "resolved_for_current_state_by_native_save_1070_09_24",
+      "resolution": "Aktualne cechy P01 pochodzą bezpośrednio z save’a. Wcześniejsze ekrany pozostają wyłącznie historycznymi obserwacjami."
     },
     {
       "id": "C002",
@@ -6226,6 +6326,345 @@
     ],
     "narration": "Pamięć scen, cele, głos i rytm życia oznaczać jako narrację.",
     "family_identity": "Dom i dynastia są osobnymi polami; imienników nie scalać.",
-    "execution": "Baza wspiera prowadzenie świata w kolejnych sesjach; sama nie uruchamia symulacji."
+    "execution": "Baza wspiera prowadzenie świata w kolejnych sesjach; sama nie uruchamia symulacji.",
+    "source_priority": "Wyraźna autorska korekta kanonicznej nazwy/tożsamości > najnowszy natywny save (mechaniczny bieżący stan) > starsze save’y z datą > screeny/teksty eventów jako historyczne źródła > starszy kanon. Po odczycie nowego save’a aktualizować główny kanon i bazę w aktywnej rozmowie.",
+    "friedrich_authorial_exception": "Friedrich Hohenberg (ID postaci 38601) ma w kanonie nazwę Friedrich Hohenberg i przynależy do dynastii Hohenberg; mechanicznie osobna dynastia/house ID 4222. Burkhard dynastia ID 12236 / house 12840. Zachować mechaniczną tożsamość, nie sugerować pokrewieństwa.",
+    "forecasting": "Prognozy ryzyka, napięcia i możliwych motywacji wyróżniać jako wnioski narratora; nie ustanawiają przyszłych zdarzeń."
+  },
+  "swabia_current_state": {
+    "game_date": "1070-09-24",
+    "source": "SAVE-CK3-1070-09-24",
+    "duchy_title_id": 1216,
+    "duke_character_id": 33217,
+    "dejure_county_ids": [
+      1217,
+      1222,
+      1227,
+      1231,
+      1235,
+      1239,
+      1242
+    ],
+    "defacto_county_ids": [
+      997,
+      1000,
+      1157,
+      1193,
+      1211,
+      1217,
+      1222,
+      1227,
+      1235,
+      1239,
+      1242
+    ],
+    "external_dejure_county": {
+      "county_title_id": 1231,
+      "holder_id": 38899,
+      "defacto_liege_title_id": 1060,
+      "defacto_liege_holder_id": 38069
+    },
+    "counties": [
+      {
+        "county_title_id": 997,
+        "code": "c_ravensburg",
+        "canonical_name": "Ravensburg",
+        "holder_character_id": 34790,
+        "holder_name": "Welf",
+        "de_jure_under_swabia": false,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 410,
+        "holder_gold": 123.93,
+        "first_successor_character_id": 67717,
+        "claimant_count": 0,
+        "traits_current_save": [
+          "lustful",
+          "arrogant",
+          "zealous",
+          "education_martial_3",
+          "reckless",
+          "disinherited"
+        ]
+      },
+      {
+        "county_title_id": 1000,
+        "code": "c_burgau",
+        "canonical_name": "Burgau",
+        "holder_character_id": 33218,
+        "holder_name": "Otto",
+        "de_jure_under_swabia": false,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 312,
+        "holder_gold": 13.12,
+        "first_successor_character_id": 37878,
+        "claimant_count": 0,
+        "traits_current_save": [
+          "deceitful",
+          "zealous",
+          "shy",
+          "education_martial_3",
+          "gallant",
+          "flexible_leader",
+          "pilgrim"
+        ]
+      },
+      {
+        "county_title_id": 1157,
+        "code": "c_nordlingen",
+        "canonical_name": "Nördlingen",
+        "holder_character_id": 37494,
+        "holder_name": "Hartmann",
+        "de_jure_under_swabia": false,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 937,
+        "holder_gold": 69.08,
+        "first_successor_character_id": 69223,
+        "claimant_count": 1,
+        "traits_current_save": [
+          "deceitful",
+          "fickle",
+          "patient",
+          "education_diplomacy_2"
+        ]
+      },
+      {
+        "county_title_id": 1193,
+        "code": "c_zurich",
+        "canonical_name": "Zürich",
+        "holder_character_id": 37494,
+        "holder_name": "Hartmann",
+        "de_jure_under_swabia": false,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 937,
+        "holder_gold": 69.08,
+        "first_successor_character_id": 69223,
+        "claimant_count": 1,
+        "traits_current_save": [
+          "deceitful",
+          "fickle",
+          "patient",
+          "education_diplomacy_2"
+        ]
+      },
+      {
+        "county_title_id": 1211,
+        "code": "c_sundgau",
+        "canonical_name": "Sundgau",
+        "holder_character_id": 31728,
+        "holder_name": "Louis",
+        "de_jure_under_swabia": false,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 414,
+        "holder_gold": 32.09,
+        "first_successor_character_id": 37335,
+        "claimant_count": 7,
+        "traits_current_save": [
+          "zealous",
+          "arbitrary",
+          "craven",
+          "education_stewardship_1",
+          "pilgrim",
+          "faltering_heart"
+        ]
+      },
+      {
+        "county_title_id": 1217,
+        "code": "c_ulm",
+        "canonical_name": "Ulm",
+        "holder_character_id": 33217,
+        "holder_name": "Rudolf",
+        "de_jure_under_swabia": true,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 1038,
+        "holder_gold": 201.81,
+        "first_successor_character_id": 40508,
+        "claimant_count": 0,
+        "traits_current_save": [
+          "wrathful",
+          "ambitious",
+          "arrogant",
+          "education_learning_2",
+          "whole_of_body",
+          "rough_terrain_expert"
+        ]
+      },
+      {
+        "county_title_id": 1222,
+        "code": "c_grunningen",
+        "canonical_name": "Grüningen",
+        "holder_character_id": 32163,
+        "holder_name": "Friedrich z Grüningen",
+        "de_jure_under_swabia": true,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 302,
+        "holder_gold": 73.43,
+        "first_successor_character_id": 38070,
+        "claimant_count": 0,
+        "traits_current_save": [
+          "diligent",
+          "arbitrary",
+          "lustful",
+          "education_learning_2",
+          "theologian",
+          "lifestyle_gardener"
+        ]
+      },
+      {
+        "county_title_id": 1227,
+        "code": "c_wurttemberg",
+        "canonical_name": "Württemberg",
+        "holder_character_id": 34986,
+        "holder_name": "Kuno",
+        "de_jure_under_swabia": true,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 402,
+        "holder_gold": 59.83,
+        "first_successor_character_id": 40307,
+        "claimant_count": 0,
+        "traits_current_save": [
+          "honest",
+          "cynical",
+          "arrogant",
+          "education_diplomacy_3"
+        ]
+      },
+      {
+        "county_title_id": 1235,
+        "code": "c_zollern",
+        "canonical_name": "Zollern",
+        "holder_character_id": 62640,
+        "holder_name": "Burkhard von Hohenzollern",
+        "de_jure_under_swabia": true,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 420,
+        "holder_gold": 83.32,
+        "first_successor_character_id": 68600,
+        "claimant_count": 2,
+        "traits_current_save": [
+          "ambitious",
+          "diligent",
+          "patient",
+          "education_stewardship_3",
+          "lifestyle_gardener",
+          "intellect_good_2"
+        ]
+      },
+      {
+        "county_title_id": 1239,
+        "code": "c_hohenberg",
+        "canonical_name": "Hohenberg",
+        "holder_character_id": 38601,
+        "holder_name": "Friedrich Hohenberg",
+        "de_jure_under_swabia": true,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 303,
+        "holder_gold": 99.29,
+        "first_successor_character_id": 33217,
+        "claimant_count": 0,
+        "traits_current_save": [
+          "fickle",
+          "vengeful",
+          "impatient",
+          "education_martial_2",
+          "rough_terrain_expert"
+        ]
+      },
+      {
+        "county_title_id": 1242,
+        "code": "c_furstenberg",
+        "canonical_name": "Fürstenberg",
+        "holder_character_id": 31262,
+        "holder_name": "Eberhard",
+        "de_jure_under_swabia": true,
+        "de_facto_under_swabia": true,
+        "holder_current_strength": 393,
+        "holder_gold": 32.9,
+        "first_successor_character_id": 36636,
+        "claimant_count": 0,
+        "traits_current_save": [
+          "shy",
+          "honest",
+          "arbitrary",
+          "education_intrigue_2",
+          "seducer",
+          "lifestyle_mystic"
+        ]
+      },
+      {
+        "county_title_id": 1231,
+        "code": "c_baden",
+        "canonical_name": "Baden",
+        "holder_character_id": 38899,
+        "holder_name": "Gebhard",
+        "de_jure_under_swabia": true,
+        "de_facto_under_swabia": false,
+        "holder_current_strength": 817,
+        "holder_gold": 12.78,
+        "first_successor_character_id": 38069,
+        "claimant_count": 7,
+        "traits_current_save": [
+          "gregarious",
+          "arbitrary",
+          "craven",
+          "education_stewardship_3"
+        ]
+      }
+    ],
+    "specific_claims": [
+      {
+        "title_id": 1157,
+        "claimant_id": 38603,
+        "claimant_name": "Hedwig"
+      },
+      {
+        "title_id": 1193,
+        "claimant_id": 38246,
+        "claimant_name": "Adelheid"
+      },
+      {
+        "title_id": 1235,
+        "claimant_id": 37706,
+        "claimant_name": "Gebhard"
+      },
+      {
+        "title_id": 1235,
+        "claimant_id": 38072,
+        "claimant_name": "Kuno"
+      }
+    ],
+    "active_schemes": [
+      {
+        "id": 50332181,
+        "type": "sway",
+        "owner": 62640,
+        "target": 37494,
+        "progress_raw": 310
+      },
+      {
+        "id": 621,
+        "type": "sway",
+        "owner": 33217,
+        "target": 34986,
+        "progress_raw": 295
+      },
+      {
+        "id": 33554995,
+        "type": "sway",
+        "owner": 32163,
+        "target": 45242,
+        "progress_raw": 329
+      }
+    ],
+    "count_claimants_duchy_swabia": 21,
+    "warnings": [
+      "Hohenberg: Rudolf dziedzicem przy bieżącym porządku.",
+      "Hartmann: dwa hrabstwa, syn pierwszy w kolejności, Hedwig z roszczeniem do Nördlingen.",
+      "Rudolf prowadzi sway wobec Kuna.",
+      "Baden de iure w Szwabii, de facto w Karyntii.",
+      "Sundgau 7 roszczeniodawców.",
+      "Dwie postacie mają roszczenia do Zollern."
+    ],
+    "interpretation_note": "Scenariusze i ostrzeżenia są hipotezami narratora, nie faktami przyszłości.",
+    "detail_file": "baza/Szwabia-1070-09-24.md"
   }
 }
