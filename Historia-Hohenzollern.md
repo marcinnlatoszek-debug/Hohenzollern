@@ -1,8 +1,10 @@
 # Historia Hohenzollernów — bieżący save
 
+> **BIEŻĄCY KANON — 24 września 1070:** natywny save `von_Hohenzollern.ck3` (CK3 1.20.0.4) jest najnowszym źródłem mechanicznym i ma pierwszeństwo przed screenami. **Świadomy wyjątek autorski:** Friedrich Hohenberg należy w kanonie do dynastii Hohenberg; zachowujemy oddzielne mechaniczne identyfikatory domu i dynastii zapisane w grze. Całą Szwabię opisują [sekcja 24](#24-nadrzędna-migawka-savea--szwabia-24-września-1070) i [atlas księstwa](baza/Szwabia-1070-09-24.md). Ostatnia scena literacka nadal przypada na 20 września 1070.
+
 Uporządkowano i audytowano: 7 października 2026. Nadrzędna karta: `Historia-Hohenzollern.md` w repozytorium `marcinnlatoszek-debug/Hohenzollern`. Powiązana kopia: `libfile_741508510f8881918f4aec6d592c08d2`; przed użyciem porównać jej aktualność z repozytorium.
 
-**Status: kampania aktywna. Najpóźniejszy odzyskany datowany fakt gry: 15 września 1070. Docelowa granica nowego opowiadania: 20 września 1070. Nowe potwierdzenia gracza z czerwca–września są w sekcji 22 i uaktualniają starsze zapisy o bieżącej dacie oraz etapie Hohenbergu. Sama granica opowiadania nie jest pełną migawką save’a.**
+**Status: kampania aktywna; najnowsza migawka save’a: 24 września 1070. Ostatnia scena narracji: 20 września 1070.** Starsze wpisy w tej karcie są historyczne; szczegóły bieżącej sytuacji w sekcji 24.
 
 Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym eksportem poprzednich rozmów ani pełną kopią „CZYSTEGO KANONU KONTYNUACYJNEGO BIEŻĄCEGO SAVE’A”. Brak odzyskanej informacji pozostaje brakiem danych.
 
@@ -25,6 +27,7 @@ Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym 
 | Audyt, nowe odczyty, konflikty i rejestr fotografii | Sekcja 18 |
 | Zegary świata, starzenie i karty życia postaci | Sekcja 19 |
 | Gotowość i pozostałe braki | Sekcja 20 |
+| Stan save’a i atlas całej Szwabii | Sekcja 24 i `baza/Szwabia-1070-09-24.md` |
 
 ## 1. Karta wznowienia i zapis nowych danych
 
@@ -94,6 +97,8 @@ Polecenie „Kontynuujemy kampanię Hohenzollern” należy obsłużyć przez od
 Dodano kartę kontynuacji, otwarte sprawy, regułę zapisu danych w trakcie sesji i format nowych wpisów. Podczas porządkowania dokumentu zebrano indeks tematów, historyczne karty oraz status dawnych materiałów. Zmiana organizacji nie jest wydarzeniem gry. Dotychczasową treść sekcji 2–12 zachowano. W sekcji 13 odnotowano dodatkowe odzyskane potwierdzenia gracza ze wskazaniem źródeł i brakujących dat gry. Nie ustalono nowych wydarzeń z 2–20 kwietnia ani aktualnej daty zatrzymania gry.
 
 ## 2. Zasady źródłowe
+
+**Reguła z 8 X 2026: najnowszy natywny save ma pierwszeństwo przed ekranami dla mechaniki bieżącej. Autorskie świadome korekty kanoniczne (Friedrich Hohenberg, dynastia Hohenberg) są wyjątkami od nazw gry. Pełne zasady w sekcji 24.1.**
 
 **GRA DAJE FAKT, KRONIKA DAJE ŻYCIE.**
 
@@ -988,3 +993,45 @@ Ta sekcja i `baza/swiat.json:narrative_events` zachowują pamięć scen. Nie są
 - **„Do jesieni”, po 3 czerwca – 20 września 1070:** zapisany tekst `Opowiadanie-1070-09-20.md` (`libfile_7902229d46488191a1a4a65ecc7ca2b6`). Sceny: bezsenna noc 27 VI, zlecenie dla Dietricha 9 VII, codzienność lata, rozmowa małżonków 15 IX, modlitwa Hedwig i obecność Burkharda w rocznicę śmierci Hupolda 18 IX, ogród i powrót z dzieckiem 20 IX. W nocy strażnik słyszy zdanie Burkharda o niebiosach; Hedwig słyszy tylko, że nie mógł spać. Dietrich nie obiecuje terminu. Drobna obietnica literacka Burkharda 15 IX: nie każe Hedwig sprawdzać rachunków Folmara. Hedwig 18 IX wie, że mąż pamiętał o śmierci ojca. Finał nie orzeka o bieżącym posiadaczu Hohenbergu, posiadaniu roszczenia ani wyniku działania. Dokładny przebieg i pamięć scen zapisano jako N001–N008 w bazie.
 
 **Ostatni koniec narracji: 20 września 1070, drzwi domu w Zollern, Burkhard z Ferdinandem na ręku i Hedwig obok.** Najpóźniejszy odzyskany fakt gry z dokładną datą pozostaje z 15 września (E033); granica opowiadania nie stanowi pełnego odczytu gry. Kolejna kontynuacja zaczyna się po tej scenie.
+
+
+## 24. Nadrzędna migawka save’a — Szwabia, 24 września 1070
+
+**Źródło bezpośrednie:** `von_Hohenzollern.ck3`, save CK3 1.20.0.4, data gry `1070-09-24`, SHA-256 `93c678bd1c9aa73f58ad51f504f508ff5517927dc8a6a4023a8b437f45f4decc`. **Zaktualizowano:** 8 października 2026. Szczegółowy indeks wszystkich hrabstw i hrabiów: [`baza/Szwabia-1070-09-24.md`](baza/Szwabia-1070-09-24.md). Powyższe starsze sekcje są chronologicznym archiwum — dla **bieżącego** stanu pierwszeństwo ma niniejsza migawka.
+
+### 24.1. Hierarchia źródeł i autorski wyjątek
+
+1. Świadome, jednoznaczne korekty autora **nazw/tożsamości kanonicznych** są respektowane jako rzadkie wyjątki, bez automatycznej zmiany innych danych mechanicznych.
+2. **Najświeższy natywny save CK3 jest nadrzędnym źródłem mechanik, bieżących cech, relacji, tytułów, sukcesji, wojsk i aktywnych działań**. Dane z tego save’a od razu wpisywać do głównej karty i bazy, bez wymagania screenshotu. Przy kolejnym save’ie uwzględniać nową datę stanu.
+3. Wcześniejsze save’y i screeny pozostają źródłami **historycznymi** z własnymi datami. Screeny mogą przekazać unikatowe teksty eventów, wybory i sceny nieutrwalone w późniejszym save’ie, lecz nie mają pierwszeństwa w sporze o bieżący stan.
+4. **Autorska korekta stała:** postać ID `38601` to **Friedrich Hohenberg**, członek **dynastii Hohenberg**. Mechaniczne `dynasty_house=4222` i `dynasty_id=4222` pozostają identyfikatorami tej postaci. **Burkhard** (`62640`) należy do domu `12840` i dynastii `12236`; **nie łączyć tych dynastii** na podstawie błędnej lokalizacji wspólnego nazwiska. W prozie używać wyłącznie **Friedrich Hohenberg**.
+5. **Fakty save’a są kanonem, a nie tylko poszlaką.** Nie utożsamiać jednak aktualnego stanu z nieudowodnioną przyszłością: sceniczne napięcia, domysły i prognozy mogą wynikać z cech i mechanik, ale narrator nie ogłasza jako dokonanej wojny, spisku, śmierci czy zdrady, której w grze nie ma.
+
+### 24.2. Data i kluczowi ludzie
+
+- Burkhard von Hohenzollern `62640`: hrabia Zollern; żona Hedwig `38603`; syn i następca Ferdinand `68600`. Urodzenie Burkharda wyliczone z save’a: **15 sierpnia 1050**, Ferdinanda: **30 listopada 1068**. Aktualne kody cech Burkharda: `ambitious`, `diligent`, `patient`, `education_stewardship_3`, `lifestyle_gardener`, `intellect_good_2`. Starszy ekranowy zestaw cech dotyczył wcześniejszych odczytów i nie zastępuje zapisu 24 IX.
+- Hedwig `38603`: żona Burkharda, dom Hupoldingów; aktualne cechy `paranoid`, `impatient`, `gregarious`, `education_diplomacy_1`. Ma roszczenie do Nördlingen; jej brat Hartmann `37494` pozostaje właścicielem Nördlingen i Zürich.
+- Friedrich Hohenberg `38601`: włada `c_hohenberg`, następca tytułu: **Rudolf** `33217`. Cechy `fickle`, `vengeful`, `impatient`, `education_martial_2`, `rough_terrain_expert`. Nie przenosić nazw mechanicznych dynastii z błędnej lokalizacji do kroniki.
+- Kapelan Dietrich `45489` kontynuuje `task_fabricate_claim` na cel prowincji `2759`, postęp surowy `15.4`; roszczenie i wojna o Hohenberg nie są jeszcze wynikiem tego zadania.
+- Burkhard prowadzi aktywny `sway` wobec Hartmanna (schemat `50332181`). Burkhard nadal jest marszałkiem księcia Rudolfa (`task_train_commanders`).
+- **Zollern:** siła bieżąca w polu `current_strength` `420`, złoto `83.32344`, następca Ferdinand; do hrabstwa mają roszczenia Gebhard `37706` i Kuno `38072`. **Hohenberg:** siła `303`, złoto `99.28751`; następcą Rudolf.
+
+### 24.3. Księstwo Szwabii i otoczenie
+
+- Rudolf `33217` posiada tytuł `d_swabia` `1216`, ma **11 hrabstw bezpośrednio de facto** oraz **7 hrabstw de iure**; pełny wykaz i struktura baronii w atlasie. Jego własna bieżąca siła `1038` nie jest sumą wszystkich wojsk wasali.
+- **De iure Szwabii:** Ulm, Grüningen, Württemberg, Baden, Zollern, Hohenberg, Fürstenberg. **De facto bezpośrednio Rudolfowi:** Ravensburg, Burgau, Nördlingen, Zürich, Sundgau, Ulm, Grüningen, Württemberg, Zollern, Hohenberg, Fürstenberg.
+- **Baden** de iure należy do `d_swabia`, lecz de facto pozostaje pod `d_carinthia` `1060` (książę Hermann `38069`); hrabia Gebhard `38899`. Nie dopisywać obecnej wojny o Baden na podstawie samej rozbieżności prawno-lennej.
+- **Hartmann z Zurychu** `37494` włada **dwoma hrabstwami**, posiada siłę `937`. Nördlingen i Zürich mają jako pierwszego dziedzica jego syna Hartmanna `69223`; Hedwig `38603` i Ferdinand `68600` występują dalej w kolejności. Hedwig ma tytułowe roszczenie do Nördlingen, Adelheid `38246` do Zürich. To nie dowodzi, że któraś z osób chce egzekwować roszczenie.
+- **Aktywny `sway` Rudolfa** wobec Kuna z Wirtembergii `34986` (schemat `621`) oraz **aktywny `sway` Friedricha z Grüningen** `32163` wobec Albericha `45242` (schemat `33554995`).
+- Cechę `faltering_heart` posiada Louis z Sundgau `31728`, a przy jego hrabstwie zapisano **7 roszczeniodawców**. Hrabstwo Baden ma **7 roszczeniodawców**; do samego księstwa Szwabii zapisano **21**. To materiał do uważnego śledzenia sukcesji, nie pewne prognozy zdarzeń.
+
+### 24.4. Żywe ostrzeżenia narratora (nie są nowymi zdarzeniami gry)
+
+1. **Wyścig o Hohenberg:** Dietrich nadal pracuje, ale Rudolf figuruje w succession Hohenbergu — możliwy przyszły punkt zwrotny.
+2. **Dwa hrabstwa Hartmanna:** silny wasal, syn jako następca, roszczenie siostry Hedwig do Nördlingen i małżeńskie/powinowate interesy Burkharda.
+3. **Rudolf i Kuno:** faktyczny schemat poprawy relacji — możliwa zmiana układu sił i atmosfery na książęcym dworze.
+4. **Baden a Karyntia:** rozbieżność zwierzchnictwa de iure/de facto jako polityczne tło.
+5. **Sundgau i Zollern:** realnie zapisane listy roszczeniodawców, bez domniemywania ich konkretnych planów.
+
+**Procedura:** przy każdym następnym zapisie CK3 automatycznie (w bieżącej aktywnej rozmowie) odczytać źródło, skorygować aktualny stan w sekcji 24 / najnowszej analogicznej sekcji i `baza/swiat.json`, pozostawić historię datowanych stanów, a następnie dopracować odpowiednie napięcia kroniki.
+
