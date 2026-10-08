@@ -8,6 +8,10 @@ Stan początkowy z 7 października 2026: **69 osób, 48 relacji, 6 drzew dynasti
 
 **Najnowszy natywny plik .ck3 jest źródłem bieżącej prawdy mechanicznej i ma pierwszeństwo przed screenshotami.** Wyraźne rzadkie poprawki autora, jak **Friedrich Hohenberg / dynastia Hohenberg**, są nadrzędne dla nazwy i tożsamości kanonicznej, ale nie zmieniają ID mechanicznych. Każdy kolejny save wpisywać niezwłocznie do [kanonu](../Historia-Hohenzollern.md) i `swiat.json`, zachowując historyczne migawki. **Aktualny save: 24 września 1070**, atlas księstwa: [Szwabia-1070-09-24.md](Szwabia-1070-09-24.md). Narrator może wykrywać zagrożenia i zapowiadać możliwe skutki, lecz nie dopisuje jako faktów przyszłych wojen, zdrad ani sukcesji.
 
+## Polityczne otoczenie księstwa
+
+Wczytano regionalny atlas oparty na save’ie z **24 września 1070**: [Sąsiedzi Szwabii — wojny, frakcje, sukcesje](Sasiedzi-Szwabii-1070-09-24.md). Dane strukturalne: `swiat.json:neighboring_regions_current_state`. Obejmuje 14 istotnych księstw i rozbieżności zwierzchnictwa de iure/de facto; uwzględnia m.in. trwającą wojnę o Nordgau oraz frakcję przeciw księciu Annonowi. Nie przenosić tajnych informacji z save’a do wiedzy postaci bez uzasadnionego zdarzenia.
+
 ## Jak czytać bazę
 
 | Część | Zawartość |
