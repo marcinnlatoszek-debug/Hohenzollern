@@ -5,14 +5,17 @@
   "canonical_file": "Historia-Hohenzollern.md",
   "baseline_blob": "6d964ce5bdd7c4d8b9332b3d912415535630b7bb",
   "clocks": {
-    "latest_recorded_game_date": "1070-09-24",
+    "latest_recorded_game_date": "1071-11-14",
     "last_reported_narrative_date": "1070-09-20",
     "narrative_date_source": "N008 / Do jesieni",
     "real_time_advances_game": false,
     "latest_screen_state_date": "1070-05-06",
-    "current_game_date_source": "SAVE-CK3-1070-09-24 (von_Hohenzollern.ck3)",
+    "current_game_date_source": "R1071-END",
     "target_narrative_date": "1070-09-20",
-    "latest_native_save_date": "1070-09-24"
+    "latest_native_save_date": "1071-11-14",
+    "latest_directly_parsed_native_save_date": "1070-09-24",
+    "latest_rechecked_event_screen_date": "1071-11-09",
+    "latest_checkpoint_source": "R1071-HRE"
   },
   "people": [
     {
@@ -4547,6 +4550,78 @@
       "game_date": "1070-09-24",
       "atlas": "baza/Sasiedzi-Szwabii-1070-09-24.md",
       "scope": "14 duchies, cross-border counties, active wars, factions, schemes"
+    },
+    {
+      "id": "R1071-END",
+      "kind": "recovered_conversation_record",
+      "conversation_id": "6ac63094-13d8-83eb-8767-79273b4535e0",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "native_save_reparsed_this_update": false,
+      "recorded_at": "2026-10-08"
+    },
+    {
+      "id": "R1071-HRE",
+      "kind": "recovered_conversation_record",
+      "conversation_id": "6ac63094-13d8-83eb-8767-79273b4535e0",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "native_save_reparsed_this_update": false,
+      "recorded_at": "2026-10-08"
+    },
+    {
+      "id": "R1071-MAR-SW",
+      "kind": "recovered_conversation_record",
+      "conversation_id": "6ac63094-13d8-83eb-8767-79273b4535e0",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "native_save_reparsed_this_update": false,
+      "recorded_at": "2026-10-08"
+    },
+    {
+      "id": "R1071-MAR-HRE",
+      "kind": "recovered_conversation_record",
+      "conversation_id": "6ac63094-13d8-83eb-8767-79273b4535e0",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "native_save_reparsed_this_update": false,
+      "recorded_at": "2026-10-08"
+    },
+    {
+      "id": "R1071-SESSION",
+      "kind": "recovered_conversation_record",
+      "conversation_id": "6ac63094-13d8-83eb-8767-79273b4535e0",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "native_save_reparsed_this_update": false,
+      "recorded_at": "2026-10-08"
+    },
+    {
+      "id": "IMG1071-ADALBERO",
+      "kind": "rechecked_screenshot",
+      "conversation_id": "6ac63094-13d8-83eb-8767-79273b4535e0",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "native_save_reparsed_this_update": false,
+      "recorded_at": "2026-10-08"
+    },
+    {
+      "id": "IMG1071-HARTMANN",
+      "kind": "rechecked_screenshot",
+      "conversation_id": "6ac63094-13d8-83eb-8767-79273b4535e0",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "native_save_reparsed_this_update": false,
+      "recorded_at": "2026-10-08"
+    },
+    {
+      "id": "IMG1071-CONFESSION",
+      "kind": "rechecked_screenshot",
+      "conversation_id": "6ac63094-13d8-83eb-8767-79273b4535e0",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "native_save_reparsed_this_update": false,
+      "recorded_at": "2026-10-08"
+    },
+    {
+      "id": "IMG1071-ZURICH",
+      "kind": "rechecked_screenshot",
+      "conversation_id": "6ac63094-13d8-83eb-8767-79273b4535e0",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "native_save_reparsed_this_update": false,
+      "recorded_at": "2026-10-08"
     }
   ],
   "observations": [
@@ -5073,6 +5148,129 @@
       "person_ids": [
         "P03",
         "P20"
+      ]
+    },
+    {
+      "id": "E039",
+      "kind": "campaign_update_observation",
+      "game_date": "1070-10-12",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Obrządek saski i wybór Burkharda",
+      "reading": "Pojawienie się obrządku Chrześcijaństwo (kultura saska); gracz potwierdził pozostanie Burkharda przy obrządku rzymskim.",
+      "sources": [
+        "R1071-SESSION"
+      ]
+    },
+    {
+      "id": "E040",
+      "kind": "campaign_update_observation",
+      "game_date": "1070-10-22",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Hartmann — niepowodzenie",
+      "reading": "Próba przekonania Hartmanna nie powiodła się; postęp schematu zresetowany.",
+      "sources": [
+        "R1071-SESSION"
+      ]
+    },
+    {
+      "id": "E041",
+      "kind": "campaign_update_observation",
+      "game_date": "1070-11-12",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Hartmann — kontynuacja",
+      "reading": "Burkhard kontynuuje starania o przekonanie Hartmanna.",
+      "sources": [
+        "R1071-SESSION"
+      ]
+    },
+    {
+      "id": "E042",
+      "kind": "campaign_update_observation",
+      "game_date": "1070-11-29",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Wojna przeciw Annonowi",
+      "reading": "Według marcowego odczytu wybuchła wojna wyzwoleńcza Konrada z Hohenlohe przeciw Annonowi; war=33554436.",
+      "sources": [
+        "R1071-MAR-HRE"
+      ]
+    },
+    {
+      "id": "E043",
+      "kind": "campaign_update_observation",
+      "game_date": "1071-02-24",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Środki obronne",
+      "reading": "Burkhard odblokowuje atut: +1 poziomu fortu, +20% wielkości garnizonu, interakcja Kup rozejm.",
+      "sources": [
+        "R1071-SESSION"
+      ]
+    },
+    {
+      "id": "E044",
+      "kind": "campaign_update_observation",
+      "game_date": "1071-03-14",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Fort i pośredni checkpoint",
+      "reading": "Fort stolicy poziomu 4; gracz skorygował datę ekranu z 24 II na 14 III. Postęp roszczenia Dietricha 49,6 według marcowej analizy.",
+      "sources": [
+        "R1071-SESSION",
+        "R1071-MAR-SW"
+      ]
+    },
+    {
+      "id": "E045",
+      "kind": "campaign_update_observation",
+      "game_date": "1071-06-24",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Adalbero osobistym strażnikiem",
+      "reading": "Mianowanie, dobre kompetencje; opinia +56 do +61. Tooltip: −7% potencjału wrogich spisków, szansa zapobieżenia zamachowi i zmniejszenie ryzyka w bitwie z udziałem obu postaci.",
+      "sources": [
+        "IMG1071-ADALBERO"
+      ]
+    },
+    {
+      "id": "E046",
+      "kind": "campaign_update_observation",
+      "game_date": "1071-09-25",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Hartmann — sukces fazy",
+      "reading": "Hartmann zyskuje +25 opinii, widoczna opinia +34; parametry i postęp fazy zresetowane, starania kontynuowane. Nie potwierdzono sojuszu ani przyjaźni.",
+      "sources": [
+        "IMG1071-HARTMANN"
+      ]
+    },
+    {
+      "id": "E047",
+      "kind": "campaign_update_observation",
+      "game_date": "1071-11-09",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Spowiedź i pokuta",
+      "reading": "Spowiedź u Dietricha: −15 stresu, nakaz pielgrzymki; Kara za spowiedź: −15 opinii duchowieństwa i −15% wzrostu spełnienia duchowego. Brak potwierdzenia odbycia pielgrzymki.",
+      "sources": [
+        "IMG1071-CONFESSION"
+      ]
+    },
+    {
+      "id": "E048",
+      "kind": "campaign_update_observation",
+      "game_date": null,
+      "date_evidence": "Niedatowany kadr w pakiecie 9 XI 1071",
+      "subject": "Zurych — modyfikator podatkowy",
+      "reading": "Obraz w pakiecie 9 XI 1071, bez widocznej daty gry: Niewykorzystane grunty rolne, −10% podatków z posiadłości do 18 I 1076. Początek nieustalony.",
+      "sources": [
+        "IMG1071-ZURICH"
+      ]
+    },
+    {
+      "id": "E049",
+      "kind": "campaign_update_observation",
+      "game_date": "1071-11-14",
+      "date_evidence": "Data z przypisanego źródła; szczegóły w rejestrze",
+      "subject": "Zakończenie sesji i migawka",
+      "reading": "Gracz zamyka sesję. Według wcześniejszej analizy save’a Dietrich ma 84 postępu, następcą Hohenbergu pozostaje Rudolf, sway Burkharda wobec Hartmanna nadal trwa.",
+      "sources": [
+        "R1071-END",
+        "R1071-HRE"
       ]
     }
   ],
@@ -6129,6 +6327,94 @@
         "SAVE-NEIGHBORS-1070-09-24"
       ],
       "source": "E038"
+    },
+    {
+      "id": "CH025",
+      "date_evidence": "1070-10-12",
+      "record": [
+        "Pojawienie się obrządku Chrześcijaństwo (kultura saska); gracz potwierdził pozostanie Burkharda przy obrządku rzymskim."
+      ],
+      "source": "E039"
+    },
+    {
+      "id": "CH026",
+      "date_evidence": "1070-10-22",
+      "record": [
+        "Próba przekonania Hartmanna nie powiodła się; postęp schematu zresetowany."
+      ],
+      "source": "E040"
+    },
+    {
+      "id": "CH027",
+      "date_evidence": "1070-11-12",
+      "record": [
+        "Burkhard kontynuuje starania o przekonanie Hartmanna."
+      ],
+      "source": "E041"
+    },
+    {
+      "id": "CH028",
+      "date_evidence": "1070-11-29",
+      "record": [
+        "Według marcowego odczytu wybuchła wojna wyzwoleńcza Konrada z Hohenlohe przeciw Annonowi; war=33554436."
+      ],
+      "source": "E042"
+    },
+    {
+      "id": "CH029",
+      "date_evidence": "1071-02-24",
+      "record": [
+        "Burkhard odblokowuje atut: +1 poziomu fortu, +20% wielkości garnizonu, interakcja Kup rozejm."
+      ],
+      "source": "E043"
+    },
+    {
+      "id": "CH030",
+      "date_evidence": "1071-03-14",
+      "record": [
+        "Fort stolicy poziomu 4; gracz skorygował datę ekranu z 24 II na 14 III. Postęp roszczenia Dietricha 49,6 według marcowej analizy."
+      ],
+      "source": "E044"
+    },
+    {
+      "id": "CH031",
+      "date_evidence": "1071-06-24",
+      "record": [
+        "Mianowanie, dobre kompetencje; opinia +56 do +61. Tooltip: −7% potencjału wrogich spisków, szansa zapobieżenia zamachowi i zmniejszenie ryzyka w bitwie z udziałem obu postaci."
+      ],
+      "source": "E045"
+    },
+    {
+      "id": "CH032",
+      "date_evidence": "1071-09-25",
+      "record": [
+        "Hartmann zyskuje +25 opinii, widoczna opinia +34; parametry i postęp fazy zresetowane, starania kontynuowane. Nie potwierdzono sojuszu ani przyjaźni."
+      ],
+      "source": "E046"
+    },
+    {
+      "id": "CH033",
+      "date_evidence": "1071-11-09",
+      "record": [
+        "Spowiedź u Dietricha: −15 stresu, nakaz pielgrzymki; Kara za spowiedź: −15 opinii duchowieństwa i −15% wzrostu spełnienia duchowego. Brak potwierdzenia odbycia pielgrzymki."
+      ],
+      "source": "E047"
+    },
+    {
+      "id": "CH034",
+      "date_evidence": "pakiet 1071-11-09; data kadru nieustalona",
+      "record": [
+        "Obraz w pakiecie 9 XI 1071, bez widocznej daty gry: Niewykorzystane grunty rolne, −10% podatków z posiadłości do 18 I 1076. Początek nieustalony."
+      ],
+      "source": "E048"
+    },
+    {
+      "id": "CH035",
+      "date_evidence": "1071-11-14",
+      "record": [
+        "Gracz zamyka sesję. Według wcześniejszej analizy save’a Dietrich ma 84 postępu, następcą Hohenbergu pozostaje Rudolf, sway Burkharda wobec Hartmanna nadal trwa."
+      ],
+      "source": "E049"
     }
   ],
   "inferences": [
@@ -6948,5 +7234,182 @@
       }
     ],
     "interpretation": "Fakty mechaniki zapisane jako stan 24 IX 1070. Przewidywania nie są wydarzeniami, schematy tajne nie są wiedzą postaci."
+  },
+  "campaign_checkpoints": [
+    {
+      "game_date": "1071-03-14",
+      "sources": [
+        "R1071-MAR-SW",
+        "R1071-MAR-HRE"
+      ],
+      "verification": "recovered_prior_save_analysis_not_reparsed",
+      "partial": true,
+      "swabia": {
+        "current_strength": {
+          "Rudolf": 1132,
+          "Hartmann": 912,
+          "Burkhard": 394,
+          "Kuno": 378,
+          "Friedrich_Hohenberg": 279
+        },
+        "claim_fabrication_progress": 49.6,
+        "hohenberg_successor": "Rudolf"
+      },
+      "hre": {
+        "current_strength": {
+          "Heinrich": 6676,
+          "Vratislav": 4682,
+          "Gerhard": 1598,
+          "Otto_Bavaria": 800,
+          "Hermann": 1715,
+          "Otakar": 1900,
+          "Alberto_Azzo": 1440,
+          "Guillaume": 1237,
+          "Anno": 1260,
+          "Ernst": 719,
+          "Rudolf": 1132,
+          "Dietpold": 927
+        },
+        "electoral_support": {
+          "Heinrich_son": 5,
+          "Otto_Bavaria": 3,
+          "Ugo": 3,
+          "Gottfried": 2,
+          "Ulrich_Istria": 1
+        }
+      }
+    },
+    {
+      "game_date": "1071-11-14",
+      "sources": [
+        "R1071-END",
+        "R1071-HRE"
+      ],
+      "verification": "recovered_prior_save_analysis_not_reparsed",
+      "partial": true,
+      "files": [
+        "baza/Szwabia-1071-11-14.md",
+        "baza/HRE-1071-11-14.md",
+        "baza/Sesja-do-1071-11-14.md",
+        "baza/Zrodla-1071-11-14.md"
+      ],
+      "swabia": {
+        "current_strength": {
+          "Rudolf": 1132,
+          "Hartmann": 919,
+          "Burkhard": 394,
+          "Kuno": 378,
+          "Friedrich_Hohenberg": 279
+        },
+        "approximate_strength_fields": [
+          "Hartmann"
+        ],
+        "claim_fabrication_progress": 84,
+        "hohenberg_successor": "Rudolf",
+        "burkhard_sway_target": "Hartmann",
+        "rudolf_war_found": false,
+        "large_faction_against_rudolf_found": false
+      },
+      "hre": {
+        "current_strength": {
+          "Heinrich": 6318,
+          "Vratislav": 3691,
+          "Matilda": 2918,
+          "Ordulf": 2331,
+          "Otakar": 2237,
+          "Siegfried": 1998,
+          "Gottfried": 1735,
+          "Hermann": 1711,
+          "Gerhard": 1477,
+          "Dedo": 1454,
+          "Alberto_Azzo": 1443,
+          "Pierre": 1329,
+          "Guillaume": 1237,
+          "Rudolf": 1132,
+          "Anno": 926,
+          "Otto_Bavaria": 571,
+          "Ernst": 391
+        },
+        "emperor_gold_approx": 132,
+        "emperor_monthly_income_approx": 30.3,
+        "direct_titles": {
+          "total": 92,
+          "kingdom": 1,
+          "duchy": 50,
+          "county": 41
+        },
+        "electoral_support": {
+          "Heinrich_son": 4,
+          "Gottfried": 3,
+          "Ernst_Austria": 3,
+          "Ugo": 3
+        },
+        "electoral_support_unit": "weighted_support_not_voter_count",
+        "council_tasks": {
+          "Ordulf": "integrate_title",
+          "Vratislav": "promote_culture",
+          "Otakar": "manage_guards",
+          "Matilda": "disrupt_schemes",
+          "Siegfried": "convert_faith",
+          "Bertha": "spouse"
+        },
+        "factions": [
+          {
+            "target": "Ordulf",
+            "type": "liberty",
+            "discontent": 100,
+            "power": 81.68,
+            "threshold": 45
+          },
+          {
+            "target": "Hermann",
+            "type": "claimant",
+            "claimant": "Markward",
+            "discontent": 77,
+            "power": 78.272,
+            "threshold": 50
+          },
+          {
+            "target": "Otto_Bavaria",
+            "discontent": 4,
+            "power": 56.258,
+            "threshold": 50
+          },
+          {
+            "target": "Gerhard",
+            "type": "liberty",
+            "discontent": null,
+            "power": 28.881,
+            "threshold": 70
+          }
+        ],
+        "faction_against_emperor_found": false,
+        "faith_sample": {
+          "scope": "71 direct landed holders under imperial title; not population",
+          "roman": 67,
+          "saxon": 2,
+          "ambrosian": 2
+        },
+        "wars_reference": "baza/HRE-1071-11-14.md",
+        "schemes_reference": "baza/HRE-1071-11-14.md"
+      },
+      "limits": [
+        "No completed pilgrimage confirmed",
+        "No obtained Hohenberg claim confirmed",
+        "No new literary scenes",
+        "Unreported fields remain unknown; do not copy old values as current"
+      ]
+    }
+  ],
+  "current_checkpoint": {
+    "game_date": "1071-11-14",
+    "collection": "campaign_checkpoints",
+    "source": "R1071-HRE",
+    "verification": "recovered_prior_analysis",
+    "partial": true
+  },
+  "legacy_state_notice": {
+    "swabia_current_state": "Last full persisted direct extraction: 1070-09-24. Historical despite legacy field name.",
+    "neighboring_regions_current_state": "Last full persisted direct extraction: 1070-09-24. Historical despite legacy field name."
   }
 }

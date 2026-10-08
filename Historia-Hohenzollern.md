@@ -1,10 +1,10 @@
 # Historia Hohenzollernów — bieżący save
 
-> **BIEŻĄCY KANON — 24 września 1070:** natywny save `von_Hohenzollern.ck3` (CK3 1.20.0.4) jest najnowszym źródłem mechanicznym i ma pierwszeństwo przed screenami. **Świadomy wyjątek autorski:** Friedrich Hohenberg należy w kanonie do dynastii Hohenberg; zachowujemy oddzielne mechaniczne identyfikatory domu i dynastii zapisane w grze. Całą Szwabię opisują [sekcja 24](#24-nadrzędna-migawka-savea--szwabia-24-września-1070) i [atlas księstwa](baza/Szwabia-1070-09-24.md). Ostatnia scena literacka nadal przypada na 20 września 1070.
+> **BIEŻĄCY PUNKT KAMPANII — 14 listopada 1071:** gracz zamknął sesję i przekazał nowy `von_Hohenzollern.ck3`. Ustalenia save’a przeniesiono z wcześniejszych analiz rozmowy, bez ponownego parsowania; część obrazów wydarzeń ponownie zweryfikowano. [Źródła i zakres](baza/Zrodla-1071-11-14.md), [Szwabia](baza/Szwabia-1071-11-14.md), [HRE](baza/HRE-1071-11-14.md), [chronologia](baza/Sesja-do-1071-11-14.md). **Gra daje fakt, kronika daje życie.** Wyjątek autora: Friedrich Hohenberg, dynastia Hohenberg. Ostatnia scena literacka pozostaje z 20 września 1070; starsze migawki zachowują własne daty.
 
 Uporządkowano i audytowano: 7 października 2026. Nadrzędna karta: `Historia-Hohenzollern.md` w repozytorium `marcinnlatoszek-debug/Hohenzollern`. Powiązana kopia: `libfile_741508510f8881918f4aec6d592c08d2`; przed użyciem porównać jej aktualność z repozytorium.
 
-**Status: kampania aktywna; najnowsza migawka save’a: 24 września 1070. Ostatnia scena narracji: 20 września 1070.** Starsze wpisy w tej karcie są historyczne; szczegóły bieżącej sytuacji w sekcji 24.
+**Status: kampania aktywna; najnowszy zgłoszony save: 14 listopada 1071. Ostatnia scena narracji: 20 września 1070.** Bieżące uzupełnienie w sekcji 26; sekcje 24–25 zachowują stan z 24 IX 1070.
 
 Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym eksportem poprzednich rozmów ani pełną kopią „CZYSTEGO KANONU KONTYNUACYJNEGO BIEŻĄCEGO SAVE’A”. Brak odzyskanej informacji pozostaje brakiem danych.
 
@@ -27,12 +27,15 @@ Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym 
 | Audyt, nowe odczyty, konflikty i rejestr fotografii | Sekcja 18 |
 | Zegary świata, starzenie i karty życia postaci | Sekcja 19 |
 | Gotowość i pozostałe braki | Sekcja 20 |
-| Stan save’a i atlas całej Szwabii | Sekcja 24 i `baza/Szwabia-1070-09-24.md` |
+| Historyczny stan Szwabii, 24 IX 1070 | Sekcja 24 i `baza/Szwabia-1070-09-24.md` |
+| Aktualizacja do 14 XI 1071 | Sekcja 26; nowe atlasy Szwabii i HRE, chronologia i rejestr źródeł |
 | Księstwa sąsiednie, wojny, frakcje | Sekcja 25 i `baza/Sasiedzi-Szwabii-1070-09-24.md` |
 
 ## 1. Karta wznowienia i zapis nowych danych
 
 Aktualizacja organizacji zapisu: 7 października 2026. Nie jest to nowe wydarzenie w grze.
+
+**Odsyłacz aktualizujący:** poniższa karta zachowuje wcześniejszy etap wiedzy. Przy wznowieniu na 14 XI 1071 najpierw czytać sekcję 26 i jej datowane atlasy; nie uznawać poniższych dawnych dat za bieżący zegar.
 
 **Główna karta do dalszej pracy: ten plik „Historia-Hohenzollern.md”.** Starsze kanony są źródłami historycznymi; nie tworzyć kolejnej równoległej karty bieżącego stanu. Identyfikator tej karty: `libfile_741508510f8881918f4aec6d592c08d2`.
 
@@ -998,7 +1001,7 @@ Ta sekcja i `baza/swiat.json:narrative_events` zachowują pamięć scen. Nie są
 
 ## 24. Nadrzędna migawka save’a — Szwabia, 24 września 1070
 
-**Źródło bezpośrednie:** `von_Hohenzollern.ck3`, save CK3 1.20.0.4, data gry `1070-09-24`, SHA-256 `93c678bd1c9aa73f58ad51f504f508ff5517927dc8a6a4023a8b437f45f4decc`. **Zaktualizowano:** 8 października 2026. Szczegółowy indeks wszystkich hrabstw i hrabiów: [`baza/Szwabia-1070-09-24.md`](baza/Szwabia-1070-09-24.md). Powyższe starsze sekcje są chronologicznym archiwum — dla **bieżącego** stanu pierwszeństwo ma niniejsza migawka.
+**Źródło bezpośrednie:** `von_Hohenzollern.ck3`, save CK3 1.20.0.4, data gry `1070-09-24`, SHA-256 `93c678bd1c9aa73f58ad51f504f508ff5517927dc8a6a4023a8b437f45f4decc`. **Zaktualizowano:** 8 października 2026. Szczegółowy indeks wszystkich hrabstw i hrabiów: [`baza/Szwabia-1070-09-24.md`](baza/Szwabia-1070-09-24.md). Powyższe starsze sekcje są chronologicznym archiwum — dla stanu **24 IX 1070** pierwszeństwo ma niniejsza migawka. Aktualizacja do 14 XI 1071 jest w sekcji 26; nie nadpisuje niniejszych danych historycznych.
 
 ### 24.1. Hierarchia źródeł i autorski wyjątek
 
@@ -1051,3 +1054,27 @@ Ta sekcja i `baza/swiat.json:narrative_events` zachowują pamięć scen. Nie są
 
 **Zasada interpretacyjna:** chronologia i bieżące działania są faktem z save’a. Napięcie, wiadomości dochodzące do Zollern, rozmowy i możliwe skutki są warstwą kroniki. Nie przypisywać bohaterom nieujawnionych sekretów ani nie orzekać o przyszłych wynikach wojny, buntu czy intrygi. Najnowszy save zachowuje pierwszeństwo przed wcześniejszymi screenami z wyjątkiem rzadkich świadomych korekt autorskich (Friedrich Hohenberg, dynastia Hohenberg).
 
+
+## 26. Aktualizacja kampanii do 14 listopada 1071
+
+**Gra daje fakt, kronika daje życie.** Zaktualizowano 8 października 2026. Punkt końcowy sesji potwierdził gracz; dane save’ów z 14 III i 14 XI 1071 odzyskano z ich wcześniejszych analiz w rozmowie „Kontynuacja wirtualnego świata”. Nie wykonano ponownego parsowania pliku. Ponownie obejrzano obrazy Adalbera, Hartmanna, spowiedzi i Zurychu. Szczegółowa metryka i identyfikatory wiadomości: [rejestr źródeł](baza/Zrodla-1071-11-14.md).
+
+### 26.1. Nowe zdarzenia mechaniczne
+
+[Pełna chronologia](baza/Sesja-do-1071-11-14.md): pozostanie przy obrządku rzymskim 12 X 1070; nieudane przekonywanie Hartmanna 22 X i kontynuacja 12 XI; „Środki obronne” 24 II 1071; fort poziomu 4 potwierdzony **14 III** po korekcie gracza; Adalbero osobistym strażnikiem 24 VI; udana faza przekonywania Hartmanna 25 IX (+25 opinii, widoczne +34, dalsze starania); spowiedź 9 XI (−15 stresu) i nakaz pielgrzymki z karą −15 opinii duchowieństwa oraz −15% wzrostu spełnienia duchowego.
+
+Nie potwierdzono odbycia pielgrzymki. Zurych ma w listopadowym pakiecie ekranów −10% podatków z posiadłości do 18 I 1076; początek modyfikatora nieustalony.
+
+### 26.2. Szwabia na 14 XI
+
+[Nowa migawka Szwabii](baza/Szwabia-1071-11-14.md): Rudolf 1132 siły, Hartmann około 919, Burkhard 394, Kuno 378, Friedrich Hohenberg 279. Dietrich ma 84 punkty postępu fabrykowania roszczenia (15,4 we wrześniu 1070, 49,6 w marcu 1071). Następcą Hohenbergu pozostaje Rudolf. Schemat Burkharda wobec Hartmanna nadal aktywny. Brak potwierdzenia uzyskania roszczenia, wojny o Hohenberg, sojuszu lub przyjaźni z Hartmannem.
+
+### 26.3. HRE na 14 XI
+
+[Nowa migawka HRE](baza/HRE-1071-11-14.md): Heinrich IV 6318 siły; syn Heinrich prowadzi w zapisanym poparciu elektorskim 4:3:3:3. Osiem odnotowanych wojen z udziałem ludzi HRE obejmuje wojnę wyzwoleńczą przeciw Annonowi, rozpoczętą według marcowego odczytu 29 XI 1070. Nie wykryto aktywnej frakcji bezpośrednio przeciw cesarzowi; osobno odnotowano frakcje Ordulfa, Hermanna, Ottona z Bawarii i Gerharda. Struktura religijna badanych 71 posiadaczy: 67 rzymskich, 2 saskich, 2 ambrozjańskich.
+
+Stan schematów jest wiedzą analityczną. Hedwig będącej celem Ordulfa nie utożsamiamy z żoną Burkharda bez identyfikacji. Motywacji cesarskiego `sway` wobec Siegfrieda nie ustalono.
+
+### 26.4. Ciągłość i ograniczenia
+
+Zegar gry: **14 XI 1071**. Zegar literacki: **20 IX 1070**. Nowych scen, myśli ani wspomnień nie dodano. Sekcje 24–25 i oba atlasy 1070-09-24 pozostają historyczne. Nowy checkpoint w `baza/swiat.json` jest częściowy i ma jawne źródła; brak odczytu pola nie dowodzi braku zmiany. Interpretacje są wyłącznie w osobno oznaczonych częściach nowych atlasów.

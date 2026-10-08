@@ -6,9 +6,18 @@ Stan początkowy z 7 października 2026: **69 osób, 48 relacji, 6 drzew dynasti
 
 ## Priorytet natywnego save’a — od 8 października 2026
 
-**Najnowszy natywny plik .ck3 jest źródłem bieżącej prawdy mechanicznej i ma pierwszeństwo przed screenshotami.** Wyraźne rzadkie poprawki autora, jak **Friedrich Hohenberg / dynastia Hohenberg**, są nadrzędne dla nazwy i tożsamości kanonicznej, ale nie zmieniają ID mechanicznych. Każdy kolejny save wpisywać niezwłocznie do [kanonu](../Historia-Hohenzollern.md) i `swiat.json`, zachowując historyczne migawki. **Aktualny save: 24 września 1070**, atlas księstwa: [Szwabia-1070-09-24.md](Szwabia-1070-09-24.md). Narrator może wykrywać zagrożenia i zapowiadać możliwe skutki, lecz nie dopisuje jako faktów przyszłych wojen, zdrad ani sukcesji.
+**Najnowszy natywny plik .ck3 jest źródłem bieżącej prawdy mechanicznej i ma pierwszeństwo przed screenshotami.** Wyraźne rzadkie poprawki autora, jak **Friedrich Hohenberg / dynastia Hohenberg**, są nadrzędne dla nazwy i tożsamości kanonicznej, ale nie zmieniają ID mechanicznych. Każdy kolejny save wpisywać niezwłocznie do [kanonu](../Historia-Hohenzollern.md) i `swiat.json`, zachowując historyczne migawki. **Aktualny punkt kampanii: 14 listopada 1071**, zgodnie z zakończeniem sesji przez gracza. Nowe atlasy: [Szwabia](Szwabia-1071-11-14.md), [HRE](HRE-1071-11-14.md). Listopadowe dane save’a przeniesiono z wcześniejszej analizy, bez ponownego parsowania; [zakres weryfikacji](Zrodla-1071-11-14.md). [Atlas 24 IX 1070](Szwabia-1070-09-24.md) pozostaje historyczny. Narrator może wykrywać zagrożenia i zapowiadać możliwe skutki, lecz nie dopisuje jako faktów przyszłych wojen, zdrad ani sukcesji.
 
-## Polityczne otoczenie księstwa
+## Aktualizacja do 14 listopada 1071
+
+- [Chronologia wydarzeń sesji](Sesja-do-1071-11-14.md).
+- [Szwabia — nowa migawka i porównanie trzech dat](Szwabia-1071-11-14.md).
+- [HRE — władcy, elekcja, rada, wojny, frakcje, religia i schematy](HRE-1071-11-14.md).
+- [Źródła i granice weryfikacji](Zrodla-1071-11-14.md).
+
+W `swiat.json` nowy punkt zapisano jako `campaign_checkpoints` z własnymi datami i źródłami. Pola `swabia_current_state` i `neighboring_regions_current_state` zachowują **ostatni pełny odczyt z 24 IX 1070**; mimo dawnych nazw nie są pełnym stanem listopadowym. Nie przenosić ich nieaktualizowanych pól na nową datę. `clocks.latest_directly_parsed_native_save_date` rozróżnia ostatni utrwalony bezpośredni odczyt od najnowszego save’a zgłoszonego przez gracza.
+
+## Polityczne otoczenie księstwa — archiwum 24 IX 1070
 
 Wczytano regionalny atlas oparty na save’ie z **24 września 1070**: [Sąsiedzi Szwabii — wojny, frakcje, sukcesje](Sasiedzi-Szwabii-1070-09-24.md). Dane strukturalne: `swiat.json:neighboring_regions_current_state`. Obejmuje 14 istotnych księstw i rozbieżności zwierzchnictwa de iure/de facto; uwzględnia m.in. trwającą wojnę o Nordgau oraz frakcję przeciw księciu Annonowi. Nie przenosić tajnych informacji z save’a do wiedzy postaci bez uzasadnionego zdarzenia.
 
@@ -64,7 +73,7 @@ Wiek liczyć z potwierdzonej daty urodzenia. Przy wieku z datowanej karty używa
 
 ## Czas i wznowienie
 
-Najnowszy zapisany punkt gry: **6 maja 1070**. Ostatni zgłoszony punkt kroniki: **1 maja 1070**. Przy wznowieniu czytać aktualny kanon i bazę, a następnie sprawdzić nowy screen. Upływ czasu w świecie wynika z kampanii i scen; upływ rzeczywistych godzin nie przesuwa gry.
+Najnowszy zapisany punkt gry: **14 listopada 1071** (R1071-END). Ostatni utrwalony punkt kroniki: **20 września 1070** (N008). Przy wznowieniu czytać aktualny kanon i bazę, a następnie sprawdzić nowy screen. Upływ czasu w świecie wynika z kampanii i scen; upływ rzeczywistych godzin nie przesuwa gry.
 
 Baza jest trwałą pamięcią i podstawą prowadzenia świata w kolejnych sesjach. Sama obecność danych na GitHubie nie uruchamia symulacji w tle. Właściwe opowiadania mają otrzymywać pakiet z faktami, czasem, ludźmi i pamięcią scen zgodnie z sekcją 16 kanonu.
 
