@@ -1,10 +1,10 @@
 # Historia Hohenzollernów — bieżący save
 
-> **BIEŻĄCY PUNKT KAMPANII — 14 listopada 1071:** gracz zamknął sesję i przekazał nowy `von_Hohenzollern.ck3`. Ustalenia save’a przeniesiono z wcześniejszych analiz rozmowy, bez ponownego parsowania; część obrazów wydarzeń ponownie zweryfikowano. [Źródła i zakres](baza/Zrodla-1071-11-14.md), [Szwabia](baza/Szwabia-1071-11-14.md), [HRE](baza/HRE-1071-11-14.md), [chronologia](baza/Sesja-do-1071-11-14.md). **Gra daje fakt, kronika daje życie.** Wyjątek autora: Friedrich Hohenberg, dynastia Hohenberg. Ostatnia scena literacka pozostaje z 20 września 1070; starsze migawki zachowują własne daty.
+> **BIEŻĄCY PUNKT KAMPANII — 14 listopada 1071:** gracz zamknął sesję i przekazał nowy `von_Hohenzollern.ck3`. Ustalenia z wcześniejszych analiz rozmowy zachowano w sekcji 26; nowy plik binarny został ponownie odczytany 9 października 2026, a skorygowane pola zapisano w sekcji 27. [Źródła i zakres](baza/Zrodla-1071-11-14.md), [Szwabia](baza/Szwabia-1071-11-14.md), [HRE](baza/HRE-1071-11-14.md), [chronologia](baza/Sesja-do-1071-11-14.md). **Gra daje fakt, kronika daje życie.** Wyjątek autora: Friedrich Hohenberg, dynastia Hohenberg. Ostatnia scena literacka pozostaje z 20 września 1070; starsze migawki zachowują własne daty.
 
 Uporządkowano i audytowano: 7 października 2026. Nadrzędna karta: `Historia-Hohenzollern.md` w repozytorium `marcinnlatoszek-debug/Hohenzollern`. Powiązana kopia: `libfile_741508510f8881918f4aec6d592c08d2`; przed użyciem porównać jej aktualność z repozytorium.
 
-**Status: kampania aktywna; najnowszy zgłoszony save: 14 listopada 1071. Ostatnia scena narracji: 20 września 1070.** Bieżące uzupełnienie w sekcji 26; sekcje 24–25 zachowują stan z 24 IX 1070.
+**Status: kampania aktywna; najnowszy zgłoszony save: 14 listopada 1071. Ostatnia scena narracji: 20 września 1070.** Bezpośrednio zweryfikowany checkpoint w sekcji 27; wcześniejsze zestawienie pośrednie w sekcji 26; sekcje 24–25 zachowują stan z 24 IX 1070.
 
 Dokument zachowuje odzyskane fakty z ich datami i źródłami. Nie jest pełnym eksportem poprzednich rozmów ani pełną kopią „CZYSTEGO KANONU KONTYNUACYJNEGO BIEŻĄCEGO SAVE’A”. Brak odzyskanej informacji pozostaje brakiem danych.
 
@@ -1078,3 +1078,48 @@ Stan schematów jest wiedzą analityczną. Hedwig będącej celem Ordulfa nie ut
 ### 26.4. Ciągłość i ograniczenia
 
 Zegar gry: **14 XI 1071**. Zegar literacki: **20 IX 1070**. Nowych scen, myśli ani wspomnień nie dodano. Sekcje 24–25 i oba atlasy 1070-09-24 pozostają historyczne. Nowy checkpoint w `baza/swiat.json` jest częściowy i ma jawne źródła; brak odczytu pola nie dowodzi braku zmiany. Interpretacje są wyłącznie w osobno oznaczonych częściach nowych atlasów.
+
+
+## 27. Bezpośrednia weryfikacja najnowszego save’a — 14 listopada 1071
+
+**Data odczytu:** 9 października 2026. **Data gry:** 14 listopada 1071. **Wersja CK3:** 1.20.0.4. **Źródło:** bezpośrednio rozpakowany i zdekodowany ponownie przekazany `von_Hohenzollern.ck3`, SHA-256: `66f7fd51433471d306f7ae307e5692a7ada072322ad47e6c4964ee81a5f78733`. Porównano wybrane tożsame identyfikatory postaci i ich `current_strength` ze stanem **14 marca 1071**. Dokumentacja w [rejestrze źródeł](baza/Zrodla-1071-11-14.md).
+
+**Reguła pierwszeństwa:** liczby i zgon potwierdzone bezpośrednio poniżej **zastępują wyłącznie odpowiadające im pola wcześniejszej rekonstrukcji z sekcji 26 i atlasów**, nie unieważniając jej informacji o innych mechanikach ani starszych stanów datowanych.
+
+### 27.1. Hohenzollernowie i Szwabia
+
+- **Burkhard von Hohenzollern** (ID 62640): hrabia Zollern, `current_strength=394`, tak samo jak w marcu; małżonka **Hedwig** (ID 38603), syn **Ferdinand** (ID 68600), ur. **30 listopada 1068** według daty w save’ie. Obecność tej trójki potwierdzono w najnowszym zapisie.
+- **Rudolf von Rheinfelden** (ID 33217): `1132 → 1154` (marzec → listopad).
+- **Hartmann** (ID 37494): `912 → 922`.
+- **Kuno z Wirtembergii** (ID 34986): `378 → 378`.
+- **Friedrich Hohenberg** (ID 38601): `279 → 279`; zachowuje kanoniczną tożsamość **dynastia Hohenberg**, odrębną od Hohenzollernów.
+- **Hermann z Karyntii** (ID 38069): `1715 → 1678`; **Gebhard z Badenii** (ID 38899): `813 → 814`; **Eberhard** (ID 31262): `365 → 365`; **Friedrich z Grüningen** (ID 32163): `278 → 352`.
+
+Sama zmiana siły nie dowodzi zmiany granic, sojuszy, wyniku wojny ani jej przyczyn. Wspomniane dalej zadanie Dietricha, przekonywanie Hartmanna i sukcesja Hohenbergu zachowują podstawę w **poprzedniej analizie pośredniej**, bez ponownego pełnego odczytu mechanik.
+
+### 27.2. Cesarstwo — poprawione siły postaci
+
+Bieżące `current_strength` z bezpośredniego odczytu, **14 XI 1071**:
+
+| Władca | Siła | Władca | Siła |
+|---|---:|---|---:|
+| Heinrich IV | 6412 | Vratislav | 3643 |
+| Matilda | 2946 | Ordulf | 2285 |
+| Otakar | 1868 | Siegfried | 1999 |
+| Gottfried | 1736 | Hermann | 1678 |
+| Gerhard | 1490 | Dedo | 1428 |
+| Pierre | 1357 | Guillaume | 1237 |
+| Rudolf | 1154 | Anno | 943 |
+| Otto z Bawarii | 571 | Ernst z Austrii | 385 |
+
+**Alberto-Azzo (ID 30342) zmarł 10 października 1071.** W poprzednim marcowym punkcie kontrolnym figurował jeszcze jako żyjący, z siłą 1440. Nie przedstawiać jego dawnej siły jako listopadowej ani nie dopowiadać następcy, przyczyny śmierci czy przebiegu sukcesji bez odczytu tytułów.
+
+Zestawienia personalne, stan rodziny i zgon są sprawdzone bezpośrednio. **Elekcja cesarska, wojny, frakcje, schematy, dochody, złoto i szczegółowa struktura tytułów nie zostały kompleksowo zweryfikowane w tym parsowaniu.** Ich wcześniejszy zapis pozostaje obserwacją pośrednią, a nie wynikiem niniejszej kontroli.
+
+### 27.3. Dwa zegary i bezpieczeństwo kanonu
+
+- **Zegar gry:** 14 listopada 1071 — bieżący zapis kampanii.
+- **Zegar właściwej kroniki literackiej:** 20 września 1070 — ostatnia utrwalona scena; nie wykonano skoku fabularnego do listopada 1071.
+- Nakazana pielgrzymka nie jest ukończoną pielgrzymką. Postęp fabrykowania roszczenia do Hohenbergu nie oznacza jego uzyskania. Nie nadano nowym postaciom ani istniejącym schematom niepotwierdzonych motywów.
+
+**GRA DAJE FAKT, KRONIKA DAJE ŻYCIE.**
