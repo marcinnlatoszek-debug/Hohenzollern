@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "campaign": "Nobilis gens Hohenzollern",
-  "prepared_at": "2026-10-07",
+  "prepared_at": "2026-10-09",
   "canonical_file": "Historia-Hohenzollern.md",
   "baseline_blob": "6d964ce5bdd7c4d8b9332b3d912415535630b7bb",
   "clocks": {
@@ -13,9 +13,9 @@
     "current_game_date_source": "R1071-END",
     "target_narrative_date": "1070-09-20",
     "latest_native_save_date": "1071-11-14",
-    "latest_directly_parsed_native_save_date": "1070-09-24",
+    "latest_directly_parsed_native_save_date": "1071-11-14",
     "latest_rechecked_event_screen_date": "1071-11-09",
-    "latest_checkpoint_source": "R1071-HRE"
+    "latest_checkpoint_source": "SAVE-CK3-BINARY-1071-11-14"
   },
   "people": [
     {
@@ -28,7 +28,8 @@
       "sources": [
         "KANON-19.3",
         "E030",
-        "SAVE-CK3-1070-09-24"
+        "SAVE-CK3-1070-09-24",
+        "SAVE-CK3-BINARY-1071-11-14"
       ],
       "life": {
         "scene_date": "1070-09-20",
@@ -120,7 +121,8 @@
       "continuity": "Małżeństwo, macierzyństwo, brat Hartmann, zgon ojca, dom Hupoldingów / dynastia Etichonenów",
       "sources": [
         "KANON-19.3",
-        "SAVE-CK3-1070-09-24"
+        "SAVE-CK3-1070-09-24",
+        "SAVE-CK3-BINARY-1071-11-14"
       ],
       "life": {
         "scene_date": "1070-09-20",
@@ -202,7 +204,8 @@
       "continuity": "Senior Burkharda, własna rada, małżonka i czworo dzieci; nie łączyć wszystkich w jednej scenie bez podstaw",
       "sources": [
         "KANON-19.3",
-        "SAVE-CK3-1070-09-24"
+        "SAVE-CK3-1070-09-24",
+        "SAVE-CK3-BINARY-1071-11-14"
       ],
       "life": {
         "scene_date": null,
@@ -1095,7 +1098,8 @@
       "continuity": null,
       "sources": [
         "KANON-6",
-        "SAVE-CK3-1070-09-24"
+        "SAVE-CK3-1070-09-24",
+        "SAVE-CK3-BINARY-1071-11-14"
       ],
       "life": {
         "scene_date": "1070-09-20",
@@ -2773,7 +2777,8 @@
       "age_evidence": null,
       "continuity": null,
       "sources": [
-        "KANON-17.5"
+        "KANON-17.5",
+        "SAVE-CK3-BINARY-1071-11-14"
       ],
       "life": {
         "scene_date": null,
@@ -2804,7 +2809,9 @@
       "unknowns": [
         "Dokładna data urodzenia",
         "Bieżący fizyczny pobyt"
-      ]
+      ],
+      "death_date": "1071-10-10",
+      "death_date_source": "SAVE-CK3-BINARY-1071-11-14"
     },
     {
       "id": "P66",
@@ -4622,6 +4629,17 @@
       "registry": "baza/Zrodla-1071-11-14.md",
       "native_save_reparsed_this_update": false,
       "recorded_at": "2026-10-08"
+    },
+    {
+      "id": "SAVE-CK3-BINARY-1071-11-14",
+      "kind": "native_save_directly_parsed",
+      "file_name": "von_Hohenzollern.ck3",
+      "sha256": "66f7fd51433471d306f7ae307e5692a7ada072322ad47e6c4964ee81a5f78733",
+      "game_date": "1071-11-14",
+      "version": "1.20.0.4",
+      "registry": "baza/Zrodla-1071-11-14.md",
+      "recorded_at": "2026-10-09",
+      "scope": "selected character identities and kinships, current_strength, Alberto-Azzo death"
     }
   ],
   "observations": [
@@ -7283,9 +7301,10 @@
       "game_date": "1071-11-14",
       "sources": [
         "R1071-END",
-        "R1071-HRE"
+        "R1071-HRE",
+        "SAVE-CK3-BINARY-1071-11-14"
       ],
-      "verification": "recovered_prior_save_analysis_not_reparsed",
+      "verification": "direct_binary_characters_and_death_plus_indirect_other_sections",
       "partial": true,
       "files": [
         "baza/Szwabia-1071-11-14.md",
@@ -7295,15 +7314,13 @@
       ],
       "swabia": {
         "current_strength": {
-          "Rudolf": 1132,
-          "Hartmann": 919,
+          "Rudolf": 1154,
+          "Hartmann": 922,
           "Burkhard": 394,
           "Kuno": 378,
           "Friedrich_Hohenberg": 279
         },
-        "approximate_strength_fields": [
-          "Hartmann"
-        ],
+        "approximate_strength_fields": [],
         "claim_fabrication_progress": 84,
         "hohenberg_successor": "Rudolf",
         "burkhard_sway_target": "Hartmann",
@@ -7312,23 +7329,22 @@
       },
       "hre": {
         "current_strength": {
-          "Heinrich": 6318,
-          "Vratislav": 3691,
-          "Matilda": 2918,
-          "Ordulf": 2331,
-          "Otakar": 2237,
-          "Siegfried": 1998,
-          "Gottfried": 1735,
-          "Hermann": 1711,
-          "Gerhard": 1477,
-          "Dedo": 1454,
-          "Alberto_Azzo": 1443,
-          "Pierre": 1329,
+          "Heinrich": 6412,
+          "Vratislav": 3643,
+          "Matilda": 2946,
+          "Ordulf": 2285,
+          "Otakar": 1868,
+          "Siegfried": 1999,
+          "Gottfried": 1736,
+          "Hermann": 1678,
+          "Gerhard": 1490,
+          "Dedo": 1428,
+          "Pierre": 1357,
           "Guillaume": 1237,
-          "Rudolf": 1132,
-          "Anno": 926,
+          "Rudolf": 1154,
+          "Anno": 943,
           "Otto_Bavaria": 571,
-          "Ernst": 391
+          "Ernst": 385
         },
         "emperor_gold_approx": 132,
         "emperor_monthly_income_approx": 30.3,
@@ -7391,21 +7407,45 @@
           "ambrosian": 2
         },
         "wars_reference": "baza/HRE-1071-11-14.md",
-        "schemes_reference": "baza/HRE-1071-11-14.md"
+        "schemes_reference": "baza/HRE-1071-11-14.md",
+        "deceased_in_period": [
+          {
+            "save_character_id": 30342,
+            "name": "Alberto-Azzo",
+            "death_date": "1071-10-10",
+            "verification": "native_binary_save",
+            "cause": "unknown",
+            "succession": "not_verified"
+          }
+        ]
       },
       "limits": [
         "No completed pilgrimage confirmed",
         "No obtained Hohenberg claim confirmed",
         "No new literary scenes",
-        "Unreported fields remain unknown; do not copy old values as current"
-      ]
+        "Unreported fields remain unknown; do not copy old values as current",
+        "Direct native reparse covers selected characters, current_strength, family links, and death date; political schemas, election, factions, war outcomes, councils and title succession remain from prior indirect analysis."
+      ],
+      "direct_binary_character_id_map": {
+        "Burkhard": 62640,
+        "Hedwig": 38603,
+        "Ferdinand": 68600,
+        "Rudolf": 33217,
+        "Hartmann": 37494,
+        "Friedrich_Hohenberg": 38601,
+        "Kuno": 34986,
+        "Heinrich": 38652,
+        "Vratislav": 34276,
+        "Alberto_Azzo": 30342
+      },
+      "direct_binary_character_id_map_scope": "identification only; not exhaustive"
     }
   ],
   "current_checkpoint": {
     "game_date": "1071-11-14",
     "collection": "campaign_checkpoints",
-    "source": "R1071-HRE",
-    "verification": "recovered_prior_analysis",
+    "source": "SAVE-CK3-BINARY-1071-11-14",
+    "verification": "native_binary_partial_reparse_and_other_indirect_analysis",
     "partial": true
   },
   "legacy_state_notice": {
