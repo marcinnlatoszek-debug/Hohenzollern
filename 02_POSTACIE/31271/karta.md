@@ -1,5 +1,23 @@
 # Eberhard — CK3 ID 31271
 
+## Nowe źródła ekranowe — Eberhard VI von Nellenburg (obserwacja 20 X 1066 według nazwy portretu)
+
+**POTWIERDZONE_SCREEN:** ekran: `Zrzut ekranu 2026-10-10 204153.png` (załącznik `file_000000000670824389063cfd3ec22ccb`), portret Barber Shop: `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0001.png` (załącznik `file_000000005cd481f4a9e3ab038703135e`). Obydwa obrazy przedstawiają tę samą postać. Nazwa eksportu Barber Shop automatycznie zawiera „Burkhard”, lecz przedstawia Eberharda. Data świata **1066-10-20** pochodzi z nazwy pliku portretu; sam panel karty nie pokazuje zegara gry.
+
+- Pełna nazwa z ekranu: **Count Eberhard VI of Nellenburg**, wiek **51**, ród **Nellenburg**; tożsamość powiązana z istniejącym CK3 ID **31271**.
+- Rola: **Duke Rudolf's Steward** — zarządca księcia Rudolfa, a nie doradca Burkharda. **Feudal Realm Vassal**, **County of Nellenburg**. Klucz tytułu w save z 18 IX: `c_furstenberg` 1242, nazwa lokalna `Nellenburg`.
+- Kultura: **Swabian**; obrządek: **Roman Rite**. Zapis z 18 IX nie miał jawnie rozpoznanej kultury tej osoby, więc obecna identyfikacja pochodzi bezpośrednio z ekranu.
+- Podsumowanie osobowości w interfejsie: **Paragon**; NIE jest to lista cech. Cechy mechaniczne ze starszego save: `shy`, `stubborn`, `just`, `education_stewardship_1`, `architect`.
+- Umiejętności z panelu (DIP / MAR / STE / INT / LEA / PRO): **4 / 2 / 14 / 2 / 2 / 7**. To wartości efektywne z interfejsu; nie nadpisują bazowego `skill=[6,2,5,5,0,7]` z 18 IX.
+- Widoczne wartości ekranowe: **108 złota**, **901 prestiżu**, **101 pobożności**, **338 żołnierzy**, 1 tytuł, **Family 9**, **Children 7**, **Courtiers 9**, **Subjects 0**. Nie utożsamiać ich ze stanem 18 IX.
+- Widać wskaźniki **−26** przy głównej postaci i **−77** przy portrecie Liege. Bez tooltipów nie ustalono dokładnej semantyki tych wskaźników; nie przypisano ocen moralnych ani trwałej wrogości.
+- Siedmioro dzieci na screenie jest zgodne z liczbą siedmiu wpisów `child` w save 18 IX; ich imiona i ID podano w historycznej części niniejszej karty. Widoczny Primary Heir nie stanowi sam w sobie identyfikacji konkretnego dziecka.
+
+**Zaktualizowano referencje:** [opis wyglądu](wyglad.md), [charakter i wskazówki do narracji](profil_narracyjny.md), [dowody i ograniczenia](zrodla.md), [indeks screenów](../../06_MATERIALY_ZRODLOWE/indeks_screenow.md).
+
+**Uwaga archiwalna:** poniższe wcześniejsze wzmianki o „braku zatwierdzonego portretu” opisują stan dokumentacji sprzed tego uzupełnienia. Oryginalne pliki PNG są załącznikami rozmowy, a nie fizycznymi plikami repozytorium.
+
+
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 
 ## Aktualny odczyt własnego rekordu
