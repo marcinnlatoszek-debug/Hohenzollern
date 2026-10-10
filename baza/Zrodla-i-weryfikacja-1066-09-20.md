@@ -32,7 +32,12 @@ Oryginalne save’y pozostają w Library; GitHub zawiera **wyciąg**, nie w cał
 - Z folderów modów: common/script_values, common/scripted_effects, common/scripted_triggers, common/laws, common/court_positions, common/traits, localization, events oraz deskryptory wersji.
 - Z gry: pełny bilans netto i jego składowe, tooltipy podatków i praw, utrzymanie lokalnych urzędów/wojsk, zmiany budynków, opinie Norberta, Sigismundów, Wolframa i kapelana.
 - Po nowym save: porównanie county_destruction, county_settlement, pop_*, migracji, rozwoju, dochodów i poparcia.
-- Potwierdzenie władców i liczebności całej Szwabii z nowej daty — **nie przenosić liczb z dawnej kampanii 1071**.
+- Dla 20 IX ustalono wszystkich 17 posiadaczy 22 hrabstw de facto i ich siłę w [raporcie Szwabii](szwabia/Polityka-1066-09-20.md). Po nowym save’ie potrzebne ponowne sprawdzenie; nie przenosić liczb z dawnej kampanii 1071.
 
 ## Reguła przyszłych wpisów
 Każdy wpis zapisuj z ID, datą gry, statusem (POTWIERDZONE_SAVE, KOREKTA_AUTORA, OBLICZONE, WNIOSEK, TLO_FABULARNE, NIEUSTALONE), źródłem i granicą. Życiorysy i sceny odkładaj do osobnej warstwy, nie uzupełniaj nimi statystyk i praw.
+
+
+## Jednoznaczne identyfikatory i dostęp
+
+S001=SAVE-18A; S002=SAVE-18B; S003=SAVE-20. [Rejestr z hashami](dane/rejestr-zrodel.json) identyfikuje trzy natywne pliki. [Katalog](Indeks-kampanii.md) obejmuje aktywną dokumentację, a [audyt](interpretacja/Audyt-dokumentacji-1066-09-20.md) rozstrzyga zakresy i starsze ograniczenia. Pełny odczyt Szwabii jest wykonany dla wskazanego zakresu, lecz nie zastępuje skanowania całego świata ani lokalnych skryptów modów.

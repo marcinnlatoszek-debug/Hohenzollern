@@ -1,39 +1,15 @@
-# Baza nowej kampanii Hohenzollern
+# Baza kampanii — skrócony dostęp
 
-Data mechaniczna: **1066-09-20**. Gra CK3 1.20.0.4, 24 mody. Stara kampania 1070–1071 została wyczyszczona, a nową dokumentację tworzono na wyraźne polecenie gracza.
+**[Pełny katalog wszystkich plików](Indeks-kampanii.md)** zawiera statusy, zakresy i kolejność czytania. Stan S003 / SAVE-20: 20 IX 1066, CK3 1.20.0.4, 24 mody.
 
-| Plik | Do czego używać |
+| Obszar | Główne dokumenty |
 |---|---|
-| [Stan](Stan-1066-09-20.md) | Władca, dziedzictwo, zasoby, sukcesja, armia |
-| [Chronologia](Chronologia-1066.md) | Zmiany od sierpnia do 20 IX |
-| [Polityka i dwór](Polityka-Dwor-1066-09-20.md) | Zwierzchnictwo, pretensje, radni, rody |
-| [Postacie](Karty-postaci-1066-09-20.md) | Krótkie portrety oparte na kartach |
-| [Gospodarka i społeczeństwo](Gospodarka-Spoleczenstwo-1066-09-20.md) | Demografia, dochody, napięcia i granice odczytu |
-| [Mody i prawa](Mody-Prawa-1066-09-20.md) | Klucze modów i istotne mechanizmy |
-| [Źródła i niepewności](Zrodla-i-weryfikacja-1066-09-20.md) | Audyt i lista otwartych spraw |
-| [Pakiet fabularny](Pakiet-dla-kronikarza-1066-09-20.md) | Jak wykorzystać ustalenia bez fabrykowania wydarzeń |
-| [Wyciąg JSON](dane/wyciag-save-1066-09-20.json) | Surowy wyciąg danych 20 IX z oryginalnego save’a; niepełne gamestate |
-| [Rejestr JSON](dane/rejestr-stanu-1066-09-20.json) | Znormalizowane dane i statusy |
+| Kanon i chronologia | [Kanon](../Historia-Hohenzollern.md), [stan](Stan-1066-09-20.md), [chronologia](Chronologia-1066.md) |
+| Polityka | [Szwabia](szwabia/Polityka-1066-09-20.md), [lokalny dwór](Polityka-Dwor-1066-09-20.md), [Rzesza](Cesarstwo-i-Rzesza-1066-09-20.md), [mariaże](Kandydatki-zareczyny-Burkharda-1066-09-20.md) |
+| Postacie | [43 pracowników](dwor/README.md), [17 posiadaczy hrabstw i dwa konteksty](szwabia/README.md), [interpretacja do fabuły](interpretacja/Postacie-do-fabuly-1066-09-20.md) |
+| Ekonomia | [Zollern i Hohenberg](Gospodarka-Spoleczenstwo-1066-09-20.md), [region](szwabia/Gospodarka-1066-09-20.md), [efekty czasowe](Analiza-modyfikatorow-Szwabia-1066-09-20.md) |
+| Mechaniki | [Skrót modów i praw](Mody-Prawa-1066-09-20.md), [pełny raport](mechaniki/Mody-szczegolowo-1066-09-20.md), [metoda cech](mechaniki/Metoda-charakterow.md), [przekład na fabułę](interpretacja/Mechaniki-na-jezyk-fabuly.md) |
+| Fabuła | [Główny pakiet](../06-fabula/Pakiet-autorski-1066-09-20.md), [teksty i pamięć](../06-fabula/README.md) |
+| Weryfikacja | [Źródła i konflikty](Zrodla-i-weryfikacja-1066-09-20.md), [otwarte sprawy](interpretacja/Otwarte-sprawy-1066-09-20.md), [audyt dokumentacji](interpretacja/Audyt-dokumentacji-1066-09-20.md), [katalog JSON](dane/katalog-plikow.json) |
 
-## Hierarchia źródeł
-(1) Wyraźna korekta autora w zakresie genealogii i sukcesji; (2) najnowszy natywny save z 20 IX; (3) dwa starsze save’y z 18 IX do porównań; (4) wyciąg i analiza plików, właściwe skrypty modów, karty/tooltipy; (5) historyczne tło i hipotezy literackie.
-
-Statusy: **POTWIERDZONE_SAVE**, **KOREKTA_AUTORA**, **OBLICZONE**, **WNIOSEK**, **TLO_FABULARNE**, **NIEUSTALONE**. Przy każdym nowym save’ie utwórz nową datowaną migawkę, nie nadpisuj historycznych rekordów. Trzy zegary: gry, narracji i rzeczywisty.
-
-## Rozszerzenie: pełna Szwabia, dwór i fabuła
-
-- [Szwabia — 17 posiadaczy hrabstw i dwa konteksty](szwabia/README.md)
-- [Polityka, rada księcia i liczby wojsk](szwabia/Polityka-1066-09-20.md)
-- [Gospodarka całego księstwa](szwabia/Gospodarka-1066-09-20.md)
-- [Dwór — 43 aktualne karty](dwor/README.md)
-- [Szczegółowe mody](mechaniki/Mody-szczegolowo-1066-09-20.md) i [metoda odczytu charakterów](mechaniki/Metoda-charakterow.md)
-- [Wprowadzenie Astry](../06-fabula/1066-09-20-wprowadzenie.md), [audyt](../06-fabula/Audyt-1066-09-20.md), [życiorysy i dwa pokolenia przodków — propozycje](../06-fabula/Zyciorysy-i-rod-propozycja.md)
-- [Źródła z hashami](dane/rejestr-zrodel.json), [pełniejszy wyciąg Szwabii](dane/szwabia-save-1066-09-20.json), [relacje i opinie](dane/szwabia-relacje-1066-09-20.json)
-
-Raport Szwabii uzupełnia wcześniejsze karty i politykę na tej samej dacie. Potwierdzono brak czynnego cesarskiego seniora Rudolfa oraz −20 za odwołanie dawnych radnych. Zegar narracji po wprowadzeniu pozostaje 20 IX 1066.
-
-## Rozszerzenie: datowane modyfikatory, mariaże i Rzesza (20 IX 1066)
-
-- [Modyfikatory czasowe postaci i prowincji Szwabii](Analiza-modyfikatorow-Szwabia-1066-09-20.md): wygaśnięcia i wartości bez udawania zmian rozwoju lub końcowych opinii.
-- [Kandydatki i polityka zaręczyn Burkharda](Kandydatki-zareczyny-Burkharda-1066-09-20.md): konkretne karty postaci, różnice lokalne/dynastyczne, wątki do sprawdzenia i fabuły; **brak zawartej umowy**.
-- [Cesarstwo a rzeczywisty stan Rzeszy w save’ie](Cesarstwo-i-Rzesza-1066-09-20.md): historyczny król Henryk IV i **nieobsadzone e_hre** w rozgrywce.
+Najpierw odczytaj datę i status. S001=SAVE-18A, S002=SAVE-18B, S003=SAVE-20. Starsze interpretacje nie zmieniają aktualnych urzędów. Kreacja biografii nie ustanawia wydarzeń gry. Liczby są aktualne tylko dla swojej daty; po kolejnym save’ie powstaje nowa migawka.

@@ -7,3 +7,8 @@ Po nowym save’ie: dodaj ID i hash źródła; odczytaj pełne gamestate; porów
 Klucze postaci identyfikują imienników. Dom nie jest dynastią. Claims nie są aktywnym spiskiem; XP MPD wymaga mapowania; surowe data.identity modów nie są automatycznie populacją. current_strength nie jest prostą sumą wojsk wszystkich wasali. Nie dopisuj cesarskiego seniora, którego brak w aktualnym save’ie.
 
 Fabułę pisze GPT-6 Astra, zgodnie z zasadami projektu i preferencją gracza. Analiza może przygotować pakiet i audyt. Po scenie aktualizuj wyłącznie pamięć narracji, nie stan gry. Nie przesuwaj daty gry według czasu rzeczywistego. Przy zapisie GitHub odczytaj bieżący head, zachowaj cudze nowe pliki i użyj aktualizacji z expected_sha; sprawdź zapis po operacji.
+
+
+## Kolejność po uporządkowaniu
+
+Pełny indeks: baza/Indeks-kampanii.md. Główny pakiet: 06-fabula/Pakiet-autorski-1066-09-20.md. Interpretacje: baza/interpretacja/. Starszy Pakiet-dla-kronikarza jest odsyłaczem. Rejestr źródeł ma aliasy S001=SAVE-18A, S002=SAVE-18B, S003=SAVE-20. Po zmianie lub dodaniu dokumentu uaktualnij katalog, indeks i właściwy pakiet. Nie dopisuj tej samej niezależnej analizy do kilku plików; użyj odnośnika.

@@ -9,6 +9,10 @@ Poniższe funkcje opisują pierwszy save z 18 września, przed reorganizacją. A
 
 Obowiązująca korekta użytkownika: Burkhard odziedziczył wszystko i rządzi od sierpnia 1066; ojciec Konrad, dziad Ludwig. Techniczna data przyjęcia na dwór 15 września nie odtwarza całej wcześniejszej historii służby. Bieżący stan i granice kreacji: „Kanon-Hohenzollern-biezacy.md”. Rozwinięte życiorysy autorskie: „Burkhard-Rod-i-otoczenie-Tlo-fabularne-1066.md”.
 
+## Status po uporządkowaniu dokumentacji
+
+To migawka S001 / SAVE-18A: 42 pracowników oraz baron Sigismund. Bieżący indeks S003 ma 43 pracowników z Friedrichem 40458, bez barona. Dziewięć urzędów IDM jest obecnie rozpoznanych w [raporcie modów](../mechaniki/Mody-szczegolowo-1066-09-20.md). Poniższe nieaktualne role i pierwotne ograniczenia odczytu zachowano jako historię analizy. Dla nowych scen korzystaj z [kart bieżących](README.md) i [pakietu autorskiego](../../06-fabula/Pakiet-autorski-1066-09-20.md).
+
 ## Jak czytać karty
 
 - Fakty: imię, data urodzenia, wiek, przypisanie do domu, rodzina, urząd, cechy i wartości pola skill.
@@ -955,3 +959,4 @@ Dwie najmocniejsze zapisane sprawności aktywnych rycerzy to 16 i 14 u dwóch Hu
 5. Dzieci pozostają dziećmi, nawet gdy mody zapisały u nich cechy kojarzone z dorosłymi.
 6. Nie dopisywać więzi krwi z Burkhardem. Przynależność do jego dworu nie oznacza przynależności do jego rodziny.
 7. Dialogi i zachowania można tworzyć jako narrację zgodną z cechami; nowe fakty kampanii wymagają potwierdzenia w grze.
+

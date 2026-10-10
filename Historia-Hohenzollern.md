@@ -17,3 +17,8 @@ Zacznij od [Zasad projektu](Zasady-projektu.md), potem [indeksu bazy](baza/READM
 Rudolf jest w S003 niezależnym księciem de facto; cesarskie zwierzchnictwo nie jest zapisane. Anselm z Tübingen, pretendent do obu hrabstw Burkharda, jest mistrzem intryg księcia. Czterej odsunięci radni mają modyfikator opinii −20 za odwołanie, bez dowodu spisku lub buntu. [Pełny atlas Szwabii](baza/szwabia/README.md) obejmuje wszystkich 17 posiadaczy 22 hrabstw.
 
 Początek opowieści: [„Ciężar domu” — GPT-6 Astra](06-fabula/1066-09-20-wprowadzenie.md), jeden dzień 20 IX 1066. [Rejestr sceny](06-fabula/1066-09-20-rejestr-sceny.json) utrwala wyłącznie NARRACJĘ; [audyt](06-fabula/Audyt-1066-09-20.md) oddziela ją od gry i propozycji historii przodków.
+
+
+## Dostęp po uporządkowaniu
+
+[Indeks wszystkich plików](baza/Indeks-kampanii.md) rozdziela dokumenty główne, uzupełnienia, migawki i propozycje. [Główny pakiet autorski](06-fabula/Pakiet-autorski-1066-09-20.md) łączy fakty, postacie, zależności polityczne, mariaże i pamięć ostatniej sceny. Zegar narracji: wieczór 20 IX 1066, posiłek w Zollern; stan gry nadal S003.

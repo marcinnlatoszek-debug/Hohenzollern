@@ -1,0 +1,858 @@
+{
+  "game_date": "1066-09-20",
+  "source_aliases": {
+    "S001": "SAVE-18A",
+    "S002": "SAVE-18B",
+    "S003": "SAVE-20"
+  },
+  "files": [
+    {
+      "path": "06-fabula/1066-09-20-rejestr-sceny.json",
+      "title": "1066-09-20-rejestr-sceny.json",
+      "group": "Narracja i pamięć",
+      "status": "NARRACJA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "06-fabula/1066-09-20-wprowadzenie.md",
+      "title": "Ciężar domu",
+      "group": "Narracja i pamięć",
+      "status": "NARRACJA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "06-fabula/Audyt-1066-09-20.md",
+      "title": "Audyt fabuły, życiorysów i mechanik — 20 IX 1066",
+      "group": "Pakiet i kontrola fabuły",
+      "status": "REDAKCJA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "06-fabula/Pakiet-autorski-1066-09-20.md",
+      "title": "Pakiet autorski kampanii — 20 IX 1066",
+      "group": "Pakiet i kontrola fabuły",
+      "status": "REDAKCJA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "06-fabula/README.md",
+      "title": "README.md",
+      "group": "Pakiet i kontrola fabuły",
+      "status": "REDAKCJA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "06-fabula/Zmiany-i-tlo-propozycja-1066-09-20.md",
+      "title": "Burkhard — zmiany między 18 a 20 września 1066",
+      "group": "Propozycje życiorysów i starszej prozy",
+      "status": "PROPOZYCJA — NIE NOWE ZDARZENIA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "06-fabula/Zyciorysy-i-rod-propozycja.md",
+      "title": "Burkhard, jego ród i ludzie — do 18 września 1066",
+      "group": "Propozycje życiorysów i starszej prozy",
+      "status": "PROPOZYCJA — NIE NOWE ZDARZENIA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "AGENTS.md",
+      "title": "Praca nad kampanią Hohenzollern",
+      "group": "Wejścia i zasady",
+      "status": "INDEKS / KANON",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "Historia-Hohenzollern.md",
+      "title": "Historia Hohenzollernów — kanon nowej kampanii",
+      "group": "Wejścia i zasady",
+      "status": "INDEKS / KANON",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "README.md",
+      "title": "Hohenzollern — kampania Burkharda",
+      "group": "Wejścia i zasady",
+      "status": "INDEKS / KANON",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "Zasady-projektu.md",
+      "title": "Zasady projektu — bez danych kampanii",
+      "group": "Wejścia i zasady",
+      "status": "INDEKS / KANON",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Analiza-modyfikatorow-Szwabia-1066-09-20.md",
+      "title": "Modyfikatory czasowe i polityczne — Szwabia, 20 IX 1066",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Cesarstwo-i-Rzesza-1066-09-20.md",
+      "title": "Sytuacja ogólna w Rzeszy — stan gry vs historia 1066",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Chronologia-1066.md",
+      "title": "Chronologia — nowa kampania, sierpień–20 IX 1066",
+      "group": "Chronologia i porównania",
+      "status": "HISTORIA ZMIAN",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Gospodarka-Spoleczenstwo-1066-09-20.md",
+      "title": "Gospodarka i społeczeństwo — Zollern oraz Hohenberg (20 IX 1066)",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Indeks-kampanii.md",
+      "title": "Indeks-kampanii.md",
+      "group": "Wejścia i zasady",
+      "status": "INDEKS / KANON",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Kandydatki-zareczyny-Burkharda-1066-09-20.md",
+      "title": "Rozpoznanie polityki matrymonialnej Burkharda — 20 IX 1066",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Karty-postaci-1066-09-20.md",
+      "title": "Postacie kluczowe — 20 IX 1066",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Mody-Prawa-1066-09-20.md",
+      "title": "Mechaniki i mody kampanii (save 20 IX 1066)",
+      "group": "Mechaniki i metody",
+      "status": "DOKUMENTACJA Z GRANICAMI",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Pakiet-dla-kronikarza-1066-09-20.md",
+      "title": "Pakiet dla kronikarza — punkt dostępu",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Polityka-Dwor-1066-09-20.md",
+      "title": "Polityka, rada i możni — 20 IX 1066",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/README.md",
+      "title": "Baza nowej kampanii Hohenzollern",
+      "group": "Wejścia i zasady",
+      "status": "INDEKS / KANON",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Stan-1066-09-20.md",
+      "title": "Karta mechaniczna — 20 IX 1066",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/Zrodla-i-weryfikacja-1066-09-20.md",
+      "title": "Rejestr źródeł, konflikty i otwarte sprawy — 20 IX 1066",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dane/dwor-save-1066-09-20.json",
+      "title": "dwor-save-1066-09-20.json",
+      "group": "Dane źródłowe i rejestry",
+      "status": "ŹRÓDŁO POCHODNE / REJESTR",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dane/katalog-plikow.json",
+      "title": "katalog-plikow.json",
+      "group": "Dane źródłowe i rejestry",
+      "status": "ŹRÓDŁO POCHODNE / REJESTR",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dane/mody-save-1066-09-20.json",
+      "title": "mody-save-1066-09-20.json",
+      "group": "Dane źródłowe i rejestry",
+      "status": "ŹRÓDŁO POCHODNE / REJESTR",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dane/rejestr-stanu-1066-09-20.json",
+      "title": "rejestr-stanu-1066-09-20.json",
+      "group": "Dane źródłowe i rejestry",
+      "status": "ŹRÓDŁO POCHODNE / REJESTR",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dane/rejestr-zrodel.json",
+      "title": "rejestr-zrodel.json",
+      "group": "Dane źródłowe i rejestry",
+      "status": "ŹRÓDŁO POCHODNE / REJESTR",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dane/szwabia-relacje-1066-09-20.json",
+      "title": "szwabia-relacje-1066-09-20.json",
+      "group": "Dane źródłowe i rejestry",
+      "status": "ŹRÓDŁO POCHODNE / REJESTR",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dane/szwabia-save-1066-09-20.json",
+      "title": "szwabia-save-1066-09-20.json",
+      "group": "Dane źródłowe i rejestry",
+      "status": "ŹRÓDŁO POCHODNE / REJESTR",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dane/wyciag-save-1066-09-20.json",
+      "title": "wyciag-save-1066-09-20.json",
+      "group": "Dane źródłowe i rejestry",
+      "status": "ŹRÓDŁO POCHODNE / REJESTR",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/Karty-i-interpretacje-1066-09-18.md",
+      "title": "Dwór Burkharda — karty postaci",
+      "group": "Migawka starszych kart",
+      "status": "MIGAWKA S001 — FUNKCJE STARSZE",
+      "game_date": "1066-09-18",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/README.md",
+      "title": "Dwór Burkharda",
+      "group": "Wejścia i zasady",
+      "status": "INDEKS / KANON",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/40458.md",
+      "title": "Friedrich (ID 40458) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/58283.md",
+      "title": "Sigismund (ID 58283) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/62699.md",
+      "title": "Nikolaus (ID 62699) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/62700.md",
+      "title": "Liutpold (ID 62700) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/62701.md",
+      "title": "Irmeltrud (ID 62701) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/62702.md",
+      "title": "Gebhard (ID 62702) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/62703.md",
+      "title": "Peter (ID 62703) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/65797.md",
+      "title": "Stefan (ID 65797) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66576.md",
+      "title": "Sieghard (ID 66576) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66577.md",
+      "title": "Luitgard (ID 66577) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66578.md",
+      "title": "Cecilie (ID 66578) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66579.md",
+      "title": "Waldo (ID 66579) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66580.md",
+      "title": "Walram (ID 66580) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66581.md",
+      "title": "Matthias (ID 66581) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66582.md",
+      "title": "Isentrude (ID 66582) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66583.md",
+      "title": "Gebhard (ID 66583) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66584.md",
+      "title": "Mechthild (ID 66584) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66585.md",
+      "title": "Berchte (ID 66585) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66586.md",
+      "title": "Wenzel (ID 66586) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66587.md",
+      "title": "Benedicta (ID 66587) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66588.md",
+      "title": "Liudolf (ID 66588) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66589.md",
+      "title": "Beatrix (ID 66589) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66590.md",
+      "title": "Hupold (ID 66590) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66591.md",
+      "title": "Klara (ID 66591) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66592.md",
+      "title": "Liutbert (ID 66592) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66593.md",
+      "title": "Wolfram (ID 66593) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66594.md",
+      "title": "Beatrix (ID 66594) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66595.md",
+      "title": "Humbert (ID 66595) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66596.md",
+      "title": "Cecilie (ID 66596) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66597.md",
+      "title": "Gautselin (ID 66597) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66598.md",
+      "title": "Humbert (ID 66598) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66599.md",
+      "title": "Wilhelmina (ID 66599) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66600.md",
+      "title": "Konrad (ID 66600) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66601.md",
+      "title": "Emma (ID 66601) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66602.md",
+      "title": "Norbert (ID 66602) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66603.md",
+      "title": "Berchte (ID 66603) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66604.md",
+      "title": "Eginolf (ID 66604) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66605.md",
+      "title": "Sigismund (ID 66605) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66606.md",
+      "title": "Alberade (ID 66606) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66607.md",
+      "title": "Ulrike (ID 66607) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66608.md",
+      "title": "Hildegard (ID 66608) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66609.md",
+      "title": "Konstanze (ID 66609) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/dwor/postacie/66610.md",
+      "title": "Elisabeth (ID 66610) — dwór, 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/interpretacja/Audyt-dokumentacji-1066-09-20.md",
+      "title": "Audyt-dokumentacji-1066-09-20.md",
+      "group": "Interpretacja i sprawy otwarte",
+      "status": "WNIOSEK / REDAKCJA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/interpretacja/Mechaniki-na-jezyk-fabuly.md",
+      "title": "Mechaniki na język fabuły",
+      "group": "Interpretacja i sprawy otwarte",
+      "status": "WNIOSEK / REDAKCJA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/interpretacja/Otwarte-sprawy-1066-09-20.md",
+      "title": "Otwarte sprawy i warunki interpretacji",
+      "group": "Interpretacja i sprawy otwarte",
+      "status": "WNIOSEK / REDAKCJA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/interpretacja/Postacie-do-fabuly-1066-09-20.md",
+      "title": "Postacie do fabuły — bieżący odczyt i interpretacja",
+      "group": "Interpretacja i sprawy otwarte",
+      "status": "WNIOSEK / REDAKCJA",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/mechaniki/Metoda-charakterow.md",
+      "title": "CK3 — odczytywanie charakteru i cech postaci",
+      "group": "Mechaniki i metody",
+      "status": "DOKUMENTACJA Z GRANICAMI",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/mechaniki/Mody-szczegolowo-1066-09-20.md",
+      "title": "Mody kampanii Hohenzollern — odczyt save’a i dokumentacja",
+      "group": "Mechaniki i metody",
+      "status": "DOKUMENTACJA Z GRANICAMI",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/Gospodarka-1066-09-20.md",
+      "title": "Gospodarka Szwabii i Burkharda — S003",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/Polityka-1066-09-20.md",
+      "title": "Polityka Szwabii — 20 IX 1066",
+      "group": "Analizy bieżącego świata",
+      "status": "FAKTY I WNIOSKI — S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/README.md",
+      "title": "Szwabia — indeks postaci",
+      "group": "Wejścia i zasady",
+      "status": "INDEKS / KANON",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/28761.md",
+      "title": "Romuald (ID 28761) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/30408.md",
+      "title": "Hupold (ID 30408) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/30931.md",
+      "title": "Eberhard (ID 30931) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/30932.md",
+      "title": "Anselm (ID 30932) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/31630.md",
+      "title": "Rudolf (ID 31630) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/31948.md",
+      "title": "Berthold (ID 31948) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/33142.md",
+      "title": "Friedrich (ID 33142) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/33143.md",
+      "title": "Hartmann (ID 33143) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/33322.md",
+      "title": "Rudolf (ID 33322) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/33624.md",
+      "title": "Embricho (ID 33624) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/34081.md",
+      "title": "Udalrich (ID 34081) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/34907.md",
+      "title": "Welf (ID 34907) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/34937.md",
+      "title": "Kuno (ID 34937) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/37627.md",
+      "title": "Hartmann (ID 37627) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/38208.md",
+      "title": "Ludwig (ID 38208) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/38740.md",
+      "title": "Berthold (ID 38740) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/38741.md",
+      "title": "Manegold (ID 38741) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/45347.md",
+      "title": "Sigismund (ID 45347) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/szwabia/postacie/62698.md",
+      "title": "Burkhard (ID 62698) — karta 20 IX 1066",
+      "group": "Karty bieżące",
+      "status": "BIEŻĄCA KARTA S003",
+      "game_date": "1066-09-20",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "baza/zmiany/Rada-1066-09-18.md",
+      "title": "Burkhard — reorganizacja rady i podstawa opowieści",
+      "group": "Chronologia i porównania",
+      "status": "HISTORIA ZMIAN",
+      "game_date": "1066-09-18",
+      "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    }
+  ]
+}

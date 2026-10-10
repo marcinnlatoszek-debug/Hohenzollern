@@ -118,6 +118,17 @@
     "Konkretna historyczna architektura, portrety i dokładne mapowanie torów MPD pozostają nieustalone."
   ],
   "zrodla": [
+    "../Historia-Hohenzollern.md",
+    "../baza/Stan-1066-09-20.md",
+    "Zyciorysy-i-rod-propozycja.md",
+    "Zmiany-i-tlo-propozycja-1066-09-20.md",
+    "../baza/mechaniki/Mody-szczegolowo-1066-09-20.md",
+    "../Zasady-projektu.md",
+    "../baza/dane/szwabia-save-1066-09-20.json",
+    "../baza/dane/szwabia-relacje-1066-09-20.json"
+  ],
+  "zakazy_zachowane": "Bez nowych wojen, małżeństw, sojuszy, narodzin, zgonów, spisków, obietnic politycznych, budynków, reform i zmian prawa; bez materiałów z 1070; bez gry, ID i statystyk w tekście prozy.",
+  "zrodla_pierwotne": [
     "deliverables/Kanon-Hohenzollern-biezacy.md",
     "deliverables/Burkhard-Rod-i-otoczenie-Tlo-fabularne-1066.md",
     "deliverables/Burkhard-Zmiany-i-tlo-fabularne-1066-09-20.md",
@@ -127,5 +138,6 @@
     "tools/swabia-links.json — rada Rudolfa",
     "Uzupełnienie prowadzącego: odczyt fired_from_council_opinion u czterech odsuniętych doradców oraz znaczenie militarne Eberharda, przekazane 10.10.2026."
   ],
-  "zakazy_zachowane": "Bez nowych wojen, małżeństw, sojuszy, narodzin, zgonów, spisków, obietnic politycznych, budynków, reform i zmian prawa; bez materiałów z 1070; bez gry, ID i statystyk w tekście prozy."
+  "autorstwo": "GPT-6 Astra",
+  "uwaga_redakcyjna": "Przeniesiono odnośniki do ścieżek repozytorium; pierwotne źródła zachowane. Przebieg sceny nie został zmieniony."
 }

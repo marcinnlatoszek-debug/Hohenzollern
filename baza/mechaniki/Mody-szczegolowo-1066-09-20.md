@@ -4,6 +4,8 @@
 
 **Najważniejsza zmiana interpretacji:** ogrodnictwo Burkharda można powiązać z osobistym przyjęciem Ora et Labora w oficjalnym dodatku By God Alone. Dodatkowe rodziny na dworze, prawa państwa i populacje hrabstw należy natomiast analizować przez mody, które je wprowadzają.
 
+> Korekta źródłowa: Hohenberg county_tax_gold=101852 w bezpośrednim S003. Ewentualne 101831 w dawnym zestawieniu nie jest obowiązującym odczytem. Dokładny konflikt opisuje [rejestr weryfikacji](../Zrodla-i-weryfikacja-1066-09-20.md).
+
 ## 1. Lista wszystkich pozycji
 
 Kolejność poniżej odpowiada tablicy `meta_data.mods`; nie jest niezależnym potwierdzeniem kolejności rozstrzygania wszystkich nadpisanych plików. Link prowadzi do strony autora danego elementu Steam Workshop. Krótki opis przedstawia zakres moda, a nie dowód, że każda jego funkcja została już wykorzystana w tej kampanii.
@@ -191,3 +193,4 @@ Pozostały nierozpoznane pochodzenie flag `pam_great_schism_decision_taken` i `F
 8. Utrzymywać kanon użytkownika: odziedziczone ziemie, początek rządów w sierpniu, Konrad jako ojciec i Ludwig jako dziadek.
 
 Towarzyszący plik **Mody-Hohenzollern-dane-1066-09-20.json** zachowuje odczytane tablice modów, wszystkie reguły, zmienne globalne, stan Burkharda, tytuły i urzędy oraz surowe cechy/XP otoczenia. Rozdział opisowy zawiera hipotezy; JSON pozostawia dane bez przekładu efektów.
+
