@@ -7,7 +7,9 @@ Status: rozpoznanie rozpoczęte, nie zakończono interpretacji wszystkich binarn
 ## Władca
 - [Burkhard, CK3 ID 62634](../02_POSTACIE/62634/karta.md), dom von Hohenzollern (ID domu 12843).
 - [Hohenberg, hrabstwo 1239](../03_TERYTORIA/HRABSTWA/1239/karta.md) i [Hohenberg, baronia 1240](../03_TERYTORIA/HRABSTWA/1239/karta.md): oba tytuły przypisane do 62634 w zapisie.
-- Data urodzenia i umiejętności pozostają przedmiotem analizy; nie przypisano znaczeń nieprzetłumaczonym polom.
+- Potwierdzona lista domeny Burkharda: tytuły `[1239,1240]`; ustrój `feudal_government`.
+- Prawa: `crown_authority_0`, `confederate_partition_succession_law`, `male_preference_law` (bloki `landed_data` w jego rekordzie).
+- Data urodzenia i interpretacja szczegółowych umiejętności pozostają przedmiotem weryfikacji.
 
 ## Najbliższy region
 - [Księstwo Szwabii, ID 1216](../03_TERYTORIA/KSIESTWA/1216/karta.md): właściciel Rudolf (CK3 ID 33226).
@@ -16,7 +18,7 @@ Status: rozpoznanie rozpoczęte, nie zakończono interpretacji wszystkich binarn
 - „Holten”: niepotwierdzona nazwa robocza, nie utożsamiać automatycznie z Zollern.
 
 ## Dwór i dalsze prace
-- [Indeks rady, dworu, rycerzy](../04_OTOCZENIE_WLADCY/indeks_dworu.md): **skład nieustalony**, ponieważ brak tłumaczenia pól funkcji i miejsc przebywania postaci; nie przypisywać bez dowodu.
+- [Indeks rady, dworu, rycerzy](../04_OTOCZENIE_WLADCY/indeks_dworu.md): **4 potwierdzonych wykonawców zadań rady** — Notker 62636, Gerhard 62635, Konrad 45254, Helferich 58415; jedno zadanie bez potwierdzonego wykonawcy. **2 ID na liście rycerzy:** Gerhard 62635 i Gunzelin 65692. Pełny skład dworu i więzy rodzinne nadal NIEUSTALONE.
 - [Indeks postaci](../02_POSTACIE/indeks_postaci.md).
 - [Raport odczytu binarnego](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_ck3_2026-10-10.md).
 - [Indeks save'ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md).
