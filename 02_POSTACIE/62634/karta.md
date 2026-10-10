@@ -56,3 +56,6 @@
 - **Cechy osobowości, wykształcenia i inne**, dokładne angielskie klucze z tablicy zapisanej w save'ie: `ambitious` (trait #67); `diligent` (trait #54); `patient` (trait #57); `education_stewardship_3` (trait #12); `intellect_good_2` (trait #152). Surowy klucz `0x0648`.
 - Polska interpretacja nazwy lub konkretnego efektu modyfikatora jest odrębnym etapem; liczby i angielskie klucze zachowano dosłownie.
 
+
+## Uzgodnienie obserwacji 18 IX — interpretacja po odczycie tabeli traitów
+Dane urodzenia (**1050-07-27**), sześć bazowych umiejętności (**3/5/4/5/0/8**) i pięć traitów (**ambitious, diligent, patient, education_stewardship_3, intellect_good_2**) zostały ponownie sprawdzone w zapisie z **18 IX** (SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`), z takimi samymi wartościami jak 16 IX. Wcześniejsze oznaczenie tych konkretnych wartości jako NIEUSTALONE w ramach surowego odczytu 18 IX zastępuje niniejsza weryfikacja; pozostałe niewiadome zachowują status NIEUSTALONE. [Tabela zbiorcza i metoda](../../07_ANALIZY/rozpoznania_poczatkowe/traits_i_umiejetnosci_1066-09-18.md).
