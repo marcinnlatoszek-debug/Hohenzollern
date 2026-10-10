@@ -33,19 +33,9 @@
       "name": "Medieval Arts"
     },
     {
-      "workshop_id": "3571438676",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3571438676",
-      "name": "Zeitgeist: Situation & Struggle"
-    },
-    {
       "workshop_id": "2986496756",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2986496756",
       "name": "More Background Illustrations"
-    },
-    {
-      "workshop_id": "3604729196",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3604729196",
-      "name": "Immersive Domain Management"
     },
     {
       "workshop_id": "3030427202",
@@ -73,11 +63,6 @@
       "name": "More Personality Depth"
     },
     {
-      "workshop_id": "3790487196",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3790487196",
-      "name": "Nazwa nieustalona"
-    },
-    {
       "workshop_id": "3461530706",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3461530706",
       "name": "Immersive Mercs & Raiders"
@@ -98,19 +83,9 @@
       "name": "Populated World!"
     },
     {
-      "workshop_id": "3433842378",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3433842378",
-      "name": "Additional Lifestyles"
-    },
-    {
       "workshop_id": "2220098919",
       "url": "https://steamcommunity.com/workshop/filedetails/?id=2220098919",
       "name": "Community Flavor Pack"
-    },
-    {
-      "workshop_id": "3351630685",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3351630685",
-      "name": "Immersive Realm Laws"
     }
   ],
   "excluded_from_new_campaign": [
@@ -121,6 +96,45 @@
     {
       "name": "Weight of Crown Fork",
       "workshop_id": "3780779762"
+    },
+    {
+      "name": "Immersive Domain Management",
+      "workshop_id": "3604729196",
+      "reason": "decyzja_uzytkownika: wykluczony z nowego startu w celu ograniczenia złożoności i ryzyka"
+    },
+    {
+      "name": "Immersive Realm Laws",
+      "workshop_id": "3351630685",
+      "reason": "decyzja_uzytkownika: wykluczony z nowego startu w celu ograniczenia złożoności i ryzyka"
+    },
+    {
+      "name": "Zeitgeist: Situation & Struggle",
+      "workshop_id": "3571438676",
+      "reason": "decyzja_uzytkownika: wykluczony z nowego startu w celu ograniczenia złożoności i ryzyka"
+    },
+    {
+      "name": "Additional Lifestyles",
+      "workshop_id": "3433842378",
+      "reason": "decyzja_uzytkownika: wykluczony z nowego startu w celu ograniczenia złożoności i ryzyka"
+    },
+    {
+      "name": "Nieustalony mod Workshop",
+      "workshop_id": "3790487196",
+      "reason": "decyzja_uzytkownika: wykluczony z nowego startu w celu ograniczenia złożoności i ryzyka"
     }
-  ]
+  ],
+  "planned_new_campaign": {
+    "decision_date": "2026-10-10",
+    "state": "plan_do_wprowadzenia_w_launcherze_niezweryfikowany",
+    "included_candidates_count": 17,
+    "conditionally_included": [
+      {
+        "name": "Populated World!",
+        "workshop_id": "3448267875",
+        "condition": "test wydajności i wpływu na relacje, zdrowie i rodziny postaci"
+      }
+    ],
+    "exclusions_total": 7,
+    "notes": "Brak aktualnego eksportu playsetu, wersji CK3, DLC i testu zapisu; nie dowiedziono, który mod spowodował wcześniejszy błąd cesarza."
+  }
 }
