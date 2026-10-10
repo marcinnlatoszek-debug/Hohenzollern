@@ -1,18 +1,22 @@
-# Dwór Burkharda — rada, rycerze, rodzina i otoczenie
+# Dwór Burkharda — indeks bez zgadywania
 
-Źródło bazowe: `von_Hohenzollern.ck3`, SHA-256 `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`. Stan binarnego gamestate nie został kompletnie sparsowany.
+**Data świata:** 1066-09-16 • **Postać gracza:** [Burkhard 62634](../02_POSTACIE/62634/karta.md).
+Źródło: `von_Hohenzollern.ck3`, SHA-256 `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`.
 
-## Rada
-Kanclerz, marszałek, zarządca, mistrz intryg, duchowny i stanowiska modowe: **NIEUSTALONE**. Nie ustanowiono kart konkretnych radnych bez potwierdzenia ich ID.
+## Dotąd potwierdzone
+Tytuł hrabiego Hohenberg (1239), jego baronia (1240) oraz przynależność tytułu do struktury Szwabii (1216). Nie wynika z tego automatycznie lista jego dworzan.
+
+## Skład rady
+**NIEUSTALONE** — wszystkie nazwiska, funkcje i wartości.
 
 ## Rycerze i dowódcy
-Lista, role, waleczność i status służby: **NIEUSTALONE**.
+**NIEUSTALONE** — kompletna lista wymaga identyfikacji pól w save lub zrzutu panelu gry.
 
-## Rodzina, dworzanie, goście i wasale
-Pełny skład oraz relacje: **NIEUSTALONE**.
+## Rodzina, dworzanie, goście, relacje i stanowiska
+**NIEUSTALONE**. Nie zaliczać posiadaczy sąsiednich tytułów (Rudolfa, Egina, Konrada itd.) do dworu Burkharda bez osobnego potwierdzenia.
 
-## Procedura
-Po uzyskaniu poprawnej listy osób każdej przypisać osobny, trwały katalog `02_POSTACIE/<ID>/` (w razie braku ID katalog tymczasowy), kartę z datowanymi faktami, `relacje.md`, `zrodla.md`, pole portretu i datowany odnośnik do screena. Tu przechowywać tylko indeksy i odsyłacze do kart, by nie powstawały sprzeczne dane.
+## Plan powiązania screenów
+Każdej wiarygodnie rozpoznanej osobie założyć katalog `02_POSTACIE/ID/karta.md`, osobny opis źródeł oraz pole portretu. Screenshot zapisać z datą gry, ID i typem panelu. Nie tworzyć kart nieistniejących osób.
 
-## Materiały potrzebne do weryfikacji
-Screen pełnej karty Burkharda, ekran rady, lista rycerzy oraz lista dworzan z datą gry; alternatywnie parser binarny zgodny z CK3 1.20.0.4.
+## Braki w źródłach
+Odczyt zgodnego słownika tokenów funkcji dworskich lub screeny: rada Burkharda, listy dworzan, rycerzy i najbliższa rodzina.
