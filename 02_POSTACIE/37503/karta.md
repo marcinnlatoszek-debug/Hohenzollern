@@ -1,5 +1,20 @@
 # Hartmann — CK3 ID 37503
 
+## Uzupełnienie ekranowe — Hartmann z Zurychu, 20 X 1066 według nazwy portretu
+
+**POTWIERDZONE_SCREEN:** `Zrzut ekranu 2026-10-10 211516.png` (załącznik `file_00000000c1e081f48259db0f193b5552`) i `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0007.png` (załącznik `file_00000000afc08210a13a127293868a59`). Przedstawiony w obu plikach jest **Count Hartmann of Zürich**, lat **21**, dom **Hupolding**. Zgodność imienia, wieku, tytułu, domu i twarzy pozwala przypisać obrazy do istniejącego **CK3 ID 37503**, nie do Burkharda. Data 20 X 1066 pochodzi z nazwy eksportu, nie z widocznego kalendarza gry.
+
+- **POTWIERDZONE_SAVE, stan 18 IX 1066:** `deceitful`, `shy`, `diligent`, `education_diplomacy_2`; bazowy `skill=[4,5,8,6,10,9]`.
+- **POTWIERDZONE_SCREEN:** zbiorczy profil **Knave**, oddzielny od indywidualnych traitów; wartości efektywne DIP / MAR / STE / INT / LEA / PRO = **10 / 7 / 13 / 9 / 14 / 9**. Kultura **Swabian**, obrządek **Roman Rite**. Status polityczny **Fellow Vassal**, **County of Zürich**, **Feudal Realm Vassal**.
+- **Zasoby i panel:** złoto **72**, prestiż **354**, pobożność **51**, wojsko **273**, jednostki **1/5**, tytuły **1**, **1 Claim**, **Family 4**, **Courtiers 7**, **Subjects 1**, **Children 0**, **Siblings 1**. Liczby należą do czasu obserwacji na ekranie, nie aktualizują wstecz save’a.
+- **Rozbieżność datowana:** save 18 IX nie zawierał odczytanego własnego wpisu `alive_data/claim`, natomiast screen pokazuje **1 Claim**. Cel roszczenia i przyczyna zmiany NIEUSTALONE, nie dopisywać konkretnego tytułu.
+- **Relacje:** ojciec [Hupold III 30344](../30344/karta.md) potwierdzony w save; drugi rodzic ID **33049**, małżonka w save `primary_spouse=38255`. Portret małżonki, rodzeństwa i `Primary Heir` na ekranie bez osobnych kart nie stanowi niezależnej identyfikacji. Wartości opinii **−16**, **−26**, **−100** wymagają tooltipów do interpretacji.
+
+**Materiały redakcyjne:** [wzorzec wyglądu](wyglad.md), [profil psychologiczny do narracji](profil_narracyjny.md), [źródła i zastrzeżenia](zrodla.md), [indeks screenów](../../06_MATERIALY_ZRODLOWE/indeks_screenow.md).
+
+**Status plików:** portret i zrzut pozostają binarnymi załącznikami rozmowy; do GitHuba zapisano ich nazwy, identyfikatory i opisy, nie obrazy.
+
+
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 
 ## Aktualny odczyt własnego rekordu
