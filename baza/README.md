@@ -19,3 +19,15 @@ Data mechaniczna: **1066-09-20**. Gra CK3 1.20.0.4, 24 mody. Stara kampania 1070
 (1) Wyraźna korekta autora w zakresie genealogii i sukcesji; (2) najnowszy natywny save z 20 IX; (3) dwa starsze save’y z 18 IX do porównań; (4) wyciąg i analiza plików, właściwe skrypty modów, karty/tooltipy; (5) historyczne tło i hipotezy literackie.
 
 Statusy: **POTWIERDZONE_SAVE**, **KOREKTA_AUTORA**, **OBLICZONE**, **WNIOSEK**, **TLO_FABULARNE**, **NIEUSTALONE**. Przy każdym nowym save’ie utwórz nową datowaną migawkę, nie nadpisuj historycznych rekordów. Trzy zegary: gry, narracji i rzeczywisty.
+
+## Rozszerzenie: pełna Szwabia, dwór i fabuła
+
+- [Szwabia — 17 posiadaczy hrabstw i dwa konteksty](szwabia/README.md)
+- [Polityka, rada księcia i liczby wojsk](szwabia/Polityka-1066-09-20.md)
+- [Gospodarka całego księstwa](szwabia/Gospodarka-1066-09-20.md)
+- [Dwór — 43 aktualne karty](dwor/README.md)
+- [Szczegółowe mody](mechaniki/Mody-szczegolowo-1066-09-20.md) i [metoda odczytu charakterów](mechaniki/Metoda-charakterow.md)
+- [Wprowadzenie Astry](../06-fabula/1066-09-20-wprowadzenie.md), [audyt](../06-fabula/Audyt-1066-09-20.md), [życiorysy i dwa pokolenia przodków — propozycje](../06-fabula/Zyciorysy-i-rod-propozycja.md)
+- [Źródła z hashami](dane/rejestr-zrodel.json), [pełniejszy wyciąg Szwabii](dane/szwabia-save-1066-09-20.json), [relacje i opinie](dane/szwabia-relacje-1066-09-20.json)
+
+Raport Szwabii uzupełnia wcześniejsze karty i politykę na tej samej dacie. Potwierdzono brak czynnego cesarskiego seniora Rudolfa oraz −20 za odwołanie dawnych radnych. Zegar narracji po wprowadzeniu pozostaje 20 IX 1066.

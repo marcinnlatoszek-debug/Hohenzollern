@@ -1,7 +1,7 @@
 # Polityka, rada i możni — 20 IX 1066
 
 ## Struktura władzy
-Burkhard jest wasalem Rudolfa von Rheinfelden (33322), księcia Szwabii; oba hrabstwa są w Szwabii de iure/de facto. Własny bezpośredni wasal Burkharda: republikański **Sigismund z Rottweil (45347)**, posiada b_rottweil 1185. Został odwołany z funkcji marszałka 18 IX, lecz **zachował ziemię**. Nie mamy potwierdzenia jego obrazy, spisku ani rebelii. Z powodu braku potomka Burkharda Rudolf widnieje jako awaryjny dziedzic; bez dowodu wrogich zamiarów.
+Burkhard jest wasalem Rudolfa von Rheinfelden (33322), księcia Szwabii; oba hrabstwa są w Szwabii de iure/de facto. Własny bezpośredni wasal Burkharda: republikański **Sigismund z Rottweil (45347)**, posiada b_rottweil 1185. Został odwołany z funkcji marszałka 18 IX, lecz **zachował ziemię**. S003 potwierdza modyfikator fired_from_council_opinion −20 wobec Burkharda, od 18 IX 1066 do 18 IX 1076. Nie jest to pełna opinia; spisek ani rebelia nie są potwierdzone. Z powodu braku potomka Burkharda Rudolf widnieje jako awaryjny dziedzic; bez dowodu wrogich zamiarów.
 
 ## Rada po zmianach
 | Stanowisko | Obecnie | Przed reorganizacją 18 IX |
@@ -31,3 +31,7 @@ Anselm, hrabia Tübingen **30932** — Zollern i Hohenberg; Wolfram **66593** �
 
 ## Interpretacja
 Najpilniejsze kwestie: sukcesja, współpraca z Sigismundem z Rottweil, opinie pretendentów i dawnych radnych, stanowisko kapelana oraz utrzymanie dziewięciu urzędów społecznych. Mechaniki More Interactive Vassals umożliwiają negocjacje, lojalność, interwencje i zdrady — samo włączenie nie znaczy, że zdrada nastąpiła.
+
+## Rozszerzenie audytu S003
+
+Rudolf jest obecnie niezależny de facto: d_swabia nie ma de_facto_liege, a e_hre i k_east_francia nie mają posiadacza. Anselm jest mistrzem intryg Rudolfa. Wszyscy czterej odwołani radni mają zapisany modyfikator −20 za odwołanie. Pełna analiza obejmująca 22 hrabstwa, 17 posiadaczy, ich wojska i możliwe interesy: [raport Szwabii](szwabia/Polityka-1066-09-20.md), [karty](szwabia/README.md).
