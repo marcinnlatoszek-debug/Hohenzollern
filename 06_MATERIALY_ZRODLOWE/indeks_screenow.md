@@ -20,6 +20,7 @@
 | 37502 | [Egino II z Zollern, ród Urach](../02_POSTACIE/37502/karta.md) | `Zrzut ekranu 2026-10-10 205019.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0003.png` | 1066-10-20 | [Źródła](../02_POSTACIE/37502/zrodla.md), [Wygląd](../02_POSTACIE/37502/wyglad.md), [Narracja](../02_POSTACIE/37502/profil_narracyjny.md) |
 | 30344 | [Hupold III z Nördlingen](../02_POSTACIE/30344/karta.md) | `Zrzut ekranu 2026-10-10 210529.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0004.png` | 1066-10-20 | [Źródła](../02_POSTACIE/30344/zrodla.md), [Wygląd](../02_POSTACIE/30344/wyglad.md), [Narracja](../02_POSTACIE/30344/profil_narracyjny.md) |
 | 33227 | [Otto III von Kirchberg, hrabia Burgau](../02_POSTACIE/33227/karta.md) | `Zrzut ekranu 2026-10-10 210756.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0005.png` | 1066-10-20 | [Źródła](../02_POSTACIE/33227/zrodla.md), [Wygląd](../02_POSTACIE/33227/wyglad.md), [Narracja](../02_POSTACIE/33227/profil_narracyjny.md) |
+| 34799 | [Welf IV, hrabia Ravensburga](../02_POSTACIE/34799/karta.md) | `Zrzut ekranu 2026-10-10 211100.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0006.png` | 1066-10-20 | [Źródła](../02_POSTACIE/34799/zrodla.md), [Wygląd](../02_POSTACIE/34799/wyglad.md), [Narracja](../02_POSTACIE/34799/profil_narracyjny.md) |
 
 Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary dla Burkharda ID 62634, przypisany w jego [źródłach](../02_POSTACIE/62634/zrodla.md).
 
