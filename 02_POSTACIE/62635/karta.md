@@ -18,3 +18,16 @@ Planowana ścieżka: `06_MATERIALY_ZRODLOWE/zrzuty_ekranu/1066-09-16_postac_6263
 Do uzupełnienia: data gry; ID; widoczny panel; ścieżka w repozytorium; źródło; potwierdzony wygląd / Barber Shop.
 ## Powiązania
 [Rada i rycerze Burkharda](../../04_OTOCZENIE_WLADCY/indeks_dworu.md) · [Burkhard 62634](../62634/karta.md) · [Indeks postaci](../indeks_postaci.md).
+
+## Dane personalne — odczyt pól 1066-09-16
+
+**POTWIERDZONE_SAVE:** identyfikatory, surowe wartości, przypisanie numerów traitów do zapisanej w pliku tabeli `traits_lookup` (419 pozycji). Identyfikacja strukturalna `birth`, `skill`, `culture`, `faith`, `dynasty_house` jest wsparta schematem Jomini CK3; wartości nadają się do późniejszego porównania z interfejsem.
+
+- **Data urodzenia:** 1033-03-01 (surowy klucz `0x27e9`, dekodowanie daty Jomini).
+- **Kultura — ID:** 40 (nazwy nie ustalono bez mapy kultur).
+- **Wiara/obrządek:** surowe pole `0x3e5a` = 0; klasyfikacja wartości i nazwa wiary **NIEUSTALONE**.
+- **Dom dynastyczny — ID:** NIEUSTALONE (brak pola w bieżącej sekcji).
+- **Umiejętności** (dyplomacja, wojskowość, zarządzanie, intryga, nauka, sprawność): **2 / 9 / 6 / 8 / 4 / 10**; surowy klucz `0x29a5`.
+- **Cechy osobowości, wykształcenia i inne**, dokładne angielskie klucze z tablicy zapisanej w save'ie: `content` (trait #68); `arrogant` (trait #59); `temperate` (trait #50); `education_martial_3` (trait #17); `open_terrain_expert` (trait #249). Surowy klucz `0x0648`.
+- Polska interpretacja nazwy lub konkretnego efektu modyfikatora jest odrębnym etapem; liczby i angielskie klucze zachowano dosłownie.
+
