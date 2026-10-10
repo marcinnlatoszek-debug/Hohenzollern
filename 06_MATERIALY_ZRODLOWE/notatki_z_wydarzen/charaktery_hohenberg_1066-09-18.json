@@ -1,0 +1,540 @@
+{
+  "source": {
+    "file": "von_Hohenzollern(2).ck3",
+    "sha256": "341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941",
+    "date": "1066.9.18",
+    "version": "1.20.0.4"
+  },
+  "extra_read": {
+    "relations": [],
+    "memories": {
+      "4377": {
+        "pairs": [
+          [
+            "type",
+            "ascended_throne_memory"
+          ],
+          [
+            "participants",
+            {
+              "pairs": [
+                [
+                  "flavor_character",
+                  38610
+                ]
+              ],
+              "values": []
+            }
+          ],
+          [
+            "creation_date",
+            "1066.9.16"
+          ],
+          [
+            "end_date",
+            "1391.9.16"
+          ],
+          [
+            "variables",
+            {
+              "pairs": [
+                [
+                  "data",
+                  {
+                    "pairs": [],
+                    "values": [
+                      {
+                        "pairs": [
+                          [
+                            "flag",
+                            "reason"
+                          ],
+                          [
+                            "data",
+                            {
+                              "pairs": [
+                                [
+                                  "type",
+                                  "flag"
+                                ],
+                                [
+                                  "flag",
+                                  "revoked"
+                                ]
+                              ],
+                              "values": []
+                            }
+                          ]
+                        ],
+                        "values": []
+                      },
+                      {
+                        "pairs": [
+                          [
+                            "flag",
+                            "landed_title"
+                          ],
+                          [
+                            "data",
+                            {
+                              "pairs": [
+                                [
+                                  "type",
+                                  "lt"
+                                ],
+                                [
+                                  "identity",
+                                  1239
+                                ]
+                              ],
+                              "values": []
+                            }
+                          ]
+                        ],
+                        "values": []
+                      },
+                      {
+                        "pairs": [
+                          [
+                            "flag",
+                            "title_count"
+                          ],
+                          [
+                            "data",
+                            {
+                              "pairs": [
+                                [
+                                  "type",
+                                  "value"
+                                ]
+                              ],
+                              "values": []
+                            }
+                          ]
+                        ],
+                        "values": []
+                      }
+                    ]
+                  }
+                ],
+                [
+                  "list",
+                  {
+                    "pairs": [],
+                    "values": [
+                      {
+                        "pairs": [
+                          [
+                            "name",
+                            "new_titles"
+                          ],
+                          [
+                            "item",
+                            {
+                              "pairs": [
+                                [
+                                  "type",
+                                  "lt"
+                                ],
+                                [
+                                  "identity",
+                                  1239
+                                ]
+                              ],
+                              "values": []
+                            }
+                          ],
+                          [
+                            "duration",
+                            {
+                              "pairs": [],
+                              "values": [
+                                1
+                              ]
+                            }
+                          ]
+                        ],
+                        "values": []
+                      }
+                    ]
+                  }
+                ]
+              ],
+              "values": []
+            }
+          ]
+        ],
+        "values": []
+      }
+    },
+    "court_positions": [],
+    "schemes": [
+      {
+        "id": 2,
+        "node": {
+          "pairs": [
+            [
+              "type",
+              "sway"
+            ],
+            [
+              "status",
+              "continue"
+            ],
+            [
+              "owner",
+              62634
+            ],
+            [
+              "target",
+              {
+                "pairs": [
+                  [
+                    "type",
+                    "character"
+                  ],
+                  [
+                    "target",
+                    58415
+                  ]
+                ],
+                "values": []
+              }
+            ],
+            [
+              "artifact",
+              4294967295
+            ],
+            [
+              "progress",
+              2
+            ],
+            [
+              "opportunities",
+              0
+            ],
+            [
+              "variables",
+              {
+                "pairs": [
+                  [
+                    "data",
+                    {
+                      "pairs": [],
+                      "values": [
+                        {
+                          "pairs": [
+                            [
+                              "flag",
+                              "custom_charge_threshold"
+                            ],
+                            [
+                              "data",
+                              {
+                                "pairs": [
+                                  [
+                                    "type",
+                                    "value"
+                                  ],
+                                  [
+                                    "identity",
+                                    500000
+                                  ]
+                                ],
+                                "values": []
+                              }
+                            ]
+                          ],
+                          "values": []
+                        }
+                      ]
+                    }
+                  ]
+                ],
+                "values": []
+              }
+            ],
+            [
+              "update_days",
+              2
+            ],
+            [
+              "semiyearly_update_days",
+              2
+            ],
+            [
+              "scheme_exposed",
+              "no"
+            ],
+            [
+              "secrecy",
+              100
+            ],
+            [
+              "date",
+              "1066.9.16"
+            ],
+            [
+              "last_update",
+              "1066.9.18"
+            ],
+            [
+              "ramping_success_chance",
+              0
+            ],
+            [
+              "breach",
+              0
+            ],
+            [
+              "phases",
+              0
+            ],
+            [
+              "next_id",
+              0
+            ]
+          ],
+          "values": []
+        }
+      }
+    ],
+    "personal_fields": {
+      "45254": {
+        "trait_xp_amounts": [
+          1,
+          50,
+          1
+        ],
+        "sexuality_raw": "ho",
+        "focus": null,
+        "languages": [
+          "language_high_german"
+        ],
+        "join_court_date": null,
+        "stress": null,
+        "location": {
+          "pairs": [
+            [
+              "location",
+              2756
+            ]
+          ],
+          "values": []
+        }
+      },
+      "62634": {
+        "trait_xp_amounts": [
+          1,
+          1,
+          1
+        ],
+        "sexuality_raw": null,
+        "focus": {
+          "pairs": [
+            [
+              "type",
+              "stewardship_wealth_focus"
+            ],
+            [
+              "date",
+              "1066.9.16"
+            ],
+            [
+              "changes",
+              1
+            ],
+            [
+              "progress",
+              0
+            ]
+          ],
+          "values": []
+        },
+        "languages": [
+          "language_high_german"
+        ],
+        "join_court_date": null,
+        "stress": null,
+        "location": {
+          "pairs": [
+            [
+              "location",
+              2759
+            ]
+          ],
+          "values": []
+        }
+      },
+      "62635": {
+        "trait_xp_amounts": [
+          1,
+          50,
+          1,
+          0
+        ],
+        "sexuality_raw": null,
+        "focus": null,
+        "languages": [
+          "language_high_german"
+        ],
+        "join_court_date": "1066.9.15",
+        "stress": null,
+        "location": {
+          "pairs": [
+            [
+              "location",
+              2759
+            ]
+          ],
+          "values": []
+        }
+      },
+      "62636": {
+        "trait_xp_amounts": [
+          50,
+          1,
+          100
+        ],
+        "sexuality_raw": null,
+        "focus": null,
+        "languages": [
+          "language_high_german"
+        ],
+        "join_court_date": "1066.9.15",
+        "stress": null,
+        "location": {
+          "pairs": [
+            [
+              "location",
+              2759
+            ]
+          ],
+          "values": []
+        }
+      },
+      "62637": {
+        "trait_xp_amounts": [
+          50,
+          1,
+          50
+        ],
+        "sexuality_raw": "ho",
+        "focus": null,
+        "languages": [
+          "language_high_german"
+        ],
+        "join_court_date": "1066.9.15",
+        "stress": null,
+        "location": {
+          "pairs": [
+            [
+              "location",
+              2759
+            ]
+          ],
+          "values": []
+        }
+      },
+      "62638": {
+        "trait_xp_amounts": [
+          1,
+          1,
+          1,
+          0
+        ],
+        "sexuality_raw": null,
+        "focus": null,
+        "languages": [
+          "language_high_german"
+        ],
+        "join_court_date": "1066.9.15",
+        "stress": null,
+        "location": {
+          "pairs": [
+            [
+              "location",
+              2759
+            ]
+          ],
+          "values": []
+        }
+      },
+      "58415": {
+        "trait_xp_amounts": [
+          1,
+          1,
+          1
+        ],
+        "sexuality_raw": null,
+        "focus": null,
+        "languages": [
+          "language_high_german",
+          "language_latin"
+        ],
+        "join_court_date": "1066.9.15",
+        "stress": null,
+        "location": {
+          "pairs": [
+            [
+              "location",
+              2759
+            ]
+          ],
+          "values": []
+        }
+      },
+      "65691": {
+        "trait_xp_amounts": [
+          50,
+          50,
+          1
+        ],
+        "sexuality_raw": null,
+        "focus": null,
+        "languages": [
+          "language_high_german"
+        ],
+        "join_court_date": "1066.9.15",
+        "stress": null,
+        "location": {
+          "pairs": [
+            [
+              "location",
+              2759
+            ]
+          ],
+          "values": []
+        }
+      },
+      "65692": {
+        "trait_xp_amounts": [
+          1,
+          1,
+          50
+        ],
+        "sexuality_raw": null,
+        "focus": null,
+        "languages": [
+          "language_high_german"
+        ],
+        "join_court_date": "1066.9.15",
+        "stress": null,
+        "location": {
+          "pairs": [
+            [
+              "location",
+              2759
+            ]
+          ],
+          "values": []
+        }
+      }
+    }
+  },
+  "limits": [
+    "XP tracks have not been mapped to specific traits.",
+    "No full opinion or stress value read.",
+    "Memory variables not converted into a confirmed historical event."
+  ]
+}

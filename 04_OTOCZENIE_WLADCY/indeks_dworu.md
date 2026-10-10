@@ -16,6 +16,8 @@
 
 To kompletny wynik filtra employer=62634 w living tego save’a, nie pełny wykaz gości, więźniów i wszystkich dodatkowych funkcji. Rozpoznano także dwory regionalnych władców: osoby i employer są w [indeksie postaci](../02_POSTACIE/indeks_postaci.md).
 
+[Charaktery dziewięciu osób związanych z Hohenbergiem](../07_ANALIZY/rozpoznania_poczatkowe/charaktery_hohenberg_1066-09-18.md): pełne profile i propozycje zastosowania w fabule, odrębne od faktów.
+
 <details>
 <summary>Wcześniejsze obserwacje i etap rozpoznania — zachowane historycznie</summary>
 

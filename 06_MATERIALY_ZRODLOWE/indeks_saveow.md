@@ -22,3 +22,7 @@ Metoda: rozpoznanie ZIP, binarna tokenizacja, powiązanie `living`, `landed_titl
 ## Rozszerzenie odczytu 10 X 2026
 
 Ten sam hash (alias (2)) ponownie zweryfikowano lokalnie; oryginału nie zmieniono. Rakaly 0.8.21: odczyt binarny, kontrola brakujących kluczy poprawna. Rozpoznano 112 własnych rekordów, kontrakty i rady, powiązania rodzinne, roszczenia i cesarskie nominacje. [Wybrane pola źródłowe](notatki_z_wydarzen/polityka_1066-09-18.json). Rozszerzenie zastępuje prowizoryczne wnioski w istniejącej analizie, bez nowej daty gry.
+
+## Hohenberg — materiał do analizy charakterów
+
+Ponowny odczyt tego samego save’a 18 IX 1066: dziewięć postaci, surowe XP, języki, daty wejścia na dwór, pamięć 4377 oraz sway 2. [Transkrypcja](notatki_z_wydarzen/charaktery_hohenberg_1066-09-18.json). Profile fabularne są oznaczone jako interpretacja, bez dopisanych wydarzeń.

@@ -14,3 +14,7 @@ Aktywny punkt odniesienia: 18 IX 1066, save o SHA-256 341d67fc3d15b23b3fba2d33e3
 Nie dodano oryginalnych plików instalacji modów. Ich konkretne wersje i pięć nazw pozostają nieustalone.
 
 [Polityka — transkrypcja wybranych pól 18 IX](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/polityka_1066-09-18.json): 112 osób, kontrakty, rady, tytuły i elekcja; [interpretacja w głównej analizie](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md).
+
+## Hohenberg — materiał do analizy charakterów
+
+Ponowny odczyt tego samego save’a 18 IX 1066: dziewięć postaci, surowe XP, języki, daty wejścia na dwór, pamięć 4377 oraz sway 2. [Transkrypcja](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/charaktery_hohenberg_1066-09-18.json). Profile fabularne są oznaczone jako interpretacja, bez dopisanych wydarzeń.

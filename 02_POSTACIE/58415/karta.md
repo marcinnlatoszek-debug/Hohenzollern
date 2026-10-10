@@ -35,6 +35,13 @@ Wygląd i zatwierdzony portret, efektywne statystyki, pełne opinie, zamiary i s
 
 [Indeks](../indeks_postaci.md) · [Analiza polityczna](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)
 
+
+## Charakter — pakiet do fabuły, 18 IX 1066
+
+**WNIOSEK, nie nowy fakt:** Może otwarcie i szybko domagać się rozstrzygnięcia, które uważa za zgodne z zasadami.
+
+Osobowość czytać razem z wiekiem, edukacją, kompetencjami i obowiązkiem. Natężenie traitów pozostaje nieprzypisane; zachowano XP. [Pełny profil i granice interpretacji](../../07_ANALIZY/rozpoznania_poczatkowe/charaktery_hohenberg_1066-09-18.md#58415-helferich). Scen i biografii nie dopisano.
+
 <details>
 <summary>Wcześniejsze obserwacje i etap rozpoznania — zachowane historycznie</summary>
 
