@@ -14,3 +14,13 @@ NIEUSTALONE. Brak zatwierdzonego portretu.
 **POTWIERDZONE_SAVE:** Rekord ID **45251**, imię **Ekbert**; właściciel tytułu w rekordach: `b_sigmaringen 1224`. Pole ID domu `0x2e5e` niepotwierdzone; dom NIEUSTALONY. Pole datowe `0x27e9`: **52932048** (znaczenie biograficzne NIEUSTALONE). Surowe liczby z `0x29a5`: **[4,10,5,10,6,10]** (niezweryfikowana kolejność umiejętności).
 
 **NIEUSTALONE:** dokładna data urodzenia, rodzice, małżeństwa, dzieci, kultura, wiara, obrządek, przyporządkowanie umiejętności, cechy/traits, urzędy, relacje, roszczenia i wygląd. Potrzebne: aktualny screen karty postaci, Family/Relations, tooltipy cech i osobna referencja Barber Shop. Tytuł nie dowodzi przebywania na dworze Burkharda.
+
+## Nowy odczyt cech z 18 IX 1066
+
+Źródło: `von_Hohenzollern(1).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`. Każdy trait wynika z tablicy numerycznej postaci połączonej z 419-elementowym słownikiem `traits_lookup` **tego samego save'a**.
+- Data urodzenia ze struktury Jomini: **1042-06-22**.
+- ID kultury: **40** (nazwa NIEUSTALONA); ID domu dynastycznego: **NIEUSTALONE**.
+- Sześć bazowych zapisanych wartości `skill` w kolejności dyplomacja, wojskowość, zarządzanie, intryga, nauka, sprawność: **4 / 10 / 5 / 10 / 6 / 10**.
+- Rozszyfrowane cechy: `paranoid` [73], `brave` [64], `honest` [62], `education_martial_1` [15], `unyielding_defender` [241].
+- Efektywne wartości po modyfikatorach, szczegóły religii i portret: **NIEUSTALONE**.
+- Kontrola tożsamości: ID **45251**; szczególnie nie utożsamiać Ezzo **65691** (kanclerz 18 IX) z Ezzo **45250** (baron Helfensteinu).
