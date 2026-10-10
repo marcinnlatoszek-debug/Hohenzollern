@@ -22,6 +22,7 @@
 | 33227 | [Otto III von Kirchberg, hrabia Burgau](../02_POSTACIE/33227/karta.md) | `Zrzut ekranu 2026-10-10 210756.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0005.png` | 1066-10-20 | [Źródła](../02_POSTACIE/33227/zrodla.md), [Wygląd](../02_POSTACIE/33227/wyglad.md), [Narracja](../02_POSTACIE/33227/profil_narracyjny.md) |
 | 34799 | [Welf IV, hrabia Ravensburga](../02_POSTACIE/34799/karta.md) | `Zrzut ekranu 2026-10-10 211100.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0006.png` | 1066-10-20 | [Źródła](../02_POSTACIE/34799/zrodla.md), [Wygląd](../02_POSTACIE/34799/wyglad.md), [Narracja](../02_POSTACIE/34799/profil_narracyjny.md) |
 | 37503 | [Hartmann von Hupolding, hrabia Zurychu](../02_POSTACIE/37503/karta.md) | `Zrzut ekranu 2026-10-10 211516.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0007.png` | 1066-10-20 | [Źródła](../02_POSTACIE/37503/zrodla.md), [Wygląd](../02_POSTACIE/37503/wyglad.md), [Narracja](../02_POSTACIE/37503/profil_narracyjny.md) |
+| 31737 | [Louis de Scarponnois, hrabia Sundgau](../02_POSTACIE/31737/karta.md) | `Zrzut ekranu 2026-10-10 211801.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0008.png` | 1066-10-20 | [Źródła](../02_POSTACIE/31737/zrodla.md), [Wygląd](../02_POSTACIE/31737/wyglad.md), [Narracja](../02_POSTACIE/31737/profil_narracyjny.md) |
 
 Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary dla Burkharda ID 62634, przypisany w jego [źródłach](../02_POSTACIE/62634/zrodla.md).
 
