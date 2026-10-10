@@ -19,3 +19,9 @@ Pola `0x27d9` i `0x27db` są odrębne i w Baden wskazują różne tytuły (1060 
 
 ## Aktualizacja 1066-09-18
 Save SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`: książę Rudolf 33226, posiadacze siedmiu wcześniej opisanych hrabstw potwierdzeni ponownie. Dodatkowi posiadacze baronii: Ezzo 45250 (Helfenstein 1220), Ekbert 45251 (Sigmaringen 1224), Friedrich 45252 (Tübingen 1229), Bernhard 45253 (Reutlingen 1238), Konrad 45254 (Rottweil 1241). Przynależność do konkretnych dworów i rodzin jest NIEUSTALONA.
+
+## Uzupełnienie polityczne — 18 IX 1066
+
+Źródło: save SHA-256 341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941, odczyt tej rozmowy. Senior de facto księstwa: e_hre 199, Heinrich 38661; senior de iure: ID 1088. Hohenberg ma seniora de facto i de iure d_swabia 1216. Pozostałych hrabstw nie utożsamiać automatycznie z listą faktycznych wasali. [Rozszerzona analiza i ograniczenia](../../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md).
+
+Rodzina Rudolfa: [odniesienia z własnego rekordu](../../../02_POSTACIE/33226/relacje.md). Wskazana lista heir Szwabii: 40517, 39814, 40849, 41034, 34032, 33042, 41244, 41245; nie przesądza jednoczesnego podziału ziem.

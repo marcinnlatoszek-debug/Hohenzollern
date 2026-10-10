@@ -33,3 +33,7 @@ Brak zatwierdzonego portretu. Planowane źródło: `06_MATERIALY_ZRODLOWE/zrzuty
 - Umiejętności, kolejno: dyplomacja / wojskowość / zarządzanie / intryga / nauka / sprawność: **7 / 5 / 8 / 4 / 9 / 7**.
 - Traity: `lustful` (ID 47), `vengeful` (ID 81), `paranoid` (ID 73), `education_martial_2` (ID 16), `gallant` (ID 33), `logistician` (ID 238).
 - Screenshot/portret: **BRAK**. W przyszłości wiązać obraz z CK3 ID 31865 i datą gry.
+
+## Rodzina — uzupełnienie z 1066-09-18
+
+Wcześniejsze oznaczenie rodziny NIEUSTALONE zastępuje w zakresie wydobytych odniesień [rejestr relacji](relacje.md). Imiona, wiek i własne rekordy krewnych pozostają NIEUSTALONE.

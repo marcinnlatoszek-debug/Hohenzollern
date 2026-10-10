@@ -34,3 +34,7 @@ Brak zatwierdzonego portretu. Planowane źródło: `06_MATERIALY_ZRODLOWE/zrzuty
 - **Cechy osobowości, wykształcenia i inne**, dokładne angielskie klucze z tablicy zapisanej w save'ie: `sadistic` (trait #77); `gregarious` (trait #66); `honest` (trait #62); `education_learning_1` (trait #20); `whole_of_body` (trait #40). Surowy klucz `0x0648`.
 - Polska interpretacja nazwy lub konkretnego efektu modyfikatora jest odrębnym etapem; liczby i angielskie klucze zachowano dosłownie.
 
+
+## Rodzina — uzupełnienie z 1066-09-18
+
+Wcześniejsze oznaczenie rodziny NIEUSTALONE zastępuje w zakresie wydobytych odniesień [rejestr relacji](relacje.md). Imiona, wiek i własne rekordy krewnych pozostają NIEUSTALONE.

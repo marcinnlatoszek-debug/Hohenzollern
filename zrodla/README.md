@@ -1,13 +1,14 @@
-# Indeks źródeł
+# Indeks źródeł nowej kampanii
 
-Brak aktywnych źródeł nowej kampanii. Żaden dawny save, screen ani tekst fabularny nie ustanawia jej stanu.
+Aktywny punkt odniesienia: 18 IX 1066, save o SHA-256 341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941. Nazwy (1) i (2) oznaczają tę samą zawartość. Dane dawnej kampanii nie obowiązują.
 
 | Materiał | Zakres | Status |
 |---|---|---|
-| [Mody](Mody.md) | Roboczy zestaw 17, 7 wykluczeń, źródła i wskazówki | Plan do potwierdzenia w launcherze |
-| [Katalog JSON](mody.json) | Kandydaci, wykluczenia, wpis warunkowy | Nie jest playsetem |
-| [Metoda charakterów](../baza/mechaniki/Metoda-charakterow.md) | Warsztat oraz referencje Paradox | Bez kart dawnych postaci |
-| [Kontrola startu](Kontrola-nowego-startu.md) | Warunki przyjęcia nowego źródła | Do wykonania na nowym zapisie |
-| [Zasady projektu](../Zasady-projektu.md) | Fakty, interpretacja, fabuła i aktualizacje | Obowiązujące zasady pracy |
+| [Indeks save'ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md) | Stan 16 IX i aktualny 18 IX nowej kampanii | Datowane źródła |
+| [Mody](Mody.md) | 20 wpisów; 15 nazw rozpoznanych | Rozpoznane mody zweryfikowane przez gracza 10 X 2026 |
+| [JSON modów](mody.json) | Poprzedni plan 17 kandydatów | ARCHIWALNY PLAN; nie aktualny playset |
+| [Rodziny władców](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/rodziny_1066-09-18.md) | Transkrypcja family_data | 30 odniesień; własne rekordy nieodczytane |
+| [Metoda charakterów](../baza/mechaniki/Metoda-charakterow.md) | Warsztat | Nie dowód przebiegu kampanii |
+| [Zasady](../Zasady-projektu.md) | Źródła, kanon, narracja | Obowiązujące |
 
-Bibliografia jest zachowana z dokumentacji, a nie ponownie zweryfikowana podczas czyszczenia. Nie dodano plików źródłowych instalacji, których nie dostarczono. Przy nowych materiałach rejestrować nazwę, hash, datę gry, wersję, pochodzenie i zakres weryfikacji.
+Nie dodano oryginalnych plików instalacji modów. Ich konkretne wersje i pięć nazw pozostają nieustalone.

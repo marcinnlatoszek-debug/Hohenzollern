@@ -3,7 +3,7 @@
 **GRA DAJE FAKT, KRONIKA DAJE ŻYCIE.**
 
 ## Czysty początek — 10 X 2026
-Nie ma aktywnej kampanii. Na polecenie użytkownika usunięto z aktywnej gałęzi wszystkie dotychczasowe dane rozgrywki i fabułę. Nie przenosić postaci, genealogii autorskiej, relacji, liczb, scen, dat gry ani ustawień z poprzednich kampanii. Nowy kanon zbudować wyłącznie na podstawie nowych źródeł. Ogólne zasady warsztatowe zachowują ważność.
+W chwili resetu nie było aktywnej kampanii; obecny stan nowej kampanii znajduje się w 01_KAMPANIA/stan_aktualny.md. Na polecenie użytkownika usunięto z aktywnej gałęzi wszystkie dotychczasowe dane rozgrywki i fabułę. Nie przenosić postaci, genealogii autorskiej, relacji, liczb, scen, dat gry ani ustawień z poprzednich kampanii. Nowy kanon zbudować wyłącznie na podstawie nowych źródeł. Ogólne zasady warsztatowe zachowują ważność.
 
 ## Źródła i kanon
 - Najnowszy natywny save CK3 ma pierwszeństwo dla bieżącego stanu mechanicznego. Starsze save’y i screeny zachowują własne daty; screeny mogą zawierać teksty wydarzeń i wybory nieobecne w późniejszym zapisie.

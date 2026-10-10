@@ -39,3 +39,48 @@ Poniższe funkcje określono na podstawie **nowszego stanu 1066-09-18**. Osoba w
 Uwaga: [Konrad 45254](45254/karta.md) figuruje już w tabeli posiadaczy tytułów i od 18 IX jest zarządcą. Różnicę między dwoma Ezzonami odzwierciedlają odrębne identyfikatory: **65691** (kanclerz) i **45250** (Helfenstein).
 
 [Lista cech, urodzin i umiejętności — 17 osób, 18 IX](../07_ANALIZY/rozpoznania_poczatkowe/traits_i_umiejetnosci_1066-09-18.md).
+
+## Rozszerzenie — 10 X 2026; stan 18 IX 1066
+
+17 dotychczasowych rozpoznanych imion + 3 nowe karty = **20 osób rozpoznanych z imienia**. Dodatkowo **30 kart odniesień rodzinnych po ID**, bez własnych odczytanych rekordów. Łącznie 50 kart liczbowych, nie 50 pełnych rozpoznań. Nazwa pliku (2) jest aliasem tego samego hash aktualnego zapisu.
+
+| ID | Imię | Rola |
+|---|---|---|
+| 38661 | [Heinrich](38661/karta.md) | Cesarz |
+| 62637 | [Amalie](62637/karta.md) | Dworzanina Burkharda |
+| 62638 | [Emma](62638/karta.md) | Dworzanina Burkharda |
+
+### Karty nowych odniesień rodzinnych
+
+| ID | Potwierdzone odniesienie |
+|---|---|
+| [36941](36941/karta.md) | Główny małżonek zapisany w family_data postaci Rudolf (33226). |
+| [39814](39814/karta.md) | Wpis dziecka w family_data postaci Rudolf (33226). |
+| [40517](40517/karta.md) | Wpis dziecka w family_data postaci Rudolf (33226). |
+| [40849](40849/karta.md) | Wpis dziecka w family_data postaci Rudolf (33226). |
+| [41034](41034/karta.md) | Wpis dziecka w family_data postaci Rudolf (33226). |
+| [37235](37235/karta.md) | Wpis byłego małżonka w family_data postaci Rudolf (33226); przyczyna zakończenia związku NIEUSTALONA. |
+| [38109](38109/karta.md) | Główny małżonek zapisany w family_data postaci Heinrich (38661). |
+| [33433](33433/karta.md) | Główny małżonek zapisany w family_data postaci Friedrich z Grüningen (32172). |
+| [38079](38079/karta.md) | Wpis dziecka w family_data postaci Friedrich z Grüningen (32172). |
+| [38252](38252/karta.md) | Wpis dziecka w family_data postaci Friedrich z Grüningen (32172). |
+| [38609](38609/karta.md) | Wpis dziecka w family_data postaci Friedrich z Grüningen (32172). |
+| [38909](38909/karta.md) | Wpis dziecka w family_data postaci Friedrich z Grüningen (32172). |
+| [39030](39030/karta.md) | Wpis dziecka w family_data postaci Friedrich z Grüningen (32172). |
+| [39173](39173/karta.md) | Wpis dziecka w family_data postaci Friedrich z Grüningen (32172). |
+| [40316](40316/karta.md) | Wpis dziecka w family_data postaci Kuno (34995). |
+| [41253](41253/karta.md) | Wpis dziecka w family_data postaci Kuno (34995). |
+| [36154](36154/karta.md) | Główny małżonek zapisany w family_data postaci Berthold (31865). |
+| [38078](38078/karta.md) | Wpis dziecka w family_data postaci Berthold (31865). |
+| [38251](38251/karta.md) | Wpis dziecka w family_data postaci Berthold (31865). |
+| [38608](38608/karta.md) | Wpis dziecka w family_data postaci Berthold (31865). |
+| [38908](38908/karta.md) | Wpis dziecka w family_data postaci Berthold (31865). |
+| [39172](39172/karta.md) | Wpis dziecka w family_data postaci Berthold (31865). |
+| [34471](34471/karta.md) | Wpis byłego małżonka w family_data postaci Berthold (31865); przyczyna zakończenia związku NIEUSTALONA. |
+| [34580](34580/karta.md) | Wpis dziecka w family_data postaci Eberhard (31271). |
+| [34997](34997/karta.md) | Wpis dziecka w family_data postaci Eberhard (31271). |
+| [36645](36645/karta.md) | Wpis dziecka w family_data postaci Eberhard (31271). |
+| [37227](37227/karta.md) | Wpis dziecka w family_data postaci Eberhard (31271). |
+| [38082](38082/karta.md) | Wpis dziecka w family_data postaci Eberhard (31271). |
+| [38789](38789/karta.md) | Wpis dziecka w family_data postaci Eberhard (31271). |
+| [39031](39031/karta.md) | Wpis dziecka w family_data postaci Eberhard (31271). |

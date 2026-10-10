@@ -1,3 +1,38 @@
+# Mody — konfiguracja aktualnej kampanii
+
+Źródło: von_Hohenzollern(2).ck3; SHA-256 341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941; data gry 1066-09-18; CK3 1.20.0.4. Plik jest bajtowo identyczny z zapisanym w repozytorium von_Hohenzollern(1).ck3.
+
+**Potwierdzenie gracza, 10 X 2026:** „Mody rozpoznane są modami zweryfikowanymi i można je dodać do kanonu”. Rozpoznane 15 nazw otrzymuje status POTWIERDZONE_SAVE + POTWIERDZENIE_GRACZA. Wcześniejszy plan nie unieważnia aktywności rozpoznanego Historical Accuracy. Weryfikacja konfiguracji nie dowodzi przebiegu żadnego konkretnego wydarzenia ani znajomości wszystkich definicji i torów XP.
+
+| Pozycja w save | Workshop ID | Nazwa | Status |
+|---:|---|---|---|
+| 1 | 3816257844 | NIEUSTALONA | Wpis potwierdzony w save; tożsamość NIEUSTALONA |
+| 2 | 2227658180 | VIET Events | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 3 | 3006877184 | Royal Court for Dukes | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 4 | 3157170996 | NIEUSTALONA | Wpis potwierdzony w save; tożsamość NIEUSTALONA |
+| 5 | 2261468688 | Clear Notifications | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 6 | 2721974781 | Councillor’s experience trait | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 7 | 3150612985 | Real Eyes 3.0 | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 8 | 2452585382 | Medieval Arts | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 9 | 3775087204 | NIEUSTALONA | Wpis potwierdzony w save; tożsamość NIEUSTALONA |
+| 10 | 2986496756 | More Background Illustrations | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 11 | 2220326926 | Better Barbershop | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 12 | 3030427202 | Big Battle View | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 13 | 2712590542 | More Interactive Vassals | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 14 | 3255992492 | Simple Graphic Pack | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 15 | 3717989134 | More Personality Depth | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 16 | 3790487196 | NIEUSTALONA | Wpis potwierdzony w save; tożsamość NIEUSTALONA |
+| 17 | 3815400308 | NIEUSTALONA | Wpis potwierdzony w save; tożsamość NIEUSTALONA |
+| 18 | 3360676953 | Royal Court Event Pack | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 19 | 2223544446 | Historical Accuracy | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+| 20 | 2220098919 | Community Flavor Pack | ZWERYFIKOWANY; W KANONIE KONFIGURACJI |
+
+Immersive Mercs & Raiders i Populated World! nie występują na tej liście. Nie włączono ani nie wyłączono żadnego moda. Kolejność tabeli odtwarza metadane, nie niezależny test nadpisywania. Wersje modów i pięć nazw pozostają nieustalone.
+
+## Archiwalny plan konfiguracji — zastąpiony w zakresie rozpoznanych aktywnych modów
+
+Poniższy tekst zachowano jako historię wcześniejszego planu, nie aktualne polecenie wyłączania modów tej kampanii.
+
 # Katalog źródeł modów
 
 **Roboczy zestaw nowej kampanii, decyzja 10 X 2026:** 17 kandydatów do włączenia, w tym **Populated World! warunkowo**. Nie jest to potwierdzony eksport playsetu ani wynik testów.

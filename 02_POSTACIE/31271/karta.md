@@ -33,3 +33,7 @@ Brak zatwierdzonego portretu. Planowane źródło: `06_MATERIALY_ZRODLOWE/zrzuty
 - Umiejętności, kolejno: dyplomacja / wojskowość / zarządzanie / intryga / nauka / sprawność: **6 / 2 / 5 / 5 / 0 / 7**.
 - Traity: `shy` (ID 65), `stubborn` (ID 78), `just` (ID 70), `education_stewardship_1` (ID 10), `architect` (ID 34).
 - Screenshot/portret: **BRAK**. W przyszłości wiązać obraz z CK3 ID 31271 i datą gry.
+
+## Rodzina — uzupełnienie z 1066-09-18
+
+Wcześniejsze oznaczenie rodziny NIEUSTALONE zastępuje w zakresie wydobytych odniesień [rejestr relacji](relacje.md). Imiona, wiek i własne rekordy krewnych pozostają NIEUSTALONE.

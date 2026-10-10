@@ -44,3 +44,11 @@ Pole `playable_data/knights` jest reprezentowane w obu save'ach przez ID **62635
 - [Raport z 18 IX](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)
 - [Cechy i umiejętności — 17 postaci, 18 IX](../07_ANALIZY/rozpoznania_poczatkowe/traits_i_umiejetnosci_1066-09-18.md)
 - [Rejestr obu save'ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md)
+
+## Uzupełnienie kanonu — potwierdzenie gracza 10 X 2026
+
+Rozpoznane 15 modów przyjęto jako zweryfikowane: [aktualny katalog](../zrodla/Mody.md). Save zawiera 20 wpisów; pięć nazw nadal NIEUSTALONYCH. Historyczny plan konfiguracji nie zastępuje potwierdzenia dotyczącego bieżącej kampanii. Nazwa (2) to identyczny hash aktualnego save'a z 18 IX.
+
+Rozpoznanie obejmuje 20 osób z imienia i 30 dodatkowych kart ID. [Rozszerzenie polityczne i rodziny](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md). Łańcuch faktycznej władzy: Burkhard/Hohenberg → Rudolf/Szwabia → Heinrich/Cesarstwo. Rudolf jest wskazanym następcą Burkharda przy fallback_default. Stan tytułu i wynik sukcesji nie są prognozą przyszłego wydarzenia.
+
+Wcześniejsze NIEUSTALONE dotyczące rodziny zastępują w zakresie wskazanych ID datowane rejestry relacji władców; imiona i własne rekordy 30 krewnych nadal nieodczytane. Dwór Burkharda: potwierdzeni employer=62634 Ezzo 65691, Gunzelin 65692, Helferich 58415, Gerhard 62635, Notker 62636, Amalie 62637, Emma 62638. Nie jest to twierdzenie o kompletności gości i wszystkich relacji.

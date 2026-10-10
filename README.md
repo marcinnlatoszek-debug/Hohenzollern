@@ -1,12 +1,13 @@
-# Hohenzollern — baza do nowego startu
+# Hohenzollern — nowa kampania
 
-Brak aktywnej kampanii. Poprzednie dane gry, kanon, analizy, karty postaci i pamięć fabularna zostały usunięte z aktywnej gałęzi na polecenie użytkownika 10 X 2026. Nie odtwarzać ich z historii Git ani pamięci rozmów.
+Aktualny stan: **18 IX 1066**, CK3 **1.20.0.4**. Obowiązuje reset poprzedniej kampanii z 10 X 2026; poniższe dane pochodzą wyłącznie z nowych zapisów. Nie przywracać dawnego kanonu z historii Git.
 
-## Dostęp
+- [Stan aktualny](01_KAMPANIA/stan_aktualny.md)
+- [Szwabia: polityka, władcy i rodziny](07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)
+- [Indeks postaci: 20 imion i 30 odniesień rodzinnych](02_POSTACIE/indeks_postaci.md)
+- [Aktualna konfiguracja modów](zrodla/Mody.md)
+- [Źródła save'ów](06_MATERIALY_ZRODLOWE/indeks_saveow.md)
 - [Zasady projektu](Zasady-projektu.md)
-- [Indeks źródeł](zrodla/README.md)
-- [Katalog modów](zrodla/Mody.md)
 - [Metoda analizy postaci](baza/mechaniki/Metoda-charakterow.md)
-- [Kontrola nowego startu](zrodla/Kontrola-nowego-startu.md)
 
-Roboczo wybrano 17 kandydatów do nowego startu po wykluczeniu 7 modów (w tym dwóch wcześniej wykluczonych); Populated World! pozostaje warunkowo. Szczegóły w [katalogu modów](zrodla/Mody.md) i [JSON](zrodla/mody.json). To decyzja o konfiguracji, **nie potwierdzony playset ani zweryfikowany start**. Materiały źródłowe są punktem wyjścia do weryfikacji i nie potwierdzają stanu nowej rozgrywki. Repozytorium nie zawiera lokalnych plików instalacji modów. Historia commitów pozostaje historią techniczną, nie źródłem nowego kanonu.
+Rozpoznane mody zatwierdził gracz 10 X 2026. 30 kart ID krewnych zawiera potwierdzone odniesienia, ale nie pełne dane osobowe. Dotychczasowy JSON modów jest archiwalnym planem, nie aktualną listą aktywnych modów. Wnioski polityczne są oddzielone od faktów; nie rozpoznano jeszcze wszystkich kontraktów, sojuszy i frakcji.
