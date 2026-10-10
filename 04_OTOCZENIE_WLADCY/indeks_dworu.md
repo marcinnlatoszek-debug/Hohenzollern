@@ -1,3 +1,24 @@
+# Dwór Burkharda — 18 IX 1066
+
+**Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
+
+**POTWIERDZONE_SAVE:** następujące żyjące rekordy mają court_data/employer=62634. Konrad jest wasalem i zarządcą, ale nie figuruje w tej liście employer; oba rodzaje zależności rozdzielono.
+
+| Osoba | Wiek | Potwierdzone zadanie u Burkharda |
+|---|---:|---|
+| [Helferich 58415](../02_POSTACIE/58415/karta.md) | 51 | Duchowny |
+| [Gerhard 62635](../02_POSTACIE/62635/karta.md) | 33 | Marszałek |
+| [Notker 62636](../02_POSTACIE/62636/karta.md) | 29 | brak odczytanego zadania rady |
+| [Amalie 62637](../02_POSTACIE/62637/karta.md) | 25 | brak odczytanego zadania rady |
+| [Emma 62638](../02_POSTACIE/62638/karta.md) | 26 | brak odczytanego zadania rady |
+| [Ezzo 65691](../02_POSTACIE/65691/karta.md) | 27 | Kanclerz |
+| [Gunzelin 65692](../02_POSTACIE/65692/karta.md) | 32 | Mistrz intryg |
+
+To kompletny wynik filtra employer=62634 w living tego save’a, nie pełny wykaz gości, więźniów i wszystkich dodatkowych funkcji. Rozpoznano także dwory regionalnych władców: osoby i employer są w [indeksie postaci](../02_POSTACIE/indeks_postaci.md).
+
+<details>
+<summary>Wcześniejsze obserwacje i etap rozpoznania — zachowane historycznie</summary>
+
 # Dwór Burkharda — indeks bez zgadywania
 
 **Data świata:** 1066-09-16 • **Postać gracza:** [Burkhard 62634](../02_POSTACIE/62634/karta.md).
@@ -32,3 +53,5 @@ Każdej wiarygodnie rozpoznanej osobie założyć katalog `02_POSTACIE/ID/karta.
 
 ## Braki w źródłach
 Odczyt zgodnego słownika tokenów funkcji dworskich lub screeny: rada Burkharda, listy dworzan, rycerzy i najbliższa rodzina.
+
+</details>

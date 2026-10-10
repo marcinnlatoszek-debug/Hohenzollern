@@ -1,3 +1,39 @@
+# Kanon nowej kampanii — 18 IX 1066
+
+**Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
+
+Obowiązuje reset poprzedniej kampanii z 10 X 2026. Poniższe fakty pochodzą z nowego save’a; wcześniejsze obserwacje 16 IX pozostają datowaną historią tej kampanii.
+
+## Gracz i otoczenie
+
+- Gracz: [Burkhard 62634](../02_POSTACIE/62634/karta.md), lat 16; dom von Hohenzollern 12843, dynastia 12239. Domena: Hohenberg 1239 i b_hohenberg 1240.
+- Senior: [Rudolf 33226](../02_POSTACIE/33226/karta.md), książę Szwabii; nad nim [Heinrich 38661](../02_POSTACIE/38661/karta.md), cesarz. Potwierdzenie w tytułach i kontraktach.
+- Hohenberg: fallback_default, pierwszy heir Rudolf. Prawa Burkharda: crown_authority_0, confederate_partition_succession_law, male_preference_law. Nie dopisano rodziny gracza.
+- Rada Burkharda: Ezzo 65691 (kanclerz), Konrad 45254 (zarządca), Gerhard 62635 (marszałek), Gunzelin 65692 (mistrz intryg), Helferich 58415 (duchowny). Lista knights: Gerhard i Gunzelin. [Rady i chronologia](../04_OTOCZENIE_WLADCY/rada.md).
+- Dwór employer=62634: Ezzo, Gunzelin, Helferich, Gerhard, Notker 62636, Amalie 62637, Emma 62638. [Datowany wykaz](../04_OTOCZENIE_WLADCY/indeks_dworu.md). Konrad ma republikański kontrakt wasalny jako posiadacz Rottweil i urząd zarządcy.
+
+## Szwabia i rodziny
+
+- Rozpoznano **112 własnych rekordów postaci** (100 żyjących, 12 zmarłych); wszystkie 30 wcześniejszych odniesień rodzinnych mają odczytane imiona, cechy i relacje. [Indeks kart](../02_POSTACIE/indeks_postaci.md).
+- Rudolf ma 11 bezpośrednich lenników w kontraktach. Siedem hrabstw de iure nie wyznacza pełnej listy jego faktycznych wasali.
+- Berthold 31865, posiadacz Baden, Karyntii i Werony, podlega bezpośrednio cesarzowi. Baden: de facto Karyntia, de iure Szwabia. Berthold jest kanclerzem cesarza.
+- Rada Rudolfa: Kuno 34995, Eberhard 31271, Hupold 30344, Friedrich 32172, Manfred 57580 oraz małżonka Adelaide 36941.
+- Żony Rudolfa i cesarza, Adelaide 36941 i Bertha 38109, są siostrami. Była żona Rudolfa Mathilda 37235 jest zmarłą siostrą cesarza. Richwara 34471, zmarła żona Bertholda, jest przyrodnią siostrą Adelaide i Berthy. Powiązania wyprowadzono z zapisanych rodziców.
+- Udo 34580, syn Eberharda 31271, jest władcą kościelnym Trewiru, głową domu Nellenburg i elektorem cesarskim; głosuje na Ulricha 31866. Pierwszy heir e_hre to Gottfried 29509.
+- Hermann 38078, syn Bertholda i hrabia Breisgau, ma roszczenie do Szwabii. Roszczenie nie dowodzi planu wojny.
+- Hrabstwo c_furstenberg 1242 ma w save nazwę **Nellenburg**; nie zmieniono jego ID. Zweryfikowano na 18 IX posiadaczy 23 tytułów baronii: [indeks baronii](../03_TERYTORIA/indeks_baronii_szwabii.md).
+
+## Relacje i ograniczenia
+
+Dla ośmiu głównych władców nie znaleziono wpisów alliances w relations/active_relations, udziału w wars/active_wars ani ich ID w faction_manager/factions. Nie wywodzić sojuszu z małżeństwa. Nie rozszerzać tego wyniku na wszystkich mieszkańców i nie nazywać go gwarancją pokoju. Opinie, zamiary, wygląd, efektywne statystyki i dokładne stawki indeksowanych kontraktów pozostają NIEUSTALONE.
+
+Rozpoznane 15 modów zatwierdził gracz; pięć pozostałych nazw nadal NIEUSTALONYCH. [Aktualny katalog](../zrodla/Mody.md). Dawny plan mody.json jest archiwalny.
+
+[Pełna analiza polityczna, sukcesja, nominacje i zasoby](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md) · [Transkrypcja źródłowa](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/polityka_1066-09-18.json) · [Save’y](../06_MATERIALY_ZRODLOWE/indeks_saveow.md).
+
+<details>
+<summary>Wcześniejsze obserwacje i etap rozpoznania — zachowane historycznie</summary>
+
 # Kanon nowej kampanii Hohenzollern — stan aktualny
 
 **Ostatni potwierdzony stan gry:** **1066-09-18**.
@@ -52,3 +88,5 @@ Rozpoznane 15 modów przyjęto jako zweryfikowane: [aktualny katalog](../zrodla/
 Rozpoznanie obejmuje 20 osób z imienia i 30 dodatkowych kart ID. [Rozszerzenie polityczne i rodziny](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md). Łańcuch faktycznej władzy: Burkhard/Hohenberg → Rudolf/Szwabia → Heinrich/Cesarstwo. Rudolf jest wskazanym następcą Burkharda przy fallback_default. Stan tytułu i wynik sukcesji nie są prognozą przyszłego wydarzenia.
 
 Wcześniejsze NIEUSTALONE dotyczące rodziny zastępują w zakresie wskazanych ID datowane rejestry relacji władców; imiona i własne rekordy 30 krewnych nadal nieodczytane. Dwór Burkharda: potwierdzeni employer=62634 Ezzo 65691, Gunzelin 65692, Helferich 58415, Gerhard 62635, Notker 62636, Amalie 62637, Emma 62638. Nie jest to twierdzenie o kompletności gości i wszystkich relacji.
+
+</details>

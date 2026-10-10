@@ -1,0 +1,35 @@
+# Ulrich — CK3 ID 40319
+
+**Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
+
+## Aktualny odczyt własnego rekordu
+
+**POTWIERDZONE_SAVE:** rekord `living/40319`; imię `Ulrich`; płeć: mężczyzna (brak female=yes w rekordzie). Urodzenie: `1060.1.1`.
+
+**OBLICZONE:** wiek **6** na 18 IX 1066, z daty urodzenia.
+
+- Dom: ID **10739**, nazwa/klucz `house_bregenz`; dynastia ID **4226**. Dom i dynastia mają odrębne identyfikatory.
+- Kultura: ID `NIEUSTALONE / brak pola`, `culture_template=NIEUSTALONE / brak pola`. Brak pola nie oznacza braku kultury; wartości domyślnych nie dopowiedziano.
+- Obrządek: ID `0`, `roman_rite`; jego rekord wskazuje wiarę ID `13`, `catholic`. Wiara ustalona przez powiązanie obrządku, nie przez założenie religii regionu.
+- Bazowy `skill` (DIP / MAR / STE / INT / LEA / PRO): `[2, 2, 3, 3, 0, 3]`. To zapis, nie suma z modyfikatorami interfejsu.
+- Traity według `traits_lookup` tego samego save’a: `curious` [indeks 85].
+
+## Posiadanie, urzędy i zależności
+
+- Aktualne tytuły (przeszukano rekordy posiadaczy): nie znaleziono aktualnie posiadanego tytułu.
+- Dwór: `court_data/employer=32379` — ID 32379 — własny rekord poza zakresem. To pole dworu, odrębne od kontraktu lennego.
+
+## Rodzina — zapisane relacje
+
+- Rodzice rozpoznani przez odwrotne powiązanie `family_data/child` w rejestrach żywych i zmarłych: ID 32379 — własny rekord poza zakresem. Nie zgadywano drugiego rodzica przy jednym wpisie.
+- `betrothed`: [Bertha 41034](../41034/karta.md). Zaręczyny nie są małżeństwem ani automatycznie potwierdzonym sojuszem.
+
+## Roszczenia
+
+- Własne pole `alive_data/claim` nie zawiera odczytanych wpisów. Historycznych uprawnień nie dopowiedziano.
+
+## Granice rozpoznania
+
+Wygląd i zatwierdzony portret, efektywne statystyki, pełne opinie, zamiary i sekretne motywy pozostają NIEUSTALONE. Trait, roszczenie lub więź rodzinna nie dowodzi wrogości, sojuszu ani planu spisku.
+
+[Indeks](../indeks_postaci.md) · [Analiza polityczna](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)

@@ -1,4 +1,47 @@
 # Kuno — CK3 ID 34995
+
+**Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
+
+## Aktualny odczyt własnego rekordu
+
+**POTWIERDZONE_SAVE:** rekord `living/34995`; imię `Kuno`; płeć: mężczyzna (brak female=yes w rekordzie). Urodzenie: `1035.1.1`.
+
+**OBLICZONE:** wiek **31** na 18 IX 1066, z daty urodzenia.
+
+- Dom: ID **4220**, nazwa/klucz `dynn_WU_rttemberg`; dynastia ID **4220**. Dom i dynastia mają odrębne identyfikatory.
+- Kultura: ID `39`, `culture_template=franconian`. Brak pola nie oznacza braku kultury; wartości domyślnych nie dopowiedziano.
+- Obrządek: ID `0`, `roman_rite`; jego rekord wskazuje wiarę ID `13`, `catholic`. Wiara ustalona przez powiązanie obrządku, nie przez założenie religii regionu.
+- Bazowy `skill` (DIP / MAR / STE / INT / LEA / PRO): `[10, 2, 5, 10, 8, 5]`. To zapis, nie suma z modyfikatorami interfejsu.
+- Traity według `traits_lookup` tego samego save’a: `forgiving` [indeks 82], `paranoid` [indeks 73], `patient` [indeks 57], `education_learning_4` [indeks 23].
+
+## Posiadanie, urzędy i zależności
+
+- Aktualne tytuły (przeszukano rekordy posiadaczy): `c_wurttemberg 1227` — nazwa zapisana: Württemberg; `b_wurttemberg 1228` — nazwa zapisana: Stuttgart.
+- Ustrój: `feudal_government`; prawa `landed_data/laws`: `crown_authority_0`, `confederate_partition_succession_law`, `male_preference_law`.
+- Kontrakt **8062**: wasal [Kuno 34995](../34995/karta.md) → senior [Rudolf 33226](../33226/karta.md), grupa `feudal_vassal`. Dokładne pola w [transkrypcji politycznej](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/polityka_1066-09-18.json).
+- Kanclerz u [Rudolf 33226](../33226/karta.md); zadanie **9878**, `task_foreign_affairs`; potwierdzenie w `council_task_manager/database`.
+- Pierwsze wpisy `landed_data/succession`: [Bruno 40316](../40316/karta.md), [Konrad 41253](../41253/karta.md). Łącznie 2 wpisów; nie oznaczają jednoczesnych odbiorców wszystkich tytułów. Sukcesję konkretnego tytułu sprawdzać osobno.
+- Surowe zasoby: `gold/value=65`, `income=1.7983`; `current_strength=271`, `strength=271`, `levy=171`. Parametry migawki; nie ustalono ich pełnego przeliczenia na siłę koalicji ani wynik wojny.
+
+## Rodzina — zapisane relacje
+
+- Rodzice: nie znaleziono powiązania z wybranym ID w odczytanych tablicach dzieci; genealogii nie dopowiedziano.
+- `child`: [Bruno 40316](../40316/karta.md), [Konrad 41253](../41253/karta.md).
+
+## Roszczenia
+
+- Własne pole `alive_data/claim` nie zawiera odczytanych wpisów. Historycznych uprawnień nie dopowiedziano.
+
+## Granice rozpoznania
+
+Wygląd i zatwierdzony portret, efektywne statystyki, pełne opinie, zamiary i sekretne motywy pozostają NIEUSTALONE. Trait, roszczenie lub więź rodzinna nie dowodzi wrogości, sojuszu ani planu spisku.
+
+[Indeks](../indeks_postaci.md) · [Analiza polityczna](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)
+
+<details>
+<summary>Wcześniejsze obserwacje i etap rozpoznania — zachowane historycznie</summary>
+
+# Kuno — CK3 ID 34995
 **Obserwacja:** 1066-09-16. **Źródło:** `von_Hohenzollern.ck3` SHA-256 `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`.
 
 ## Potwierdzone
@@ -38,3 +81,5 @@ Brak zatwierdzonego portretu. Planowane źródło: `06_MATERIALY_ZRODLOWE/zrzuty
 ## Rodzina — uzupełnienie z 1066-09-18
 
 Wcześniejsze oznaczenie rodziny NIEUSTALONE zastępuje w zakresie wydobytych odniesień [rejestr relacji](relacje.md). Imiona, wiek i własne rekordy krewnych pozostają NIEUSTALONE.
+
+</details>

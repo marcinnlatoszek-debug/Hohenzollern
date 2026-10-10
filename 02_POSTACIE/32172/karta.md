@@ -1,4 +1,50 @@
 # Friedrich — CK3 ID 32172
+
+**Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
+
+## Aktualny odczyt własnego rekordu
+
+**POTWIERDZONE_SAVE:** rekord `living/32172`; imię `Friedrich`; płeć: mężczyzna (brak female=yes w rekordzie). Urodzenie: `1020.1.1`.
+
+**OBLICZONE:** wiek **46** na 18 IX 1066, z daty urodzenia.
+
+- Dom: ID **4221**, nazwa/klucz `dynn_Hohenstaufen`; dynastia ID **4221**. Dom i dynastia mają odrębne identyfikatory.
+- Kultura: ID `40`, `culture_template=swabian`. Brak pola nie oznacza braku kultury; wartości domyślnych nie dopowiedziano.
+- Obrządek: ID `0`, `roman_rite`; jego rekord wskazuje wiarę ID `13`, `catholic`. Wiara ustalona przez powiązanie obrządku, nie przez założenie religii regionu.
+- Bazowy `skill` (DIP / MAR / STE / INT / LEA / PRO): `[6, 5, 6, 7, 10, 8]`. To zapis, nie suma z modyfikatorami interfejsu.
+- Traity według `traits_lookup` tego samego save’a: `sadistic` [indeks 77], `gregarious` [indeks 66], `honest` [indeks 62], `education_learning_1` [indeks 20], `whole_of_body` [indeks 40].
+
+## Posiadanie, urzędy i zależności
+
+- Aktualne tytuły (przeszukano rekordy posiadaczy): `c_grunningen 1222` — nazwa zapisana: Grünningen; `b_grunningen 1223` — nazwa zapisana: Grünningen.
+- Ustrój: `feudal_government`; prawa `landed_data/laws`: `crown_authority_0`, `confederate_partition_succession_law`, `male_preference_law`.
+- Kontrakt **7695**: wasal [Friedrich 32172](../32172/karta.md) → senior [Rudolf 33226](../33226/karta.md), grupa `feudal_vassal`. Dokładne pola w [transkrypcji politycznej](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/polityka_1066-09-18.json).
+- Mistrz intryg u [Rudolf 33226](../33226/karta.md); zadanie **9881**, `task_disrupt_schemes`; potwierdzenie w `council_task_manager/database`.
+- Lista `playable_data/knights`: [Ekbert 45251](../45251/karta.md), [Ludwig 38252](../38252/karta.md).
+- Pierwsze wpisy `landed_data/succession`: [Friedrich 38079](../38079/karta.md), [Ludwig 38252](../38252/karta.md), [Otto 38609](../38609/karta.md), [Konrad 39030](../39030/karta.md), [Walther 39173](../39173/karta.md), [Adelheid 38909](../38909/karta.md), [Adelheid 32524](../32524/karta.md). Łącznie 7 wpisów; nie oznaczają jednoczesnych odbiorców wszystkich tytułów. Sukcesję konkretnego tytułu sprawdzać osobno.
+- Surowe zasoby: `gold/value=69`, `income=1.9074`; `current_strength=373`, `strength=373`, `levy=171`. Parametry migawki; nie ustalono ich pełnego przeliczenia na siłę koalicji ani wynik wojny.
+
+## Rodzina — zapisane relacje
+
+- Rodzice rozpoznani przez odwrotne powiązanie `family_data/child` w rejestrach żywych i zmarłych: [Friedrich 28603](../28603/karta.md). Nie zgadywano drugiego rodzica przy jednym wpisie.
+- `primary_spouse`: [Hildegarde 33433](../33433/karta.md). Pole zachowuje się także w niektórych rekordach zmarłych; nie oznacza trwającego dziś małżeństwa osoby zmarłej.
+- Wszystkie powtarzane wpisy `spouse` (mogą obejmować zmarłych): [Hildegarde 33433](../33433/karta.md).
+- `child`: [Friedrich 38079](../38079/karta.md), [Ludwig 38252](../38252/karta.md), [Otto 38609](../38609/karta.md), [Adelheid 38909](../38909/karta.md), [Konrad 39030](../39030/karta.md), [Walther 39173](../39173/karta.md).
+
+## Roszczenia
+
+- Własne pole `alive_data/claim` nie zawiera odczytanych wpisów. Historycznych uprawnień nie dopowiedziano.
+
+## Granice rozpoznania
+
+Wygląd i zatwierdzony portret, efektywne statystyki, pełne opinie, zamiary i sekretne motywy pozostają NIEUSTALONE. Trait, roszczenie lub więź rodzinna nie dowodzi wrogości, sojuszu ani planu spisku.
+
+[Indeks](../indeks_postaci.md) · [Analiza polityczna](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)
+
+<details>
+<summary>Wcześniejsze obserwacje i etap rozpoznania — zachowane historycznie</summary>
+
+# Friedrich — CK3 ID 32172
 **Obserwacja:** 1066-09-16. **Źródło:** `von_Hohenzollern.ck3` SHA-256 `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`.
 
 ## Potwierdzone
@@ -38,3 +84,5 @@ Brak zatwierdzonego portretu. Planowane źródło: `06_MATERIALY_ZRODLOWE/zrzuty
 ## Rodzina — uzupełnienie z 1066-09-18
 
 Wcześniejsze oznaczenie rodziny NIEUSTALONE zastępuje w zakresie wydobytych odniesień [rejestr relacji](relacje.md). Imiona, wiek i własne rekordy krewnych pozostają NIEUSTALONE.
+
+</details>

@@ -1,4 +1,46 @@
 # Konrad — CK3 ID 45254
+
+**Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
+
+## Aktualny odczyt własnego rekordu
+
+**POTWIERDZONE_SAVE:** rekord `living/45254`; imię `Konrad`; płeć: mężczyzna (brak female=yes w rekordzie). Urodzenie: `1042.6.22`.
+
+**OBLICZONE:** wiek **24** na 18 IX 1066, z daty urodzenia.
+
+- Dom: ID **NIEUSTALONE / brak pola**, nazwa/klucz `NIEUSTALONE / brak pola`; dynastia ID **NIEUSTALONE / brak pola**. Dom i dynastia mają odrębne identyfikatory.
+- Kultura: ID `40`, `culture_template=swabian`. Brak pola nie oznacza braku kultury; wartości domyślnych nie dopowiedziano.
+- Obrządek: ID `0`, `roman_rite`; jego rekord wskazuje wiarę ID `13`, `catholic`. Wiara ustalona przez powiązanie obrządku, nie przez założenie religii regionu.
+- Bazowy `skill` (DIP / MAR / STE / INT / LEA / PRO): `[6, 0, 8, 9, 3, 6]`. To zapis, nie suma z modyfikatorami interfejsu.
+- Traity według `traits_lookup` tego samego save’a: `callous` [indeks 76], `gregarious` [indeks 66], `arrogant` [indeks 59], `education_learning_3` [indeks 22].
+
+## Posiadanie, urzędy i zależności
+
+- Aktualne tytuły (przeszukano rekordy posiadaczy): `b_rottweil 1241` — nazwa zapisana: Rottweil.
+- Ustrój: `republic_government`; prawa `landed_data/laws`: `city_succession_law`, `male_preference_law`.
+- Kontrakt **16786985**: wasal [Konrad 45254](../45254/karta.md) → senior [Burkhard 62634](../62634/karta.md), grupa `republic_vassal`. Dokładne pola w [transkrypcji politycznej](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/polityka_1066-09-18.json).
+- Zarządca u [Burkhard 62634](../62634/karta.md); zadanie **16782043**, `task_collect_taxes`; potwierdzenie w `council_task_manager/database`.
+- Surowe zasoby: `gold/value=30`, `income=0.84`; `current_strength=90`, `strength=90`, `levy=90`. Parametry migawki; nie ustalono ich pełnego przeliczenia na siłę koalicji ani wynik wojny.
+
+## Rodzina — zapisane relacje
+
+- Rodzice: nie znaleziono powiązania z wybranym ID w odczytanych tablicach dzieci; genealogii nie dopowiedziano.
+- Brak własnych wpisów `family_data`; nie dowodzi stanu wolnego ani bezdzietności.
+
+## Roszczenia
+
+- Własne pole `alive_data/claim` nie zawiera odczytanych wpisów. Historycznych uprawnień nie dopowiedziano.
+
+## Granice rozpoznania
+
+Wygląd i zatwierdzony portret, efektywne statystyki, pełne opinie, zamiary i sekretne motywy pozostają NIEUSTALONE. Trait, roszczenie lub więź rodzinna nie dowodzi wrogości, sojuszu ani planu spisku.
+
+[Indeks](../indeks_postaci.md) · [Analiza polityczna](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)
+
+<details>
+<summary>Wcześniejsze obserwacje i etap rozpoznania — zachowane historycznie</summary>
+
+# Konrad — CK3 ID 45254
 **Obserwacja:** 1066-09-16. **Źródło:** `von_Hohenzollern.ck3` SHA-256 `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`.
 
 ## Potwierdzone
@@ -34,3 +76,4 @@ Brak zatwierdzonego portretu. Planowane źródło: `06_MATERIALY_ZRODLOWE/zrzuty
 - **Cechy osobowości, wykształcenia i inne**, dokładne angielskie klucze z tablicy zapisanej w save'ie: `callous` (trait #76); `gregarious` (trait #66); `arrogant` (trait #59); `education_learning_3` (trait #22). Surowy klucz `0x0648`.
 - Polska interpretacja nazwy lub konkretnego efektu modyfikatora jest odrębnym etapem; liczby i angielskie klucze zachowano dosłownie.
 
+</details>

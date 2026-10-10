@@ -1,15 +1,11 @@
-# Berthold — relacje, ID 31865
+# Relacje — Berthold 31865
 
-Źródło: von_Hohenzollern(2).ck3; SHA-256 341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941; data gry 1066-09-18; CK3 1.20.0.4. Plik jest bajtowo identyczny z zapisanym w repozytorium von_Hohenzollern(1).ck3.
+**Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 
-[Transkrypcja pól](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/rodziny_1066-09-18.md).
+Własne rekordy osób powiązanych są już odczytane. Aktualne dane, rodzice i role znajdują się w [karcie głównej](karta.md).
 
-- primary_spouse: [ID 36154](../36154/karta.md).
-- Były małżonek: [ID 34471](../34471/karta.md).
-- Dziecko w rejestrze: [ID 38078](../38078/karta.md).
-- Dziecko w rejestrze: [ID 38251](../38251/karta.md).
-- Dziecko w rejestrze: [ID 38608](../38608/karta.md).
-- Dziecko w rejestrze: [ID 38908](../38908/karta.md).
-- Dziecko w rejestrze: [ID 39172](../39172/karta.md).
-
-Nie rozpoznano jeszcze imion i własnych rekordów tych osób. Powyższe relacje nie dowodzą sojuszu ani kolejności sukcesji.
+- `primary_spouse`: [Beatrice 36154](../36154/karta.md).
+- `spouse`: [Richwara 34471](../34471/karta.md).
+- `spouse`: [Beatrice 36154](../36154/karta.md).
+- `former_spouses`: [Richwara 34471](../34471/karta.md).
+- `child`: [Hermann 38078](../38078/karta.md), [Luitgard 38251](../38251/karta.md), [Berthold 38608](../38608/karta.md), [Gebhard 38908](../38908/karta.md), [Richinza 39172](../39172/karta.md).

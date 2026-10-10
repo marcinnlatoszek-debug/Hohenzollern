@@ -18,3 +18,7 @@ Metoda: rozpoznanie ZIP, binarna tokenizacja, powiązanie `living`, `landed_titl
 ## Alias przesłany w tej rozmowie
 
 `von_Hohenzollern(2).ck3` ma SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`, rozmiar 11 362 371 B. Jest bajtowo identyczny z pozycją (1) z 18 IX, nie nowym punktem czasu. Odczyt Rakaly CLI 0.8.21. [Transkrypcja odczytanych rodzin](notatki_z_wydarzen/rodziny_1066-09-18.md). Zatwierdzenie rozpoznanych modów przez gracza: 10 X 2026, 18:51 czasu Europe/Warsaw.
+
+## Rozszerzenie odczytu 10 X 2026
+
+Ten sam hash (alias (2)) ponownie zweryfikowano lokalnie; oryginału nie zmieniono. Rakaly 0.8.21: odczyt binarny, kontrola brakujących kluczy poprawna. Rozpoznano 112 własnych rekordów, kontrakty i rady, powiązania rodzinne, roszczenia i cesarskie nominacje. [Wybrane pola źródłowe](notatki_z_wydarzen/polityka_1066-09-18.json). Rozszerzenie zastępuje prowizoryczne wnioski w istniejącej analizie, bez nowej daty gry.
