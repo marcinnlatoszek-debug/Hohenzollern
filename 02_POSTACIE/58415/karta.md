@@ -22,3 +22,16 @@ Do uzupełnienia: data gry; ID; widoczny panel; ścieżka w repozytorium; źród
 ## Zmiana stanu rady — 1066-09-18
 1066-09-16 i 1066-09-18: **duchowny dworski** Burkharda, `task_religious_relations`, ID stanowiska 16782046. Brak zmiany przypisanej osoby. Bazowa tablica umiejętności: `[6, 3, 10, 2, 6, 0]`.
 Źródło nowej obserwacji: `von_Hohenzollern(1).ck3` SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941` (CK3 1.20.0.4). Porównanie: [Rada Burkharda](../../04_OTOCZENIE_WLADCY/rada.md). Brak pełnej weryfikacji cech, relacji i portretu.
+
+## Dane personalne — odczyt pól 1066-09-16
+
+**POTWIERDZONE_SAVE:** identyfikatory, surowe wartości, przypisanie numerów traitów do zapisanej w pliku tabeli `traits_lookup` (419 pozycji). Identyfikacja strukturalna `birth`, `skill`, `culture`, `faith`, `dynasty_house` jest wsparta schematem Jomini CK3; wartości nadają się do późniejszego porównania z interfejsem.
+
+- **Data urodzenia:** 1015-04-11 (surowy klucz `0x27e9`, dekodowanie daty Jomini).
+- **Kultura — ID:** 40 (nazwy nie ustalono bez mapy kultur).
+- **Wiara/obrządek:** surowe pole `0x3e5a` = 0; klasyfikacja wartości i nazwa wiary **NIEUSTALONE**.
+- **Dom dynastyczny — ID:** NIEUSTALONE (brak pola w bieżącej sekcji).
+- **Umiejętności** (dyplomacja, wojskowość, zarządzanie, intryga, nauka, sprawność): **6 / 3 / 10 / 2 / 6 / 0**; surowy klucz `0x29a5`.
+- **Cechy osobowości, wykształcenia i inne**, dokładne angielskie klucze z tablicy zapisanej w save'ie: `impatient` (trait #58); `gregarious` (trait #66); `just` (trait #70); `education_learning_4` (trait #23). Surowy klucz `0x0648`.
+- Polska interpretacja nazwy lub konkretnego efektu modyfikatora jest odrębnym etapem; liczby i angielskie klucze zachowano dosłownie.
+
