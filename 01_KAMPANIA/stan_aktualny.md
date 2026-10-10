@@ -1,6 +1,6 @@
 # Kanon nowej kampanii — stan bieżący
 
-**Data świata CK3: 1066-09-16 (POTWIERDZONE_SAVE).**
+**Najnowsza odczytana data świata CK3: 1066-09-18 (POTWIERDZONE_SAVE).**
 Źródło: `von_Hohenzollern.ck3`, SHA-256 `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`; wersja 1.20.0.4.
 Status: rozpoznanie rozpoczęte, nie zakończono interpretacji wszystkich binarnych tokenów.
 
@@ -24,3 +24,8 @@ Status: rozpoznanie rozpoczęte, nie zakończono interpretacji wszystkich binarn
 - [Indeks save'ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md).
 
 **Zasada:** gra daje fakt, kronika daje życie. Nowy kanon bez importu danych dawnej kampanii; brak interpretacji = NIEUSTALONE. Wszystkie screeny dołączane z datą i identyfikatorem do tej samej karty obiektu.
+
+## Najnowsza obserwacja — 1066-09-18
+Źródło: `von_Hohenzollern(1).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941` (CK3 1.20.0.4). Poprzednia obserwacja 1066-09-16 pozostaje zachowana w kartach i raporcie porównawczym.
+
+**Rada Burkharda (ID 62634) — aktualna obsada:** Ezzo 65691 (kanclerz), Konrad 45254 (zarządca), Gerhard 62635 (marszałek), Gunzelin 65692 (mistrz intryg), Helferich 58415 (duchowny). Porównanie i dokładne ID stanowisk: [Rada i zmiany między 16 a 18 IX](../04_OTOCZENIE_WLADCY/rada.md). Pozostałe fakty z wcześniejszego save'a odnoszą się do 16 IX, chyba że zaznaczono ich potwierdzenie w nowszym stanie; nie traktować ich bezwarunkowo jako ponownie zweryfikowanych na 18 IX.
