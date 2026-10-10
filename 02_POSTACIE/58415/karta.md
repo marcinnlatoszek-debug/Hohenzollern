@@ -18,3 +18,7 @@ Planowana ścieżka: `06_MATERIALY_ZRODLOWE/zrzuty_ekranu/1066-09-16_postac_5841
 Do uzupełnienia: data gry; ID; widoczny panel; ścieżka w repozytorium; źródło; potwierdzony wygląd / Barber Shop.
 ## Powiązania
 [Rada i rycerze Burkharda](../../04_OTOCZENIE_WLADCY/indeks_dworu.md) · [Burkhard 62634](../62634/karta.md) · [Indeks postaci](../indeks_postaci.md).
+
+## Zmiana stanu rady — 1066-09-18
+1066-09-16 i 1066-09-18: **duchowny dworski** Burkharda, `task_religious_relations`, ID stanowiska 16782046. Brak zmiany przypisanej osoby. Bazowa tablica umiejętności: `[6, 3, 10, 2, 6, 0]`.
+Źródło nowej obserwacji: `von_Hohenzollern(1).ck3` SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941` (CK3 1.20.0.4). Porównanie: [Rada Burkharda](../../04_OTOCZENIE_WLADCY/rada.md). Brak pełnej weryfikacji cech, relacji i portretu.
