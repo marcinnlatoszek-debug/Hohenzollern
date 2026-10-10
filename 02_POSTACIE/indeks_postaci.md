@@ -23,3 +23,19 @@ Odczytano 12 posiadaczy tytułów w księstwie Szwabii — nie jest to pełny sp
 Priorytet: członkowie rodzin księcia i siedmiu hrabiów, małżonkowie i dziedzice, wasale, rada księcia, dwory hrabiów i rycerze. Prowadzić indywidualne karty z datą i źródłem, przy każdym braku wpisywać NIEUSTALONE. Nie wywodzić funkcji dworskich z samego posiadania baronii. Zaktualizowane karty zawierają również surowe pola datowe i umiejętności, jeszcze nieprzetłumaczone na etykiety CK3.
 
 [Raport rozpoznania](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md).
+
+## Otoczenie Burkharda — osoby nieujęte powyżej jako posiadacze
+
+Poniższe funkcje określono na podstawie **nowszego stanu 1066-09-18**. Osoba wymieniona w tabeli posiadaczy powyżej może jednocześnie występować w radzie i nie jest z tego powodu dublowana jako postać.
+
+| CK3 ID | Karta | Potwierdzona rola w obserwacji |
+|---:|---|---|
+| 65691 | [Ezzo](65691/karta.md) | Kanclerz 18 IX, `task_foreign_affairs` |
+| 62635 | [Gerhard](62635/karta.md) | Marszałek 18 IX, `task_organize_levies`; ID również na liście rycerzy |
+| 65692 | [Gunzelin](65692/karta.md) | Mistrz intryg 18 IX, `task_disrupt_schemes`; ID na liście rycerzy |
+| 58415 | [Helferich](58415/karta.md) | Duchowny w radzie, `task_religious_relations` |
+| 62636 | [Notker](62636/karta.md) | Kanclerz w starszym save z 16 IX, nie pełni tej funkcji 18 IX |
+
+Uwaga: [Konrad 45254](45254/karta.md) figuruje już w tabeli posiadaczy tytułów i od 18 IX jest zarządcą. Różnicę między dwoma Ezzonami odzwierciedlają odrębne identyfikatory: **65691** (kanclerz) i **45250** (Helfenstein).
+
+[Lista cech, urodzin i umiejętności — 17 osób, 18 IX](../07_ANALIZY/rozpoznania_poczatkowe/traits_i_umiejetnosci_1066-09-18.md).
