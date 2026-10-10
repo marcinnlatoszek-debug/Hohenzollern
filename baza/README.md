@@ -31,3 +31,9 @@ Statusy: **POTWIERDZONE_SAVE**, **KOREKTA_AUTORA**, **OBLICZONE**, **WNIOSEK**, 
 - [Źródła z hashami](dane/rejestr-zrodel.json), [pełniejszy wyciąg Szwabii](dane/szwabia-save-1066-09-20.json), [relacje i opinie](dane/szwabia-relacje-1066-09-20.json)
 
 Raport Szwabii uzupełnia wcześniejsze karty i politykę na tej samej dacie. Potwierdzono brak czynnego cesarskiego seniora Rudolfa oraz −20 za odwołanie dawnych radnych. Zegar narracji po wprowadzeniu pozostaje 20 IX 1066.
+
+## Rozszerzenie: datowane modyfikatory, mariaże i Rzesza (20 IX 1066)
+
+- [Modyfikatory czasowe postaci i prowincji Szwabii](Analiza-modyfikatorow-Szwabia-1066-09-20.md): wygaśnięcia i wartości bez udawania zmian rozwoju lub końcowych opinii.
+- [Kandydatki i polityka zaręczyn Burkharda](Kandydatki-zareczyny-Burkharda-1066-09-20.md): konkretne karty postaci, różnice lokalne/dynastyczne, wątki do sprawdzenia i fabuły; **brak zawartej umowy**.
+- [Cesarstwo a rzeczywisty stan Rzeszy w save’ie](Cesarstwo-i-Rzesza-1066-09-20.md): historyczny król Henryk IV i **nieobsadzone e_hre** w rozgrywce.
