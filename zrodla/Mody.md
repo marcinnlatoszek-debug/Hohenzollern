@@ -1,5 +1,7 @@
 # Katalog źródeł modów
 
+**Wykluczenia dla nowego startu:** Regnum Teutonicum (3676381111) oraz Weight of Crown Fork (3780779762). Nie włączać tych dwóch modów do nowego playsetu ani nie interpretować nowej kampanii przez ich mechaniki.
+
 Referencje zachowane z wcześniejszej dokumentacji. To lista stron autorów do ponownej weryfikacji, nie aktywna lista modów, kolejność ładowania ani gwarancja zgodności. Ustawienia poprzedniej rozgrywki usunięto. Nie skopiowano kodu instalacji modów.
 
 | Mod | ID Workshop | Źródło autora |
@@ -19,10 +21,8 @@ Referencje zachowane z wcześniejszej dokumentacji. To lista stron autorów do p
 | More Interactive Vassals | 2712590542 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2712590542) |
 | More Personality Depth | 3717989134 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3717989134) |
 | Nazwa nieustalona | 3790487196 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3790487196) |
-| Regnum Teutonicum | 3676381111 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3676381111) |
 | Immersive Mercs & Raiders | 3461530706 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3461530706) |
 | Royal Court Event Pack | 3360676953 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3360676953) |
-| Weight of Crown Fork | 3780779762 | [Steam Workshop](https://steamcommunity.com/workshop/filedetails/?id=3780779762) |
 | Historical Accuracy | 2223544446 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2223544446) |
 | Populated World! | 3448267875 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3448267875) |
 | Additional Lifestyles | 3433842378 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3433842378) |
@@ -36,7 +36,6 @@ Referencje zachowane z wcześniejszej dokumentacji. To lista stron autorów do p
 - Definicje użytej instalacji i widoczne tooltipy mają pierwszeństwo przed opisami innych wydań. Opisy autorów mogą się zmieniać.
 - More Personality Depth: sprawdzić common/traits i mapowanie torów XP.
 - Immersive Realm Laws i Immersive Domain Management: sprawdzić common/laws, common/court_positions oraz localization.
-- Weight of Crown Fork: sprawdzić script_values, scripted_effects, scripted_triggers i events; nie utożsamiać surowego data.identity z liczbą mieszkańców lub monet.
 - Populated World! i populacje terytoriów to odrębne obszary analizy. Nazwy cech, urzędów i praw nie dowodzą zajścia wydarzeń.
 - Zgodność i konflikty nadpisywania należy sprawdzić na faktycznych plikach, zwłaszcza przy zmianach tytułów i historii świata. Nie ustalono winnego moda.
 
