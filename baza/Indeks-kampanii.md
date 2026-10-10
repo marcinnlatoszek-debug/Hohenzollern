@@ -199,3 +199,4 @@ S001 = SAVE-18A = von_Hohenzollern.ck3; S002 = SAVE-18B = von_Hohenzollern(1).ck
 |---|---|
 | [Dom w Zollern — Astra](../06-fabula/1066-09-20-dom-w-zollern.md) | NARRACJA: wprowadzenie i scena po wieczerzy 20 IX |
 | [Rejestr Domu w Zollern](../06-fabula/1066-09-20-dom-w-zollern-rejestr.md) | NARRACJA: aktualny punkt kontynuacji, bez zmian S003 |
+| [Ziemie Rzeszy — wprowadzenie Astry](../06-fabula/1066-09-20-wprowadzenie-do-cesarstwa.md) | NARRACJA/TŁO: szerszy prolog, bez przesunięcia czasu |

@@ -72,3 +72,7 @@ Przed sceną odczytać bieżący stan, uczestników, pełny zestaw cech, rodzin�
 ## Aktualizacja pamięci — „Dom w Zollern” (NARRACJA)
 
 [Wprowadzenie i scena po wieczerzy](1066-09-20-dom-w-zollern.md), autor GPT-6 Astra. Rozważania przy posiłku osadzone są w końcu „Ciężaru domu”, nie powtarzają dnia. Burkhard spotkał Petera w przejściu; bez zapisów nie zidentyfikowali miejsca porannych rachunków. Po krótkiej modlitwie na podwórzu hrabia wrócił do izby i słucha opowieści. To aktualny punkt kontynuacji; nadal wieczór 20 IX 1066. Stan S003 pozostaje bez zmian. Rachunki „jutro” nadal są zapowiedzią. [Uczestnicy, wiedza i otwarte sprawy](1066-09-20-dom-w-zollern-rejestr.md).
+
+## Wprowadzenie do szerszego świata — NARRACJA/TŁO
+
+[„Ziemie Rzeszy” — GPT-6 Astra](1066-09-20-wprowadzenie-do-cesarstwa.md). Panorama narratora na 20 IX 1066: nieobsadzony tytuł cesarski, samodzielny Rudolf, Kościół, ziemie i rodziny Szwabii, następnie Zollern. Podstawa: baza/Cesarstwo-i-Rzesza-1066-09-20.md i baza/szwabia/Polityka-1066-09-20.md. Obrazy dróg i codzienności są kreacją literacką. Brak nowego zdarzenia, uczestników sceny, przekazania wiedzy bohaterowi lub obietnic. Nie ustalono przyczyn braku cesarza. Zegar i otwarte sprawy pozostają według rejestru „Domu w Zollern”.

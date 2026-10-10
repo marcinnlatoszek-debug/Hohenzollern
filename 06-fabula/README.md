@@ -14,3 +14,7 @@
 Zegar gry: 20 IX 1066. Zegar narracji: wieczór tego dnia, powrót do izby po wieczerzy w Zollern. Zapowiedź rachunków jutro nie przesuwa czasu. Daty życia przodków i wcześniejsze doświadczenia otoczenia zachowują status propozycji literackiej. Przy każdym rozdziale należy utrwalić rejestr sceny, a przy nowym save’ie najpierw zaktualizować pakiet.
 
 [Portrety postaci](../baza/interpretacja/Postacie-do-fabuly-1066-09-20.md) · [mechaniki w prozie](../baza/interpretacja/Mechaniki-na-jezyk-fabuly.md) · [otwarte sprawy](../baza/interpretacja/Otwarte-sprawy-1066-09-20.md) · [cały katalog](../baza/Indeks-kampanii.md).
+
+## Szersze wprowadzenie świata
+
+[„Ziemie Rzeszy” — Astra](1066-09-20-wprowadzenie-do-cesarstwa.md): prolog obejmujący Cesarstwo, Kościół i Szwabię, do czytania przed lokalną opowieścią. NARRACJA/TŁO, 20 IX 1066. Nie tworzy nowej sceny ani nie przesuwa zegara; koniec narracji pozostaje zgodny z „Domem w Zollern”.
