@@ -853,6 +853,22 @@
       "status": "HISTORIA ZMIAN",
       "game_date": "1066-09-18",
       "note": "Status całego pliku nie zastępuje oznaczeń poszczególnych twierdzeń."
+    },
+    {
+      "path": "06-fabula/1066-09-20-dom-w-zollern.md",
+      "title": "Dom w Zollern",
+      "group": "Narracja i pamięć",
+      "status": "NARRACJA",
+      "game_date": "1066-09-20",
+      "note": "Otwarcie głównej historii po Ciężarze domu. Bez zmiany stanu gry S003."
+    },
+    {
+      "path": "06-fabula/1066-09-20-dom-w-zollern-rejestr.md",
+      "title": "Rejestr narracji — Dom w Zollern",
+      "group": "Narracja i pamięć",
+      "status": "NARRACJA",
+      "game_date": "1066-09-20",
+      "note": "Otwarcie głównej historii po Ciężarze domu. Bez zmiany stanu gry S003."
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 ## Punkt rozpoczęcia pracy
 
-**Stan mechaniczny:** S003 / SAVE-20, 20 IX 1066. **Stan narracji:** zakończone wprowadzenie [„Ciężar domu”](1066-09-20-wprowadzenie.md), wieczór tego samego dnia, Zollern. Godziny rzeczywiste nie przesuwają żadnego zegara. Ten pakiet przygotowuje dalszą fabułę i interpretację, sam nie tworzy nowego rozdziału. Właściwe opowiadania pisze Astra zgodnie z [zasadami](../Zasady-projektu.md).
+**Stan mechaniczny:** S003 / SAVE-20, 20 IX 1066. **Stan narracji:** po „Domu w Zollern”, wieczór 20 IX, powrót do izby po wieczerzy. Wcześniejsze zakończone wprowadzenie [„Ciężar domu”](1066-09-20-wprowadzenie.md), wieczór tego samego dnia, Zollern. Godziny rzeczywiste nie przesuwają żadnego zegara. Ten pakiet przygotowuje dalszą fabułę i interpretację; aktualna pamięć kolejnego otwarcia znajduje się poniżej. Właściwe opowiadania pisze Astra zgodnie z [zasadami](../Zasady-projektu.md).
 
 [Portrety wszystkich ludzi dworu](../baza/interpretacja/Postacie-do-fabuly-1066-09-20.md) · [pełna Szwabia](../baza/szwabia/README.md) · [mechaniki w języku fabuły](../baza/interpretacja/Mechaniki-na-jezyk-fabuly.md).
 
@@ -68,3 +68,7 @@ Narracja śledzi Burkharda. Publiczne tytuły, rodziny i roszczenia mogą zosta�
 ## Przed napisaniem i po zapisaniu rozdziału
 
 Przed sceną odczytać bieżący stan, uczestników, pełny zestaw cech, rodzinę i ostatni rejestr; wskazać datę, miejsce oraz zakres kreacji. Po scenie zapisać uczestników, wiedzę przekazaną, obietnice, otwarte sprawy i ostatni punkt czasu/miejsca jako NARRACJA. Stan gry zmieniać wyłącznie na podstawie nowego źródła. Nowy save wymaga ponownego pakietu, nie bezterminowego stosowania liczb z 20 IX.
+
+## Aktualizacja pamięci — „Dom w Zollern” (NARRACJA)
+
+[Wprowadzenie i scena po wieczerzy](1066-09-20-dom-w-zollern.md), autor GPT-6 Astra. Rozważania przy posiłku osadzone są w końcu „Ciężaru domu”, nie powtarzają dnia. Burkhard spotkał Petera w przejściu; bez zapisów nie zidentyfikowali miejsca porannych rachunków. Po krótkiej modlitwie na podwórzu hrabia wrócił do izby i słucha opowieści. To aktualny punkt kontynuacji; nadal wieczór 20 IX 1066. Stan S003 pozostaje bez zmian. Rachunki „jutro” nadal są zapowiedzią. [Uczestnicy, wiedza i otwarte sprawy](1066-09-20-dom-w-zollern-rejestr.md).

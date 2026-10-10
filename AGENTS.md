@@ -1,6 +1,6 @@
 # Praca nad kampanią Hohenzollern
 
-Najpierw przeczytaj Zasady-projektu.md, Historia-Hohenzollern.md i baza/README.md. Najnowszy stan gry: S003, 20 IX 1066; fabuła: wprowadzenie „Ciężar domu”, ta sama data. Nie pobieraj treści poprzedniej kampanii 1070–1071 z historii git.
+Najpierw przeczytaj Zasady-projektu.md, Historia-Hohenzollern.md i baza/README.md. Najnowszy stan gry: S003, 20 IX 1066; fabuła: po „Domu w Zollern”, wieczór tej samej daty, Burkhard wrócił do izby po wieczerzy. Aktualna pamięć: 06-fabula/1066-09-20-dom-w-zollern-rejestr.md; wcześniejszy „Ciężar domu” zachowuje ciągłość. Nie pobieraj treści poprzedniej kampanii 1070–1071 z historii git.
 
 Po nowym save’ie: dodaj ID i hash źródła; odczytaj pełne gamestate; porównaj z ostatnią migawką; zapisz datowane zmiany; zaktualizuj stan, właściwe karty, politykę, gospodarkę i otwarte kwestie. Zachowaj starsze migawki. Odróżniaj POTWIERDZONE_SAVE, KOREKTA_AUTORA, OBLICZONE, WNIOSEK, NARRACJA i NIEUSTALONE. Nie zaokrąglaj surowych liczb bez zaznaczenia.
 

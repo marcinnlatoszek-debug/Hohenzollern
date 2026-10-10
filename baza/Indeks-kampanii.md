@@ -7,7 +7,7 @@ Jeden punkt wejścia do wszystkich aktywnych plików. Data gry: **20 IX 1066**. 
 | Potrzeba | Kolejność czytania |
 |---|---|
 | Szybki obraz kampanii | [Kanon](../Historia-Hohenzollern.md) → [stan](Stan-1066-09-20.md) → [polityka Szwabii](szwabia/Polityka-1066-09-20.md) |
-| Pisanie fabuły | [Pakiet autorski](../06-fabula/Pakiet-autorski-1066-09-20.md) → [portrety](interpretacja/Postacie-do-fabuly-1066-09-20.md) → [pamięć sceny](../06-fabula/1066-09-20-rejestr-sceny.json) |
+| Pisanie fabuły | [Pakiet autorski](../06-fabula/Pakiet-autorski-1066-09-20.md) → [portrety](interpretacja/Postacie-do-fabuly-1066-09-20.md) → [aktualna pamięć sceny](../06-fabula/1066-09-20-dom-w-zollern-rejestr.md) |
 | Interpretacja postaci | Karta bieżąca → cały zestaw cech i rodzina → [metoda](mechaniki/Metoda-charakterow.md) → [otwarte sprawy](interpretacja/Otwarte-sprawy-1066-09-20.md) |
 | Polityka i małżeństwa | [Szwabia](szwabia/Polityka-1066-09-20.md) → [mariaże](Kandydatki-zareczyny-Burkharda-1066-09-20.md) → [Rzesza](Cesarstwo-i-Rzesza-1066-09-20.md) |
 | Gospodarka i mody | [Bilans domeny](Gospodarka-Spoleczenstwo-1066-09-20.md) → [modyfikatory](Analiza-modyfikatorow-Szwabia-1066-09-20.md) → [mody](mechaniki/Mody-szczegolowo-1066-09-20.md) |
@@ -192,3 +192,10 @@ S001 = SAVE-18A = von_Hohenzollern.ck3; S002 = SAVE-18B = von_Hohenzollern(1).ck
 | [Otwarte sprawy i warunki interpretacji](interpretacja/Otwarte-sprawy-1066-09-20.md) | WNIOSEK / REDAKCJA |
 | [Postacie do fabuły — bieżący odczyt i interpretacja](interpretacja/Postacie-do-fabuly-1066-09-20.md) | WNIOSEK / REDAKCJA |
 
+
+### Aktualne otwarcie głównej historii
+
+| Dokument | Status i zastosowanie |
+|---|---|
+| [Dom w Zollern — Astra](../06-fabula/1066-09-20-dom-w-zollern.md) | NARRACJA: wprowadzenie i scena po wieczerzy 20 IX |
+| [Rejestr Domu w Zollern](../06-fabula/1066-09-20-dom-w-zollern-rejestr.md) | NARRACJA: aktualny punkt kontynuacji, bez zmian S003 |

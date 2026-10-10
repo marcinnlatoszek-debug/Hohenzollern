@@ -21,4 +21,4 @@ Początek opowieści: [„Ciężar domu” — GPT-6 Astra](06-fabula/1066-09-20
 
 ## Dostęp po uporządkowaniu
 
-[Indeks wszystkich plików](baza/Indeks-kampanii.md) rozdziela dokumenty główne, uzupełnienia, migawki i propozycje. [Główny pakiet autorski](06-fabula/Pakiet-autorski-1066-09-20.md) łączy fakty, postacie, zależności polityczne, mariaże i pamięć ostatniej sceny. Zegar narracji: wieczór 20 IX 1066, posiłek w Zollern; stan gry nadal S003.
+[Indeks wszystkich plików](baza/Indeks-kampanii.md) rozdziela dokumenty główne, uzupełnienia, migawki i propozycje. [Główny pakiet autorski](06-fabula/Pakiet-autorski-1066-09-20.md) łączy fakty, postacie, zależności polityczne, mariaże i pamięć ostatniej sceny. Zegar narracji: wieczór 20 IX 1066, powrót Burkharda do izby po wieczerzy; stan gry nadal S003. Aktualne otwarcie: [„Dom w Zollern” — Astra](06-fabula/1066-09-20-dom-w-zollern.md), [pamięć sceny](06-fabula/1066-09-20-dom-w-zollern-rejestr.md).
