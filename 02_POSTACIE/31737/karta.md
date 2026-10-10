@@ -1,5 +1,10 @@
 # Louis — CK3 ID 31737
 
+## Potwierdzenie z nowego save'a — 20 X 1066
+
+**POTWIERDZONE_SAVE:** `council_task_manager/database/9878` podaje **Louis 31737 jako kanclerza księcia Rudolfa 33226**, typ zadania `task_foreign_affairs`, w zapisie z 20 X 1066 (SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`). Wcześniej, 18 IX, funkcję pełnił Kuno 34995. Tym samym wcześniejsza rozbieżność między screenshotem z 20 X a historycznym save'em 18 IX została chronologicznie wyjaśniona; dokładna data i przyczyna powołania pozostają NIEUSTALONE. [Raport zmian](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md).
+
+
 ## Nowa obserwacja wizualna i ekranowa — Louis, hrabia Sundgau
 
 **POTWIERDZONE_SCREEN:** `Zrzut ekranu 2026-10-10 211801.png` (załącznik `file_00000000214c8210b7606b0216db9598`) i portret `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0008.png` (załącznik `file_00000000d7bc8210b3e64dba953ef4dc`). Postać na obu obrazach to **Count Louis of Sundgau**, wiek **47**, dom **Scarponnois**; zgodna tożsamość z rekordem CK3 **31737**. „Burkhard” w nazwie pliku portretu to kontekst kampanii, nie tożsamość przedstawionego hrabiego. Data **20 X 1066** pochodzi z nazwy eksportu, nie z widocznego zegara gry.

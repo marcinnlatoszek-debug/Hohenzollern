@@ -1,4 +1,16 @@
-# Rady władców — 18 IX 1066
+# Rady władców — historia i aktualizacja 20 X 1066
+
+## Aktualizacja — 20 X 1066 (POTWIERDZONE_SAVE)
+
+**Źródło:** nowy `von_Hohenzollern(1).ck3`, SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`. Poniższa tabela dotyczy sprawdzonych zadań **na 20 X**; główna tabela dokumentu niżej pozostaje historycznym stanem **18 IX**. [Raport zmian](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md).
+
+| Władca | Urząd / zadanie | 18 IX 1066 | 20 X 1066 |
+|---|---|---|---|
+| [Rudolf 33226](../02_POSTACIE/33226/karta.md) | Kanclerz / 9878 `task_foreign_affairs` | [Kuno 34995](../02_POSTACIE/34995/karta.md) | **[Louis 31737](../02_POSTACIE/31737/karta.md)** |
+| [Rudolf 33226](../02_POSTACIE/33226/karta.md) | Mistrz intryg / 9881 `task_disrupt_schemes` | [Friedrich 32172](../02_POSTACIE/32172/karta.md) | **[Burkhard 62634](../02_POSTACIE/62634/karta.md)** |
+
+W pozostałych czterech sprawdzonych zadaniach Rudolfa (zarządca Eberhard 31271, marszałek Hupold 30344, duchowny Manfred 57580, małżonka Adelaide 36941) obsada jest taka sama. **Cała pięcioosobowa rada Burkharda** również jest bez zmian: Ezzo 65691, Konrad 45254, Gerhard 62635, Gunzelin 65692, Helferich 58415 (zadania 16782042–16782046). Nie zakładać, że te wyniki oznaczają niezmienność wszystkich rad Cesarstwa.
+
 
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 

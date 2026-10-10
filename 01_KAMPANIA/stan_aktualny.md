@@ -1,3 +1,26 @@
+# Kanon nowej kampanii — 20 X 1066
+
+**Źródło aktualne:** `von_Hohenzollern(1).ck3` (przesłanie 10 X 2026), SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`; `meta_date=1066-10-20`, CK3 1.20.0.4. Nazwa pliku jest identyczna z wcześniejszym aliasem (1) dla 18 IX, ale **hash jest inny**. [Indeks źródeł](../06_MATERIALY_ZRODLOWE/indeks_saveow.md). **POTWIERDZONE_SAVE.**
+
+**Poprzednia migawka:** 18 IX 1066, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; **32 dni** upływu czasu CK3 (OBLICZONE). Reset z 10 X 2026 nadal obowiązuje.
+
+## Ustalone dla 20 X 1066
+
+- Gracz: [Burkhard 62634](../02_POSTACIE/62634/karta.md), lat 16, dom von Hohenzollern 12843, dynastia 12239, domena `c_hohenberg 1239` + `b_hohenberg 1240` (bez zmiany w sprawdzonych polach).
+- **Małżonka:** [Irmengard 38789](../02_POSTACIE/38789/karta.md), lat 15, dom Nellenburg 4138. Dwa własne rekordy `primary_spouse` wskazują wzajemnie na te same ID, a tekst zdarzenia zapisuje „married”. Dokładna data ślubu NIEUSTALONA.
+- Burkhard ma nową cechę `lifestyle_gardener`, przy zachowaniu wcześniejszych pięciu traitów. Bazowe umiejętności `[3,5,4,5,0,8]` bez zmiany.
+- **Nowy urząd Burkharda:** mistrz intryg księcia [Rudolfa 33226](../02_POSTACIE/33226/karta.md), w zadaniu `9881/task_disrupt_schemes`; poprzednio na tym stanowisku [Friedrich 32172](../02_POSTACIE/32172/karta.md).
+- **Nowy kanclerz Rudolfa:** [Louis 31737](../02_POSTACIE/31737/karta.md), zadanie `9878/task_foreign_affairs`; wcześniej [Kuno 34995](../02_POSTACIE/34995/karta.md).
+- **Rada własna Burkharda:** Ezzo 65691 (kanclerz), Konrad 45254 (zarządca), Gerhard 62635 (marszałek), Gunzelin 65692 (mistrz intryg), Helferich 58415 (duchowny) — bez zmiany w pięciu sprawdzonych zadaniach.
+- Sprawdzone siły Burkharda: `current_strength=633` (poprzednio 573), `strength=773` oraz `levy=171` (bez zmian). Nie są to pełne parametry strategiczne.
+
+**Zakres:** Zmiany wskazane wyżej są potwierdzone porównaniem konkretnych odczytanych rekordów. Pozostałe postacie, relacje polityczne i stan wszystkich terytoriów z dawnych raportów nie zostały ponownie zweryfikowane w pełnym zakresie — **NIEUSTALONE na 20 X**. Nie przepisuj migawki 18 IX na obecny dzień bez analizy.
+
+[Raport różnic i metoda](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md) · [Karty i dwór](../04_OTOCZENIE_WLADCY/rada.md).
+
+<details>
+<summary>Poprzednia, historyczna migawka 18 IX 1066 (zachowana bez zmiany danych źródłowych)</summary>
+
 # Kanon nowej kampanii — 18 IX 1066
 
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
@@ -88,5 +111,8 @@ Rozpoznane 15 modów przyjęto jako zweryfikowane: [aktualny katalog](../zrodla/
 Rozpoznanie obejmuje 20 osób z imienia i 30 dodatkowych kart ID. [Rozszerzenie polityczne i rodziny](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md). Łańcuch faktycznej władzy: Burkhard/Hohenberg → Rudolf/Szwabia → Heinrich/Cesarstwo. Rudolf jest wskazanym następcą Burkharda przy fallback_default. Stan tytułu i wynik sukcesji nie są prognozą przyszłego wydarzenia.
 
 Wcześniejsze NIEUSTALONE dotyczące rodziny zastępują w zakresie wskazanych ID datowane rejestry relacji władców; imiona i własne rekordy 30 krewnych nadal nieodczytane. Dwór Burkharda: potwierdzeni employer=62634 Ezzo 65691, Gunzelin 65692, Helferich 58415, Gerhard 62635, Notker 62636, Amalie 62637, Emma 62638. Nie jest to twierdzenie o kompletności gości i wszystkich relacji.
+
+</details>
+
 
 </details>

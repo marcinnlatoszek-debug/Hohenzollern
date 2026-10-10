@@ -1,5 +1,16 @@
 # Burkhard — CK3 ID 62634
 
+## Nowy stan — 20 X 1066 (POTWIERDZONE_SAVE)
+
+**Źródło:** nowy `von_Hohenzollern(1).ck3`, SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`, data gry 1066-10-20. [Pełny raport różnic](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md). Kolejne sekcje niżej zawierają **historyczną migawkę 18 IX**, nie komplet aktualnych danych.
+
+- **Małżonka:** [Irmengard 38789](../38789/karta.md), dom Nellenburg 4138. Własne `family_data/primary_spouse` Burkharda wskazuje 38789 i jest odwzajemnione w rekordzie Irmengard. Tekst zdarzenia CK3 wskazuje „married”; dzień ślubu NIEUSTALONY.
+- **Urząd:** mistrz intryg księcia [Rudolfa 33226](../33226/karta.md) — zadanie 9881 `task_disrupt_schemes`, `worker=62634`, `owner=33226`. Zastąpił [Friedricha 32172](../32172/karta.md) z migawki 18 IX.
+- **Nowy trait:** `lifestyle_gardener` (indeks 46), obok `ambitious`, `diligent`, `patient`, `education_stewardship_3`, `intellect_good_2`. Termin nabycia traita NIEUSTALONY.
+- **Nie zmieniły się w sprawdzonych polach:** wiek 16 (ur. 1050-07-27), bazowe umiejętności `[3,5,4,5,0,8]`, osobista domena `[1239,1240]`, pięć stanowisk własnej rady; lista rycerzy `[62635,65692]`.
+- **Siły z migawki:** `current_strength=633` (było 573), `strength=773`, `levy=171`. Surowe pola CK3; nie przewidują wyniku walki.
+
+
 ## Referencje ekranowe i narracyjne — aktualizacja dokumentacji 10 X 2026
 
 **Dopisek aktualizacyjny:** Poprzednie oznaczenia „wygląd NIEUSTALONY” lub „brak screena” w historycznych partiach karty należy czytać jako stan sprzed otrzymania opisanych poniżej materiałów. Późniejsze screeny nie aktualizują automatycznie wartości save’a z 18 IX 1066.
