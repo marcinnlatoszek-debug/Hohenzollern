@@ -7,7 +7,7 @@
 - **Powiązanie z radą Burkharda potwierdzone:** rekord zadania **16782045** `task_disrupt_schemes` wskazuje Konrada (ID 45254) jako wykonawcę, a Burkharda (ID 62634) jako właściciela zadania. Funkcja odpowiada działalności mistrza intryg. Nie zakładać poza tym niepotwierdzonych więzi rodzinnych lub dworskich.
 
 ## Dane osobowe
-Data urodzenia, kultura, wiara, obrządek, umiejętności, traits, małżonkowie, dzieci, rodzice, inne urzędy dworskie, relacje i dodatkowe funkcje: **NIEUSTALONE** (odczyt binarny bez kompletu kluczy).
+Datę urodzenia, wartości umiejętności i traity odczytano — patrz sekcja danych personalnych. Relacje, szczegółowe modyfikatory i nieodczytane pola pozostają **NIEUSTALONE**.
 
 ## Screenshoty
 Brak zatwierdzonego portretu. Planowane źródło: `06_MATERIALY_ZRODLOWE/zrzuty_ekranu/1066-09-16_postac_45254_*.png` (jeszcze nie utworzono). Docelowe pola: data świata, panel, odnośnik, status weryfikacji, Barber Shop.
@@ -21,3 +21,16 @@ Brak zatwierdzonego portretu. Planowane źródło: `06_MATERIALY_ZRODLOWE/zrzuty
 **POTWIERDZONE_SAVE:** Rekord ID **45254**, imię **Konrad**; właściciel tytułu w rekordach: `b_rottweil 1241`. Pole ID domu `0x2e5e` niepotwierdzone; dom NIEUSTALONY. Pole datowe `0x27e9`: **52932048** (znaczenie biograficzne NIEUSTALONE). Surowe liczby z `0x29a5`: **[6,0,8,9,3,6]** (niezweryfikowana kolejność umiejętności).
 
 **NIEUSTALONE:** dokładna data urodzenia, rodzice, małżeństwa, dzieci, kultura, wiara, obrządek, przyporządkowanie umiejętności, cechy/traits, urzędy, relacje, roszczenia i wygląd. Potrzebne: aktualny screen karty postaci, Family/Relations, tooltipy cech i osobna referencja Barber Shop. Tytuł nie dowodzi przebywania na dworze Burkharda.
+
+## Dane personalne — odczyt pól 1066-09-16
+
+**POTWIERDZONE_SAVE:** identyfikatory, surowe wartości, przypisanie numerów traitów do zapisanej w pliku tabeli `traits_lookup` (419 pozycji). Identyfikacja strukturalna `birth`, `skill`, `culture`, `faith`, `dynasty_house` jest wsparta schematem Jomini CK3; wartości nadają się do późniejszego porównania z interfejsem.
+
+- **Data urodzenia:** 1042-06-22 (surowy klucz `0x27e9`, dekodowanie daty Jomini).
+- **Kultura — ID:** 40 (nazwy nie ustalono bez mapy kultur).
+- **Wiara/obrządek:** surowe pole `0x3e5a` = 0; klasyfikacja wartości i nazwa wiary **NIEUSTALONE**.
+- **Dom dynastyczny — ID:** NIEUSTALONE (brak pola w bieżącej sekcji).
+- **Umiejętności** (dyplomacja, wojskowość, zarządzanie, intryga, nauka, sprawność): **6 / 0 / 8 / 9 / 3 / 6**; surowy klucz `0x29a5`.
+- **Cechy osobowości, wykształcenia i inne**, dokładne angielskie klucze z tablicy zapisanej w save'ie: `callous` (trait #76); `gregarious` (trait #66); `arrogant` (trait #59); `education_learning_3` (trait #22). Surowy klucz `0x0648`.
+- Polska interpretacja nazwy lub konkretnego efektu modyfikatora jest odrębnym etapem; liczby i angielskie klucze zachowano dosłownie.
+
