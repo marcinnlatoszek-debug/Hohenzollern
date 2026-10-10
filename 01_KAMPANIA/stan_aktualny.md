@@ -42,4 +42,5 @@ Pole `playable_data/knights` jest reprezentowane w obu save'ach przez ID **62635
 - [Rada — chronologia](../04_OTOCZENIE_WLADCY/rada.md)
 - [Raport techniczny 16 IX](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_ck3_2026-10-10.md)
 - [Raport z 18 IX](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)
+- [Cechy i umiejętności — 17 postaci, 18 IX](../07_ANALIZY/rozpoznania_poczatkowe/traits_i_umiejetnosci_1066-09-18.md)
 - [Rejestr obu save'ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md)
