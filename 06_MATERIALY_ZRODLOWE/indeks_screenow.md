@@ -16,9 +16,9 @@
 | 65692 | [Gunzelin von Nordgau](../02_POSTACIE/65692/karta.md) | `Zrzut ekranu 2026-10-10 200350.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_03_0001.png` | 1066-10-03 | [Źródła](../02_POSTACIE/65692/zrodla.md), [Wygląd](../02_POSTACIE/65692/wyglad.md), [Narracja](../02_POSTACIE/65692/profil_narracyjny.md) |
 | 62636 | [Notker](../02_POSTACIE/62636/karta.md) | `Zrzut ekranu 2026-10-10 201342.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0000.png` | 1066-10-20 | [Źródła](../02_POSTACIE/62636/zrodla.md), [Wygląd](../02_POSTACIE/62636/wyglad.md), [Narracja](../02_POSTACIE/62636/profil_narracyjny.md) |
 | 31271 | [Eberhard VI von Nellenburg](../02_POSTACIE/31271/karta.md) | `Zrzut ekranu 2026-10-10 204153.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0001.png` | 1066-10-20 | [Źródła](../02_POSTACIE/31271/zrodla.md), [Wygląd](../02_POSTACIE/31271/wyglad.md), [Narracja](../02_POSTACIE/31271/profil_narracyjny.md) |
-
 | 34995 | [Kuno z Wirtembergii](../02_POSTACIE/34995/karta.md) | `Zrzut ekranu 2026-10-10 204556.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0002.png` | 1066-10-20 | [Źródła](../02_POSTACIE/34995/zrodla.md), [Wygląd](../02_POSTACIE/34995/wyglad.md), [Narracja](../02_POSTACIE/34995/profil_narracyjny.md) |
 | 37502 | [Egino II z Zollern, ród Urach](../02_POSTACIE/37502/karta.md) | `Zrzut ekranu 2026-10-10 205019.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0003.png` | 1066-10-20 | [Źródła](../02_POSTACIE/37502/zrodla.md), [Wygląd](../02_POSTACIE/37502/wyglad.md), [Narracja](../02_POSTACIE/37502/profil_narracyjny.md) |
+| 30344 | [Hupold III z Nördlingen](../02_POSTACIE/30344/karta.md) | `Zrzut ekranu 2026-10-10 210529.png` | `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0004.png` | 1066-10-20 | [Źródła](../02_POSTACIE/30344/zrodla.md), [Wygląd](../02_POSTACIE/30344/wyglad.md), [Narracja](../02_POSTACIE/30344/profil_narracyjny.md) |
 
 Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary dla Burkharda ID 62634, przypisany w jego [źródłach](../02_POSTACIE/62634/zrodla.md).
 
