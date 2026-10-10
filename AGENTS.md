@@ -1,14 +1,11 @@
-# Praca nad kampanią Hohenzollern
+# Praca nad projektem Hohenzollern
 
-Najpierw przeczytaj Zasady-projektu.md, Historia-Hohenzollern.md i baza/README.md. Najnowszy stan gry: S003, 20 IX 1066; fabuła: po „Domu w Zollern”, wieczór tej samej daty, Burkhard wrócił do izby po wieczerzy. Aktualna pamięć: 06-fabula/1066-09-20-dom-w-zollern-rejestr.md; wcześniejszy „Ciężar domu” zachowuje ciągłość. Nie pobieraj treści poprzedniej kampanii 1070–1071 z historii git.
+Przeczytaj README.md, Zasady-projektu.md i zrodla/README.md. Brak aktywnego stanu gry i pamięci scen. Obowiązuje reset z 10 X 2026: nie przywracaj danych żadnej poprzedniej kampanii z historii Git, dawnych zapisów ani pamięci rozmów. Nowy kanon może powstać dopiero z nowych źródeł zaakceptowanych przez użytkownika.
 
-Po nowym save’ie: dodaj ID i hash źródła; odczytaj pełne gamestate; porównaj z ostatnią migawką; zapisz datowane zmiany; zaktualizuj stan, właściwe karty, politykę, gospodarkę i otwarte kwestie. Zachowaj starsze migawki. Odróżniaj POTWIERDZONE_SAVE, KOREKTA_AUTORA, OBLICZONE, WNIOSEK, NARRACJA i NIEUSTALONE. Nie zaokrąglaj surowych liczb bez zaznaczenia.
+Najpierw sprawdź nowy start według zrodla/Kontrola-nowego-startu.md. Materiały o modach są katalogiem referencyjnym, nie potwierdzoną konfiguracją. Nie przypisuj przyczyny błędu konkretnemu modowi bez weryfikacji.
 
-Klucze postaci identyfikują imienników. Dom nie jest dynastią. Claims nie są aktywnym spiskiem; XP MPD wymaga mapowania; surowe data.identity modów nie są automatycznie populacją. current_strength nie jest prostą sumą wojsk wszystkich wasali. Nie dopisuj cesarskiego seniora, którego brak w aktualnym save’ie.
+Rozdzielaj POTWIERDZONE_SAVE, KOREKTA_AUTORA, OBLICZONE, WNIOSEK, TLO_HISTORYCZNE, NARRACJA i NIEUSTALONE. Każdy nowy fakt wiąż ze źródłem i datą gry. Rozdzielaj dom i dynastię, postacie identyfikuj po ID. Roszczenie nie dowodzi spisku; XP cech wymaga mapowania, a surowe data.identity właściwej interpretacji.
 
-Fabułę pisze GPT-6 Astra, zgodnie z zasadami projektu i preferencją gracza. Analiza może przygotować pakiet i audyt. Po scenie aktualizuj wyłącznie pamięć narracji, nie stan gry. Nie przesuwaj daty gry według czasu rzeczywistego. Przy zapisie GitHub odczytaj bieżący head, zachowaj cudze nowe pliki i użyj aktualizacji z expected_sha; sprawdź zapis po operacji.
+Opowiadania pisze GPT-6 Astra zgodnie z preferencją użytkownika. Po scenie aktualizuj pamięć narracji, nie fakty mechaniczne. Czas rzeczywisty nie przesuwa gry.
 
-
-## Kolejność po uporządkowaniu
-
-Pełny indeks: baza/Indeks-kampanii.md. Główny pakiet: 06-fabula/Pakiet-autorski-1066-09-20.md. Interpretacje: baza/interpretacja/. Starszy Pakiet-dla-kronikarza jest odsyłaczem. Rejestr źródeł ma aliasy S001=SAVE-18A, S002=SAVE-18B, S003=SAVE-20. Po zmianie lub dodaniu dokumentu uaktualnij katalog, indeks i właściwy pakiet. Nie dopisuj tej samej niezależnej analizy do kilku plików; użyj odnośnika.
+Przy zapisie GitHub odczytaj bieżący head, zachowaj cudze nowe pliki, użyj expected_sha i sprawdź wynik. Utrzymuj aktualny indeks źródeł. Nie duplikuj niezależnych analiz.

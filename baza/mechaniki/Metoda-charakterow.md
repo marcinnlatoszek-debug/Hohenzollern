@@ -4,7 +4,7 @@ Stan opracowania: 10 października 2026. Materiał warsztatowy do analiz i kart 
 ## Podstawa i granice
 Źródłami są oficjalne dzienniki twórców oraz dostępne fragmenty indeksowanej wiki Paradox. Dzienniki opisują założenia mechanik w chwili publikacji; nie zastępują definicji z wersji użytej w kampanii. Pełne strony wiki nie były dostępne podczas sprawdzania. Nie zweryfikowano aktualnych tabel modyfikatorów, progów ani wag AI.
 
-Dla analizowanego zapisu potwierdzono wersję 1.20.0.4 i 24 pozycje modów; rozpoznano 23 nazwy. Sprawdzono dokumentację autorów, lecz nie pełne definicje użyte w instalacji. Dokładny efekt należy ustalać z interfejsu tej rozgrywki lub plików gry i aktywnych modów, z uwzględnieniem kolejności ładowania. Odczytany klucz cechy jest faktem; przypisanie mu efektu ze starszej tabeli może być błędem. Szczegóły i źródła: „Mody-Hohenzollern-1066-09-20.md”.
+Dokładny efekt cechy ustalaj z interfejsu lub definicji właściwej wersji gry i modów. Katalog referencji: [Mody](../../zrodla/Mody.md). Konfiguracja nowego startu jest nieustalona.
 
 ## 1. Najpierw rozdziel warstwy
 | Warstwa | Co zapisać | Jak wykorzystać |
@@ -61,13 +61,13 @@ Każda karta powinna zawierać:
 
 Surowe pole skill nie jest gwarantowaną końcową wartością interfejsu. Numer poziomu edukacji nie wyznacza samodzielnie przydatności na stanowisko.
 
-## 7. Uzupełnienie — natężenie i mechaniki kampanii
+## 7. Uzupełnienie — natężenie i weryfikacja modów
 
 More Personality Depth rozróżnia Mild, Normal i Intense; dokumentacja autora wskazuje XP 50 i 100 dla dwóch wyższych poziomów. Do archetypów AI zalicza dopiero Normal lub wyżej. Dlatego w karcie zachowuj `trait_xp_amounts` i oceniaj siłę cech. Nie przyporządkowuj XP wszystkim cechom bez definicji torów.
 
-Burkhard ma trzy cechy osobowości i XP 1,1,1. Roboczo oznaczamy natężenie jako prawdopodobnie łagodne; potwierdzenie wymaga tooltipu lub kodu. Jego ambicja nie jest sama w sobie dowodem planu podboju. Przy tablicach mieszanych nie podpisujemy każdej liczby cechą bez sprawdzonego mapowania.
+Przy tablicach mieszanych nie podpisuj każdej liczby nazwą cechy bez sprawdzonego mapowania.
 
-Immersive Domain Management i Populated World! wpływają na rodziny otoczenia. Powiązanie rodzinne i dodatkowy urząd nie dowodzą wspólnego spisku. MIV ma włączone reguły zachowania zależnego od osobowości; oceniając wasala, uwzględniaj interes terytorialny i warunki wojny.
+Immersive Domain Management i Populated World! wpływają na rodziny otoczenia. Powiązanie rodzinne i dodatkowy urząd nie dowodzą wspólnego spisku. Jeżeli w nowej konfiguracji włączono reguły MIV zależne od osobowości, uwzględniaj także interes terytorialny i warunki wojny.
 
 Przed obliczeniem stresu, zdrowia lub płodności sprawdź także Populated World!, Historical Accuracy i Immersive Realm Laws. Nie sumuj premii z opisów różnych wersji. Osobiste przekonania i spełnienie duchowe z By God Alone oddzielaj od pobożności, stresu i opinii duchownych. Ora et Labora może wyjaśniać nabycie ogrodnika; sama cecha nie dowodzi ukończenia ogrodu ani kariery ogrodniczej.
 
@@ -80,7 +80,7 @@ Przed obliczeniem stresu, zdrowia lub płodności sprawdź także Populated Worl
 6. Wiki Paradox, **AI modding**: https://ck3.paradoxwikis.com/AI_modding
 
 7. Autor More Personality Depth, opis moda: https://steamcommunity.com/sharedfiles/filedetails/?id=3717989134 — poziomy osobowości i XP; bez lokalnych definicji.
-8. Pozostałe strony autorów modów i oficjalny dziennik Paradox o By God Alone: lista i ograniczenia odczytu w „Mody-Hohenzollern-1066-09-20.md”.
+8. Pozostałe strony autorów modów i oficjalny dziennik Paradox o By God Alone: lista i ograniczenia odczytu w [katalogu modów](../../zrodla/Mody.md).
 
-Pozycje 4–6 sprawdzono jedynie w dostępnych wynikach indeksowania; pełnych tabel nie odczytano. Data sprawdzenia wszystkich źródeł: 10.10.2026. W przyszłych analizach mechanik najpierw sprawdź zgodność z wersją kampanii.
+Pozycje 4–6 sprawdzono jedynie w dostępnych wynikach indeksowania; pełnych tabel nie odczytano. Poprzednie opracowanie deklarowało sprawdzenie źródeł 10.10.2026; podczas resetu zachowano referencje, bez ponownej weryfikacji stron. W przyszłych analizach mechanik najpierw sprawdź zgodność z wersją kampanii.
 
