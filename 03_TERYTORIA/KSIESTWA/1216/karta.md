@@ -16,3 +16,6 @@
 Pola `0x27d9` i `0x27db` są odrębne i w Baden wskazują różne tytuły (1060 i 1216); **nie utożsamiać wszystkich powiązań de iure i de facto** bez dodatkowej walidacji.
 **NIEUSTALONE:** konkretne prawa/elekcja, rada książęca, relacje osobiste z hrabiami, skarbiec, wojskowość, władza seniora, podatki, ludność i sytuacja frakcji.
 **Screenshoty:** BRAK; pola do przyszłej mapy księstwa, panelu Rudolfa i listy lenników.
+
+## Aktualizacja 1066-09-18
+Save SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`: książę Rudolf 33226, posiadacze siedmiu wcześniej opisanych hrabstw potwierdzeni ponownie. Dodatkowi posiadacze baronii: Ezzo 45250 (Helfenstein 1220), Ekbert 45251 (Sigmaringen 1224), Friedrich 45252 (Tübingen 1229), Bernhard 45253 (Reutlingen 1238), Konrad 45254 (Rottweil 1241). Przynależność do konkretnych dworów i rodzin jest NIEUSTALONA.

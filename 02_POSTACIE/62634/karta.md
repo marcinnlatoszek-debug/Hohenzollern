@@ -36,3 +36,10 @@
 - Nie odtwarzać wyglądu wyłącznie z binarnych genów lub nazwy kultury.
 ## Powiązania
 [Hohenberg](../../03_TERYTORIA/HRABSTWA/1239/karta.md) · [Szwabia](../../03_TERYTORIA/KSIESTWA/1216/karta.md) · [Indeks postaci](../indeks_postaci.md).
+
+## Obserwacja aktualizacyjna — 1066-09-18
+**Źródło:** `von_Hohenzollern.ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941` (wersja 1.20.0.4). Wcześniejszy stan z 1066-09-16 pozostaje historycznym źródłem.
+
+**POTWIERDZONE_SAVE:** Rekord ID **62634**, imię **Burkhard**; właściciel tytułu w rekordach: `c_hohenberg 1239; b_hohenberg 1240`. Surowy ID domu w polu `0x2e5e`: **12843**. Pole datowe `0x27e9`: **53002968** (znaczenie biograficzne NIEUSTALONE). Surowe liczby z `0x29a5`: **[3,5,4,5,0,8]** (niezweryfikowana kolejność umiejętności).
+
+**NIEUSTALONE:** dokładna data urodzenia, rodzice, małżeństwa, dzieci, kultura, wiara, obrządek, przyporządkowanie umiejętności, cechy/traits, urzędy, relacje, roszczenia i wygląd. Potrzebne: aktualny screen karty postaci, Family/Relations, tooltipy cech i osobna referencja Barber Shop. Tytuł nie dowodzi przebywania na dworze Burkharda.

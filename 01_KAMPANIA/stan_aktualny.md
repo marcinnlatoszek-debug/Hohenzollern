@@ -1,5 +1,15 @@
 # Kanon nowej kampanii — stan bieżący
 
+**Aktualna data świata: 1066-09-18 (POTWIERDZONE_SAVE).** Źródło: `von_Hohenzollern.ck3` SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`, CK3 1.20.0.4.
+- **Gracz:** Burkhard CK3 62634, tytuł `c_hohenberg` 1239, dom von Hohenzollern 12843.
+- **Szwabia:** `d_swabia` 1216 — Rudolf 33226; siedem hrabstw i 12 ustalonych posiadaczy tytułów w [indeksie postaci](../02_POSTACIE/indeks_postaci.md).
+- **Dalsze dane NIEUSTALONE:** rady, rycerze, rodziny, cechy oraz przetłumaczone umiejętności. [Raport nowego odczytu](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md).
+
+## Obserwacja poprzednia: 1066-09-16
+Następujący zapis archiwalny pochodzi ze starszego pliku SHA-256 `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`. Nie interpretować go jako bieżącego stanu z 18 września.
+
+# Kanon nowej kampanii — stan bieżący
+
 **Najnowsza odczytana data świata CK3: 1066-09-18 (POTWIERDZONE_SAVE).**
 Źródło: `von_Hohenzollern.ck3`, SHA-256 `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`; wersja 1.20.0.4.
 Status: rozpoznanie rozpoczęte, nie zakończono interpretacji wszystkich binarnych tokenów.

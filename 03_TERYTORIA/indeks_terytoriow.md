@@ -7,3 +7,6 @@
 - Posiadłości Zollern: `b_zollern` 1236 (Egino 37502), `b_vehringen` 1237 (posiadacz NIEUSTALONE), `b_reutlingen` 1238 (Bernhard 45253).
 
 Nie przenosić nazw roboczych na potwierdzone ID bez weryfikacji. Przyszłe screenshoty przypisać do kart tych samych tytułów.
+
+## Obserwacja 1066-09-18 — posiadacze baronii
+Źródło: `von_Hohenzollern.ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`. [Helfenstein 1220 — Ezzo 45250](../02_POSTACIE/45250/karta.md), [Sigmaringen 1224 — Ekbert 45251](../02_POSTACIE/45251/karta.md), [Tübingen 1229 — Friedrich 45252](../02_POSTACIE/45252/karta.md), [Reutlingen 1238 — Bernhard 45253](../02_POSTACIE/45253/karta.md), [Rottweil 1241 — Konrad 45254](../02_POSTACIE/45254/karta.md). Dane z 1066-09-16 pozostają wcześniejszą obserwacją.
