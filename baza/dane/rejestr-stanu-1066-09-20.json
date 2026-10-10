@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "campaign": "Nobilis gens Hohenzollern — nowa kampania 1066",
+  "compiled_at": "2026-10-10",
+  "game_date": "1066-09-20",
+  "game_version": "1.20.0.4",
+  "sources": {
+    "author": "AUTHOR-1066",
+    "native_save": "SAVE-20: von_Hohenzollern(2).ck3",
+    "extract": "baza/dane/wyciag-save-1066-09-20.json",
+    "earlier": [
+      "SAVE-18A",
+      "SAVE-18B"
+    ],
+    "provenance": "baza/Zrodla-i-weryfikacja-1066-09-20.md"
+  },
+  "source_priority": [
+    "author_corrections_for_genealogy_and_succession",
+    "latest_native_save",
+    "earlier_save_for_history_only",
+    "extracted_data",
+    "mod_docs",
+    "inference",
+    "literary_background"
+  ],
+  "protagonist": {
+    "id": 62698,
+    "name": "Burkhard von Hohenzollern",
+    "birth": "1050-01-09",
+    "age": 16,
+    "house_id": 12863,
+    "dynasty_id": 12260,
+    "faith": "Catholic/Roman rite",
+    "culture": "Swabian",
+    "government": "feudal_government",
+    "inheritance": {
+      "starts": "1066-08",
+      "method": "inherited",
+      "father": "Konrad",
+      "grandfather": "Ludwig",
+      "status": "KOREKTA_AUTORA"
+    },
+    "personality": [
+      "ambitious",
+      "diligent",
+      "patient"
+    ],
+    "personality_xp": [
+      1,
+      1,
+      1
+    ],
+    "personality_xp_interpretation": "probably Mild; not tool-tip verified",
+    "other_traits": [
+      "education_stewardship_3",
+      "intellect_good_2",
+      "lifestyle_gardener"
+    ],
+    "raw_skills": [
+      3,
+      5,
+      4,
+      5,
+      0,
+      8
+    ],
+    "focus": "stewardship_wealth_focus",
+    "personal_tenet": "tenet_ora_et_labora",
+    "spiritual_fulfillment": 10,
+    "no_recorded_spouse": true,
+    "no_recorded_children": true,
+    "liege_id": 33322,
+    "heir_fallback_id": 33322,
+    "resources": {
+      "gold": 94,
+      "prestige_spendable": 600,
+      "prestige_accumulated": 1450,
+      "piety": 50,
+      "influence": 60,
+      "legitimacy": 200,
+      "income_field": 6.81698,
+      "income_net_verified": false
+    },
+    "military": {
+      "current_strength": 835,
+      "strength": 1135,
+      "levy": 333,
+      "strength_for_liege": 20,
+      "active_knights": [
+        {
+          "id": 66595,
+          "prowess": 16
+        },
+        {
+          "id": 66598,
+          "prowess": 14
+        }
+      ],
+      "regiments": [
+        {
+          "type": "light_footmen",
+          "current": 100,
+          "max": 200
+        },
+        {
+          "type": "armored_footmen",
+          "current": 200,
+          "max": 400
+        },
+        {
+          "type": "pikemen_unit",
+          "size": 200
+        }
+      ],
+      "mangonels_active": false,
+      "unexplained_total_gap": 2
+    },
+    "advisors": {
+      "chancellor": 66576,
+      "steward": 66605,
+      "marshal": 66598,
+      "spymaster": 65797,
+      "chaplain": 58283,
+      "technical_unidentified": 62699
+    }
+  },
+  "territory": {
+    "capital_barony_id": 1177,
+    "counties": [
+      {
+        "id": 1176,
+        "name": "Zollern",
+        "holder_id": 62698,
+        "capital_barony_id": 1177,
+        "development": 8,
+        "control": 100,
+        "development_decline": -0.47862,
+        "development_decline_until": "1067-09-15",
+        "woc": {
+          "pop_peasant_raw": 263156,
+          "pop_slave_raw": 187968,
+          "pop_citizen_raw": 14074,
+          "pop_nobility_raw": 4722,
+          "pop_clergy_raw": 2349,
+          "pop_total_raw": 472269,
+          "county_manpower_var_raw": 62163000,
+          "county_tax_gold_raw": 76983,
+          "county_destruction_identity": null,
+          "immigration_list_ids": 85
+        }
+      },
+      {
+        "id": 1183,
+        "name": "Hohenberg",
+        "holder_id": 62698,
+        "capital_barony_id": 1184,
+        "development": 8,
+        "control": 100,
+        "development_decline": -0.37479,
+        "development_decline_until": "1067-09-15",
+        "woc": {
+          "pop_peasant_raw": 348164,
+          "pop_slave_raw": 248688,
+          "pop_citizen_raw": 18620,
+          "pop_nobility_raw": 6248,
+          "pop_clergy_raw": 3108,
+          "pop_total_raw": 624828,
+          "county_manpower_var_raw": 82242000,
+          "county_tax_gold_raw": 101852,
+          "county_destruction_identity": null,
+          "immigration_list_ids": 80
+        }
+      }
+    ],
+    "baron_vassal": {
+      "name": "Sigismund of Rottweil",
+      "id": 45347,
+      "barony_id": 1185,
+      "government": "republican"
+    },
+    "common_population_raw_shares_approx": {
+      "peasant_pct": 55.72,
+      "slave_category_pct": 39.8,
+      "citizen_pct": 2.98,
+      "nobility_pct": 1,
+      "clergy_pct": 0.5
+    },
+    "population_counts_verified": false,
+    "mod_scaling_formula_verified": false
+  },
+  "pretenders_from_earlier_save": [
+    {
+      "id": 30932,
+      "name": "Anselm of Tübingen",
+      "claims": [
+        1176,
+        1183
+      ]
+    },
+    {
+      "id": 66593,
+      "name": "Wolfram von Nordgau",
+      "claims": [
+        1176,
+        1183
+      ]
+    },
+    {
+      "id": 40459,
+      "name": "Adalbert",
+      "claims": [
+        1176
+      ]
+    }
+  ],
+  "economy_comparison": {
+    "1066-09-18": {
+      "income_field": 5.87996,
+      "gold": 94,
+      "holdings_income_fields": [
+        3.16801,
+        2.71195
+      ]
+    },
+    "1066-09-20": {
+      "income_field": 6.81698,
+      "gold": 94,
+      "holdings_income_fields": [
+        3.3432,
+        2.85406
+      ]
+    },
+    "match_to_10_percent_wealth_focus": "(3.34320+2.85406)*1.10=6.816986",
+    "monthly_net_unverified": true
+  },
+  "mods": {
+    "count": 24,
+    "unidentified_workshop_id": 3790487196,
+    "relevant": [
+      "Weight of Crown Fork",
+      "Immersive Domain Management",
+      "Immersive Realm Laws",
+      "More Interactive Vassals",
+      "More Personality Depth",
+      "Populated World!"
+    ],
+    "woc_levy_system_disabled": true,
+    "law_values_exact_in": "baza/Mody-Prawa-1066-09-20.md"
+  },
+  "unverified": [
+    "exact_pop_scales",
+    "monthly_net_and_court_costs",
+    "laws_effects_and_tax_rates",
+    "migration_flows",
+    "personal_opinions",
+    "famine_or_rebellion_outside_read_scope",
+    "reasons_for_province_decline",
+    "full_buildings_and_mod_script_versions"
+  ],
+  "interpretation_policy": "Only confirmed facts are canonical. Unverified social distress, conflicts, migrations, buildings or character intentions must not be narrated as already happened."
+}

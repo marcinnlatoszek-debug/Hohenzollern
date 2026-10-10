@@ -2,8 +2,8 @@
 
 **GRA DAJE FAKT, KRONIKA DAJE ŻYCIE.**
 
-## Czysty początek
-Pamięć poprzedniej kampanii została usunięta z bieżącej gałęzi. Nową kampanię budujemy od początku z nowych źródeł. Nie przywracać danych z historii commitów, dawnych rozmów, kart, kronik ani streszczeń bez wyraźnego polecenia gracza. Nie ma aktywnych postaci, dat gry, wydarzeń, relacji, strategii sytuacyjnych ani scen. Ogólne zasady nie stanowią stanu kampanii.
+## Czysty początek — uzupełnienie 10 X 2026
+9 X 2026 usunięto z aktywnej gałęzi kanon poprzedniej kampanii. **10 X 2026 gracz wyraźnie polecił zapisać nową kampanię z natywnych save’ów 18 i 20 IX 1066 i aktualnych analiz.** Jej bieżącym punktem mechanicznym jest 20 IX 1066, a indeksem Historia-Hohenzollern.md i baza/README.md. Nie przywracać materiałów historycznej kampanii 1070–1071 bez osobnego polecenia. Zasada nieprzenoszenia faktów z innych kampanii nadal obowiązuje.
 
 ## Źródła i kanon
 - Najnowszy natywny save CK3 ma pierwszeństwo dla bieżącego stanu mechanicznego. Starsze save’y i screeny zachowują własne daty; screeny mogą zawierać teksty wydarzeń i wybory nieobecne w późniejszym zapisie.

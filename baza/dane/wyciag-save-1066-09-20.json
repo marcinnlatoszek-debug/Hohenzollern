@@ -1,0 +1,4523 @@
+{
+  "source": "von_Hohenzollern(2).ck3",
+  "date": "1066.9.20",
+  "game_version": "1.20.0.4",
+  "mods": [
+    "mod/ugc_2227658180.mod",
+    "mod/ugc_3006877184.mod",
+    "mod/ugc_2261468688.mod",
+    "mod/ugc_2721974781.mod",
+    "mod/ugc_3150612985.mod",
+    "mod/ugc_2452585382.mod",
+    "mod/ugc_3571438676.mod",
+    "mod/ugc_2986496756.mod",
+    "mod/ugc_3604729196.mod",
+    "mod/ugc_3030427202.mod",
+    "mod/ugc_2220326926.mod",
+    "mod/ugc_3255992492.mod",
+    "mod/ugc_2712590542.mod",
+    "mod/ugc_3717989134.mod",
+    "mod/ugc_3790487196.mod",
+    "mod/ugc_3676381111.mod",
+    "mod/ugc_3461530706.mod",
+    "mod/ugc_3360676953.mod",
+    "mod/ugc_3780779762.mod",
+    "mod/ugc_2223544446.mod",
+    "mod/ugc_3448267875.mod",
+    "mod/ugc_3433842378.mod",
+    "mod/ugc_2220098919.mod",
+    "mod/ugc_3351630685.mod"
+  ],
+  "game_rules": {
+    "settings": [
+      "information_miv_enabled",
+      "information_miv_2_enabled",
+      "miv_performance_mode_disabled",
+      "miv_debug_mode_disabled",
+      "bannermen_mode_enabled",
+      "vassal_difficulty_normal",
+      "vassal_distance_major",
+      "vassal_eligibility_two_tiers",
+      "bannermen_extended_mode_enable",
+      "civil_war_indirect_vassals_leader",
+      "miv_oathbreakers_enabled",
+      "belligerence_miv_enabled",
+      "request_vassal_support_miv_enabled",
+      "administrative_governors_enabled",
+      "call_allied_vassals_enabled",
+      "traitor_vassals_miv_enabled",
+      "intervention_war_miv_enabled",
+      "help_house_member_miv_enabled",
+      "improved_civil_wars_enabled",
+      "civil_war_distance_huge",
+      "politics_miv_enabled",
+      "miv_invite_faction_enabled",
+      "miv_loyalist_enabled",
+      "miv_loyalist_frequency_normal",
+      "miv_realm_size_normal",
+      "war_exhaustion_miv_enabled",
+      "ally_exhaustion_miv_enabled",
+      "internal_turmoil_enabled",
+      "miv_ask_to_end_war_enabled",
+      "become_adventurer_miv_enabled",
+      "vassals_join_claims_enabled",
+      "vassals_defend_titles_enabled",
+      "bribe_to_leave_war_miv_enabled",
+      "defiant_vassals_enabled",
+      "challenging_ai_enabled",
+      "ai_aggressiveness_plus_50",
+      "ai_kingdom_stability_very_high",
+      "ai_empire_stability_high",
+      "miv_attacker_behavior_personality",
+      "miv_defender_behavior_personality",
+      "historical_loyalty_miv_20",
+      "historical_health_miv_20",
+      "miv_player_conquerors_low",
+      "miv_starting_conquerors_miv_enabled",
+      "scourge_of_the_gods_miv_disabled",
+      "miv_conqueror_limit_miv_disabled",
+      "miv_accolade_artifact_enabled",
+      "miv_accolade_artifact_stealing_enabled",
+      "miv_ai_artifacts_disabled",
+      "border_wars_miv_disabled",
+      "vassal_wars_miv_disabled",
+      "vassal_expansion_miv_administrative",
+      "miv_cb_cost_disabled",
+      "miv_general_opinion_enabled_4",
+      "miv_faction_threshold_50",
+      "miv_border_dispute_disabled",
+      "levy_contribution_75_reduction_disabled",
+      "miv_base_prowess_disabled",
+      "knight_eligibility_vassals_disabled",
+      "knight_age_disabled",
+      "knight_effectiveness_disabled",
+      "knight_limit_disabled",
+      "miv_accolade_glory_disabled",
+      "miv_max_accolades_disabled",
+      "commander_eligibility_vassals_disabled",
+      "commander_age_disabled",
+      "shattered_world_miv_disabled",
+      "shattered_conquest_miv_disabled",
+      "divided_china_miv_disabled",
+      "divided_japan_miv_disabled",
+      "diverse_world_miv_disabled",
+      "miv_title_creation_miv_disabled",
+      "miv_vassal_map_gfx_enabled",
+      "miv_maa_descriptions_enabled",
+      "levy_contribution_disabled",
+      "tax_contribution_disabled",
+      "less_levies_disabled",
+      "miv_no_levies_disabled",
+      "less_garrisons_disabled",
+      "miv_peasant_strength_disabled",
+      "levy_attack_disabled",
+      "levy_toughness_disabled",
+      "slower_levies_disabled",
+      "levy_maintenance_disabled",
+      "maa_limit_disabled",
+      "maa_size_disabled",
+      "maa_recruitment_cost_disabled",
+      "maa_maintenance_disabled",
+      "max_combat_roll_disabled",
+      "fatal_casualties_disabled",
+      "siege_effectiveness_disabled",
+      "miv_battle_duration_disabled",
+      "miv_counter_efficiency_disabled",
+      "miv_counter_resistance_disabled",
+      "less_mercs_disabled",
+      "army_speed_disabled",
+      "naval_speed_disabled",
+      "miv_raid_speed_disabled",
+      "self_command_advantage_disabled",
+      "defender_advantage_disabled",
+      "holding_advantage_disabled",
+      "miv_diplomatic_range_disabled",
+      "supply_limit_40",
+      "supply_duration_disabled",
+      "miv_rite_cost_disabled",
+      "miv_personal_tenets_disabled",
+      "cultural_acceptance_gain_disabled",
+      "cultural_tradition_limit_disabled",
+      "domain_tax_disabled",
+      "miv_tributary_tax_disabled",
+      "development_growth_disabled",
+      "innovation_speed_disabled",
+      "build_cost_disabled",
+      "build_speed_disabled",
+      "miv_travel_speed_disabled",
+      "miv_travel_danger_disabled",
+      "miv_provisions_disabled",
+      "miv_max_provisions_disabled",
+      "miv_house_relation_disabled",
+      "miv_vassal_limit_disabled",
+      "miv_legitimacy_disabled",
+      "miv_renown_disabled",
+      "miv_prestige_disabled",
+      "miv_piety_disabled",
+      "miv_influence_disabled",
+      "herd_reduction_disabled",
+      "reduced_lifespan_disabled",
+      "miv_health_disabled",
+      "fertility_disabled",
+      "years_of_fertility_disabled",
+      "player_realm_stability_disabled",
+      "vassal_opinion_disabled",
+      "player_resource_gain_disabled",
+      "player_lifestyle_xp_disabled",
+      "player_knight_effectiveness_disabled",
+      "player_merc_cost_disabled",
+      "player_maa_cost_disabled",
+      "player_maa_maintenance_disabled",
+      "player_stress_gain_disabled",
+      "player_dread_gain_disabled",
+      "player_domain_tax_disabled",
+      "player_build_cost_disabled",
+      "normal_difficulty",
+      "default_gender_equality",
+      "1453_end_date",
+      "default_historical_characters",
+      "harm_illusion_of_safety",
+      "harm_target_all",
+      "many_conquerors_frequency",
+      "reduced_random_conquerors_bonuses",
+      "no_conquerors_inheritance",
+      "bd_occurrence_historical",
+      "bd_frequency_once",
+      "epidemic_frequency_normal",
+      "default_minor_disease_frequency",
+      "default_elderly_health",
+      "default_same_sex_relations",
+      "default_same_sex_marriage",
+      "sexuality_distribution_default",
+      "default_adoption",
+      "default_matrilineal_marriages",
+      "ai_significant_exclave_independence",
+      "default_multiplayer_murder_schemes",
+      "legend_spread_chance_normal",
+      "legend_cost_low",
+      "historical_legends_dynamic",
+      "default_name_of_byzantium",
+      "default_realm_stability",
+      "default_hybrid_culture_ai_frequency",
+      "default_hybrid_culture_ai_restrictions",
+      "default_divergent_culture_ai_frequency",
+      "default_hybrid_and_divergence_cooldowns",
+      "default_branched_rite_frequency",
+      "default_branched_rite_amount",
+      "default_heresy_outbreak_frequency",
+      "relaxed_regional_heresy",
+      "default_mongol_invasion",
+      "random_nickname_frequency_default",
+      "default_casus_belli_costs",
+      "significantly_slower_culture_conversion_speed",
+      "significantly_slower_faith_conversion_speed",
+      "default_diplomatic_range",
+      "on_limited_de_jure_requirement",
+      "on_empire_obscurity_requirement",
+      "on_custom_duchies_player",
+      "on_custom_kingdoms",
+      "on_generate_families",
+      "default_faith_acceptance",
+      "randomized_faiths_off",
+      "random_ruler_placement_off",
+      "regular_embarkation_costs",
+      "domain_limit_default",
+      "launch_immediate",
+      "fp1_scandi_adventurers_frequent",
+      "dissolution_unconstrained",
+      "default_seljuk_invasion",
+      "situation_the_great_steppe_toggle_on",
+      "struggle_iberia_toggle_on",
+      "struggle_persia_toggle_on",
+      "historicity_ruler_of_munster_classic_murchad",
+      "historicity_norman_conquest_default_random",
+      "northeast_asia_nomad_region_off",
+      "tibet_nomad_region_off",
+      "sami_nomad_region_off",
+      "arabia_nomad_region_off",
+      "sahel_nomad_region_off",
+      "horn_of_africa_nomad_region_off",
+      "historicity_extra_admin_egypt_gameplay_not_administrative",
+      "historicity_extra_admin_arabia_gameplay_not_administrative",
+      "historicity_extra_admin_ghana_gameplay_not_administrative",
+      "historicity_extra_admin_kabulistan_gameplay_not_administrative",
+      "historicity_extra_admin_persia_gameplay_not_administrative",
+      "historicity_extra_admin_maghreb_gameplay_not_administrative",
+      "historicity_extra_admin_tamilakam_gameplay_not_administrative",
+      "historicity_extra_admin_carolingians_gameplay_not_administrative",
+      "historicity_extra_admin_player_wherever_gameplay_not_administrative",
+      "title_creation_imperial_power_projection_none",
+      "title_creation_imperial_power_projection_targeting_ai_only",
+      "historicity_frankokratia_default",
+      "ai_laamp_numbers_50",
+      "advantage_damage_effect_7",
+      "default_easteregg_characters",
+      "coronation_laws_on",
+      "silk_road_starting_innovations_preset",
+      "natural_disaster_earthquakes_regular",
+      "natural_disaster_floods_regular",
+      "unrestricted_dynasty_legacies_default",
+      "empire_faith_gate_off",
+      "default_cfp_fullplate_helmets",
+      "default_cfp_trait_accessories",
+      "default_cfp_fantasy",
+      "default_cfp_artifacts",
+      "MA_monuments_all",
+      "MA_ahistorical_monuments_yes",
+      "MA_creator_pack_yes",
+      "VIET_balanced_events",
+      "VIET_normal_universe_events",
+      "VIET_historical_context_on",
+      "VIET_resource_default",
+      "VIET_event_frequency_default",
+      "VIET_clutter_artifacts_default",
+      "rd_conqueror_enabled",
+      "rd_conqueror_chosen_span_10_year",
+      "rd_conqueror_chosen_weight_military_strength",
+      "rd_conqueror_situation_rd_downfall_enabled",
+      "woc_cultural_integration_none",
+      "woc_immigration_distance_default",
+      "woc_mpe_set_up_none",
+      "woc_levy_system_disabled"
+    ]
+  },
+  "global_variables": {
+    "data": [
+      {
+        "flag": "seljuk_invasion_happened",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "pam_great_schism_decision_taken",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "west_francia_renamed",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "east_francia_renamed",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "chinese_fashion",
+        "data": {
+          "type": "flag",
+          "flag": "song"
+        }
+      },
+      {
+        "flag": "num_catholic_crusades",
+        "data": {
+          "type": "value"
+        }
+      },
+      {
+        "flag": "cfp_is_loaded",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "MA_active_global_variable",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "FSB_is_loaded",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "miv_is_loaded",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "woc_mod_set_up",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "achievement_rags_to_riches_valid",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "fp2_holiday_in_iberia_achievement_unlocked",
+        "data": {
+          "type": "boolean"
+        }
+      },
+      {
+        "flag": "started_ep4_16_flying_colors_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_ep4_17_highway_of_ideas_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_ep4_19_stamp_of_approval_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_canute_the_greater_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_saga_in_stone_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_a_dangerous_business_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_patronage_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_converging_paths_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_changing_course_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_hoarder_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_creme_de_la_creme_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_polyglot_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_inspirational_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_one_of_a_kind_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_true_tolerance_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_delusions_of_grandeur_achievement_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_lingua_franca_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_beta_israel_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_they_belong_in_a_museum_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_i_made_this_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_nobody_comes_to_fika_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_the_true_royal_court_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_the_grandest_tour_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_your_eternal_reward_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_imperial_march_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_black_dinner_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_there_and_back_again_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_the_very_best_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_like_no_one_ever_was_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_a_thousand_and_one_nights_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_a_knights_tale_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_hunting_accident_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_lions_and_tigers_and_bears_oh_my_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_fly_my_pretty_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_pathway_to_heaven_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_sir_lance_a_lot_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_im_in_my_elements_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_ahab_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_little_william_marshal_achievement",
+        "data": {
+          "type": "value"
+        }
+      },
+      {
+        "flag": "little_william_marshal_achievement_tally",
+        "data": {
+          "type": "value"
+        }
+      },
+      {
+        "flag": "started_a_true_and_perfect_knight_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_the_iron_and_golden_king_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "started_ce3_15_cardinal_sin_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "any_ruler_designed_character_achievement",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "achievement_rags_to_riches_to_rags_to_riches_valid",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "active_conquerors",
+        "data": {
+          "type": "value",
+          "identity": "100000"
+        }
+      },
+      {
+        "flag": "game_has_started",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "VIET_is_active",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "VIET_1006_supernova_happened",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "gmpxxx_is_loaded",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "natural_disaster_initial_grace_period",
+        "tick": "3640",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      },
+      {
+        "flag": "start_epidemic_grace",
+        "tick": "3640",
+        "data": {
+          "type": "boolean",
+          "identity": "1"
+        }
+      }
+    ],
+    "list": [
+      {
+        "name": "pam_buried_saint_poi_list",
+        "item": [
+          {
+            "type": "prov",
+            "identity": "2575"
+          },
+          {
+            "type": "prov",
+            "identity": "2018"
+          },
+          {
+            "type": "prov",
+            "identity": "2577"
+          },
+          {
+            "type": "prov",
+            "identity": "476"
+          },
+          {
+            "type": "prov",
+            "identity": "2576"
+          },
+          {
+            "type": "prov",
+            "identity": "6053"
+          },
+          {
+            "type": "prov",
+            "identity": "2609"
+          },
+          {
+            "type": "prov",
+            "identity": "7831"
+          },
+          {
+            "type": "prov",
+            "identity": "5919"
+          },
+          {
+            "type": "prov",
+            "identity": "2572"
+          },
+          {
+            "type": "prov",
+            "identity": "5910"
+          },
+          {
+            "type": "prov",
+            "identity": "2579"
+          },
+          {
+            "type": "prov",
+            "identity": "2573"
+          },
+          {
+            "type": "prov",
+            "identity": "2589"
+          },
+          {
+            "type": "prov",
+            "identity": "2571"
+          },
+          {
+            "type": "prov",
+            "identity": "2590"
+          },
+          {
+            "type": "prov",
+            "identity": "4583"
+          },
+          {
+            "type": "prov",
+            "identity": "3761"
+          },
+          {
+            "type": "prov",
+            "identity": "5963"
+          },
+          {
+            "type": "prov",
+            "identity": "2600"
+          },
+          {
+            "type": "prov",
+            "identity": "6032"
+          },
+          {
+            "type": "prov",
+            "identity": "467"
+          },
+          {
+            "type": "prov",
+            "identity": "496"
+          },
+          {
+            "type": "prov",
+            "identity": "5647"
+          },
+          {
+            "type": "prov",
+            "identity": "2033"
+          },
+          {
+            "type": "prov",
+            "identity": "737"
+          },
+          {
+            "type": "prov",
+            "identity": "2482"
+          },
+          {
+            "type": "prov",
+            "identity": "2570"
+          },
+          {
+            "type": "prov",
+            "identity": "2475"
+          },
+          {
+            "type": "prov",
+            "identity": "2588"
+          },
+          {
+            "type": "prov",
+            "identity": "2606"
+          },
+          {
+            "type": "prov",
+            "identity": "1691"
+          },
+          {
+            "type": "prov",
+            "identity": "2586"
+          },
+          {
+            "type": "prov",
+            "identity": "560"
+          },
+          {
+            "type": "prov",
+            "identity": "2924"
+          },
+          {
+            "type": "prov",
+            "identity": "547"
+          },
+          {
+            "type": "prov",
+            "identity": "1567"
+          },
+          {
+            "type": "prov",
+            "identity": "5083"
+          }
+        ],
+        "duration": [
+          "38"
+        ]
+      },
+      {
+        "name": "unavailable_unique_decisions",
+        "item": [
+          {
+            "type": "flag",
+            "flag": "flag_formed_normandy_decision"
+          },
+          {
+            "type": "flag",
+            "flag": "flag_formed_kingdom_of_aragon"
+          }
+        ],
+        "duration": [
+          "2"
+        ]
+      },
+      {
+        "name": "easteregg_characters_list",
+        "item": [
+          {
+            "type": "char",
+            "identity": "35328"
+          },
+          {
+            "type": "char",
+            "identity": "36111"
+          },
+          {
+            "type": "char",
+            "identity": "37667"
+          },
+          {
+            "type": "char",
+            "identity": "38235"
+          },
+          {
+            "type": "char",
+            "identity": "37865"
+          },
+          {
+            "type": "char",
+            "identity": "32341"
+          },
+          {
+            "type": "char",
+            "identity": "32764"
+          },
+          {
+            "type": "char",
+            "identity": "31962"
+          },
+          {
+            "type": "char",
+            "identity": "33646"
+          },
+          {
+            "type": "char",
+            "identity": "34697"
+          },
+          {
+            "type": "char",
+            "identity": "34887"
+          },
+          {
+            "type": "char",
+            "identity": "36783"
+          },
+          {
+            "type": "char",
+            "identity": "38062"
+          },
+          {
+            "type": "char",
+            "identity": "35318"
+          },
+          {
+            "type": "char",
+            "identity": "36803"
+          },
+          {
+            "type": "char",
+            "identity": "34698"
+          },
+          {
+            "type": "char",
+            "identity": "36631"
+          },
+          {
+            "type": "char",
+            "identity": "37668"
+          },
+          {
+            "type": "char",
+            "identity": "37016"
+          },
+          {
+            "type": "char",
+            "identity": "36797"
+          },
+          {
+            "type": "char",
+            "identity": "35727"
+          },
+          {
+            "type": "char",
+            "identity": "35519"
+          },
+          {
+            "type": "char",
+            "identity": "34876"
+          },
+          {
+            "type": "char",
+            "identity": "34707"
+          },
+          {
+            "type": "char",
+            "identity": "36587"
+          },
+          {
+            "type": "char",
+            "identity": "35740"
+          },
+          {
+            "type": "char",
+            "identity": "35137"
+          },
+          {
+            "type": "char",
+            "identity": "35131"
+          },
+          {
+            "type": "char",
+            "identity": "34885"
+          },
+          {
+            "type": "char",
+            "identity": "36104"
+          },
+          {
+            "type": "char",
+            "identity": "27527"
+          },
+          {
+            "type": "char",
+            "identity": "36801"
+          },
+          {
+            "type": "char",
+            "identity": "35493"
+          },
+          {
+            "type": "char",
+            "identity": "37674"
+          },
+          {
+            "type": "char",
+            "identity": "34706"
+          },
+          {
+            "type": "char",
+            "identity": "34872"
+          },
+          {
+            "type": "char",
+            "identity": "35124"
+          },
+          {
+            "type": "char",
+            "identity": "35305"
+          },
+          {
+            "type": "char",
+            "identity": "35721"
+          },
+          {
+            "type": "char",
+            "identity": "34532"
+          },
+          {
+            "type": "char",
+            "identity": "35320"
+          },
+          {
+            "type": "char",
+            "identity": "35506"
+          },
+          {
+            "type": "char",
+            "identity": "38257"
+          },
+          {
+            "type": "char",
+            "identity": "35323"
+          },
+          {
+            "type": "char",
+            "identity": "33207"
+          },
+          {
+            "type": "char",
+            "identity": "35360"
+          },
+          {
+            "type": "char",
+            "identity": "35133"
+          },
+          {
+            "type": "char",
+            "identity": "36794"
+          },
+          {
+            "type": "char",
+            "identity": "37019"
+          },
+          {
+            "type": "char",
+            "identity": "36573"
+          },
+          {
+            "type": "char",
+            "identity": "36593"
+          },
+          {
+            "type": "char",
+            "identity": "35332"
+          },
+          {
+            "type": "char",
+            "identity": "34527"
+          },
+          {
+            "type": "char",
+            "identity": "34713"
+          },
+          {
+            "type": "char",
+            "identity": "36115"
+          },
+          {
+            "type": "char",
+            "identity": "35138"
+          },
+          {
+            "type": "char",
+            "identity": "36116"
+          },
+          {
+            "type": "char",
+            "identity": "36108"
+          },
+          {
+            "type": "char",
+            "identity": "35326"
+          },
+          {
+            "type": "char",
+            "identity": "33209"
+          },
+          {
+            "type": "char",
+            "identity": "36096"
+          },
+          {
+            "type": "char",
+            "identity": "35325"
+          },
+          {
+            "type": "char",
+            "identity": "35307"
+          },
+          {
+            "type": "char",
+            "identity": "34873"
+          },
+          {
+            "type": "char",
+            "identity": "33194"
+          },
+          {
+            "type": "char",
+            "identity": "35738"
+          },
+          {
+            "type": "char",
+            "identity": "34880"
+          },
+          {
+            "type": "char",
+            "identity": "36592"
+          },
+          {
+            "type": "char",
+            "identity": "36566"
+          },
+          {
+            "type": "char",
+            "identity": "35711"
+          },
+          {
+            "type": "char",
+            "identity": "36568"
+          },
+          {
+            "type": "char",
+            "identity": "37011"
+          },
+          {
+            "type": "char",
+            "identity": "36584"
+          },
+          {
+            "type": "char",
+            "identity": "35123"
+          },
+          {
+            "type": "char",
+            "identity": "36586"
+          },
+          {
+            "type": "char",
+            "identity": "35720"
+          },
+          {
+            "type": "char",
+            "identity": "36569"
+          },
+          {
+            "type": "char",
+            "identity": "34710"
+          },
+          {
+            "type": "char",
+            "identity": "38046"
+          },
+          {
+            "type": "char",
+            "identity": "34157"
+          },
+          {
+            "type": "char",
+            "identity": "35722"
+          },
+          {
+            "type": "char",
+            "identity": "36577"
+          },
+          {
+            "type": "char",
+            "identity": "35518"
+          },
+          {
+            "type": "char",
+            "identity": "37682"
+          },
+          {
+            "type": "char",
+            "identity": "35503"
+          },
+          {
+            "type": "char",
+            "identity": "34535"
+          },
+          {
+            "type": "char",
+            "identity": "37391"
+          },
+          {
+            "type": "char",
+            "identity": "36093"
+          },
+          {
+            "type": "char",
+            "identity": "36113"
+          },
+          {
+            "type": "char",
+            "identity": "37204"
+          },
+          {
+            "type": "char",
+            "identity": "36100"
+          },
+          {
+            "type": "char",
+            "identity": "37193"
+          },
+          {
+            "type": "char",
+            "identity": "37194"
+          },
+          {
+            "type": "char",
+            "identity": "34141"
+          },
+          {
+            "type": "char",
+            "identity": "27423"
+          },
+          {
+            "type": "char",
+            "identity": "37017"
+          },
+          {
+            "type": "char",
+            "identity": "36779"
+          },
+          {
+            "type": "char",
+            "identity": "34925"
+          },
+          {
+            "type": "char",
+            "identity": "36119"
+          },
+          {
+            "type": "char",
+            "identity": "33656"
+          },
+          {
+            "type": "char",
+            "identity": "36120"
+          },
+          {
+            "type": "char",
+            "identity": "31517"
+          },
+          {
+            "type": "char",
+            "identity": "34575"
+          },
+          {
+            "type": "char",
+            "identity": "36845"
+          },
+          {
+            "type": "char",
+            "identity": "37726"
+          },
+          {
+            "type": "char",
+            "identity": "37861"
+          },
+          {
+            "type": "char",
+            "identity": "37235"
+          },
+          {
+            "type": "char",
+            "identity": "36581"
+          },
+          {
+            "type": "char",
+            "identity": "37018"
+          },
+          {
+            "type": "char",
+            "identity": "35308"
+          },
+          {
+            "type": "char",
+            "identity": "37234"
+          },
+          {
+            "type": "char",
+            "identity": "34877"
+          },
+          {
+            "type": "char",
+            "identity": "33659"
+          },
+          {
+            "type": "char",
+            "identity": "35322"
+          },
+          {
+            "type": "char",
+            "identity": "36588"
+          },
+          {
+            "type": "char",
+            "identity": "35522"
+          },
+          {
+            "type": "char",
+            "identity": "36238"
+          },
+          {
+            "type": "char",
+            "identity": "33208"
+          },
+          {
+            "type": "char",
+            "identity": "34879"
+          },
+          {
+            "type": "char",
+            "identity": "35724"
+          },
+          {
+            "type": "char",
+            "identity": "34530"
+          },
+          {
+            "type": "char",
+            "identity": "38416"
+          },
+          {
+            "type": "char",
+            "identity": "32337"
+          },
+          {
+            "type": "char",
+            "identity": "35324"
+          },
+          {
+            "type": "char",
+            "identity": "37367"
+          },
+          {
+            "type": "char",
+            "identity": "33485"
+          },
+          {
+            "type": "char",
+            "identity": "33652"
+          },
+          {
+            "type": "char",
+            "identity": "34878"
+          },
+          {
+            "type": "char",
+            "identity": "35314"
+          },
+          {
+            "type": "char",
+            "identity": "35315"
+          },
+          {
+            "type": "char",
+            "identity": "33343"
+          },
+          {
+            "type": "char",
+            "identity": "35515"
+          },
+          {
+            "type": "char",
+            "identity": "35316"
+          },
+          {
+            "type": "char",
+            "identity": "32931"
+          },
+          {
+            "type": "char",
+            "identity": "32932"
+          },
+          {
+            "type": "char",
+            "identity": "35306"
+          },
+          {
+            "type": "char",
+            "identity": "34708"
+          },
+          {
+            "type": "char",
+            "identity": "31791"
+          },
+          {
+            "type": "char",
+            "identity": "37004"
+          },
+          {
+            "type": "char",
+            "identity": "34346"
+          },
+          {
+            "type": "char",
+            "identity": "33798"
+          },
+          {
+            "type": "char",
+            "identity": "34926"
+          },
+          {
+            "type": "char",
+            "identity": "34390"
+          },
+          {
+            "type": "char",
+            "identity": "32071"
+          },
+          {
+            "type": "char",
+            "identity": "33366"
+          },
+          {
+            "type": "char",
+            "identity": "34747"
+          },
+          {
+            "type": "char",
+            "identity": "33878"
+          },
+          {
+            "type": "char",
+            "identity": "34391"
+          },
+          {
+            "type": "char",
+            "identity": "35818"
+          },
+          {
+            "type": "char",
+            "identity": "37005"
+          },
+          {
+            "type": "char",
+            "identity": "34347"
+          },
+          {
+            "type": "char",
+            "identity": "34927"
+          },
+          {
+            "type": "char",
+            "identity": "35126"
+          },
+          {
+            "type": "char",
+            "identity": "35317"
+          },
+          {
+            "type": "char",
+            "identity": "33803"
+          },
+          {
+            "type": "char",
+            "identity": "37683"
+          },
+          {
+            "type": "char",
+            "identity": "34348"
+          }
+        ],
+        "duration": [
+          "157"
+        ]
+      },
+      {
+        "name": "earthquake_region_list",
+        "item": [
+          {
+            "type": "region",
+            "key": "world_europe"
+          },
+          {
+            "type": "region",
+            "key": "world_europe_south"
+          },
+          {
+            "type": "region",
+            "key": "world_asia_china"
+          },
+          {
+            "type": "region",
+            "key": "north_pacific_earthquake_region"
+          },
+          {
+            "type": "region",
+            "key": "world_asia_north_east_and_korea"
+          },
+          {
+            "type": "region",
+            "key": "world_asia_southeast_mainland"
+          },
+          {
+            "type": "region",
+            "key": "world_asia_southeast_islands"
+          },
+          {
+            "type": "region",
+            "key": "world_asia_minor"
+          },
+          {
+            "type": "region",
+            "key": "world_middle_east"
+          },
+          {
+            "type": "region",
+            "key": "world_india"
+          },
+          {
+            "type": "region",
+            "key": "world_steppe"
+          },
+          {
+            "type": "region",
+            "key": "world_siberia"
+          },
+          {
+            "type": "region",
+            "key": "world_tibet"
+          },
+          {
+            "type": "region",
+            "key": "world_africa"
+          },
+          {
+            "type": "region",
+            "key": "world_africa_north_east"
+          },
+          {
+            "type": "region",
+            "key": "himalaya_earthquake_region"
+          },
+          {
+            "type": "region",
+            "key": "sichuan_myanmar_earthquake_region"
+          },
+          {
+            "type": "region",
+            "key": "south_china_coastaline_earthquake_region"
+          },
+          {
+            "type": "region",
+            "key": "north_china_earthquake_region"
+          },
+          {
+            "type": "region",
+            "key": "mongolia_baikal_earthquake_region"
+          },
+          {
+            "type": "region",
+            "key": "central_asian_earthquake_region"
+          }
+        ],
+        "duration": [
+          "21"
+        ]
+      },
+      {
+        "name": "flood_region_list",
+        "item": [
+          {
+            "type": "region",
+            "key": "amur_river_region"
+          },
+          {
+            "type": "region",
+            "key": "danube_river_region"
+          },
+          {
+            "type": "region",
+            "key": "daugava_river_region"
+          },
+          {
+            "type": "region",
+            "key": "dnieper_river_region"
+          },
+          {
+            "type": "region",
+            "key": "dniester_river_region"
+          },
+          {
+            "type": "region",
+            "key": "don_river_region"
+          },
+          {
+            "type": "region",
+            "key": "elbe_river_region"
+          },
+          {
+            "type": "region",
+            "key": "ganges_river_region"
+          },
+          {
+            "type": "region",
+            "key": "garonne_river_region"
+          },
+          {
+            "type": "region",
+            "key": "godavari_river_region"
+          },
+          {
+            "type": "region",
+            "key": "guadalquivir_river_region"
+          },
+          {
+            "type": "region",
+            "key": "guadiana_river_region"
+          },
+          {
+            "type": "region",
+            "key": "indus_river_region"
+          },
+          {
+            "type": "region",
+            "key": "irrawaddy_river_region"
+          },
+          {
+            "type": "region",
+            "key": "kaveri_river_region"
+          },
+          {
+            "type": "region",
+            "key": "loire_river_region"
+          },
+          {
+            "type": "region",
+            "key": "lovat_river_region"
+          },
+          {
+            "type": "region",
+            "key": "mahanadi_river_region"
+          },
+          {
+            "type": "region",
+            "key": "mekong_river_region"
+          },
+          {
+            "type": "region",
+            "key": "niger_river_region"
+          },
+          {
+            "type": "region",
+            "key": "nile_river_region"
+          },
+          {
+            "type": "region",
+            "key": "pearl_river_region"
+          },
+          {
+            "type": "region",
+            "key": "po_river_region"
+          },
+          {
+            "type": "region",
+            "key": "rhine_river_region"
+          },
+          {
+            "type": "region",
+            "key": "rhone_river_region"
+          },
+          {
+            "type": "region",
+            "key": "seine_river_region"
+          },
+          {
+            "type": "region",
+            "key": "tapti_river_region"
+          },
+          {
+            "type": "region",
+            "key": "tigris_river_region"
+          },
+          {
+            "type": "region",
+            "key": "vistula_river_region"
+          },
+          {
+            "type": "region",
+            "key": "volga_river_region"
+          },
+          {
+            "type": "region",
+            "key": "yangtze_river_region"
+          },
+          {
+            "type": "region",
+            "key": "yellow_river_region"
+          }
+        ],
+        "duration": [
+          "32"
+        ]
+      },
+      {
+        "name": "roma_cardinalates",
+        "item": [
+          {
+            "type": "lt",
+            "identity": "17484"
+          },
+          {
+            "type": "lt",
+            "identity": "17485"
+          },
+          {
+            "type": "lt",
+            "identity": "17486"
+          },
+          {
+            "type": "lt",
+            "identity": "17487"
+          },
+          {
+            "type": "lt",
+            "identity": "17488"
+          },
+          {
+            "type": "lt",
+            "identity": "17489"
+          },
+          {
+            "type": "lt",
+            "identity": "17490"
+          },
+          {
+            "type": "lt",
+            "identity": "17491"
+          },
+          {
+            "type": "lt",
+            "identity": "17492"
+          },
+          {
+            "type": "lt",
+            "identity": "17493"
+          },
+          {
+            "type": "lt",
+            "identity": "17494"
+          },
+          {
+            "type": "lt",
+            "identity": "17495"
+          },
+          {
+            "type": "lt",
+            "identity": "17496"
+          },
+          {
+            "type": "lt",
+            "identity": "17497"
+          },
+          {
+            "type": "lt",
+            "identity": "17498"
+          },
+          {
+            "type": "lt",
+            "identity": "17499"
+          },
+          {
+            "type": "lt",
+            "identity": "17500"
+          },
+          {
+            "type": "lt",
+            "identity": "17501"
+          },
+          {
+            "type": "lt",
+            "identity": "17502"
+          },
+          {
+            "type": "lt",
+            "identity": "17503"
+          },
+          {
+            "type": "lt",
+            "identity": "17504"
+          },
+          {
+            "type": "lt",
+            "identity": "17505"
+          },
+          {
+            "type": "lt",
+            "identity": "17506"
+          },
+          {
+            "type": "lt",
+            "identity": "17507"
+          },
+          {
+            "type": "lt",
+            "identity": "17508"
+          },
+          {
+            "type": "lt",
+            "identity": "17509"
+          },
+          {
+            "type": "lt",
+            "identity": "17510"
+          },
+          {
+            "type": "lt",
+            "identity": "17511"
+          },
+          {
+            "type": "lt",
+            "identity": "17512"
+          },
+          {
+            "type": "lt",
+            "identity": "17513"
+          },
+          {
+            "type": "lt",
+            "identity": "17514"
+          },
+          {
+            "type": "lt",
+            "identity": "17515"
+          },
+          {
+            "type": "lt",
+            "identity": "17516"
+          },
+          {
+            "type": "lt",
+            "identity": "17517"
+          },
+          {
+            "type": "lt",
+            "identity": "17518"
+          },
+          {
+            "type": "lt",
+            "identity": "17519"
+          },
+          {
+            "type": "lt",
+            "identity": "17520"
+          },
+          {
+            "type": "lt",
+            "identity": "17521"
+          },
+          {
+            "type": "lt",
+            "identity": "17522"
+          },
+          {
+            "type": "lt",
+            "identity": "17523"
+          },
+          {
+            "type": "lt",
+            "identity": "17524"
+          },
+          {
+            "type": "lt",
+            "identity": "17525"
+          },
+          {
+            "type": "lt",
+            "identity": "17526"
+          },
+          {
+            "type": "lt",
+            "identity": "17527"
+          },
+          {
+            "type": "lt",
+            "identity": "17528"
+          },
+          {
+            "type": "lt",
+            "identity": "17529"
+          },
+          {
+            "type": "lt",
+            "identity": "17530"
+          },
+          {
+            "type": "lt",
+            "identity": "17531"
+          },
+          {
+            "type": "lt",
+            "identity": "17532"
+          },
+          {
+            "type": "lt",
+            "identity": "17533"
+          },
+          {
+            "type": "lt",
+            "identity": "17534"
+          },
+          {
+            "type": "lt",
+            "identity": "17535"
+          },
+          {
+            "type": "lt",
+            "identity": "17536"
+          },
+          {
+            "type": "lt",
+            "identity": "17537"
+          }
+        ],
+        "duration": [
+          "54"
+        ]
+      },
+      {
+        "name": "unavailable_achievements",
+        "item": [
+          {
+            "type": "flag",
+            "flag": "rd_character_blocked_iberia_or_iberia_achievement"
+          },
+          {
+            "type": "flag",
+            "flag": "rd_character_blocked_el_cid_achievement"
+          }
+        ],
+        "duration": [
+          "2"
+        ]
+      },
+      {
+        "name": "laamps_tally",
+        "item": [
+          {
+            "type": "lt",
+            "identity": "13183"
+          },
+          {
+            "type": "lt",
+            "identity": "15712"
+          },
+          {
+            "type": "lt",
+            "identity": "13760"
+          },
+          {
+            "type": "lt",
+            "identity": "13184"
+          },
+          {
+            "type": "lt",
+            "identity": "13494"
+          },
+          {
+            "type": "lt",
+            "identity": "13951"
+          },
+          {
+            "type": "lt",
+            "identity": "13185"
+          },
+          {
+            "type": "lt",
+            "identity": "13950"
+          },
+          {
+            "type": "lt",
+            "identity": "13180"
+          },
+          {
+            "type": "lt",
+            "identity": "13179"
+          },
+          {
+            "type": "lt",
+            "identity": "13186"
+          },
+          {
+            "type": "lt",
+            "identity": "15713"
+          },
+          {
+            "type": "lt",
+            "identity": "13178"
+          },
+          {
+            "type": "lt",
+            "identity": "13181"
+          },
+          {
+            "type": "lt",
+            "identity": "13197"
+          },
+          {
+            "type": "lt",
+            "identity": "15711"
+          },
+          {
+            "type": "lt",
+            "identity": "13177"
+          },
+          {
+            "type": "lt",
+            "identity": "13182"
+          },
+          {
+            "type": "lt",
+            "identity": "13492"
+          },
+          {
+            "type": "lt",
+            "identity": "13949"
+          },
+          {
+            "type": "lt",
+            "identity": "13759"
+          },
+          {
+            "type": "lt",
+            "identity": "13493"
+          }
+        ],
+        "duration": [
+          "22"
+        ]
+      },
+      {
+        "name": "loaded_mods",
+        "item": {
+          "type": "flag",
+          "flag": "cfp"
+        },
+        "duration": [
+          "1"
+        ]
+      }
+    ]
+  },
+  "burkhard": {
+    "first_name": "Burkhard",
+    "birth": "1050.1.9",
+    "nickname_text": "",
+    "ethnicity": "western_germanic_average_blond",
+    "culture": "40",
+    "rite": "0",
+    "dynasty_house": "12863",
+    "skill": [
+      "3",
+      "5",
+      "4",
+      "5",
+      "0",
+      "8"
+    ],
+    "trait_xp_amounts": [
+      "1",
+      "1",
+      "1"
+    ],
+    "mass": "-33",
+    "traits": [
+      "68",
+      "55",
+      "58",
+      "13",
+      "47",
+      "153"
+    ],
+    "alive_data": {
+      "variables": {
+        "data": [
+          {
+            "flag": "county_tax_gold_adjustment_woc_var",
+            "data": {
+              "type": "value",
+              "identity": "18446744073709353316"
+            }
+          },
+          {
+            "flag": "ce3_11_servus_servorum_dei_achievement_start",
+            "data": []
+          },
+          {
+            "flag": "ignore_marriage_event",
+            "data": []
+          },
+          {
+            "flag": "chancellor_foreign_affairs_opinion_value",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "court_chaplain_religious_relations_opinion_value",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "gptic_1_pos_trait_flag",
+            "tick": "116",
+            "data": []
+          }
+        ]
+      },
+      "income": "6.81698",
+      "modifier": {
+        "modifier": "character_realm_prestige_modifier",
+        "expiration_date": "1067.9.15",
+        "multiplier": "0.2194"
+      },
+      "fertility": "0.52584",
+      "health": "5",
+      "gold": {
+        "value": "94"
+      },
+      "piety": {
+        "currency": "50"
+      },
+      "prestige": {
+        "currency": "600",
+        "accumulated": "1450"
+      },
+      "influence": {
+        "currency": "60"
+      },
+      "focus": {
+        "type": "stewardship_wealth_focus",
+        "date": "1066.9.20",
+        "changes": "1",
+        "progress": "0"
+      },
+      "lifestyle_xp": {
+        "diplomacy_lifestyle": "0",
+        "martial_lifestyle": "0",
+        "stewardship_lifestyle": "0",
+        "intrigue_lifestyle": "0",
+        "learning_lifestyle": "0",
+        "wanderer_lifestyle": "0"
+      },
+      "languages": [
+        "language_high_german"
+      ],
+      "activity_data": [],
+      "location": {
+        "location": "2763"
+      },
+      "memories": [
+        "5526"
+      ]
+    },
+    "court_data": [],
+    "landed_data": {
+      "domain": [
+        "1176",
+        "1183",
+        "1177",
+        "1184"
+      ],
+      "vassal_contracts": [
+        "16786801"
+      ],
+      "became_ruler_date": "1066.9.15",
+      "laws": [
+        "crown_authority_0",
+        "confederate_partition_succession_law",
+        "male_preference_law",
+        "woc_no_military_system",
+        "government_expenditure_3",
+        "government_tax_3",
+        "serfdom",
+        "gpt_religious_law_vassal_1",
+        "gpt_diplomacy_law_vassal_2",
+        "gpt_taxation_law_vassal_2",
+        "gpt_slavery_law_vassal_1",
+        "gpt_urban_law_vassal_1",
+        "gpt_officers_law_vassal_2",
+        "gpt_formality_law_vassal_2",
+        "gpt_punishment_law_vassal_2",
+        "gpt_moral_law_vassal_3",
+        "gpt_women_law_vassal_2",
+        "gpt_festivity_law_vassal_2",
+        "gpt_command_law_vassal_3",
+        "gpt_security_law_vassal_2",
+        "gpt_vigilance_law_vassal_2"
+      ],
+      "current_strength": "835",
+      "strength": "1135",
+      "strength_for_liege": "20",
+      "strength_without_hires": "1135",
+      "power": "30460",
+      "max_power": "43860",
+      "levy": "333",
+      "succession_result_type": "fallback_default",
+      "succession": [
+        "33322"
+      ],
+      "vassal_power_value": "1628.998",
+      "domain_limit": "4",
+      "government": "feudal_government",
+      "realm_capital": "1177",
+      "council": [
+        "16784202",
+        "16784203",
+        "16784204",
+        "16784205",
+        "16784206",
+        "16784207"
+      ],
+      "court_positions": [
+        "8",
+        "7",
+        "6",
+        "5",
+        "4",
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "barter_goods": []
+    },
+    "playable_data": {
+      "knights": [
+        "66595",
+        "66598"
+      ],
+      "diarchy_successor": "58283",
+      "was_player": "yes",
+      "legitimacy": "200",
+      "legitimacy_type": "count_legitimacy",
+      "tenets": [
+        "tenet_ora_et_labora"
+      ],
+      "current_spiritual_fulfillment": "10",
+      "known_doctrines": [
+        "abrahamic_hostility_doctrine",
+        "doctrine_monogamy",
+        "doctrine_polygamy",
+        "doctrine_divorce_approval",
+        "doctrine_divorce_disallowed",
+        "doctrine_divorce_allowed",
+        "doctrine_bastardry_legitimization",
+        "doctrine_bastardry_none",
+        "doctrine_bastardry_all",
+        "doctrine_homosexuality_shunned",
+        "doctrine_homosexuality_crime",
+        "doctrine_homosexuality_accepted",
+        "doctrine_deviancy_crime",
+        "doctrine_deviancy_shunned",
+        "doctrine_adultery_men_shunned",
+        "doctrine_adultery_men_crime",
+        "doctrine_adultery_men_accepted",
+        "doctrine_adultery_women_crime",
+        "doctrine_adultery_women_shunned",
+        "doctrine_kinslaying_close_kin_crime",
+        "doctrine_kinslaying_extended_family_crime",
+        "doctrine_kinslaying_shunned",
+        "doctrine_witchcraft_crime",
+        "doctrine_witchcraft_shunned",
+        "doctrine_gender_male_dominated",
+        "doctrine_gender_equal",
+        "doctrine_consanguinity_aunt_nephew_and_uncle_niece",
+        "doctrine_consanguinity_cousins",
+        "doctrine_consanguinity_unrestricted",
+        "doctrine_pluralism_righteous",
+        "doctrine_pluralism_fundamentalist",
+        "doctrine_pluralism_pluralistic",
+        "doctrine_theocracy_temporal",
+        "doctrine_theocracy_lay_clergy",
+        "doctrine_spiritual_head",
+        "doctrine_clerical_function_taxation",
+        "doctrine_clerical_gender_male_only",
+        "doctrine_clerical_gender_either",
+        "doctrine_clerical_marriage_disallowed",
+        "doctrine_clerical_marriage_allowed",
+        "doctrine_clerical_succession_conditional",
+        "doctrine_pilgrimage_encouraged",
+        "doctrine_pilgrimage_forbidden",
+        "doctrine_pilgrimage_local_rites",
+        "doctrine_funeral_stoic",
+        "doctrine_monotheist",
+        "doctrine_scriptural",
+        "doctrine_monasticism_accepted",
+        "doctrine_monasticism_encouraged",
+        "doctrine_monasticism_absent",
+        "doctrine_sacraments_central",
+        "special_doctrine_is_christian_faith",
+        "special_doctrine_ecumenical_christian",
+        "special_doctrine_has_clerical_electors",
+        "special_doctrine_is_western_christian_faith",
+        "doctrine_kinslaying_any_dynasty_member_crime",
+        "doctrine_clerical_function_alms_and_pacification",
+        "doctrine_funeral_bewailment",
+        "special_doctrine_pope_blessing",
+        "doctrine_deviancy_accepted"
+      ],
+      "known_tenets": [
+        "tenet_peace_of_god",
+        "tenet_dulia",
+        "tenet_transubstantiation",
+        "tenet_ora_et_labora",
+        "tenet_hyperdulia",
+        "tenet_simony",
+        "tenet_monophysitism",
+        "tenet_acts_of_apostles",
+        "tenet_purgatory",
+        "tenet_be_fruitful_and_multiply",
+        "tenet_apostolic_succession",
+        "tenet_confession",
+        "tenet_original_sin",
+        "tenet_celestial_hierarchy",
+        "tenet_miles_christi",
+        "tenet_philanthropia",
+        "tenet_adoptionism",
+        "tenet_love_thy_neighbour",
+        "tenet_divine_liturgy",
+        "tenet_miaphysitism",
+        "tenet_hesychasm",
+        "tenet_anachoresis",
+        "tenet_mortification_of_the_flesh",
+        "tenet_aniconism",
+        "tenet_communal_identity",
+        "tenet_communion",
+        "tenet_gnosticism",
+        "tenet_pentarchy",
+        "tenet_vows_of_poverty",
+        "tenet_adaptive",
+        "tenet_esotericism",
+        "tenet_legalism",
+        "tenet_literalism",
+        "tenet_religious_legal_pronouncements",
+        "tenet_asceticism",
+        "tenet_ritual_celebrations",
+        "tenet_sanctity_of_nature",
+        "tenet_natural_primitivism",
+        "tenet_polyamory"
+      ]
+    },
+    "id": "62698",
+    "trait_names": [
+      "ambitious",
+      "diligent",
+      "patient",
+      "education_stewardship_3",
+      "lifestyle_gardener",
+      "intellect_good_2"
+    ]
+  },
+  "court_positions": {
+    "0": {
+      "court_position": "gpt_dip_noble_court_position",
+      "employee": "66576",
+      "employer": "62698",
+      "hire_date": "1066.9.15"
+    },
+    "1": {
+      "court_position": "gpt_dip_noble_court_position",
+      "employee": "66583",
+      "employer": "62698",
+      "hire_date": "1066.9.15"
+    },
+    "2": {
+      "court_position": "gpt_claimant_court_position",
+      "employee": "66593",
+      "employer": "62698",
+      "hire_date": "1066.9.15"
+    },
+    "3": {
+      "court_position": "gpt_prw_noble_court_position",
+      "employee": "66595",
+      "employer": "62698",
+      "hire_date": "1066.9.15"
+    },
+    "4": {
+      "court_position": "gpt_prw_noble_court_position",
+      "employee": "66598",
+      "employer": "62698",
+      "hire_date": "1066.9.15"
+    },
+    "5": {
+      "court_position": "gpt_monk_court_position",
+      "employee": "66601",
+      "employer": "62698",
+      "hire_date": "1066.9.15"
+    },
+    "6": {
+      "court_position": "gpt_peasant_court_position",
+      "employee": "66602",
+      "employer": "62698",
+      "hire_date": "1066.9.15"
+    },
+    "7": {
+      "court_position": "gpt_merchant_court_position",
+      "employee": "66605",
+      "employer": "62698",
+      "hire_date": "1066.9.15"
+    },
+    "8": {
+      "court_position": "gpt_int_noble_court_position",
+      "employee": "66610",
+      "employer": "62698",
+      "hire_date": "1066.9.15"
+    }
+  },
+  "titles": {
+    "1176": {
+      "key": "c_zollern",
+      "de_facto_liege": "1133",
+      "variables": {
+        "data": [
+          {
+            "flag": "county_tax_gold",
+            "data": {
+              "type": "value",
+              "identity": "76983"
+            }
+          },
+          {
+            "flag": "woc_debug_d_title",
+            "data": {
+              "type": "lt",
+              "identity": "18490"
+            }
+          },
+          {
+            "flag": "county_manpower_var",
+            "data": {
+              "type": "value",
+              "identity": "62163000"
+            }
+          },
+          {
+            "flag": "scope_faith_4",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "scope_faith_3",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "scope_faith_2",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "scope_faith_1",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "faith_4",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "faith_3",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "faith_2",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "faith_1",
+            "data": {
+              "type": "value",
+              "identity": "357035"
+            }
+          },
+          {
+            "flag": "scope_culture_7",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_6",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_5",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_4",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_3",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_2",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "culture_7",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_6",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_5",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_4",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_3",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_2",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_1",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "pop_clergy",
+            "data": {
+              "type": "value",
+              "identity": "2349"
+            }
+          },
+          {
+            "flag": "pop_tribesmen",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "pop_slave",
+            "data": {
+              "type": "value",
+              "identity": "187968"
+            }
+          },
+          {
+            "flag": "pop_peasant",
+            "data": {
+              "type": "value",
+              "identity": "263156"
+            }
+          },
+          {
+            "flag": "pop_citizen",
+            "data": {
+              "type": "value",
+              "identity": "14074"
+            }
+          },
+          {
+            "flag": "pop_nobility",
+            "data": {
+              "type": "value",
+              "identity": "4722"
+            }
+          },
+          {
+            "flag": "county_destruction",
+            "data": {
+              "type": "value"
+            }
+          }
+        ],
+        "list": [
+          {
+            "name": "woc_immigration_county",
+            "item": [
+              {
+                "type": "lt",
+                "identity": "7568"
+              },
+              {
+                "type": "lt",
+                "identity": "7565"
+              },
+              {
+                "type": "lt",
+                "identity": "7561"
+              },
+              {
+                "type": "lt",
+                "identity": "7550"
+              },
+              {
+                "type": "lt",
+                "identity": "7544"
+              },
+              {
+                "type": "lt",
+                "identity": "2282"
+              },
+              {
+                "type": "lt",
+                "identity": "1189"
+              },
+              {
+                "type": "lt",
+                "identity": "1186"
+              },
+              {
+                "type": "lt",
+                "identity": "1183"
+              },
+              {
+                "type": "lt",
+                "identity": "1181"
+              },
+              {
+                "type": "lt",
+                "identity": "1178"
+              },
+              {
+                "type": "lt",
+                "identity": "1173"
+              },
+              {
+                "type": "lt",
+                "identity": "1171"
+              },
+              {
+                "type": "lt",
+                "identity": "1168"
+              },
+              {
+                "type": "lt",
+                "identity": "1166"
+              },
+              {
+                "type": "lt",
+                "identity": "1163"
+              },
+              {
+                "type": "lt",
+                "identity": "1161"
+              },
+              {
+                "type": "lt",
+                "identity": "1158"
+              },
+              {
+                "type": "lt",
+                "identity": "1155"
+              },
+              {
+                "type": "lt",
+                "identity": "1152"
+              },
+              {
+                "type": "lt",
+                "identity": "1148"
+              },
+              {
+                "type": "lt",
+                "identity": "1144"
+              },
+              {
+                "type": "lt",
+                "identity": "1139"
+              },
+              {
+                "type": "lt",
+                "identity": "1134"
+              },
+              {
+                "type": "lt",
+                "identity": "1130"
+              },
+              {
+                "type": "lt",
+                "identity": "1127"
+              },
+              {
+                "type": "lt",
+                "identity": "1124"
+              },
+              {
+                "type": "lt",
+                "identity": "1121"
+              },
+              {
+                "type": "lt",
+                "identity": "1115"
+              },
+              {
+                "type": "lt",
+                "identity": "1113"
+              },
+              {
+                "type": "lt",
+                "identity": "1111"
+              },
+              {
+                "type": "lt",
+                "identity": "1106"
+              },
+              {
+                "type": "lt",
+                "identity": "1101"
+              },
+              {
+                "type": "lt",
+                "identity": "1091"
+              },
+              {
+                "type": "lt",
+                "identity": "1088"
+              },
+              {
+                "type": "lt",
+                "identity": "1085"
+              },
+              {
+                "type": "lt",
+                "identity": "1082"
+              },
+              {
+                "type": "lt",
+                "identity": "1079"
+              },
+              {
+                "type": "lt",
+                "identity": "1077"
+              },
+              {
+                "type": "lt",
+                "identity": "1073"
+              },
+              {
+                "type": "lt",
+                "identity": "1071"
+              },
+              {
+                "type": "lt",
+                "identity": "1068"
+              },
+              {
+                "type": "lt",
+                "identity": "1065"
+              },
+              {
+                "type": "lt",
+                "identity": "1060"
+              },
+              {
+                "type": "lt",
+                "identity": "1054"
+              },
+              {
+                "type": "lt",
+                "identity": "1047"
+              },
+              {
+                "type": "lt",
+                "identity": "1041"
+              },
+              {
+                "type": "lt",
+                "identity": "1039"
+              },
+              {
+                "type": "lt",
+                "identity": "1037"
+              },
+              {
+                "type": "lt",
+                "identity": "1034"
+              },
+              {
+                "type": "lt",
+                "identity": "1030"
+              },
+              {
+                "type": "lt",
+                "identity": "1026"
+              },
+              {
+                "type": "lt",
+                "identity": "1021"
+              },
+              {
+                "type": "lt",
+                "identity": "1019"
+              },
+              {
+                "type": "lt",
+                "identity": "1016"
+              },
+              {
+                "type": "lt",
+                "identity": "1007"
+              },
+              {
+                "type": "lt",
+                "identity": "960"
+              },
+              {
+                "type": "lt",
+                "identity": "874"
+              },
+              {
+                "type": "lt",
+                "identity": "871"
+              },
+              {
+                "type": "lt",
+                "identity": "868"
+              },
+              {
+                "type": "lt",
+                "identity": "864"
+              },
+              {
+                "type": "lt",
+                "identity": "854"
+              },
+              {
+                "type": "lt",
+                "identity": "852"
+              },
+              {
+                "type": "lt",
+                "identity": "850"
+              },
+              {
+                "type": "lt",
+                "identity": "845"
+              },
+              {
+                "type": "lt",
+                "identity": "842"
+              },
+              {
+                "type": "lt",
+                "identity": "838"
+              },
+              {
+                "type": "lt",
+                "identity": "836"
+              },
+              {
+                "type": "lt",
+                "identity": "833"
+              },
+              {
+                "type": "lt",
+                "identity": "831"
+              },
+              {
+                "type": "lt",
+                "identity": "828"
+              },
+              {
+                "type": "lt",
+                "identity": "824"
+              },
+              {
+                "type": "lt",
+                "identity": "820"
+              },
+              {
+                "type": "lt",
+                "identity": "816"
+              },
+              {
+                "type": "lt",
+                "identity": "813"
+              },
+              {
+                "type": "lt",
+                "identity": "757"
+              },
+              {
+                "type": "lt",
+                "identity": "755"
+              },
+              {
+                "type": "lt",
+                "identity": "752"
+              },
+              {
+                "type": "lt",
+                "identity": "748"
+              },
+              {
+                "type": "lt",
+                "identity": "743"
+              },
+              {
+                "type": "lt",
+                "identity": "740"
+              },
+              {
+                "type": "lt",
+                "identity": "736"
+              },
+              {
+                "type": "lt",
+                "identity": "731"
+              },
+              {
+                "type": "lt",
+                "identity": "726"
+              },
+              {
+                "type": "lt",
+                "identity": "696"
+              }
+            ],
+            "duration": [
+              "85"
+            ]
+          },
+          {
+            "name": "cultural_origin",
+            "item": {
+              "type": "culture",
+              "identity": "40"
+            },
+            "duration": [
+              "1"
+            ]
+          },
+          {
+            "name": "county_settlement",
+            "item": {
+              "type": "lt",
+              "identity": "18490"
+            },
+            "duration": [
+              "1"
+            ]
+          },
+          {
+            "name": "county_get_holder_all_maa_list",
+            "item": [
+              {
+                "type": "regiment",
+                "identity": "16796405"
+              },
+              {
+                "type": "regiment",
+                "identity": "16796407"
+              },
+              {
+                "type": "regiment",
+                "identity": "16796408"
+              }
+            ],
+            "duration": [
+              "3"
+            ]
+          },
+          {
+            "name": "county_maa_soldier_supply_list",
+            "item": [
+              {
+                "type": "regiment",
+                "identity": "16796405"
+              },
+              {
+                "type": "regiment",
+                "identity": "16796407"
+              },
+              {
+                "type": "regiment",
+                "identity": "16796408"
+              }
+            ],
+            "duration": [
+              "3"
+            ]
+          }
+        ]
+      },
+      "de_jure_liege": "1133",
+      "de_jure_vassals": [
+        "1177"
+      ],
+      "holder": "62698",
+      "date": "1066.9.15",
+      "succession_result_type": "fallback_default",
+      "heir": [
+        "33322"
+      ],
+      "claim": [
+        "30932",
+        "40459",
+        "66593"
+      ],
+      "history": {
+        "784.1.1": "7710",
+        "808.1.1": "9518",
+        "841.5.13": "13664",
+        "888.1.1": "17342",
+        "892.1.1": "13664",
+        "900.1.9": "16856",
+        "911.11.23": "18964",
+        "926.4.29": "19795",
+        "935.1.1": "21943",
+        "950.1.1": "22182",
+        "966.1.1": "23833",
+        "1007.1.1": "27314",
+        "1040.1.1": "32256",
+        "1050.1.1": "36754",
+        "1061.1.1": "40458",
+        "1066.9.15": {
+          "type": "revoked",
+          "holder": "62698"
+        }
+      },
+      "capital": "1176",
+      "history_government": "feudal_government",
+      "coat_of_arms_id": "437",
+      "title_name_data": {
+        "name": "Zollern",
+        "adj": "Zollern",
+        "custom": "Zollern",
+        "title_history_names": [
+          {
+            "date": "768.1.1",
+            "name": "c_zollern"
+          },
+          {
+            "date": "1066.9.15",
+            "name": "Zollern"
+          }
+        ]
+      },
+      "treasury": [],
+      "nomad_name_type": "default"
+    },
+    "1177": {
+      "key": "b_zollern",
+      "de_facto_liege": "1176",
+      "de_jure_liege": "1176",
+      "holder": "62698",
+      "date": "1066.9.15",
+      "capital_barony": "yes",
+      "capital": "1176",
+      "coat_of_arms_id": "13105",
+      "title_name_data": {
+        "name": "Zollern"
+      },
+      "default_coa": "no",
+      "treasury": [],
+      "nomad_name_type": "default"
+    },
+    "1183": {
+      "key": "c_hohenberg",
+      "de_facto_liege": "1133",
+      "variables": {
+        "data": [
+          {
+            "flag": "county_tax_gold",
+            "data": {
+              "type": "value",
+              "identity": "101852"
+            }
+          },
+          {
+            "flag": "woc_debug_d_title",
+            "data": {
+              "type": "lt",
+              "identity": "18493"
+            }
+          },
+          {
+            "flag": "county_manpower_var",
+            "data": {
+              "type": "value",
+              "identity": "82242000"
+            }
+          },
+          {
+            "flag": "scope_faith_4",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "scope_faith_3",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "scope_faith_2",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "scope_faith_1",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "faith_4",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "faith_3",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "faith_2",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "faith_1",
+            "data": {
+              "type": "value",
+              "identity": "472369"
+            }
+          },
+          {
+            "flag": "scope_culture_7",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_6",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_5",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_4",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_3",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "scope_culture_2",
+            "data": {
+              "type": "culture",
+              "identity": "40"
+            }
+          },
+          {
+            "flag": "culture_7",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_6",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_5",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_4",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_3",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_2",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "culture_1",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "pop_clergy",
+            "data": {
+              "type": "value",
+              "identity": "3108"
+            }
+          },
+          {
+            "flag": "pop_tribesmen",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "pop_slave",
+            "data": {
+              "type": "value",
+              "identity": "248688"
+            }
+          },
+          {
+            "flag": "pop_peasant",
+            "data": {
+              "type": "value",
+              "identity": "348164"
+            }
+          },
+          {
+            "flag": "pop_citizen",
+            "data": {
+              "type": "value",
+              "identity": "18620"
+            }
+          },
+          {
+            "flag": "pop_nobility",
+            "data": {
+              "type": "value",
+              "identity": "6248"
+            }
+          },
+          {
+            "flag": "county_destruction",
+            "data": {
+              "type": "value"
+            }
+          }
+        ],
+        "list": [
+          {
+            "name": "woc_immigration_county",
+            "item": [
+              {
+                "type": "lt",
+                "identity": "7568"
+              },
+              {
+                "type": "lt",
+                "identity": "7565"
+              },
+              {
+                "type": "lt",
+                "identity": "7561"
+              },
+              {
+                "type": "lt",
+                "identity": "7550"
+              },
+              {
+                "type": "lt",
+                "identity": "7544"
+              },
+              {
+                "type": "lt",
+                "identity": "7510"
+              },
+              {
+                "type": "lt",
+                "identity": "2282"
+              },
+              {
+                "type": "lt",
+                "identity": "1189"
+              },
+              {
+                "type": "lt",
+                "identity": "1186"
+              },
+              {
+                "type": "lt",
+                "identity": "1181"
+              },
+              {
+                "type": "lt",
+                "identity": "1178"
+              },
+              {
+                "type": "lt",
+                "identity": "1176"
+              },
+              {
+                "type": "lt",
+                "identity": "1173"
+              },
+              {
+                "type": "lt",
+                "identity": "1171"
+              },
+              {
+                "type": "lt",
+                "identity": "1168"
+              },
+              {
+                "type": "lt",
+                "identity": "1166"
+              },
+              {
+                "type": "lt",
+                "identity": "1163"
+              },
+              {
+                "type": "lt",
+                "identity": "1161"
+              },
+              {
+                "type": "lt",
+                "identity": "1158"
+              },
+              {
+                "type": "lt",
+                "identity": "1155"
+              },
+              {
+                "type": "lt",
+                "identity": "1152"
+              },
+              {
+                "type": "lt",
+                "identity": "1148"
+              },
+              {
+                "type": "lt",
+                "identity": "1144"
+              },
+              {
+                "type": "lt",
+                "identity": "1139"
+              },
+              {
+                "type": "lt",
+                "identity": "1134"
+              },
+              {
+                "type": "lt",
+                "identity": "1130"
+              },
+              {
+                "type": "lt",
+                "identity": "1127"
+              },
+              {
+                "type": "lt",
+                "identity": "1124"
+              },
+              {
+                "type": "lt",
+                "identity": "1121"
+              },
+              {
+                "type": "lt",
+                "identity": "1115"
+              },
+              {
+                "type": "lt",
+                "identity": "1113"
+              },
+              {
+                "type": "lt",
+                "identity": "1111"
+              },
+              {
+                "type": "lt",
+                "identity": "1106"
+              },
+              {
+                "type": "lt",
+                "identity": "1091"
+              },
+              {
+                "type": "lt",
+                "identity": "1088"
+              },
+              {
+                "type": "lt",
+                "identity": "1085"
+              },
+              {
+                "type": "lt",
+                "identity": "1082"
+              },
+              {
+                "type": "lt",
+                "identity": "1079"
+              },
+              {
+                "type": "lt",
+                "identity": "1077"
+              },
+              {
+                "type": "lt",
+                "identity": "1073"
+              },
+              {
+                "type": "lt",
+                "identity": "1071"
+              },
+              {
+                "type": "lt",
+                "identity": "1068"
+              },
+              {
+                "type": "lt",
+                "identity": "1060"
+              },
+              {
+                "type": "lt",
+                "identity": "1054"
+              },
+              {
+                "type": "lt",
+                "identity": "1047"
+              },
+              {
+                "type": "lt",
+                "identity": "1041"
+              },
+              {
+                "type": "lt",
+                "identity": "1039"
+              },
+              {
+                "type": "lt",
+                "identity": "1037"
+              },
+              {
+                "type": "lt",
+                "identity": "1034"
+              },
+              {
+                "type": "lt",
+                "identity": "1030"
+              },
+              {
+                "type": "lt",
+                "identity": "1026"
+              },
+              {
+                "type": "lt",
+                "identity": "1019"
+              },
+              {
+                "type": "lt",
+                "identity": "1007"
+              },
+              {
+                "type": "lt",
+                "identity": "960"
+              },
+              {
+                "type": "lt",
+                "identity": "874"
+              },
+              {
+                "type": "lt",
+                "identity": "871"
+              },
+              {
+                "type": "lt",
+                "identity": "868"
+              },
+              {
+                "type": "lt",
+                "identity": "864"
+              },
+              {
+                "type": "lt",
+                "identity": "854"
+              },
+              {
+                "type": "lt",
+                "identity": "850"
+              },
+              {
+                "type": "lt",
+                "identity": "845"
+              },
+              {
+                "type": "lt",
+                "identity": "842"
+              },
+              {
+                "type": "lt",
+                "identity": "838"
+              },
+              {
+                "type": "lt",
+                "identity": "836"
+              },
+              {
+                "type": "lt",
+                "identity": "833"
+              },
+              {
+                "type": "lt",
+                "identity": "831"
+              },
+              {
+                "type": "lt",
+                "identity": "828"
+              },
+              {
+                "type": "lt",
+                "identity": "824"
+              },
+              {
+                "type": "lt",
+                "identity": "820"
+              },
+              {
+                "type": "lt",
+                "identity": "816"
+              },
+              {
+                "type": "lt",
+                "identity": "813"
+              },
+              {
+                "type": "lt",
+                "identity": "755"
+              },
+              {
+                "type": "lt",
+                "identity": "752"
+              },
+              {
+                "type": "lt",
+                "identity": "748"
+              },
+              {
+                "type": "lt",
+                "identity": "743"
+              },
+              {
+                "type": "lt",
+                "identity": "740"
+              },
+              {
+                "type": "lt",
+                "identity": "736"
+              },
+              {
+                "type": "lt",
+                "identity": "731"
+              },
+              {
+                "type": "lt",
+                "identity": "726"
+              },
+              {
+                "type": "lt",
+                "identity": "696"
+              }
+            ],
+            "duration": [
+              "80"
+            ]
+          },
+          {
+            "name": "cultural_origin",
+            "item": {
+              "type": "culture",
+              "identity": "40"
+            },
+            "duration": [
+              "1"
+            ]
+          },
+          {
+            "name": "county_settlement",
+            "item": {
+              "type": "lt",
+              "identity": "18493"
+            },
+            "duration": [
+              "1"
+            ]
+          }
+        ]
+      },
+      "de_jure_liege": "1133",
+      "de_jure_vassals": [
+        "1184",
+        "1185"
+      ],
+      "holder": "62698",
+      "date": "1066.9.15",
+      "succession_result_type": "fallback_default",
+      "heir": [
+        "33322"
+      ],
+      "claim": [
+        "30932",
+        "66593"
+      ],
+      "history": {
+        "784.1.1": "7710",
+        "808.1.1": "9518",
+        "841.5.13": "13664",
+        "888.1.1": "17342",
+        "892.1.1": "13664",
+        "900.1.9": "16856",
+        "911.11.23": "18964",
+        "926.4.29": "19795",
+        "935.1.1": "21943",
+        "950.1.1": "22182",
+        "966.1.1": "23833",
+        "1050.1.1": "36754",
+        "1061.1.1": "40458",
+        "1066.9.15": {
+          "type": "revoked",
+          "holder": "62698"
+        }
+      },
+      "capital": "1183",
+      "history_government": "feudal_government",
+      "coat_of_arms_id": "441",
+      "title_name_data": {
+        "name": "Hohenberg",
+        "adj": "Hohenberger",
+        "title_history_names": [
+          {
+            "date": "768.1.1",
+            "name": "c_hohenberg"
+          }
+        ]
+      },
+      "treasury": [],
+      "nomad_name_type": "default"
+    },
+    "1184": {
+      "key": "b_hohenberg",
+      "de_facto_liege": "1183",
+      "de_jure_liege": "1183",
+      "holder": "62698",
+      "date": "1066.9.15",
+      "capital_barony": "yes",
+      "capital": "1183",
+      "coat_of_arms_id": "13131",
+      "title_name_data": {
+        "name": "Hohenberg"
+      },
+      "default_coa": "no",
+      "treasury": [],
+      "nomad_name_type": "default"
+    }
+  },
+  "court_personality_raw": [
+    {
+      "id": "40458",
+      "name": "Friedrich",
+      "traits": [
+        "pensive"
+      ],
+      "trait_xp_amounts": null,
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "33322",
+      "name": "Rudolf",
+      "traits": [
+        "arbitrary",
+        "wrathful",
+        "zealous",
+        "deceitful",
+        "education_intrigue_2",
+        "aggressive_attacker",
+        "disloyal",
+        "education_martial_prowess_3"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "50",
+        "1",
+        "1",
+        "0"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66607",
+      "name": "Ulrike",
+      "traits": [
+        "wrathful",
+        "vengeful",
+        "temperate",
+        "education_stewardship_3"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "50"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66605",
+      "name": "Sigismund",
+      "traits": [
+        "paranoid",
+        "temperate",
+        "arbitrary",
+        "education_stewardship_4"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "50",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66609",
+      "name": "Konstanze",
+      "traits": [
+        "curious"
+      ],
+      "trait_xp_amounts": null,
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66608",
+      "name": "Hildegard",
+      "traits": [
+        "greedy",
+        "lustful",
+        "pensive"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66610",
+      "name": "Elisabeth",
+      "traits": [
+        "lustful",
+        "content",
+        "forgiving",
+        "education_intrigue_3",
+        "bastard_founder",
+        "fornicator",
+        "beauty_good_3"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "50",
+        "100"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66606",
+      "name": "Alberade",
+      "traits": [
+        "craven",
+        "ambitious",
+        "cynical",
+        "education_diplomacy_2"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "45347",
+      "name": "Sigismund",
+      "traits": [
+        "forgiving",
+        "lustful",
+        "trusting",
+        "education_martial_1",
+        "military_engineer"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "58283",
+      "name": "Sigismund",
+      "traits": [
+        "gluttonous",
+        "impatient",
+        "diligent",
+        "education_learning_1"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "62698",
+      "name": "Burkhard",
+      "traits": [
+        "ambitious",
+        "diligent",
+        "patient",
+        "education_stewardship_3",
+        "lifestyle_gardener",
+        "intellect_good_2"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "62699",
+      "name": "Nikolaus",
+      "traits": [
+        "paranoid",
+        "wrathful",
+        "arbitrary",
+        "education_diplomacy_4"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "50"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "62700",
+      "name": "Liutpold",
+      "traits": [
+        "zealous",
+        "honest",
+        "vengeful",
+        "education_intrigue_3"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "50",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "62701",
+      "name": "Irmeltrud",
+      "traits": [
+        "greedy",
+        "honest",
+        "brave",
+        "education_martial_4",
+        "holy_warrior"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "50",
+        "1",
+        "0"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "62702",
+      "name": "Gebhard",
+      "traits": [
+        "stubborn",
+        "lustful",
+        "sadistic",
+        "education_stewardship_4"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "62703",
+      "name": "Peter",
+      "traits": [
+        "compassionate",
+        "calm",
+        "trusting",
+        "education_martial_1",
+        "aggressive_attacker"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "50",
+        "1",
+        "0"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "65797",
+      "name": "Stefan",
+      "traits": [
+        "impatient",
+        "sadistic",
+        "lustful",
+        "education_intrigue_4"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "1",
+        "50"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66576",
+      "name": "Sieghard",
+      "traits": [
+        "calm",
+        "callous",
+        "zealous",
+        "education_diplomacy_3"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "50",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66577",
+      "name": "Luitgard",
+      "traits": [
+        "cynical",
+        "just",
+        "forgiving",
+        "education_martial_3",
+        "forest_fighter"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "50",
+        "1",
+        "0"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66578",
+      "name": "Cecilie",
+      "traits": [
+        "brave",
+        "ambitious",
+        "lazy",
+        "education_stewardship_4",
+        "beauty_bad_2"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66579",
+      "name": "Waldo",
+      "traits": [
+        "wrathful",
+        "arbitrary",
+        "content",
+        "pensive"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "50"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66580",
+      "name": "Walram",
+      "traits": [
+        "curious"
+      ],
+      "trait_xp_amounts": null,
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66581",
+      "name": "Matthias",
+      "traits": [
+        "shy",
+        "callous",
+        "fickle",
+        "education_learning_2"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66582",
+      "name": "Isentrude",
+      "traits": [
+        "beauty_bad_1",
+        "bossy"
+      ],
+      "trait_xp_amounts": null,
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66583",
+      "name": "Gebhard",
+      "traits": [
+        "stubborn",
+        "trusting",
+        "shy",
+        "education_intrigue_2",
+        "scaly"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "50",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66584",
+      "name": "Mechthild",
+      "traits": [
+        "patient",
+        "greedy",
+        "deceitful",
+        "education_diplomacy_1"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66585",
+      "name": "Berchte",
+      "traits": [
+        "stubborn",
+        "brave",
+        "generous",
+        "education_learning_2",
+        "intellect_good_2"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "50",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66586",
+      "name": "Wenzel",
+      "traits": [
+        "shy",
+        "paranoid",
+        "lustful",
+        "education_diplomacy_4"
+      ],
+      "trait_xp_amounts": [
+        "100",
+        "50",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66587",
+      "name": "Benedicta",
+      "traits": [
+        "content",
+        "stubborn",
+        "lazy",
+        "stuttering",
+        "bossy"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "50",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66588",
+      "name": "Liudolf",
+      "traits": [
+        "fickle",
+        "deceitful",
+        "brave",
+        "education_intrigue_3"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66589",
+      "name": "Beatrix",
+      "traits": [
+        "temperate",
+        "patient",
+        "lisping",
+        "curious"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "100"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66590",
+      "name": "Hupold",
+      "traits": [
+        "intellect_good_2",
+        "bossy"
+      ],
+      "trait_xp_amounts": null,
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66591",
+      "name": "Klara",
+      "traits": [
+        "calm",
+        "gluttonous",
+        "arrogant",
+        "education_intrigue_1"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66592",
+      "name": "Liutbert",
+      "traits": [
+        "rowdy"
+      ],
+      "trait_xp_amounts": null,
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66593",
+      "name": "Wolfram",
+      "traits": [
+        "stubborn",
+        "arrogant",
+        "wrathful",
+        "education_martial_3",
+        "organizer"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "50",
+        "0"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66594",
+      "name": "Beatrix",
+      "traits": [
+        "deceitful",
+        "stubborn",
+        "ambitious",
+        "education_stewardship_1"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "100",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66595",
+      "name": "Humbert",
+      "traits": [
+        "craven",
+        "arbitrary",
+        "paranoid",
+        "education_martial_4",
+        "open_terrain_expert"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66596",
+      "name": "Cecilie",
+      "traits": [
+        "craven",
+        "paranoid",
+        "diligent",
+        "education_learning_4"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "50",
+        "50"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66597",
+      "name": "Gautselin",
+      "traits": [],
+      "trait_xp_amounts": null,
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66598",
+      "name": "Humbert",
+      "traits": [
+        "just",
+        "vengeful",
+        "gregarious",
+        "education_martial_4",
+        "forder"
+      ],
+      "trait_xp_amounts": [
+        "50",
+        "1",
+        "1",
+        "0"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66599",
+      "name": "Wilhelmina",
+      "traits": [
+        "deceitful",
+        "zealous",
+        "callous",
+        "education_diplomacy_1"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "1",
+        "1"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66600",
+      "name": "Konrad",
+      "traits": [
+        "charming"
+      ],
+      "trait_xp_amounts": null,
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66601",
+      "name": "Emma",
+      "traits": [
+        "trusting",
+        "diligent",
+        "calm",
+        "education_learning_3",
+        "devoted"
+      ],
+      "trait_xp_amounts": [
+        "100",
+        "50",
+        "100",
+        "0"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66602",
+      "name": "Norbert",
+      "traits": [
+        "gregarious",
+        "trusting",
+        "stubborn",
+        "education_diplomacy_2",
+        "peasant_leader"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "50",
+        "50",
+        "71.85141"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66603",
+      "name": "Berchte",
+      "traits": [
+        "diligent",
+        "temperate",
+        "calm",
+        "education_intrigue_4",
+        "peasant_leader"
+      ],
+      "trait_xp_amounts": [
+        "1",
+        "50",
+        "1",
+        "63.44689"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    },
+    {
+      "id": "66604",
+      "name": "Eginolf",
+      "traits": [
+        "peasant_leader",
+        "physique_bad_2"
+      ],
+      "trait_xp_amounts": [
+        "82.17638"
+      ],
+      "note": "Kolejność XP wymaga definicji cech śledzonych; nie łączyć automatycznie z każdą cechą."
+    }
+  ]
+}
