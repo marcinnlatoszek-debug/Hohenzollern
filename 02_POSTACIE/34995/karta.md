@@ -1,5 +1,14 @@
 # Kuno — CK3 ID 34995
 
+## Aktualizacja ekranowa — Kuno z Wirtembergii
+
+**OBSERVACJA_SCREEN (20 X 1066 według nazwy eksportu Barber Shop):** [źródła](zrodla.md), [wygląd](wyglad.md), [profil narracyjny](profil_narracyjny.md). Karta postaci wskazuje „Count Kuno of Württemberg”, wiek 31, „Fellow Vassal”, profil **Rational Absolver**, kulturę **Franconian** i obrządek **Roman Rite**.
+
+Efektywne umiejętności z interfejsu DIP/MAR/STE/INT/LEA/PRO: **12/2/6/10/19/5**. Złoto 67, prestiż 515, pobożność 103, wojsko 244, dwoje dzieci, dziewięcioro dworzan, jeden poddany. Nie nadpisuje to danych starszego save’a z 18 IX. Cechy z tego zapisu: `forgiving`, `paranoid`, `patient`, `education_learning_4`; Rational Absolver jest osobną etykietą profilu, nie nowym traitem.
+
+Dwa oryginalne screeny pozostają załącznikami rozmowy; ich nazwy i identyfikatory podano w [zrodla.md](zrodla.md). Wcześniejsze wzmianki o braku portretu są historyczne.
+
+
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 
 ## Aktualny odczyt własnego rekordu
