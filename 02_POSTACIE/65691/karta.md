@@ -22,3 +22,13 @@ Zatwierdzony screenshot postaci/Barber Shop: **BRAK**. Wygląd **NIEUSTALONY**.
 
 ## Powiązania
 [Rada Burkharda](../../04_OTOCZENIE_WLADCY/rada.md) · [Burkhard](../62634/karta.md) · [Indeks postaci](../indeks_postaci.md).
+
+## Nowy odczyt cech z 18 IX 1066
+
+Źródło: `von_Hohenzollern(1).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`. Każdy trait wynika z tablicy numerycznej postaci połączonej z 419-elementowym słownikiem `traits_lookup` **tego samego save'a**.
+- Data urodzenia ze struktury Jomini: **1039-05-02**.
+- ID kultury: **40** (nazwa NIEUSTALONA); ID domu dynastycznego: **12844**.
+- Sześć bazowych zapisanych wartości `skill` w kolejności dyplomacja, wojskowość, zarządzanie, intryga, nauka, sprawność: **5 / 9 / 4 / 6 / 4 / 2**.
+- Rozszyfrowane cechy: `fickle` [79], `impatient` [58], `shy` [65], `education_diplomacy_2` [6].
+- Efektywne wartości po modyfikatorach, szczegóły religii i portret: **NIEUSTALONE**.
+- Kontrola tożsamości: ID **65691**; szczególnie nie utożsamiać Ezzo **65691** (kanclerz 18 IX) z Ezzo **45250** (baron Helfensteinu).
