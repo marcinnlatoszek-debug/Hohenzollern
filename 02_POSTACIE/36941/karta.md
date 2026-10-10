@@ -1,5 +1,17 @@
 # Adelaide — CK3 ID 36941
 
+## Referencje ekranowe i narracyjne — aktualizacja dokumentacji 10 X 2026
+
+**Dopisek aktualizacyjny:** Poprzednie oznaczenia „wygląd NIEUSTALONY” lub „brak screena” w historycznych partiach karty należy czytać jako stan sprzed otrzymania opisanych poniżej materiałów. Późniejsze screeny nie aktualizują automatycznie wartości save’a z 18 IX 1066.
+
+- Tożsamość powiązana z CK3 ID **36941**; rozpoznana na ekranie postaci.
+- [Źródła i wykaz oryginalnych screenów](zrodla.md) — karta: `Zrzut ekranu 2026-10-10 194241.png`; portret: `Barbershop_Count_Burkhard_of_Hohenberg_1066_09_18_0002.png`.
+- [Załącznik opisowy: wygląd do narracji](wyglad.md) — referencja wizualna z Barber Shop, nazwa wskazuje datę **1066-09-18**.
+- [Profil charakteru do narracji](profil_narracyjny.md) — pełne traity z save’a, etykieta profilu `Bold Unbeliever` z ekranu, potencjalne sposoby działania oznaczone WNIOSEK.
+- Wynik umiejętności z interfejsu (DIP / MAR / STE / INT / LEA / PRO): **9 / 5 / 4 / 9 / 10 / 7** (data panelu niezależnie NIEUSTALONA; nie zamieniać nim wcześniejszych wartości bazowych).
+- **Obrazy binarne:** PNG dostępne jako załączniki tej rozmowy, a nie fizyczne pliki w repozytorium. Nie tworzyć fałszywych linków do `zrzuty_ekranu/*.png`.
+
+
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 
 ## Aktualny odczyt własnego rekordu
