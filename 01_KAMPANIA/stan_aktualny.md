@@ -1,21 +1,24 @@
-# Kanon kampanii — stan aktualny
+# Kanon nowej kampanii — stan bieżący
 
-Status: ROZPOZNANIE WSTĘPNE, NIEZATWIERDZONE JAKO PEŁNY PUNKT STARTOWY.
+**Data świata CK3: 1066-09-16 (POTWIERDZONE_SAVE).**
+Źródło: `von_Hohenzollern.ck3`, SHA-256 `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`; wersja 1.20.0.4.
+Status: rozpoznanie rozpoczęte, nie zakończono interpretacji wszystkich binarnych tokenów.
 
-Źródło bieżące: `von_Hohenzollern(1).ck3`, SHA-256: `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`. Poprzednia obserwacja: `von_Hohenzollern.ck3`, SHA-256: `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57`.
-Wersja w nagłówku pliku: **1.20.0.4** (POTWIERDZONE_SAVE).
-Format: ZIP, wpis `gamestate` binarny Jomini, 73 103 324 bajty po dekompresji (POTWIERDZONE_SAVE). Sprawdzenie integralności archiwum poprawne.
-Metadane ekranu wyboru/władcy w nagłówku: **Count Burkhard**, **County of Hohenberg**, **von Hohenzollern** (POTWIERDZONE_SAVE jako *napisy w nagłówku*, nie jako zweryfikowane relacje obiektów).
-Data gry: **1066-09-18** (POTWIERDZONE_SAVE — zakodowane pole daty w metadanych, przeliczone według formatu Jomini). Poprzedni zapis: **1066-09-16**. Wcześniejsze przypuszczenie o dacie 1066-01-01 było błędne i zostało zastąpione tym odczytem.
-Lista modów: 20 takich samych identyfikatorów Workshop w obu save'ach (POTWIERDZONE_SAVE). Wśród nich `2223544446` oraz `3790487196`, mimo że figurują jako wyłączone w instrukcji docelowego playsetu; rozbieżność konfiguracji do rozstrzygnięcia. W obu metadanych występuje identyczny UUID `08090d06-47a8-4247-b442-72c21000dea7` (jego znaczenie semantyczne NIEUSTALONE).
-ID gracza, identyfikatory postaci, rada, rycerze, dwór, realne posiadłości i suweren: NIEUSTALONE.
+## Władca
+- [Burkhard, CK3 ID 62634](../02_POSTACIE/62634/karta.md), dom von Hohenzollern (ID domu 12843).
+- [Hohenberg, hrabstwo 1239](../03_TERYTORIA/HRABSTWA/1239/karta.md) i [Hohenberg, baronia 1240](../03_TERYTORIA/HRABSTWA/1239/karta.md): oba tytuły przypisane do 62634 w zapisie.
+- Data urodzenia i umiejętności pozostają przedmiotem analizy; nie przypisano znaczeń nieprzetłumaczonym polom.
 
-## Kolejność rozpoznania
-1. Burkhard: [karta](../02_POSTACIE/burkhard-tymczasowy/karta.md), ID robocze nie jest ID CK3.
-2. Hohenberg: [karta hrabstwa](../03_TERYTORIA/HRABSTWA/hohenberg-tymczasowy/karta.md).
-3. Holten: nazwa zgłoszona przez gracza, identyfikacja w save NIEUSTALONA: [karta](../03_TERYTORIA/HRABSTWA/holten-tymczasowy/karta.md).
-4. [Rada, dwór, rycerze](../04_OTOCZENIE_WLADCY/indeks_dworu.md).
-5. Sąsiedzi i książę Szwabii po ustaleniu identyfikatorów i tytułów.
+## Najbliższy region
+- [Księstwo Szwabii, ID 1216](../03_TERYTORIA/KSIESTWA/1216/karta.md): właściciel Rudolf (CK3 ID 33226).
+- [Zollern, hrabstwo 1235](../03_TERYTORIA/HRABSTWA/1235/karta.md): właściciel Egino (ID 37502); nie jest to tytuł Burkharda.
+- [Indeks terytoriów](../03_TERYTORIA/indeks_terytoriow.md).
+- „Holten”: niepotwierdzona nazwa robocza, nie utożsamiać automatycznie z Zollern.
 
-## Reguła aktualizacji
-Nie dopisywać fikcyjnych osób, cech, urzędów ani liczb. Rozróżniać to, co w nagłówku, od informacji powiązanych z binarnymi obiektami świata. Przyszłe screenshoty podpinać do istniejących kart, nie zakładać konkurencyjnego kanonu.
+## Dwór i dalsze prace
+- [Indeks rady, dworu, rycerzy](../04_OTOCZENIE_WLADCY/indeks_dworu.md): **skład nieustalony**, ponieważ brak tłumaczenia pól funkcji i miejsc przebywania postaci; nie przypisywać bez dowodu.
+- [Indeks postaci](../02_POSTACIE/indeks_postaci.md).
+- [Raport odczytu binarnego](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_ck3_2026-10-10.md).
+- [Indeks save'ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md).
+
+**Zasada:** gra daje fakt, kronika daje życie. Nowy kanon bez importu danych dawnej kampanii; brak interpretacji = NIEUSTALONE. Wszystkie screeny dołączane z datą i identyfikatorem do tej samej karty obiektu.
