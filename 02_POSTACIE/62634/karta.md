@@ -15,13 +15,19 @@
 - **Barony of Hohenberg**, klucz `b_hohenberg`, ID **1240** — również posiadacz **62634**.
 - Powiązanie hrabstwa z księstwem Szwabii (ID **1216**) w strukturze tytułów: POTWIERDZONE_SAVE; interpretacja konkretnych rodzajów zależności wymaga pełnego słownika.
 - W hrabstwie Hohenberg jest też tytuł `b_rottweil` (ID **1241**), posiadacz **Konrad**, ID **45254**; to nie dowodzi przynależności do osobistej domeny Burkharda.
-- Skarbiec, dochód, kontrola, budynki, wojsko, wojska zawodowe, prestiż, pobożność, sukcesja i roszczenia: NIEUSTALONE.
+- **Domena osobista** w bloku `landed_data` (surowe pole `0x27e6`): `[1239,1240]` = hrabstwo i baronia Hohenberg. **Stolica**: pole `0x2f87=1240` wskazuje baronię Hohenberg (identyfikacja funkcji tego pola na podstawie struktury i analogii; WNIOSEK).
+- **Ustrój:** `feudal_government` (wartość pola `0x2ef7` w landed_data).
+- **Prawa zapisane w landed_data:** `crown_authority_0`, `confederate_partition_succession_law`, `male_preference_law` (blok `0x2f17`).
+- **Powiązanie zwierzchnie:** pole `0x2d67` zawiera `[33226]` = Rudolf, władca Szwabii; funkcja tego pola do pełnego potwierdzenia.
+- Skarbiec, dochód, kontrola, budynki, wojsko, wojska zawodowe, prestiż, pobożność i roszczenia: NIEUSTALONE.
 ## Cechy i umiejętności
 - Rekord zawiera pole `0x29a5` z sześcioma liczbami **[3, 5, 4, 5, 0, 8]**. Przyporządkowanie do umiejętności CK3 jest **NIEUSTALONE**, dlatego nie podpisano ich nazwami umiejętności.
 - Pozostałe zidentyfikowane surowe pola w [raporcie technicznym](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_ck3_2026-10-10.md).
 - Faktyczna lista traits, edukacja, modyfikatory, styl życia, doświadczenie modowe: NIEUSTALONE (surowe listy możliwych traitów w innym bloku save nie dowodzą posiadania ich przez Burkharda).
 ## Rodzina, rada, dwór i rycerze
-- Skład rodziny, imiona małżonka/dzieci, relacje, wszyscy urzędnicy, goście, dowódcy i rycerze: **NIEUSTALONE**. Nie przypisano żadnej osoby do dworu na podstawie samej bliskości ID.
+- **Potwierdzone zadania rady:** sprawy zagraniczne — [Notker 62636](../62636/karta.md); pobór podatków — [Gerhard 62635](../62635/karta.md); rozbijanie spisków — [Konrad 45254](../45254/karta.md); stosunki religijne — [Helferich 58415](../58415/karta.md). Piąte zadanie `task_organize_levies` występuje w zapisach bez przypisanego ID wykonawcy: **NIEUSTALONE**, nie nazywać wolnym urzędem bez screena.
+- **Rycerze odczytani z playable_data (`0x30f2`):** [Gerhard 62635](../62635/karta.md) i [Gunzelin 65692](../65692/karta.md). Jest to interpretacja pola jako listy rycerzy zgodna z zewnętrznym schematem struktury CK3; wymagane potwierdzenie z interfejsu.
+- Inni członkowie rodziny, dworzanie, goście i dowódcy: **NIEUSTALONE**. Nie przypisywać na podstawie bliskości ID.
 - Osobny [indeks otoczenia](../../04_OTOCZENIE_WLADCY/indeks_dworu.md).
 ## Screenshot i referencja wyglądu
 - Aktualny zatwierdzony screenshot: **BRAK**.
