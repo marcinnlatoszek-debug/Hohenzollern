@@ -95,7 +95,7 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 
 | Data | Ustalenie |
 |---|---|
-| 26 VI 1067 | Powiadomienie potwierdza dołączenie hrabiego Hermanna do strony przeciwnej; rok z kalendarza screena 1 VII |
+| **21 VI — SAVE; 26 VI — ekran** | Hermann 38078 figuruje jako uczestnik wojny 36 po stronie atakujących od 21 VI (SAVE); zrzut z 1 VII zawiera powiadomienie datowane 26 VI o jego dołączeniu do przeciwnika |
 | 1 VII 1067 | Ernst dowodzi armią Breisgau zmierzającą do Offenburga; przewidywane przybycie 6 VII nie jest potwierdzonym dotarciem |
 
 [Źródło](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). To późniejsze uczestnictwo Hermanna w wojnie, odrębne od jego wcześniejszej roli roszczącego. ID Ernsta NIEUSTALONE. Nie dopisano bitwy ani wyniku oblężenia.
@@ -122,10 +122,10 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 
 | Data wydarzenia | Potwierdzenie ekranowe | Znaczenie dla fabuły i ograniczenia |
 |---|---|---|
-| **2 XI 1067** | **Egino II z Zollern** dołącza do wojny po stronie gracza (powiadomienie na ekranie 7 XI) | Władca Zollern, powiązanego z utratą dawnego majątku rodziny Burkharda, staje się uczestnikiem tej samej strony konfliktu. **Nie dowodzi to pojednania, osobistej umowy ani rozmowy z Burkhardem.** |
-| **12 XI 1067** | **Eberhard VI von Nellenburg** dołącza do wojny po stronie gracza (powiadomienie na ekranie 13 XI) | Udział teścia Burkharda w wojnie jest odrębny od istniejącego wcześniej sojuszu dynastycznego. Nie dopisywać okoliczności decyzji, marszu ani spotkania z zięciem. |
+| **28 X — SAVE; 2 XI — ekran** | **Egino II z Zollern** wpisany do obrońców w wojnie 36 od 28 X; powiadomienie o dołączeniu do strony gracza datowane 2 XI, widoczne 7 XI | Władca Zollern, powiązanego z utratą dawnego majątku rodziny Burkharda, staje się uczestnikiem tej samej strony konfliktu. **Nie dowodzi to pojednania, osobistej umowy ani rozmowy z Burkhardem.** |
+| **7 XI — SAVE; 12 XI — ekran** | **Eberhard VI von Nellenburg** wpisany do obrońców w wojnie 36 od 7 XI; powiadomienie o dołączeniu do strony gracza datowane 12 XI, widoczne 13 XI | Udział teścia Burkharda w wojnie jest odrębny od istniejącego wcześniej sojuszu dynastycznego. Nie dopisywać okoliczności decyzji, marszu ani spotkania z zięciem. |
 
-[Źródła i oddzielne stany wojsk](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). Najnowszy ekran datowany **13 XI 1067**; ostatni odczytany save nadal z **7 VI 1067**. **Wynik wojny pozostaje niepotwierdzony.** Oś nie przesuwa automatycznie zegara opowieści, a wydarzenia nie są gotowymi scenami.
+[Źródła i oddzielne stany wojsk](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). Najnowszy ekran datowany **13 XI 1067**; późniejszy, nadrzędny save datuje stan mechaniczny na **14 XI 1067**. **Wynik wojny pozostaje niepotwierdzony.** Oś nie przesuwa automatycznie zegara opowieści, a wydarzenia nie są gotowymi scenami.
 
 ## Potwierdzenie z nowego zapisu — 14 XI 1067
 
