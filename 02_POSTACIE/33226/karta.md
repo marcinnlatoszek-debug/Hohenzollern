@@ -1,5 +1,10 @@
 # Rudolf — CK3 ID 33226
 
+## Sprawdzone zmiany rady — 20 X 1066
+
+**POTWIERDZONE_SAVE:** kanclerz [Louis 31737](../31737/karta.md), zadanie 9878, `last_councillor_change=1066.10.2`; mistrz intryg [Burkhard 62634](../62634/karta.md), zadanie 9881, `last_councillor_change=1066.10.3`. Ponowny odczyt aliasu `(6)` 11 X 2026; stan gry nadal 20 X. [Chronologia rad](../../04_OTOCZENIE_WLADCY/rada.md). Poniższe dane z 18 IX są migawką historyczną.
+
+
 ## Referencje ekranowe i narracyjne — aktualizacja dokumentacji 10 X 2026
 
 **Dopisek aktualizacyjny:** Poprzednie oznaczenia „wygląd NIEUSTALONY” lub „brak screena” w historycznych partiach karty należy czytać jako stan sprzed otrzymania opisanych poniżej materiałów. Późniejsze screeny nie aktualizują automatycznie wartości save’a z 18 IX 1066.

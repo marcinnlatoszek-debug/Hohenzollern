@@ -2,11 +2,14 @@
 
 ## Nowy stan — 20 X 1066 (POTWIERDZONE_SAVE)
 
+**Weryfikacja 11 X 2026:** alias `von_Hohenzollern(6).ck3` ma identyczny SHA-256 i stan 20 X 1066. Ponowny odczyt Rakaly 0.8.21 z `--unknown-key error` skorygował wcześniejsze błędne przypisanie małżeństwa: oba rekordy zawierają `betrothed`, nie `primary_spouse`. [Wybrane surowe pola](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/weryfikacja_1066-10-20_2026-10-11.json).
+
+
 **Źródło:** nowy `von_Hohenzollern(1).ck3`, SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`. [Raport porównawczy](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md).
 
-- **Małżonek: [Burkhard 62634](../62634/karta.md)**. Obustronne `family_data/primary_spouse` w aktualnym save; ślub zaszedł po migawce 18 IX, dokładna data NIEUSTALONA.
+- **Narzeczony: [Burkhard 62634](../62634/karta.md)**. Własne `family_data/betrothed=62634` i odwrotne `betrothed=38789` potwierdzają zaręczyny. Poprzedni opis małżeństwa był błędem odczytu.
 - Wiek **15** (ur. 1051-01-01); dom Nellenburg **4138**. Sprawdzone bazowe umiejętności `[8,3,0,9,4,8]` i traity `compassionate`, `zealous`, `humble`, `bossy` bez zmiany.
-- Nie wywodzono z małżeństwa sojuszu politycznego, potomstwa ani zmiany miejsca pobytu.
+- Nie wywodzono z zaręczyn sojuszu politycznego, potomstwa ani zmiany miejsca pobytu.
 
 
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.

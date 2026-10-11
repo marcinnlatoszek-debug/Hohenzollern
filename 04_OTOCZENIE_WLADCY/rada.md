@@ -9,6 +9,8 @@
 | [Rudolf 33226](../02_POSTACIE/33226/karta.md) | Kanclerz / 9878 `task_foreign_affairs` | [Kuno 34995](../02_POSTACIE/34995/karta.md) | **[Louis 31737](../02_POSTACIE/31737/karta.md)** |
 | [Rudolf 33226](../02_POSTACIE/33226/karta.md) | Mistrz intryg / 9881 `task_disrupt_schemes` | [Friedrich 32172](../02_POSTACIE/32172/karta.md) | **[Burkhard 62634](../02_POSTACIE/62634/karta.md)** |
 
+**Daty zmian, zweryfikowane 11 X 2026:** Louis — `last_councillor_change=1066.10.2`; Burkhard — `1066.10.3`. W bieżącym odczycie rekordy znajdują się w `council_task_manager/active`; `owner` identyfikuje radnego, a `court_owner` władcę. [Surowe rekordy](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/weryfikacja_1066-10-20_2026-10-11.json).
+
 W pozostałych czterech sprawdzonych zadaniach Rudolfa (zarządca Eberhard 31271, marszałek Hupold 30344, duchowny Manfred 57580, małżonka Adelaide 36941) obsada jest taka sama. **Cała pięcioosobowa rada Burkharda** również jest bez zmian: Ezzo 65691, Konrad 45254, Gerhard 62635, Gunzelin 65692, Helferich 58415 (zadania 16782042–16782046). Nie zakładać, że te wyniki oznaczają niezmienność wszystkich rad Cesarstwa.
 
 

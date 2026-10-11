@@ -4,7 +4,6 @@
 |---|---|---|---:|---|---|
 | 1066-09-16 | `von_Hohenzollern.ck3` | `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57` | 72 844 529 B | 1.20.0.4 | **obserwacja historyczna**; skan 16 967 170 tokenów |
 | 1066-09-18 | `von_Hohenzollern(1).ck3` | `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941` | 73 103 324 B | 1.20.0.4 | **obserwacja historyczna**; skan 17 024 158 tokenów |
-
 | **1066-10-20** | **`von_Hohenzollern(1).ck3` (nowy upload; inny hash)** | `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0` | 74 504 886 B | 1.20.0.4 | **stan aktualny**; CRC ZIP OK; [raport zmian](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md) |
 
 Daty pochodzą ze struktury Jomini zapisów (`meta_date`), a nie z modyfikacji plików na dysku. Nie łączyć stanów obu dat bez chronologicznego oznaczenia.
@@ -33,3 +32,7 @@ Ponowny odczyt tego samego save’a 18 IX 1066: dziewięć postaci, surowe XP, j
 ## Nowy zapis z 20 X 1066 — 10 X 2026
 
 Przesłano nową zawartość pod **ponownie używaną nazwą** `von_Hohenzollern(1).ck3`. SHA-256 nowej zawartości to `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`, rozmiar kontenera 12 203 029 B; **nie** jest to wcześniejszy plik (1) o SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941` z 18 IX. Data z metadanych, nie z nazwy. Sprawdzono CRC ZIP, metadane oraz wskazane rekordy postaci/rad. Dokumentacja porównania: [18 IX → 20 X](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md). Oryginalny binarny zapis nie jest składowany w tym publicznym repozytorium.
+
+## Weryfikacja aliasu (6) — 11 X 2026
+
+`von_Hohenzollern(6).ck3`: 12 203 029 B, SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`, `gamestate` 74 504 886 B, CRC ZIP poprawne. To identyczna zawartość jak zapis 20 X 1066 przesłany wcześniej pod nazwą `(1)`; **0 dni upływu gry**. Ponowny odczyt Rakaly 0.8.21 z `--unknown-key error` zakończył się poprawnie. [Transkrypcja wybranych rodzin i zadań](notatki_z_wydarzen/weryfikacja_1066-10-20_2026-10-11.json). [Raport zmian i jawna korekta wcześniejszego odczytu](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md). Oryginału nie zmieniono; hash ponownie sprawdzono po odczycie.

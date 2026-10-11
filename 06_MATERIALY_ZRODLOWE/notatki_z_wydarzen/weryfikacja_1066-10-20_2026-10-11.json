@@ -1,0 +1,23 @@
+{
+  "source": {
+    "filename": "von_Hohenzollern(6).ck3",
+    "sha256": "4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0",
+    "game_date": "1066-10-20",
+    "version": "1.20.0.4",
+    "verification_date": "2026-10-11",
+    "decoder": "Rakaly CLI 0.8.21, --unknown-key error"
+  },
+  "family_records": {
+    "62634": "family_data={\n\t\t\tbetrothed=38789\n\t\t}",
+    "38789": "family_data={\n\t\t\tbetrothed=62634\n\t\t}"
+  },
+  "council_records": {
+    "9878": "9878={\n\t\t\ttype=\"task_foreign_affairs\"\n\t\t\towner=31737\n\t\t\tcourt_owner=33226\n\t\t\tlast_councillor_change=1066.10.2\n\t\t\tlast_appointed_councillor=31737\n\t\t}",
+    "9881": "9881={\n\t\t\ttype=\"task_disrupt_schemes\"\n\t\t\towner=62634\n\t\t\tcourt_owner=33226\n\t\t\tlast_councillor_change=1066.10.3\n\t\t\tlast_appointed_councillor=62634\n\t\t}",
+    "16782042": "16782042={\n\t\t\ttype=\"task_foreign_affairs\"\n\t\t\towner=65691\n\t\t\tcourt_owner=62634\n\t\t\tlast_councillor_change=1066.9.16\n\t\t\tlast_appointed_councillor=65691\n\t\t}",
+    "16782043": "16782043={\n\t\t\ttype=\"task_collect_taxes\"\n\t\t\towner=45254\n\t\t\tcourt_owner=62634\n\t\t\tlast_councillor_change=1066.9.16\n\t\t\tlast_appointed_councillor=45254\n\t\t}",
+    "16782044": "16782044={\n\t\t\ttype=\"task_organize_levies\"\n\t\t\towner=62635\n\t\t\tcourt_owner=62634\n\t\t\tlast_councillor_change=1066.9.16\n\t\t\tlast_appointed_councillor=62635\n\t\t}",
+    "16782045": "16782045={\n\t\t\ttype=\"task_disrupt_schemes\"\n\t\t\towner=65692\n\t\t\tcourt_owner=62634\n\t\t\tlast_councillor_change=1066.9.16\n\t\t\tlast_appointed_councillor=65692\n\t\t}",
+    "16782046": "16782046={\n\t\t\ttype=\"task_religious_relations\"\n\t\t\towner=58415\n\t\t\tcourt_owner=62634\n\t\t}"
+  }
+}

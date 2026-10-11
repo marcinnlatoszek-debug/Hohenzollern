@@ -14,6 +14,8 @@ Aktualny stan: **20 X 1066**, CK3 **1.20.0.4**. Obowiązuje reset poprzedniej ka
 
 ## Najnowszy save — 20 X 1066
 
-Z potwierdzonego odczytu: **Burkhard 62634 poślubił Irmengard 38789**, otrzymał trait `lifestyle_gardener` i jest teraz **mistrzem intryg księcia Rudolfa** (zamiast Friedricha 32172); **Louis 31737 zastąpił Kuna 34995 jako kanclerz Rudolfa**. Rada samego Burkharda i sprawdzone tytuły jego domeny nie zmieniły się. Dawne pełniejsze opracowania opisują stan **18 IX** i pozostają źródłem historycznym, a nie kompletną weryfikacją świata na 20 X.
+Z potwierdzonego odczytu: **Burkhard 62634 jest zaręczony z Irmengard 38789**, otrzymał trait `lifestyle_gardener` i jest teraz **mistrzem intryg księcia Rudolfa** (zamiast Friedricha 32172); **Louis 31737 zastąpił Kuna 34995 jako kanclerz Rudolfa**. Rada samego Burkharda i sprawdzone tytuły jego domeny nie zmieniły się. Dawne pełniejsze opracowania opisują stan **18 IX** i pozostają źródłem historycznym, a nie kompletną weryfikacją świata na 20 X.
 
 Rozpoznane 15 modów zatwierdził gracz 10 X 2026. Odczytano 112 własnych rekordów postaci, rady ośmiu władców, faktycznych wasali Rudolfa i Bertholda, roszczenia, rodziny i nominacje cesarskie. Baden podlega Bertholdowi jako księciu Karyntii, a ten bezpośrednio cesarzowi. Wnioski oddzielono od faktów; opinie, wygląd i pełna interpretacja parametrów pozostają nieustalone.
+
+Weryfikacja 11 X 2026: plik `(6)` jest identyczny z już odczytanym zapisem 20 X. Skorygowano wcześniejsze błędne rozpoznanie ślubu i uzupełniono daty zmian rady: Louis — 2 X, Burkhard — 3 X 1066. Szczegóły i źródłowe pola w raporcie zmian.

@@ -4,13 +4,15 @@
 
 **Poprzednia migawka:** 18 IX 1066, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; **32 dni** upływu czasu CK3 (OBLICZONE). Reset z 10 X 2026 nadal obowiązuje.
 
+**Ponowna weryfikacja 11 X 2026:** alias `(6)` jest identyczny z aktualnym źródłem; nie przesuwa daty kampanii. [Wybrane surowe pola rodzin i rad](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/weryfikacja_1066-10-20_2026-10-11.json).
+
 ## Ustalone dla 20 X 1066
 
 - Gracz: [Burkhard 62634](../02_POSTACIE/62634/karta.md), lat 16, dom von Hohenzollern 12843, dynastia 12239, domena `c_hohenberg 1239` + `b_hohenberg 1240` (bez zmiany w sprawdzonych polach).
-- **Małżonka:** [Irmengard 38789](../02_POSTACIE/38789/karta.md), lat 15, dom Nellenburg 4138. Dwa własne rekordy `primary_spouse` wskazują wzajemnie na te same ID, a tekst zdarzenia zapisuje „married”. Dokładna data ślubu NIEUSTALONA.
+- **Narzeczona:** [Irmengard 38789](../02_POSTACIE/38789/karta.md), lat 15, dom Nellenburg 4138. `living/62634/family_data/betrothed=38789` oraz odwrotne `betrothed=62634` w jej rekordzie potwierdzają zaręczyny. Poprzedni opis małżeństwa był błędem odczytu, skorygowanym 11 X 2026.
 - Burkhard ma nową cechę `lifestyle_gardener`, przy zachowaniu wcześniejszych pięciu traitów. Bazowe umiejętności `[3,5,4,5,0,8]` bez zmiany.
-- **Nowy urząd Burkharda:** mistrz intryg księcia [Rudolfa 33226](../02_POSTACIE/33226/karta.md), w zadaniu `9881/task_disrupt_schemes`; poprzednio na tym stanowisku [Friedrich 32172](../02_POSTACIE/32172/karta.md).
-- **Nowy kanclerz Rudolfa:** [Louis 31737](../02_POSTACIE/31737/karta.md), zadanie `9878/task_foreign_affairs`; wcześniej [Kuno 34995](../02_POSTACIE/34995/karta.md).
+- **Nowy urząd Burkharda:** mistrz intryg księcia [Rudolfa 33226](../02_POSTACIE/33226/karta.md), w zadaniu `9881/task_disrupt_schemes`; `last_councillor_change=1066.10.3`; poprzednio na tym stanowisku [Friedrich 32172](../02_POSTACIE/32172/karta.md).
+- **Nowy kanclerz Rudolfa:** [Louis 31737](../02_POSTACIE/31737/karta.md), zadanie `9878/task_foreign_affairs`; `last_councillor_change=1066.10.2`; wcześniej [Kuno 34995](../02_POSTACIE/34995/karta.md).
 - **Rada własna Burkharda:** Ezzo 65691 (kanclerz), Konrad 45254 (zarządca), Gerhard 62635 (marszałek), Gunzelin 65692 (mistrz intryg), Helferich 58415 (duchowny) — bez zmiany w pięciu sprawdzonych zadaniach.
 - Sprawdzone siły Burkharda: `current_strength=633` (poprzednio 573), `strength=773` oraz `levy=171` (bez zmian). Nie są to pełne parametry strategiczne.
 

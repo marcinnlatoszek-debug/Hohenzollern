@@ -2,7 +2,7 @@
 
 ## Potwierdzenie z nowego save'a — 20 X 1066
 
-**POTWIERDZONE_SAVE:** `council_task_manager/database/9878` podaje **Louis 31737 jako kanclerza księcia Rudolfa 33226**, typ zadania `task_foreign_affairs`, w zapisie z 20 X 1066 (SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`). Wcześniej, 18 IX, funkcję pełnił Kuno 34995. Tym samym wcześniejsza rozbieżność między screenshotem z 20 X a historycznym save'em 18 IX została chronologicznie wyjaśniona; dokładna data i przyczyna powołania pozostają NIEUSTALONE. [Raport zmian](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md).
+**POTWIERDZONE_SAVE:** `council_task_manager/active/9878` podaje **Louis 31737 jako kanclerza księcia Rudolfa 33226**, typ zadania `task_foreign_affairs`, w zapisie z 20 X 1066 (SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`). Wcześniej, 18 IX, funkcję pełnił Kuno 34995. Tym samym wcześniejsza rozbieżność między screenshotem z 20 X a historycznym save'em 18 IX została chronologicznie wyjaśniona; ponowny odczyt 11 X 2026 ustalił `last_councillor_change=1066.10.2`, `last_appointed_councillor=31737`, `owner=31737`, `court_owner=33226`. Przyczyna zmiany pozostaje NIEUSTALONA. [Raport zmian](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md).
 
 
 ## Nowa obserwacja wizualna i ekranowa — Louis, hrabia Sundgau
