@@ -68,3 +68,5 @@ Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary d
 **Zrzut ekranu 2026-10-11 192007.png — 19 VII, rok 1067 z chronologii:** panel Siege of Baden potwierdza trwające oblężenie. Kalendarz przycięty; [transkrypcja](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
 
 **Zrzut ekranu 2026-10-11 191435(1).png:** bajtowo identyczny z wcześniejszym 191435.png z 1 VII 1067; nie nowa migawka. SHA-256 729f6bb06b7dafe2037bc20c9e297b8ed9d9ffcaf432f9af913cf3bf58a996c3.
+
+**Zrzut ekranu 2026-10-11 192852.png — 28 IX 1067:** panel `Armies in this location`; **1st Army of Hohenberg 750**, **1st Army of Ulm 722**, **1st Army of Schmalkalden 392** (trzy odrębne jednostki w jednym miejscu). Dodatkowy znacznik `1370` bez ustalonej przynależności. **POTWIERDZONE_SCREEN**, kalendarz gry czytelny; brak dowodu bitwy, wspólnego dowództwa lub wyniku oblężenia. Załącznik `file_00000000cdf0821086b36694edda91bb`, SHA-256 `42a42c4a3f7204852bbc5ace1e981452103e3e8d0e29218152c9fb34e8605bb6`. [Pełny odczyt](notatki_z_wydarzen/obserwacja_armii_1067-09-28.md); PNG nie został przesłany do repozytorium.
