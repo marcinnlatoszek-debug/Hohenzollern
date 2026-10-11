@@ -1,3 +1,11 @@
+# Najnowsza obserwacja ekranowa — 28 IX 1067
+
+**POTWIERDZONE_SCREEN:** ekran CK3 z 28 września 1067 pokazuje panel `Armies in this location` i trzy armie w jednej lokalizacji: **Hohenberg 750**, **Ulm 722**, **Schmalkalden 392**. Dodatkowy znacznik **1370** na mapie ma nieustaloną przynależność. Widoczna na mapie nazwa Hohenberg nie oznacza automatycznie, że miejsce z panelu to posiadłość Hohenberg. Nie potwierdzono bitwy, dalszego stanu oblężenia Baden ani wyniku wojny. [Źródło](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/obserwacja_armii_1067-09-28.md).
+
+**Ostatni odczytany save nadal pochodzi z 7 VI 1067**, a 28 IX jest tylko późniejszą migawką interfejsu; nie przenosić liczb i relacji z niej automatycznie do stanu technicznego save’a. Pamięć fabuły i zegar narracji bez zmian.
+
+---
+
 # Kanon aktualny — save 7 VI, późniejsza obserwacja 19 VII
 
 **POTWIERDZONE_SCREEN:** oblężenie Baden trwa na ekranie z 19 VII; rok 1067 jest WNIOSKIEM z chronologii, końcówka kalendarza przycięta. Panel wskazuje armię Ulm, 743 oblegających i 632 obrońców. Dokładny dzień rozpoczęcia, zdobycie twierdzy i wynik wojny NIEUSTALONE. [Źródło](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). To nowszy stan niż wcześniejsze ustalenie o samym marszu.
