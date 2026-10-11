@@ -7,7 +7,9 @@
 | **1066-10-20** | **`von_Hohenzollern(1).ck3` (nowy upload; inny hash)** | `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0` | 74 504 886 B | 1.20.0.4 | **obserwacja historyczna**; CRC ZIP OK; [raport zmian](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md) | 
 | **1066-11-16** | **`von_Hohenzollern(7).ck3`** | `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670` | 75 746 069 B | 1.20.0.4 | **obserwacja historyczna**; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md) |
 | **1067-01-29** | **`von_Hohenzollern(9).ck3`** | `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991` | 78 644 228 B | 1.20.0.4 | **obserwacja historyczna (odczyt selektywny)**; małżeństwo i indywidualne przekonania Burkharda. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md) |
-| **1067-06-07** | `von_Hohenzollern(10).ck3` | `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4` | 80 522 347 B | 1.20.0.4 | **stan aktualny**; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md) |
+| **1067-06-07** | `von_Hohenzollern(10).ck3` | `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4` | 80 522 347 B | 1.20.0.4 | **stan historyczny**; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md) |
+
+| **1067-11-14** | **`von_Hohenzollern(20261011-175242).ck3`** (alias `20261011-173838`) | `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b` | **82 755 991 B** | 1.20.0.4 | **stan aktualny, odczyt selektywny**; wojna i wojska; [raport](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md) |
 
 Daty pochodzą ze struktury Jomini zapisów (`meta_date`), a nie z modyfikacji plików na dysku. Nie łączyć stanów obu dat bez chronologicznego oznaczenia.
 
@@ -51,3 +53,9 @@ Przesłano nową zawartość pod **ponownie używaną nazwą** `von_Hohenzollern
 ## Save (10) — 11 X 2026
 
 13 410 913 B, CRC poprawne; Rakaly 0.8.21 --unknown-key error. Oryginał niezmieniony. [Zakres i surowe pola](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md); .ck3 nie dodano do publicznego repozytorium.
+
+## Nowy save 14 XI 1067 — 11 X 2026
+
+`von_Hohenzollern(20261011-173838).ck3` i `von_Hohenzollern(20261011-175242).ck3` mają tę samą zawartość: kontener **13 952 962 B**, SHA-256 `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b`, ZIP CRC OK, `gamestate` **82 755 991 B**. `meta_date=53154528`, co odpowiada **14 XI 1067** według algorytmu Jomini. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md). Oryginalnych save’ów nie wgrano do publicznego repozytorium.
+
+**Kontrola metadanych starszego (9):** `meta_date=53147688` oznacza **2 II 1067**, lecz historyczne raporty nazywają save `29 I 1067`. Do osobnego uzgodnienia; zachowano pliki i wcześniejsze odczytane zdarzenia, nie wprowadzono drugiej migawki.
