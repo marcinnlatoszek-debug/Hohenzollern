@@ -1,4 +1,9 @@
-# Dwór Burkharda — 18 IX 1066
+# Dwór Burkharda — historyczny wykaz 18 IX 1066
+
+## Nowa potwierdzona obserwacja — 29 I 1067
+
+**POTWIERDZONE_SAVE:** [Irmengard 38789](../02_POSTACIE/38789/karta.md), żona [Burkharda 62634](../02_POSTACIE/62634/karta.md), ma `court_data/employer=62634` w `von_Hohenzollern(9).ck3`. Ślub 3 I 1067 potwierdził gracz; sam związek jest potwierdzony dwustronnie w `family_data` save’a. Nie wykonano pełnego nowego spisu dworzan. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md).
+
 
 ## Uzupełnienie — 16 XI 1066
 
