@@ -25,3 +25,7 @@ Może uważnie przeglądać rachunek lub projekt, sprawdzać warunki zobowiązan
 **Zakazy dopowiedzeń:** `Paragon` nie dowodzi bezgrzeszności lub świętości; `stubborn` nie dowodzi waśni z seniorem; `architect` nie dowodzi budowy zamku; samo posiadanie dzieci nie ustala relacji emocjonalnych. Wskaźniki opinii na karcie są wartościami ekranu bez pełnego tooltipu i nie dowodzą spisku.
 
 [Wygląd](wyglad.md) · [Karta mechaniczna](karta.md) · [Dowody](zrodla.md)
+
+## Udział w wojnie — 12 XI 1067
+
+**POTWIERDZONE_SCREEN:** Eberhard VI z Nellenburgu, ojciec Irmengard i teść Burkharda, dołączył do strony gracza w wojnie **12 XI 1067**; powiadomienie widoczne na ekranie 13 XI. Uczestnictwo wojenne jest odrębne od wcześniejszego sojuszu dynastycznego. Nie przypisywać niepotwierdzonych negocjacji, osobistej motywacji, podróży ani rozmowy Eberharda z rodziną. [Źródło](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
