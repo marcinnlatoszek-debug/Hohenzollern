@@ -12,3 +12,10 @@
 - Nazwa automatycznego eksportu `Barbershop_Count_Burkhard_of_Hohenberg_...` wskazuje kontekst rozgrywki, a nie tożsamość fotografowanej osoby. Używać ID 62634, nie fragmentu Burkhard z nazwy eksportu.
 
 [Opis wyglądu](wyglad.md) · [Profil do narracji](profil_narracyjny.md) · [Karta postaci](karta.md)
+
+## Zrzuty osobistej religijności i planowanego ślubu — otrzymane 11 X 2026
+
+- **Personal Beliefs:** `Zrzut ekranu 2026-10-11 183732.png` (załącznik `file_00000000447c81f4a25214364363c6f3`). Widoczne: `Catholic Faith`, `Roman Rite`, `Ora et Labora`, `Spiritual Fulfillment=10`, `Penitent`. Data gry NIEUSTALONA.
+- **Arrange Marriage:** `Zrzut ekranu 2026-10-11 184600.png` (załącznik `file_00000000b1d481f4aaa8386ef786730a`). Dotyczy Burkharda i Irmengard 38789; jeszcze przed zawarciem małżeństwa. Data gry NIEUSTALONA.
+- **Ślub:** wykonanie małżeństwa **3 stycznia** potwierdza odrębna wiadomość gracza z 11 X 2026. Rok 1067 przyjęty jako WNIOSEK (po save 16 XI 1066) — do potwierdzenia. Brak niezależnego odczytu zapisu po ceremonii.
+- PNG pozostają załącznikami rozmowy, nie plikami w repozytorium GitHub.
