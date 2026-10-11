@@ -9,9 +9,8 @@
 | **1067-02-02** | **`von_Hohenzollern(9).ck3`** | `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991` | 78 644 228 B | 1.20.0.4 | **obserwacja historyczna (odczyt selektywny)**; małżeństwo i indywidualne przekonania Burkharda. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md) |
 | **1067-06-07** | `von_Hohenzollern(10).ck3` | `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4` | 80 522 347 B | 1.20.0.4 | **stan historyczny**; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md) |
 
-| **1067-11-14** | **`von_Hohenzollern(20261011-175242).ck3`** (alias `20261011-173838`) | `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b` | **82 755 991 B** | 1.20.0.4 | **stan aktualny, odczyt selektywny**; wojna i wojska; [raport](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md) |
 
-| **1067-11-14** | **`von_Hohenzollern(20261011-173838).ck3`** | `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b` | 82 755 991 B | 1.20.0.4 | **stan aktualny: zweryfikowany binarnie**; aktywna wojna 36, obie strony i daty uczestnictwa, armie oraz postacie. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md) |
+| **1067-11-14** | **`von_Hohenzollern(20261011-173838).ck3`** (alias `20261011-175242`) | `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b` | 82 755 991 B | 1.20.0.4 | **stan aktualny: zweryfikowany binarnie**; aktywna wojna 36, obie strony i daty uczestnictwa, armie oraz postacie. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md) |
 
 Daty pochodzą ze struktury Jomini zapisów (`meta_date`), a nie z modyfikacji plików na dysku. Nie łączyć stanów obu dat bez chronologicznego oznaczenia.
 
@@ -50,7 +49,7 @@ Przesłano nową zawartość pod **ponownie używaną nazwą** `von_Hohenzollern
 
 ## Save (9) — 11 X 2026
 
-`von_Hohenzollern(9).ck3`, 13 044 374 B, SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`, `gamestate` 78 644 228 B. Data z binarnego `meta_date`: **29 I 1067**, CK3 1.20.0.4. ZIP CRC poprawne. Odczytano wskazane sekcje własnych rekordów Burkharda 62634, Irmengard 38789, Rudolfa 33226, wybrane pola domeny i zasobów. Nie przeprowadzono pełnego audytu wszystkich mechanik ani świata. Zapis nie był modyfikowany i nie został wgrany do publicznego repozytorium. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md).
+`von_Hohenzollern(9).ck3`, 13 044 374 B, SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`, `gamestate` 78 644 228 B. Data z binarnego `meta_date`: **2 II 1067** (wcześniejsza etykieta 29 I była błędna), CK3 1.20.0.4. ZIP CRC poprawne. Odczytano wskazane sekcje własnych rekordów Burkharda 62634, Irmengard 38789, Rudolfa 33226, wybrane pola domeny i zasobów. Nie przeprowadzono pełnego audytu wszystkich mechanik ani świata. Zapis nie był modyfikowany i nie został wgrany do publicznego repozytorium. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md).
 
 ## Save (10) — 11 X 2026
 
