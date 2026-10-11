@@ -27,6 +27,15 @@
 
 Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary dla Burkharda ID 62634, przypisany w jego [źródłach](../02_POSTACIE/62634/zrodla.md).
 
+## Uzupełnienie 11 X 2026 — ekran wiary i interakcja ślubna
+
+| Data przesłania | Postacie | Źródło | Fakty i ograniczenia |
+|---|---|---|---|
+| 11 X 2026, ekran bez daty świata | [Burkhard 62634](../02_POSTACIE/62634/karta.md) | `Zrzut ekranu 2026-10-11 183732.png` (`file_00000000447c81f4a25214364363c6f3`) | Catholic Faith, Roman Rite, osobiste Ora et Labora, Spiritual Fulfillment 10, Penitent; brak daty nabycia przekonań |
+| 11 X 2026, ekran bez daty świata | [Burkhard 62634](../02_POSTACIE/62634/karta.md), [Irmengard 38789](../02_POSTACIE/38789/karta.md), [Eberhard 31271](../02_POSTACIE/31271/karta.md) | `Zrzut ekranu 2026-10-11 184600.png` (`file_00000000b1d481f4aaa8386ef786730a`) | Convert Betrothal into a Marriage; dzieci mają należeć do von Hohenzollern; propozycja jeszcze przed ślubem; sam ślub 3 stycznia potwierdza gracz, nie obraz |
+
+**Rozróżnienie źródeł:** 3 stycznia to data ceremonii potwierdzona przez gracza (rok 1067 wywnioskowany po stanie 16 XI 1066); data wykonania dwóch screenów to czas rzeczywisty. Brak kopii PNG w repozytorium.
+
 ## Braki techniczne
 
 - Oryginalne PNG mają identyfikatory załączników dostępne w dokumentach `zrodla.md`, ale nie są dostępne jako pliki graficzne z przeglądarki GitHub.
