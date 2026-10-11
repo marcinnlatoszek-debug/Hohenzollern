@@ -1,3 +1,15 @@
+# Aktualizacja obserwacji — bitwa i sojusznicy do 13 XI 1067
+
+**POTWIERDZONE_SCREEN:** dokumentacja `Battle of Hohenberg` obejmuje kadry z **31 VII, 6 VIII, 12 VIII i 23 VIII 1067**. Na ekranie z **23 VIII** komunikat stwierdza, że **Gunzelin von Nordgau 65692 został ranny wskutek działania żołnierza wroga**. **Nie potwierdzono wyniku bitwy, daty jej zakończenia ani śmierci Gunzelina.**
+
+**POTWIERDZONE_SCREEN:** osobny tooltip rozpoznaje armię **Villach 1370**, którą osobiście dowodził **książę Berthold II**; kierowała się do Grünningen, z przewidywanym przybyciem **2 X 1067** (nie jest to dowód dotarcia). Uściśla to wcześniejszy nieoznaczony znacznik `1370` z mapy 28 IX.
+
+**POTWIERDZONE_SCREEN:** do strony gracza w wojnie dołączyli **Egino II z Zollern (2 XI 1067)** oraz **Eberhard VI z Nellenburgu (12 XI 1067)**. Dokładne dni z powiadomień widocznych odpowiednio **7 i 13 XI**. Uczestnictwo Eberharda w wojnie nie jest datą powstania wcześniejszego sojuszu dynastycznego. Motywy Egina i Eberharda NIEUSTALONE.
+
+**Stan źródeł:** ostatni odczytany save **7 VI 1067**; najpóźniejsza obserwacja ekranowa **13 XI 1067**. Nie twierdzić o końcu wojny lub oblężenia Baden bez potwierdzenia. [Zbiorczy rejestr wojsk i zdarzeń](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md) · [Oś fabuły](os_fabuly.md).
+
+---
+
 # Najnowsza obserwacja ekranowa — 28 IX 1067
 
 **POTWIERDZONE_SCREEN:** ekran CK3 z 28 września 1067 pokazuje panel `Armies in this location` i trzy armie w jednej lokalizacji: **Hohenberg 750**, **Ulm 722**, **Schmalkalden 392**. Dodatkowy znacznik **1370** na mapie ma nieustaloną przynależność. Widoczna na mapie nazwa Hohenberg nie oznacza automatycznie, że miejsce z panelu to posiadłość Hohenberg. Nie potwierdzono bitwy, dalszego stanu oblężenia Baden ani wyniku wojny. [Źródło](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/obserwacja_armii_1067-09-28.md).
