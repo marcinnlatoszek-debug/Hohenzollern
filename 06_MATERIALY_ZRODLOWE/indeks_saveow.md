@@ -6,10 +6,12 @@
 | 1066-09-18 | `von_Hohenzollern(1).ck3` | `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941` | 73 103 324 B | 1.20.0.4 | **obserwacja historyczna**; skan 17 024 158 tokenów |
 | **1066-10-20** | **`von_Hohenzollern(1).ck3` (nowy upload; inny hash)** | `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0` | 74 504 886 B | 1.20.0.4 | **obserwacja historyczna**; CRC ZIP OK; [raport zmian](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md) | 
 | **1066-11-16** | **`von_Hohenzollern(7).ck3`** | `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670` | 75 746 069 B | 1.20.0.4 | **obserwacja historyczna**; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md) |
-| **1067-01-29** | **`von_Hohenzollern(9).ck3`** | `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991` | 78 644 228 B | 1.20.0.4 | **obserwacja historyczna (odczyt selektywny)**; małżeństwo i indywidualne przekonania Burkharda. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md) |
+| **1067-02-02** | **`von_Hohenzollern(9).ck3`** | `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991` | 78 644 228 B | 1.20.0.4 | **obserwacja historyczna (odczyt selektywny)**; małżeństwo i indywidualne przekonania Burkharda. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md) |
 | **1067-06-07** | `von_Hohenzollern(10).ck3` | `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4` | 80 522 347 B | 1.20.0.4 | **stan historyczny**; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md) |
 
 | **1067-11-14** | **`von_Hohenzollern(20261011-175242).ck3`** (alias `20261011-173838`) | `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b` | **82 755 991 B** | 1.20.0.4 | **stan aktualny, odczyt selektywny**; wojna i wojska; [raport](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md) |
+
+| **1067-11-14** | **`von_Hohenzollern(20261011-173838).ck3`** | `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b` | 82 755 991 B | 1.20.0.4 | **stan aktualny: zweryfikowany binarnie**; aktywna wojna 36, obie strony i daty uczestnictwa, armie oraz postacie. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md) |
 
 Daty pochodzą ze struktury Jomini zapisów (`meta_date`), a nie z modyfikacji plików na dysku. Nie łączyć stanów obu dat bez chronologicznego oznaczenia.
 
@@ -59,3 +61,9 @@ Przesłano nową zawartość pod **ponownie używaną nazwą** `von_Hohenzollern
 `von_Hohenzollern(20261011-173838).ck3` i `von_Hohenzollern(20261011-175242).ck3` mają tę samą zawartość: kontener **13 952 962 B**, SHA-256 `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b`, ZIP CRC OK, `gamestate` **82 755 991 B**. `meta_date=53154528`, co odpowiada **14 XI 1067** według algorytmu Jomini. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md). Oryginalnych save’ów nie wgrano do publicznego repozytorium.
 
 **Kontrola metadanych starszego (9):** `meta_date=53147688` oznacza **2 II 1067**, lecz historyczne raporty nazywają save `29 I 1067`. Do osobnego uzgodnienia; zachowano pliki i wcześniejsze odczytane zdarzenia, nie wprowadzono drugiej migawki.
+
+## Nowy nadrzędny save — 14 XI 1067
+
+`von_Hohenzollern(20261011-173838).ck3`, SHA-256 `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b`, 82 755 991 B gamestate, CRC ZIP poprawne. Binarne `meta_date=53154528` odpowiada **14 XI 1067**, potwierdzono 1.20.0.4. `von_Hohenzollern(20261011-175242).ck3` ma identyczny hash — jest aliasem, nie nową datą. Pełny rejestr zweryfikowanych pól, listy uczestników i oddziałów w [raporcie](../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md). Nie dodano `.ck3` do publicznego repozytorium.
+
+**Korekta techniczna save (9):** ponowna weryfikacja oryginału `von_Hohenzollern(9).ck3` daje `meta_date=53147688` → **2 II 1067**, nie 29 I. Nie jest to odrębny save; wcześniejsza data wynikała z błędu dekodowania. Od 16 XI 1066 do 2 II 1067 upłynęło **78 dni** (nie 74), a od 2 II do 7 VI **125 dni** (nie 129).
