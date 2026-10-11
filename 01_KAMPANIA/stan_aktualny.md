@@ -1,3 +1,16 @@
+# Kanon aktualny — 29 I 1067
+
+**POTWIERDZONE_SAVE:** `von_Hohenzollern(9).ck3`, SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`, CK3 1.20.0.4; meta_date **29 stycznia 1067**. **OBLICZONE:** 74 dni po wcześniejszym zapisie 16 XI 1066. [Raport selektywnego odczytu](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md) · [indeks save’ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md).
+
+- **Małżeństwo:** [Burkhard 62634](../02_POSTACIE/62634/karta.md) i [Irmengard 38789](../02_POSTACIE/38789/karta.md) mają wzajemne wpisy `primary_spouse` i `spouse`; nie są już zaręczonymi. **Dokładną datę ślubu 3 I 1067 podał gracz**, a nowy save potwierdza stan małżeński 29 I.
+- **Dwór:** Irmengard ma `court_data/employer=62634` — na dworze Burkharda. [Eberhard 31271](../02_POSTACIE/31271/karta.md) jest jego teściem.
+- **Religijność Burkharda:** katolicyzm, obrządek rzymski, osobisty `tenet_ora_et_labora`, spełnienie duchowe **10**. Wcześniejsza etykieta z interfejsu: `Penitent`. Data i motyw przyjęcia przekonania NIEUSTALONE.
+- **Stabilne sprawdzone pola:** sześć zapisanych cech Burkharda, jego podstawowe umiejętności i domena Hohenbergu pozostają zgodne z wcześniejszą migawką. Złoto **21.65853**, pobożność **56.35**, prestiż **923.1808**, XP zarządzania **187.5**.
+- **Granica zakresu:** sprawdzono wskazane bloki binarne, a nie wszystkie postacie, terytoria, relacje czy działające mechaniki modów. Nie ustanawiać niezweryfikowanych wydarzeń na podstawie przyrostów wskaźników. Zegar fabuły pozostał odrębny.
+
+<details>
+<summary>Historyczny stan i wcześniejsze adnotacje — do 16 XI 1066</summary>
+
 # Kanon — uzupełnienie po ostatnim save
 
 **Najnowsza datowana obserwacja ekranowa: 30 V 1067.** Udział Burkharda po stronie Rudolfa potwierdzony przez gracza (KOREKTA_AUTORA); dokładny dzień dołączenia NIEUSTALONY. Na 19 V Gerhard prowadzi Hohenberg do Wirtembergii; na 30 V Rudolf osobiście dowodzi sprzymierzoną armią Ulm maszerującą pod Baden z zamiarem oblężenia. Planowane daty przybycia nie są potwierdzeniem dotarcia.
@@ -151,6 +164,8 @@ Wcześniejsze NIEUSTALONE dotyczące rodziny zastępują w zakresie wskazanych I
 
 </details>
 
+
+</details>
 
 </details>
 
