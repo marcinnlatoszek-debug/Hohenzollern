@@ -64,3 +64,7 @@ Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary d
 **Zrzut ekranu 2026-10-11 191042.png — 3 VI 1067:** Armies in this location: Hohenberg 751, Ulm 750. Oryginał odczytany bezpośrednio; [transkrypcja i źródło](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Współobecność nie dowodzi rozpoczęcia oblężenia.
 
 **Zrzut ekranu 2026-10-11 191435.png — 1 VII 1067:** powiadomienie z 26 VI o dołączeniu Hermanna do strony wroga; Ernst prowadzi armię Breisgau do Offenburga. [Transkrypcja i identyfikatory źródła](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
+
+**Zrzut ekranu 2026-10-11 192007.png — 19 VII, rok 1067 z chronologii:** panel Siege of Baden potwierdza trwające oblężenie. Kalendarz przycięty; [transkrypcja](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
+
+**Zrzut ekranu 2026-10-11 191435(1).png:** bajtowo identyczny z wcześniejszym 191435.png z 1 VII 1067; nie nowa migawka. SHA-256 729f6bb06b7dafe2037bc20c9e297b8ed9d9ffcaf432f9af913cf3bf58a996c3.

@@ -1,4 +1,6 @@
-# Kanon aktualny — save 7 VI, obserwacja 1 VII 1067
+# Kanon aktualny — save 7 VI, późniejsza obserwacja 19 VII
+
+**POTWIERDZONE_SCREEN:** oblężenie Baden trwa na ekranie z 19 VII; rok 1067 jest WNIOSKIEM z chronologii, końcówka kalendarza przycięta. Panel wskazuje armię Ulm, 743 oblegających i 632 obrońców. Dokładny dzień rozpoczęcia, zdobycie twierdzy i wynik wojny NIEUSTALONE. [Źródło](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). To nowszy stan niż wcześniejsze ustalenie o samym marszu.
 
 **Późniejsza obserwacja ekranowa:** powiadomienie z 26 VI potwierdza dołączenie Hermanna do strony przeciwnej. Na 1 VII Ernst dowodzi armią Breisgau maszerującą do Offenburga, z przewidywanym przybyciem 6 VII. Nie potwierdzono dotarcia ani wyniku wojny. [Źródło](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Poniższa migawka save’a zachowuje datę 7 VI.
 

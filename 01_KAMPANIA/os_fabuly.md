@@ -99,3 +99,9 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 | 1 VII 1067 | Ernst dowodzi armią Breisgau zmierzającą do Offenburga; przewidywane przybycie 6 VII nie jest potwierdzonym dotarciem |
 
 [Źródło](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). To późniejsze uczestnictwo Hermanna w wojnie, odrębne od jego wcześniejszej roli roszczącego. ID Ernsta NIEUSTALONE. Nie dopisano bitwy ani wyniku oblężenia.
+
+## Kolejny potwierdzony etap — oblężenie Baden
+
+**19 VII — rok 1067 wywnioskowany z chronologii:** panel Siege of Baden potwierdza trwające oblężenie przez armię Ulm. Dotychczasowy marsz z zamiarem oblężenia ma teraz potwierdzony dalszy etap. Dokładny dzień rozpoczęcia nadal NIEUSTALONY; nie wpisywać 19 VII jako daty rozpoczęcia. Zdobycie twierdzy i wynik wojny niepotwierdzone.
+
+[Screen i zakres odczytu](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). W fabule zachować fakt oblężenia, bez dopisanej bitwy, zdobycia miasta czy spotkania dowódców. Prognozy czasu i liczby wojsk pozostają w dokumentacji stanu.

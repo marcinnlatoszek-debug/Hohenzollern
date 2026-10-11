@@ -118,3 +118,7 @@ Brak zatwierdzonego portretu. Planowane źródło: `06_MATERIALY_ZRODLOWE/zrzuty
 Wcześniejsze oznaczenie rodziny NIEUSTALONE zastępuje w zakresie wydobytych odniesień [rejestr relacji](relacje.md). Imiona, wiek i własne rekordy krewnych pozostają NIEUSTALONE.
 
 </details>
+
+## Dalszy etap działań — ekran 19 VII
+
+POTWIERDZONE_SCREEN: armia Ulm prowadzi oblężenie Baden. Rok 1067 wyprowadzono z chronologii; dzień rozpoczęcia i wynik nieustalone. Ekran nie podaje nowego tooltipu dowódcy — wcześniejsze osobiste dowodzenie Rudolfa zachowuje własne daty. [Źródło](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
