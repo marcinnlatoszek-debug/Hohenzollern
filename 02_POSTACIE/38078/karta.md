@@ -1,5 +1,14 @@
 # Hermann — CK3 ID 38078
 
+## Wojna o Szwabię — 1067
+
+**POTWIERDZONE_SAVE (7 VI 1067):** roszczenie Hermanna do `d_swabia` jest przedmiotem wojny `claim_cb` rozpoczętej **28 IV 1067** przez jego ojca Bertholda 31865 przeciw Rudolfowi 33226. W stanie 7 VI Hermann figuruje jako `claimant`, bez własnego wpisu uczestnika w odczytanym wykazie.
+
+**POTWIERDZONE_SCREEN (1 VII 1067):** powiadomienie datowane **26 VI** `Enemy Ally Joins War: Count Hermann` stwierdza, że hrabia Hermann dołączył do strony wrogiej graczowi. Ta data **nie jest datą rozpoczęcia wojny ani nabycia roszczenia**; nie dowodzi też, gdzie osobiście przebywał podczas walk.
+
+[Źródła wojny i chronologii](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+
 ## Potwierdzenie — 7 VI 1067
 
 **POTWIERDZONE_SAVE:** `von_Hohenzollern(10).ck3`, SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`, CK3 1.20.0.4, **7 VI 1067**. Claimant w wojnie 36 Bertholda przeciw Rudolfowi o Szwabię, rozpoczętej 28 IV 1067. Berthold 31865 ma go w family_data/child. Wykaz uczestników ataku wskazuje Bertholda; nie utożsamiać roli roszczącego z osobnym zapisanym uczestnikiem lub dowódcą. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
