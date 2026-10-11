@@ -1,5 +1,10 @@
 # Kuno — CK3 ID 34995
 
+## Uczestnik wojny — stan 14 XI 1067
+
+**POTWIERDZONE_SAVE:** Kuno z Wirtembergii (`34995`) został odczytany w grupie **broniących** w aktywnej wojnie 36 o Szwabię, razem z Rudolfem i Burkhardem. Wewnętrzny wpis uczestnika ma datę **13 XI 1067**. To **techniczna data pola rekordu wojny**, której nie należy bez dodatkowych danych utożsamiać z datą zawiadomienia, decyzji politycznej ani marszu. Motywacja, osobiste spotkanie z Burkhardem i stan własnej armii Kuna NIEUSTALONE. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
+
+
 ## Aktualizacja ekranowa — Kuno z Wirtembergii
 
 **OBSERVACJA_SCREEN (20 X 1066 według nazwy eksportu Barber Shop):** [źródła](zrodla.md), [wygląd](wyglad.md), [profil narracyjny](profil_narracyjny.md). Karta postaci wskazuje „Count Kuno of Württemberg”, wiek 31, „Fellow Vassal”, profil **Rational Absolver**, kulturę **Franconian** i obrządek **Roman Rite**.
