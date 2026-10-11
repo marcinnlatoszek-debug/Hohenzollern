@@ -120,3 +120,9 @@ Odczytano **112 postaci: 100 żyjących i 12 zmarłych**. Wszystkie 30 wcześnie
 | 65692 | [Gunzelin](65692/karta.md) | 32 | żyje | Mistrz intryg u Burkhard 62634; employer=62634 |
 
 Wiek żyjących podano na 18 IX 1066; dla zmarłych — w dniu zgonu. Dane o wyglądzie nie zostały rozpoznane. [Analiza polityczna](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md).
+
+## Uzupełnienie po migawce 18 IX 1066 — rozpoznania wyłącznie ekranowe
+
+Ten dopisek **nie** zmienia liczby 112 postaci zrekonstruowanych z save z 18 IX. Nie należy zaliczać Heleny do tej próbki, dopóki nie odnajdziemy jej własnego rekordu CK3.
+
+- **Helene (Helena), CK3 ID NIEUSTALONE** — [karta](helene-id-nieustalone/karta.md), [wygląd](helene-id-nieustalone/wyglad.md), [profil do narracji](helene-id-nieustalone/profil_narracyjny.md), [źródła](helene-id-nieustalone/zrodla.md). Na screenie: 31-letnia osobista lekarka Burkharda, przebywa w Hohenbergu, Lowborn, Swabian, Roman Rite. Portret datowany w nazwie **20 X 1066**. Identyfikator, lista traitów z save’a i data nominacji **NIEUSTALONE**.
