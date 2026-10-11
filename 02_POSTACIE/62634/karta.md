@@ -1,5 +1,14 @@
 # Burkhard — CK3 ID 62634
 
+## Udział wojenny — późniejsze ekrany 1067
+
+**POTWIERDZONE_SAVE na 7 VI:** Burkhard brał udział w obronie Rudolfa w wojnie o Szwabię od **15 V 1067**, armia Hohenbergu dowodzona w tej migawce przez Gerharda. **POTWIERDZONE_SCREEN:** `Battle of Hohenberg` widoczna na ekranach 31 VII, 6 VIII, 12 VIII i 23 VIII. W tej ostatniej migawce ranny zostaje **Gunzelin von Nordgau 65692**, członek dworu i rycerz Burkharda. Zrzuty **nie dowodzą osobistej obecności Burkharda na polu bitwy**, ostatecznego zwycięstwa ani śmierci rycerza.
+
+**Listopad:** do strony gracza w wojnie dołącza **Egino II 37502** (2 XI) oraz **Eberhard VI 31271**, teść Burkharda (12 XI). Nie przypisywać Burkhardowi nieudokumentowanych rokowań ani wydanych im rozkazów.
+
+[Źródłowy rejestr wojsk i dat](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md) · [Oś fabuły](../../01_KAMPANIA/os_fabuly.md).
+
+
 ## Potwierdzenie — 7 VI 1067
 
 **POTWIERDZONE_SAVE:** `von_Hohenzollern(10).ck3`, SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`, CK3 1.20.0.4, **7 VI 1067**. Obrońca w wojnie 36 od 15 V 1067; domena i cechy bez zmiany. Nadal małżonek Irmengard. Wiek 16; złoto 29.34111, pobożność 61.75, prestiż 925.7664, XP zarządzania 337.5. Własna jednostka 395 przypięta do jednostki Rudolfa 359 na 7 VI; dowodzi Gerhard. Nie potwierdzono osobistej obecności Burkharda przy armii. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
