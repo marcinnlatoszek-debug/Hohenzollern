@@ -1,5 +1,10 @@
 # Eberhard — CK3 ID 31271
 
+## Weryfikacja udziału w wojnie — 14 XI 1067
+
+**POTWIERDZONE_SAVE:** Eberhard VI `31271` jest uczestnikiem strony broniącej w wojnie 36 obok zięcia Burkharda. W technicznym polu uczestnika zapisano **7 XI 1067**, podczas gdy powiadomienie ekranowe o jego dołączeniu datowane jest **12 XI**. Odnotować różnicę pięciu dni, bez dopisywania nieustalonej przyczyny. Zasoby militarne z domeny: `current_strength=441`, `strength=448`, `levy=137`; nie ustalono na tej podstawie osobistego dowodzenia Eberharda w polu. [Źródło](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
+
+
 ## Udział wojenny — 12 XI 1067
 
 **POTWIERDZONE_SCREEN:** ekran datowany **13 XI 1067** zawiera powiadomienie `Ally Joins War: Count Eberhard VI` z datą **12 Nov** i informacją `has joined the War on your side`. [Eberhard VI z Nellenburgu](karta.md), ojciec Irmengard 38789 i teść Burkharda 62634, **dołączył do wojny po stronie gracza 12 XI 1067**. Nie mylić daty przystąpienia z wcześniejszym sojuszem dynastycznym, potwierdzonym już w save z 20 X 1066. Nie dopisywać liczby jego wojsk, miejsca zbiórki, motywów ani spotkania z Burkhardem.
