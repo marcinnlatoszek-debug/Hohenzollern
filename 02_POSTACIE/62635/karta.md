@@ -1,5 +1,10 @@
 # Gerhard — CK3 ID 62635
 
+## Potwierdzone dowodzenie — 14 XI 1067
+
+**POTWIERDZONE_SAVE:** dowódca armii Hohenbergu `armies/388` nadal ma ID **62635 — Gerhard**. Jednostka armijna `395`, lokalizacja `2759` (nazwa miejsca NIEUSTALONA z samego klucza). To aktualizacja względem stanu 7 VI; nie dowodzi obecności Gerharda w każdej fazie sierpniowej bitwy ani nie potwierdza jej wyniku. [Odczyt](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
+
+
 **POTWIERDZONE_SCREEN — aktualizacja majowa:** 19 V 1067: tooltip 1st Army of Hohenberg bezpośrednio podaje Commander: Gerhard; marsz do Württemberg, planowane przybycie 29 V. To potwierdzenie dowódcy zastępuje wcześniejszy wniosek wizualny. Nie potwierdzono dotarcia. [Źródła](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md).
 
 
