@@ -60,3 +60,14 @@ Rodzinne obciążenie Burkharda można odsłaniać stopniowo przez pamięć ojca
 | 16 V 1067 | Gerhard, Gunzelin i Konrad z Rottweil są rycerzami; Gerhard jest też dowódcą. | POTWIERDZONE_SCREEN; nie datować początku obowiązków Konrada wstecz |
 
 [Źródła i dokładny stan wojska](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Nie dopisano scen wojennych, marszu, skutecznego dołączenia do wojny ani przyjaźni z Rudolfem. Wprowadzenie Gerharda i Konrada wynika z ich rzeczywistych obowiązków, gdy scena będzie ich wymagała.
+
+## Potwierdzenie udziału i marsz — dalszy ciąg maja 1067
+
+**KOREKTA_AUTORA:** udział Burkharda po stronie Rudolfa potwierdzony przez gracza 11 X 2026; dokładny dzień dołączenia NIEUSTALONY. Wcześniejsza obserwacja samego okna oferty zachowuje własną datę, lecz sprawa udziału nie pozostaje już otwarta.
+
+| Data | Wydarzenie do zachowania | Granica |
+|---|---|---|
+| 19 V 1067 | Gerhard dowodzi armią Hohenbergu maszerującą do Wirtembergii | Planowane przybycie 29 V, nie potwierdzone dotarcie |
+| 30 V 1067 | Rudolf osobiście prowadzi sprzymierzoną armię Ulm do Baden z zamiarem oblężenia | Planowane przybycie 15 VI; nie potwierdzono rozpoczęcia oblężenia |
+
+[Bezpośrednie odczyty i stan wojsk](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Dowódców wprowadzać przez ich obowiązki i działania; nie dopisano spotkania z Burkhardem ani rozegranej sceny. Liczby pozostają w dokumentacji technicznej.

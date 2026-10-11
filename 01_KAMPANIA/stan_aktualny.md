@@ -1,6 +1,8 @@
 # Kanon — uzupełnienie po ostatnim save
 
-**Najnowsza datowana obserwacja ekranowa: 16 V 1067.** [Wojna i wojsko — źródła](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Na 15 V widoczne jest okno oferty dołączenia do obrony Rudolfa w wojnie o roszczenie Hermanna do Szwabii; nie potwierdzono przyjęcia oferty. Na 16 V panel wskazuje 752 żołnierzy łącznie, 1 niewystawionego i trzech rycerzy: Gerharda, Gunzelina oraz Konrada z Rottweil. To późniejsza, częściowa migawka ekranowa; nie aktualizuje automatycznie reszty świata z save’a.
+**Najnowsza datowana obserwacja ekranowa: 30 V 1067.** Udział Burkharda po stronie Rudolfa potwierdzony przez gracza (KOREKTA_AUTORA); dokładny dzień dołączenia NIEUSTALONY. Na 19 V Gerhard prowadzi Hohenberg do Wirtembergii; na 30 V Rudolf osobiście dowodzi sprzymierzoną armią Ulm maszerującą pod Baden z zamiarem oblężenia. Planowane daty przybycia nie są potwierdzeniem dotarcia.
+
+**Wcześniejsza obserwacja: 16 V 1067.** [Wojna i wojsko — źródła](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Na 15 V widoczne jest okno oferty dołączenia do obrony Rudolfa w wojnie o roszczenie Hermanna do Szwabii; nie potwierdzono przyjęcia oferty. Na 16 V panel wskazuje 752 żołnierzy łącznie, 1 niewystawionego i trzech rycerzy: Gerharda, Gunzelina oraz Konrada z Rottweil. To późniejsza, częściowa migawka ekranowa; nie aktualizuje automatycznie reszty świata z save’a.
 
 **Ostatni technicznie zweryfikowany stan gry:** 16 XI 1066, `von_Hohenzollern(7).ck3`. Poniższe nowsze informacje pochodzą z potwierdzenia gracza i zrzutów ekranu; **nie** z nowego odczytu save’a.
 

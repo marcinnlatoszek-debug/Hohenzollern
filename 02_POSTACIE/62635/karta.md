@@ -1,5 +1,8 @@
 # Gerhard — CK3 ID 62635
 
+**POTWIERDZONE_SCREEN — aktualizacja majowa:** 19 V 1067: tooltip 1st Army of Hohenberg bezpośrednio podaje Commander: Gerhard; marsz do Württemberg, planowane przybycie 29 V. To potwierdzenie dowódcy zastępuje wcześniejszy wniosek wizualny. Nie potwierdzono dotarcia. [Źródła](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md).
+
+
 ## Późniejsza obserwacja — 16 V 1067
 
 **POTWIERDZONE_SCREEN:** Na ekranie z 16 V 1067 Gerhard jest opisany jako Marshal, Commander and Knight, z prowess 11. Zgodność portretu w niedatowanym panelu armii wskazuje go jako jej dowódcę (WNIOSEK wizualny). [Źródło i zakres](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Wartość ekranowa nie nadpisuje bazowych statystyk starszego save’a.

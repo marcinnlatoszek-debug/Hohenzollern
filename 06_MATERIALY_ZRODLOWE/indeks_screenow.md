@@ -51,3 +51,12 @@ Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary d
 | Zrzut ekranu 2026-10-11 190548.png | 16 V 1067 | Ogólny stan wojska i rycerzy; Konrad z Rottweil jako rycerz |
 
 [Pełna transkrypcja, identyfikatory źródeł i granice wnioskowania](notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Obrazy odczytano bezpośrednio; błędny wcześniejszy komunikat o braku plików nie opisuje wyniku odczytu.
+
+## Marsz i potwierdzenie udziału — dalsze ekrany maja 1067
+
+| Plik | Data gry | Zakres |
+|---|---|---|
+| Zrzut ekranu 2026-10-11 190823.png | 19 V 1067 | Gerhard dowodzi Hohenbergiem; marsz do Württemberg, planowane przybycie 29 V |
+| Zrzut ekranu 2026-10-11 190929.png | 30 V 1067 | Rudolf dowodzi Allied Army z Ulm; Moving to Besiege Baden, planowane przybycie 15 VI |
+
+[Transkrypcja i źródła](notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Udział potwierdzony osobno przez gracza; wynik marszu i oblężenia NIEUSTALONY.

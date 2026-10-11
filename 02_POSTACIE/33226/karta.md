@@ -1,5 +1,8 @@
 # Rudolf — CK3 ID 33226
 
+**POTWIERDZONE_SCREEN — aktualizacja majowa:** 30 V 1067: Rudolf osobiście dowodzi 1st Army of Ulm (Commanded by Ruler, Allied Army), idącej pod Baden z zamiarem oblężenia. Planowane przybycie 15 VI nie dowodzi rozpoczęcia oblężenia. Udział Burkharda po jego stronie potwierdził gracz. [Źródła](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md).
+
+
 **Źródło:** `von_Hohenzollern(7).ck3`, SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`, CK3 1.20.0.4, stan **16 XI 1066**. POTWIERDZONE_SAVE dla pól; OBLICZONE dla wieku i różnic.
 
 ## Zmiany — 16 XI

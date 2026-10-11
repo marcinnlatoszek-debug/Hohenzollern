@@ -54,3 +54,25 @@ ID są powiązaniem z już ustalonymi kartami i zgodnymi imionami/urzędami, nie
 Do osi zachowano istnienie wojny i wybór wsparcia Rudolfa jako otwartą sprawę; nie dopisano podjęcia decyzji. Liczby wojsk są stanem technicznym do użycia tylko wtedy, gdy potrzebne do przedstawienia sytuacji. Nie tworzą sceny bitwy, wymarszu ani zwycięstwa.
 
 [Oś fabuły](../../01_KAMPANIA/os_fabuly.md) · [Stan kampanii](../../01_KAMPANIA/stan_aktualny.md). Oryginalne obrazy pozostają załącznikami; ten dokument nie udaje plików PNG w repozytorium.
+
+## Uzupełnienie: potwierdzony udział i marsz — 19–30 V 1067
+
+**KOREKTA_AUTORA, 11 X 2026:** gracz potwierdził udział Burkharda po stronie Rudolfa. Wcześniejszy brak potwierdzenia opisuje etap z oknem oferty; nie obowiązuje jako aktualne rozstrzygnięcie. Dokładny dzień wysłania i przyjęcia oferty NIEUSTALONY. Na 30 V armia Rudolfa ma też etykietę Allied Army. Nie potwierdzono przyjaźni ani zakończenia wojny.
+
+### 19 V 1067 — Hohenberg w marszu
+
+**POTWIERDZONE_SCREEN:** `Zrzut ekranu 2026-10-11 190823.png`, załącznik `file_000000009c8c81f4b10d228d9230f18a`, Library ID `libfile_e237a17449508191ba63c31f5ab19c75`. Kalendarz: 19th of May, 1067 AD.
+
+Tooltip wskazuje 1st Army of Hohenberg, **Commander: Gerhard**. To bezpośrednie potwierdzenie dowódcy, zastępujące wcześniejszy wniosek oparty na samym portrecie. Kierunek: **Württemberg**, 10 dni do planowanego przybycia **29 V 1067**; Movement Locked. Nie jest to potwierdzenie dotarcia do celu.
+
+Stan: 751, w tym 149 pospolitego ruszenia, 2 rycerzy i dwa oddziały po 300. Well Supplied (100), +20/month. Liczby są migawką, nie wielkością przyszłej bitwy. Nie ustalono z tego ekranu udziału samego Burkharda w osobistym dowodzeniu.
+
+### 30 V 1067 — Rudolf zmierza pod Baden
+
+**POTWIERDZONE_SCREEN:** `Zrzut ekranu 2026-10-11 190929.png`, załącznik `file_000000002bec81f4b337ba807dfe6df5`, Library ID `libfile_09f1e19810308191a58b50701f3420e8`. Kalendarz: 30th of May, 1067 AD.
+
+1st Army of Ulm; **Commander: Duke Rudolf**, **Commanded by Ruler**, **Allied Army**. Kierunek **Baden**, 16 dni do planowanego przybycia **15 VI 1067**. Etykieta **Moving to Besiege Baden** potwierdza marsz z zamiarem oblężenia, nie rozpoczęte lub zakończone oblężenie. Movement Locked.
+
+Stan: 750, w tym 548 pospolitego ruszenia, 2 rycerzy i oddział 200. Well Supplied (100), +20/month. Nie utożsamiać tej armii z całością sił księcia. Nie ustalono, gdzie znajduje się wtedy armia Hohenbergu ani czy dotarła do Wirtembergii.
+
+**Do osi fabuły:** potwierdzony udział po stronie Rudolfa, marsz Gerharda do Wirtembergii oraz osobiste dowodzenie Rudolfa w drodze pod Baden. Bez dopisanej bitwy, zdobycia twierdzy, scen spotkania dowódców i niepotwierdzonych wyników.
