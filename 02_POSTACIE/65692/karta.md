@@ -1,5 +1,10 @@
 # Gunzelin — CK3 ID 65692
 
+## Potwierdzenie życia — save 14 XI 1067
+
+**POTWIERDZONE_SAVE:** Gunzelin von Nordgau `65692` ma własny rekord w `living` na 14 XI 1067, `court_data/employer=62634` i powiązane zadanie rady `16782045`; nadal figuruje na liście rycerzy Burkharda. **Przeżył ranienie odnotowane 23 VIII**. Nie wiadomo z tego odczytu, czy został w pełni wyleczony, jak przebiegało leczenie, ani czy doznał trwałych następstw. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
+
+
 ## Bitwa pod Hohenbergiem — 23 VIII 1067
 
 **POTWIERDZONE_SCREEN:** ekran walki `Battle of Hohenberg` datowany **23 VIII 1067** pokazuje powiadomienie: `Our knight Gunzelin von Nordgau was wounded by an enemy soldier!`. Identyfikacja odpowiada Gunzelinowi **ID 65692**, uprzednio potwierdzonemu rycerzowi i mistrzowi intryg [Burkharda 62634](../62634/karta.md). **Wiadomo, że został ranny podczas bitwy; nie potwierdzono śmierci, dalszego stanu zdrowia, przebiegu leczenia ani formalnej zmiany urzędu.** Na wcześniejszych ekranach sierpniowych nie datować urazu wstecz.
