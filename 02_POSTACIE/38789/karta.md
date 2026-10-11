@@ -1,5 +1,10 @@
 # Irmengard — CK3 ID 38789
 
+## Małżeństwo — potwierdzenie 14 XI 1067
+
+**POTWIERDZONE_SAVE:** `family_data/primary_spouse=62634` oraz `spouse=62634`, odwzajemnione przez Burkharda; oboje pozostają małżeństwem. W sprawdzonych własnych blokach rodzinnych nie ma dziecka. Jej ojciec Eberhard VI 31271 jest na 14 XI uczestnikiem wojny po stronie Burkharda (powiadomienie ekranowe datowane 12 XI). Nie wynika stąd obecność Irmengard przy armii ani znana reakcja na udział ojca. [Odczyt](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
+
+
 ## Potwierdzenie — 7 VI 1067
 
 **POTWIERDZONE_SAVE:** `von_Hohenzollern(10).ck3`, SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`, CK3 1.20.0.4, **7 VI 1067**. Wiek 16 (ur. 1051.1.1), nadal małżonka Burkharda. Traits compassionate, zealous, humble, education_stewardship_2; bazowy skill [8,3,0,9,4,8]. Zadanie 13012/task_spouse_default, owner=38789, court_owner=62634. Nie ustalono dokładnego dnia uzyskania wykształcenia. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
