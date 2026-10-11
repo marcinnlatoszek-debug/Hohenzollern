@@ -1,3 +1,16 @@
+# Kanon bieżący — save 14 XI 1067
+
+**POTWIERDZONE_SAVE:** `von_Hohenzollern(20261011-175242).ck3` (alias `20261011-173838`), SHA-256 `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b`; CK3 1.20.0.4; **14 XI 1067**. [Raport odczytu](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
+
+- **Wojna 36 nadal aktywna:** Berthold i Hermann przeciw Rudolfowi, Ludwigowi, Burkhardowi, Eginowi II, Eberhardowi VI oraz **Kunowi z Wirtembergii 34995**. Techniczna data pola Kuna: **13 XI**; przyczyna wejścia NIEUSTALONA.
+- **Data komunikatu nie jest datą surowego pola:** wewnętrzne wpisy Hermanna / Egina II / Eberharda VI są o 5 dni wcześniejsze niż ekranowe wiadomości z 26 VI / 2 XI / 12 XI. Dat źródeł nie scalać bez ustalenia znaczenia mechanicznego.
+- **Gunzelin 65692 żyje** w tym save, ale jego pełnego wyzdrowienia nie potwierdzono. **Gerhard 62635** dowodzi armią Hohenbergu (388), **Rudolf 33226** własną armią (355).
+- **Stan domen (`current_strength / strength / levy`):** Burkhard **745/750/147**, Rudolf **868/872/669**, Egino II **210/210/7**, Eberhard VI **441/448/137**, Berthold **1190/1193/886**. Te liczby nie są sumą wojsk na polu bitwy; więcej w raporcie.
+- **Burkhard i Irmengard** pozostają małżeństwem, bez wpisów potomstwa w sprawdzonych rekordach. Osobiste `tenet_ora_et_labora` Burkharda zachowane.
+- **NIEUSTALONE:** końcowy wynik bitwy, los oblężenia Baden i termin zakończenia wojny. Starsze metadane save (9) po dekodowaniu wskazują 2 II, nie dotychczasowe 29 I; rozbieżność do odrębnego uzgodnienia.
+
+---
+
 # Aktualizacja obserwacji — bitwa i sojusznicy do 13 XI 1067
 
 **POTWIERDZONE_SCREEN:** dokumentacja `Battle of Hohenberg` obejmuje kadry z **31 VII, 6 VIII, 12 VIII i 23 VIII 1067**. Na ekranie z **23 VIII** komunikat stwierdza, że **Gunzelin von Nordgau 65692 został ranny wskutek działania żołnierza wroga**. **Nie potwierdzono wyniku bitwy, daty jej zakończenia ani śmierci Gunzelina.**
