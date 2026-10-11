@@ -70,3 +70,23 @@ Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary d
 **Zrzut ekranu 2026-10-11 191435(1).png:** bajtowo identyczny z wcześniejszym 191435.png z 1 VII 1067; nie nowa migawka. SHA-256 729f6bb06b7dafe2037bc20c9e297b8ed9d9ffcaf432f9af913cf3bf58a996c3.
 
 **Zrzut ekranu 2026-10-11 192852.png — 28 IX 1067:** panel `Armies in this location`; **1st Army of Hohenberg 750**, **1st Army of Ulm 722**, **1st Army of Schmalkalden 392** (trzy odrębne jednostki w jednym miejscu). Dodatkowy znacznik `1370` bez ustalonej przynależności. **POTWIERDZONE_SCREEN**, kalendarz gry czytelny; brak dowodu bitwy, wspólnego dowództwa lub wyniku oblężenia. Załącznik `file_00000000cdf0821086b36694edda91bb`, SHA-256 `42a42c4a3f7204852bbc5ace1e981452103e3e8d0e29218152c9fb34e8605bb6`. [Pełny odczyt](notatki_z_wydarzen/obserwacja_armii_1067-09-28.md); PNG nie został przesłany do repozytorium.
+
+## Nowe i ponownie przesłane ekrany wojny — lipiec–listopad 1067
+
+Poniższe wpisy są **metadanymi załączników rozmowy**; obrazy nie zostały dodane jako pliki PNG do GitHub. Odczyty, ograniczenia, historia armii i odnośniki do kart znajdują się w [zbiorczym rejestrze wojennym](notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+| Oryginalna nazwa obrazu | Data świata gry / zakres | Treść potwierdzona | Status |
+|---|---|---|---|
+| `Zrzut ekranu 2026-10-11 191435(2).png` | 1 VII 1067; powiadomienie 26 VI | Hermann po stronie przeciwnika, Ernst maszeruje na Offenburg | **Bajtowy duplikat** starszego `191435.png`, SHA-256 `729f6bb06b7dafe2037bc20c9e297b8ed9d9ffcaf432f9af913cf3bf58a996c3` |
+| `Zrzut ekranu 2026-10-11 192007(1).png` | ok. 19 VII 1067 (rok z chronologii) | Powtórzenie obrazu trwającego oblężenia Baden | Wizualne powtórzenie, identyczność bajtowa ze starszym materiałem **NIEUSTALONA** |
+| `Zrzut ekranu 2026-10-11 192111(2).png` | **31 VII 1067** | `Battle of Hohenberg`: obrona 745, atak 463 | POTWIERDZONE_SCREEN |
+| `Zrzut ekranu 2026-10-11 192249(1).png` | **6 VIII 1067** | `Battle of Hohenberg`: 686 / 367 | POTWIERDZONE_SCREEN |
+| `Zrzut ekranu 2026-10-11 192308(1).png` | **12 VIII 1067** | `Battle of Hohenberg`: 598 / 218 | POTWIERDZONE_SCREEN |
+| `Zrzut ekranu 2026-10-11 192331(1).png` | **23 VIII 1067** | `Battle of Hohenberg`: 511 / 41; komunikat o ranieniu Gunzelina von Nordgau | POTWIERDZONE_SCREEN |
+| `Zrzut ekranu 2026-10-11 193332.png` | ok. **28 IX 1067**, data wyliczona z 4 dni do ETA 2 X | `1st Army of Villach` 1370, Duke Berthold II, marsz do Grünningen | POTWIERDZONE_SCREEN dla treści tooltipu; data WNIOSEK |
+| `Zrzut ekranu 2026-10-11 193502.png` | Data gry **NIEUSTALONA**, po letnich ekranach | Znaczniki 744 Hohenberg i 1370 Villach w rejonie mapy | POTWIERDZONE_SCREEN bez daty |
+| `Zrzut ekranu 2026-10-11 193533.png` | **7 XI 1067**; powiadomienie **2 XI** | `Ally Joins War: Count Egino II`, dołącza po stronie gracza | POTWIERDZONE_SCREEN |
+| `Zrzut ekranu 2026-10-11 193603.png` | **13 XI 1067**; powiadomienie **12 XI** | `Ally Joins War: Count Eberhard VI`, dołącza po stronie gracza | POTWIERDZONE_SCREEN |
+
+**Powiązania narracyjne:** [Gunzelin 65692](../02_POSTACIE/65692/karta.md) (ranny), [Egino II 37502](../02_POSTACIE/37502/karta.md), [Eberhard VI 31271](../02_POSTACIE/31271/karta.md), [książę Berthold 31865](../02_POSTACIE/31865/karta.md). Nie dopisano wyniku bitwy ani końca wojny. Pełne identyfikatory załączników i hashe znajdują się w źródłowym rejestrze wojny.
+
