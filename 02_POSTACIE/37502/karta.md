@@ -1,5 +1,10 @@
 # Egino — CK3 ID 37502
 
+## Weryfikacja udziału — 14 XI 1067
+
+**POTWIERDZONE_SAVE:** Egino II 37502 znajduje się w grupie obrońców w aktywnej wojnie 36 przeciw Bertholdowi. Techniczna data wpisu uczestnika **28 X 1067**, podczas gdy **powiadomienie ekranowe** o dołączeniu do wojny ma datę **2 XI**. Różnica pięciu dni pozostaje bez rozstrzygnięcia znaczenia pól. Jego domena wykazuje `current_strength=210, strength=210, levy=7`; w strukturze armii figuruje **dowódca 37502**, ID armii `33554661` z jednostką `33554644`. Nie dowodzi to osobistego spotkania z Burkhardem ani pojednania o Zollern. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
+
+
 ## Nowe wydarzenie — 2 XI 1067
 
 **POTWIERDZONE_SCREEN:** powiadomienie `Ally Joins War: Count Egino II`, datowane **2 Nov**, widoczne na mapie z **7 XI 1067**, potwierdza dołączenie hrabiego **Egina II z Zollern (ID 37502)** do wojny **po stronie gracza**. Jest to formalne uczestnictwo w konflikcie, **nie** potwierdzenie prywatnego pojednania z Burkhardem, przekazania Zollern, zmian roszczeń ani motywów decyzji. Dla fabuły fakt szczególnie ważny z uwagi na wcześniejszą utratę Zollern przez dziadka Burkharda — oba wątki należy prowadzić bez dopisywania scen spotkań.
