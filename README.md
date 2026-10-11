@@ -1,8 +1,8 @@
 # Hohenzollern — nowa kampania
 
-**Dalszy kanon po ostatnim odczytanym save:** gracz potwierdził ślub Burkharda i Irmengard **3 stycznia** (najprawdopodobniej **1067**; rok do potwierdzenia), a ekran osobistej religijności Burkharda dokumentuje `Ora et Labora` i `Penitent` bez daty w grze. [Zaktualizowana oś fabuły](01_KAMPANIA/os_fabuly.md) i [kanon](01_KAMPANIA/stan_aktualny.md). Nie traktować tych wiadomości jako nowego odczytu save’a.
+**Aktualny stan: 29 I 1067**, CK3 **1.20.0.4**; `von_Hohenzollern(9).ck3`. [Raport zmian 16 XI → 29 I](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md). Potwierdzono w save małżeństwo Burkharda i Irmengard, przebywanie Irmengard na jego dworze oraz osobiste `Ora et Labora` i spełnienie duchowe 10. **Ślub 3 I 1067**: dokładny dzień pochodzi z relacji gracza, stan po ślubie z pliku gry.
 
-Aktualny stan: **16 XI 1066**, CK3 **1.20.0.4**. Obowiązuje reset poprzedniej kampanii z 10 X 2026; poniższe dane pochodzą wyłącznie z nowych zapisów. Nie przywracać dawnego kanonu z historii Git.
+Najnowszy odczyt dotyczy **wybranych sekcji**, nie kompletnego świata CK3. Obowiązuje reset poprzedniej kampanii z 10 X 2026; poniższe dane pochodzą wyłącznie z nowych zapisów. Nie przywracać dawnego kanonu z historii Git.
 
 - [Stan aktualny](01_KAMPANIA/stan_aktualny.md)
 - [Oś fabuły: wydarzenia i zasady wprowadzania postaci](01_KAMPANIA/os_fabuly.md)
@@ -15,7 +15,7 @@ Aktualny stan: **16 XI 1066**, CK3 **1.20.0.4**. Obowiązuje reset poprzedniej k
 - [Hohenberg: charaktery i materiał do fabuły](07_ANALIZY/rozpoznania_poczatkowe/charaktery_hohenberg_1066-09-18.md)
 - [Metoda analizy postaci](baza/mechaniki/Metoda-charakterow.md)
 
-## Najnowszy save — 16 XI 1066
+## Archiwalna migawka — 16 XI 1066
 
 [Raport zmian 20 X → 16 XI](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md): 27 dni gry. Burkhard i Irmengard nadal zaręczeni; obsada rad bez zmiany. Rudolf zmienił prawo na crown_authority_1, ma nowy sojusz przez zaręczyny Adalberta z Utą, a Manfred został jego lekarzem 11 XI. Zidentyfikowano [Helenę 52665](02_POSTACIE/52665/karta.md), lekarkę Hohenbergu od 17 X. Siły Burkharda: 611 / 751 / 149 (current_strength / strength / levy); diarchy_successor wskazuje Ezzo.
 
