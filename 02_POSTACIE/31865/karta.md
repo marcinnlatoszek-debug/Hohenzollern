@@ -1,5 +1,10 @@
 # Berthold — CK3 ID 31865
 
+## Potwierdzenie — 7 VI 1067
+
+**POTWIERDZONE_SAVE:** `von_Hohenzollern(10).ck3`, SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`, CK3 1.20.0.4, **7 VI 1067**. Atakujący w wojnie 36 rozpoczętej 28 IV 1067 przeciw Rudolfowi o roszczenie własnego syna Hermanna 38078 do Szwabii (1216), claim_cb. Wojna nadal aktywna; nie potwierdzono wyniku. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
+
+
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 
 ## Aktualny odczyt własnego rekordu

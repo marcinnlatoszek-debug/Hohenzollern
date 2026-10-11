@@ -1,6 +1,8 @@
 # Hohenzollern — nowa kampania
 
-**Aktualny stan: 29 I 1067**, CK3 **1.20.0.4**; `von_Hohenzollern(9).ck3`. [Raport zmian 16 XI → 29 I](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md). Potwierdzono w save małżeństwo Burkharda i Irmengard, przebywanie Irmengard na jego dworze oraz osobiste `Ora et Labora` i spełnienie duchowe 10. **Ślub 3 I 1067**: dokładny dzień pochodzi z relacji gracza, stan po ślubie z pliku gry.
+**Aktualny save: 7 VI 1067; najnowszy screen: 1 VII 1067.** [Raport i dalsze obserwacje](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Wojna o Szwabię trwa od 28 IV; Burkhard dołączył 15 V. Hermann dołączył do strony przeciwnej 26 VI (powiadomienie ekranowe).
+
+**Poprzednia migawka: 29 I 1067**, CK3 **1.20.0.4**; `von_Hohenzollern(9).ck3`. [Raport zmian 16 XI → 29 I](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md). Potwierdzono w save małżeństwo Burkharda i Irmengard, przebywanie Irmengard na jego dworze oraz osobiste `Ora et Labora` i spełnienie duchowe 10. **Ślub 3 I 1067**: dokładny dzień pochodzi z relacji gracza, stan po ślubie z pliku gry.
 
 Najnowszy odczyt dotyczy **wybranych sekcji**, nie kompletnego świata CK3. Obowiązuje reset poprzedniej kampanii z 10 X 2026; poniższe dane pochodzą wyłącznie z nowych zapisów. Nie przywracać dawnego kanonu z historii Git.
 

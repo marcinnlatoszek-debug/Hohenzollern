@@ -75,3 +75,27 @@ Rodzinne obciążenie Burkharda można odsłaniać stopniowo przez pamięć ojca
 | 30 V 1067 | Rudolf osobiście prowadzi sprzymierzoną armię Ulm do Baden z zamiarem oblężenia | Planowane przybycie 15 VI; nie potwierdzono rozpoczęcia oblężenia |
 
 [Bezpośrednie odczyty i stan wojsk](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Dowódców wprowadzać przez ich obowiązki i działania; nie dopisano spotkania z Burkhardem ani rozegranej sceny. Liczby pozostają w dokumentacji technicznej.
+
+## Uzgodnienie dat wojny i dalszy ciąg — save 7 VI 1067
+
+**POTWIERDZONE_SAVE:** [raport (10)](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Wcześniejsze nieustalone daty początku wojny i udziału Burkharda zostały rozstrzygnięte.
+
+| Data | Wydarzenie lub stan do zachowania |
+|---|---|
+| 28 IV 1067 | Berthold rozpoczyna wojnę przeciw Rudolfowi o roszczenie Hermanna do Szwabii |
+| 11 V 1067 | Ludwig dołącza do strony obronnej |
+| 15 V 1067 | Burkhard dołącza do obrony Rudolfa — dokładna data z rekordu uczestnika |
+| 16 V 1067 | gathered_date armii Hohenbergu dowodzonej przez Gerharda |
+| 3 VI 1067 | Zrzut potwierdza obecność armii Hohenbergu i Ulm w tym samym miejscu |
+| 7 VI 1067 | Jednostka Hohenbergu przypięta do jednostki Rudolfa; wojna nadal trwa |
+
+Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarcie do Baden i rozpoczęcie oblężenia nadal NIEUSTALONE. Nie dopisano rozmowy Gerharda z Rudolfem, obecności Burkharda przy armii ani wyniku działań. Stan wojsk pozostaje w raporcie, zgodnie z zasadą gracza.
+
+## Dalsze wydarzenia — ekran 1 VII 1067
+
+| Data | Ustalenie |
+|---|---|
+| 26 VI 1067 | Powiadomienie potwierdza dołączenie hrabiego Hermanna do strony przeciwnej; rok z kalendarza screena 1 VII |
+| 1 VII 1067 | Ernst dowodzi armią Breisgau zmierzającą do Offenburga; przewidywane przybycie 6 VII nie jest potwierdzonym dotarciem |
+
+[Źródło](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). To późniejsze uczestnictwo Hermanna w wojnie, odrębne od jego wcześniejszej roli roszczącego. ID Ernsta NIEUSTALONE. Nie dopisano bitwy ani wyniku oblężenia.

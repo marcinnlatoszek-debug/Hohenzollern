@@ -1,3 +1,19 @@
+# Kanon aktualny — save 7 VI, obserwacja 1 VII 1067
+
+**Późniejsza obserwacja ekranowa:** powiadomienie z 26 VI potwierdza dołączenie Hermanna do strony przeciwnej. Na 1 VII Ernst dowodzi armią Breisgau maszerującą do Offenburga, z przewidywanym przybyciem 6 VII. Nie potwierdzono dotarcia ani wyniku wojny. [Źródło](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Poniższa migawka save’a zachowuje datę 7 VI.
+
+**POTWIERDZONE_SAVE:** `von_Hohenzollern(10).ck3`, SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`, CK3 1.20.0.4, **7 VI 1067**. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md) · [Surowe pola](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/stan_1067-06-07.json). 129 dni po ostatnim odczytanym save 29 I (OBLICZONE).
+
+- Wojna 36 o roszczenie Hermanna 38078 do Szwabii rozpoczęta **28 IV 1067**. Berthold 31865 atakuje, Rudolf 33226 broni; Ludwig 31145 uczestniczy od 11 V, Burkhard od **15 V**. Nadal aktywna.
+- Gerhard 62635 dowodzi armią Hohenbergu 388, zgromadzoną 16 V. Jednostka 395 jest na 7 VI przypięta do jednostki Rudolfa 359; obie w prowincji 2748. Współobecność armii potwierdza już screen 3 VI. Nazwa miejsca i rozpoczęcie oblężenia Baden NIEUSTALONE.
+- Burkhard i Irmengard nadal małżeństwem; ślub 3 I 1067 potwierdził gracz. Wiek: 16 i 16. Irmengard ma education_stewardship_2 oraz task_spouse_default 13012.
+- Burkhard: cechy, bazowy skill, domena [1239,1240] bez zmiany; sukcesja fallback_default → Rudolf. Złoto 29.34111, pobożność 61.75, prestiż 925.7664, XP zarządzania 337.5.
+- Wojsko tylko jako stan: current_strength=752, strength=752, levy=149; własne regimenty light_footmen i bowmen po 300.
+- Nie dopisano potomstwa, bitew, wyników wojny ani nowych scen. Zegar narracji bez automatycznego przesunięcia. Zakres kontroli w raporcie.
+
+<details>
+<summary>Historyczna migawka 29 I i wcześniejsze ustalenia</summary>
+
 # Kanon aktualny — 29 I 1067
 
 **POTWIERDZONE_SAVE:** `von_Hohenzollern(9).ck3`, SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`, CK3 1.20.0.4; meta_date **29 stycznia 1067**. **OBLICZONE:** 74 dni po wcześniejszym zapisie 16 XI 1066. [Raport selektywnego odczytu](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md) · [indeks save’ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md).
@@ -164,6 +180,8 @@ Wcześniejsze NIEUSTALONE dotyczące rodziny zastępują w zakresie wskazanych I
 
 </details>
 
+
+</details>
 
 </details>
 

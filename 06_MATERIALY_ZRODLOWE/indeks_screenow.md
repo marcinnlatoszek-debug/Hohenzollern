@@ -60,3 +60,7 @@ Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary d
 | Zrzut ekranu 2026-10-11 190929.png | 30 V 1067 | Rudolf dowodzi Allied Army z Ulm; Moving to Besiege Baden, planowane przybycie 15 VI |
 
 [Transkrypcja i źródła](notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Udział potwierdzony osobno przez gracza; wynik marszu i oblężenia NIEUSTALONY.
+
+**Zrzut ekranu 2026-10-11 191042.png — 3 VI 1067:** Armies in this location: Hohenberg 751, Ulm 750. Oryginał odczytany bezpośrednio; [transkrypcja i źródło](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Współobecność nie dowodzi rozpoczęcia oblężenia.
+
+**Zrzut ekranu 2026-10-11 191435.png — 1 VII 1067:** powiadomienie z 26 VI o dołączeniu Hermanna do strony wroga; Ernst prowadzi armię Breisgau do Offenburga. [Transkrypcja i identyfikatory źródła](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).

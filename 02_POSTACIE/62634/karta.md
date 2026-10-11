@@ -1,5 +1,10 @@
 # Burkhard — CK3 ID 62634
 
+## Potwierdzenie — 7 VI 1067
+
+**POTWIERDZONE_SAVE:** `von_Hohenzollern(10).ck3`, SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`, CK3 1.20.0.4, **7 VI 1067**. Obrońca w wojnie 36 od 15 V 1067; domena i cechy bez zmiany. Nadal małżonek Irmengard. Wiek 16; złoto 29.34111, pobożność 61.75, prestiż 925.7664, XP zarządzania 337.5. Własna jednostka 395 przypięta do jednostki Rudolfa 359 na 7 VI; dowodzi Gerhard. Nie potwierdzono osobistej obecności Burkharda przy armii. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
+
+
 ## Potwierdzenie nowego stanu — 29 I 1067 (POTWIERDZONE_SAVE)
 
 Źródło: `von_Hohenzollern(9).ck3`, SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`, CK3 1.20.0.4. [Szczegóły odczytu](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md).

@@ -1,5 +1,10 @@
 # Hermann — CK3 ID 38078
 
+## Potwierdzenie — 7 VI 1067
+
+**POTWIERDZONE_SAVE:** `von_Hohenzollern(10).ck3`, SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`, CK3 1.20.0.4, **7 VI 1067**. Claimant w wojnie 36 Bertholda przeciw Rudolfowi o Szwabię, rozpoczętej 28 IV 1067. Berthold 31865 ma go w family_data/child. Wykaz uczestników ataku wskazuje Bertholda; nie utożsamiać roli roszczącego z osobnym zapisanym uczestnikiem lub dowódcą. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
+
+
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 
 ## Aktualny odczyt własnego rekordu
@@ -43,3 +48,7 @@ Wygląd i zatwierdzony portret, efektywne statystyki, pełne opinie, zamiary i s
 [Indeks](../indeks_postaci.md) · [Analiza polityczna](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)
 
 Pierwotnie założono tę kartę jako odniesienie ID z rejestru rodzin. Własny rekord odczytano w obecnym rozszerzeniu; wcześniejsze oznaczenie wszystkich danych osobowych jako NIEUSTALONE zostało zastąpione powyższą obserwacją. [Pierwotna transkrypcja rodziny](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/rodziny_1066-09-18.md).
+
+## Późniejsze uczestnictwo — 26 VI 1067
+
+POTWIERDZONE_SCREEN: powiadomienie Enemy Ally Joins War: Count Hermann z datą 26 Jun, na ekranie 1 VII 1067. Hermann dołączył do strony przeciwnej; wcześniej na 7 VI był wskazany jako claimant. [Źródło](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Nie ustalono, czy sam dowodzi armią Breisgau; jej tooltip wskazuje Ernsta.
