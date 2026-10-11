@@ -90,3 +90,25 @@ Widoczne na mapach znaczniki (m.in. 738 Hohenberg, 1357 Villach, 210 i 296 na 7 
 Zapisz jako **wydarzenia**: wojna o Szwabię, oblężenie Baden (lipcowa obserwacja), bitwa pod Hohenbergiem (potwierdzone fazy 31 VII–23 VIII), **ranienie Gunzelina**, obecność wojsk Bertholda na mapie i dołączenie Egina II oraz Eberharda VI. Postacie wprowadzać przez funkcję i relację; fakt dołączenia Egina może mieć znaczenie wobec rodzinnej historii Zollern, lecz **nie jest dowodem pojednania, negocjacji, zdrady lub zmiany jego charakteru**. Nie dopisano wygranej bitwy, śmierci rycerza, zajęcia Baden, odwrotu Bertholda ani końca wojny. Liczebności pozostają w rejestrze wojsk, a nie w prozie kroniki.
 
 [Oś fabuły](../../01_KAMPANIA/os_fabuly.md) · [Stan i źródła](../../01_KAMPANIA/stan_aktualny.md) · [Indeks ekranów](../indeks_screenow.md).
+
+## Nowy zapis — 14 XI 1067: potwierdzenie wojny i dowódców
+
+**POTWIERDZONE_SAVE:** `von_Hohenzollern(20261011-175242).ck3` (alias o tym samym SHA-256 `20261011-173838`) przesuwa ostatni punkt mechaniczny kampanii do **14 XI 1067**. Konflikt ID **36** pozostaje aktywny. Po stronie obrońców: Rudolf 33226, Ludwig 31145, Burkhard 62634, Egino II 37502, Eberhard VI 31271 oraz **Kuno 34995**. Atakujący: Berthold 31865 i Hermann 38078. Na 14 XI **Gunzelin 65692 żyje**, choć był ranny w bitwie 23 VIII. Nie rozstrzygnięto na podstawie tego rekordu, czy bitwa została wygrana lub czy oblężenie Baden zakończone.
+
+### Siły zapisane w domenach 14 XI (nie utożsamiać z armiami na mapie)
+
+| Władca / ID | `current_strength` | `strength` | `levy` |
+|---|---:|---:|---:|
+| Burkhard 62634 | 745 | 750 | 147 |
+| Rudolf 33226 | 868 | 872 | 669 |
+| Egino II 37502 | 210 | 210 | 7 |
+| Eberhard VI 31271 | 441 | 448 | 137 |
+| Berthold 31865 | 1190 | 1193 | 886 |
+
+W nowych blokach armii zapisano **Gerharda 62635 jako dowódcę armii Hohenbergu ID 388** (jednostka 395, lokalizacja ID 2759); **Rudolfa 33226 jako dowódcę armii 355** (jednostka 359, lokalizacja ID 2768); **Egina II 37502 jako dowódcę armii 33554661** (jednostka 33554644, lokalizacja ID 2764); **Bertholda 31865 jako dowódcę armii 16777527** (jednostka 16777533, lokalizacja ID 3099). Nazwy prowincji z tych numerów NIEUSTALONE. Nie sumować obu stron wojny jako pełnych dostępnych sił, nie dodawać w nich automatycznie każdej armii z wrześniowego ekranu.
+
+### Dni z pól uczestników a powiadomienia
+
+**POTWIERDZONE_SAVE:** pole uczestnika Hermanna = 21 VI; Egina II = 28 X; Eberharda VI = 7 XI; Kuna = 13 XI. **POTWIERDZONE_SCREEN:** komunikaty mają daty 26 VI, 2 XI i 12 XI dla pierwszych trzech postaci. Występuje powtarzalne przesunięcie **pięciu dni**. Nie ustalono mechanicznej przyczyny tej różnicy, więc **daty komunikatu i daty technicznych pól pozostają osobnymi obserwacjami**. Dla Kuna brak własnego powiadomienia. 
+
+[Źródło, identyfikatory, wersja i ograniczenia odczytu](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md). Do osi wydarzeń trafia samo potwierdzenie jego uczestnictwa, nie domniemane okoliczności dołączenia ani rozkazy.
