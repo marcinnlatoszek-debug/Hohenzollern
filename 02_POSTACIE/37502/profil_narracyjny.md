@@ -22,3 +22,7 @@ Dla scen można rozważyć oszczędną, bezpośrednią wypowiedź oraz długie m
 W save 18 IX Egino posiada `c_zollern 1235` i `b_zollern 1236`, należy do domu Urach; jest wasalem Rudolfa i współwasalem Burkharda. Na karcie 20 X ma 21 lat, żadnych dzieci w panelu, dwoje rodzeństwa w zakładce, herb Urach. Samo sąsiedztwo i podobieństwo nazwy Zollern do Hohenzollern nie dowodzą pokrewieństwa ani konfliktu z Burkhardem. Ujemne wartości przy portretach wymagają rozwinięcia tooltipów, nie są dowodem spisku.
 
 [Wygląd](wyglad.md) · [Źródła](zrodla.md) · [Karta](karta.md).
+
+## Udział w wojnie — 2 XI 1067
+
+**POTWIERDZONE_SCREEN:** Egino II z Zollern dołączył do strony gracza w trwającej wojnie 2 XI 1067; wiadomość widoczna na ekranie 7 XI. Dla opowieści znaczące jest zestawienie jego aktualnej decyzji z autorskim tłem utraty Zollern przez dziadka Burkharda. **Nie interpretować tego jako udowodnionego pojednania, osobistej przyjaźni, układu politycznego lub uznania dawnych praw.** Wiedza Burkharda o dołączeniu wymaga wiarygodnej wiadomości w scenie. [Źródło](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
