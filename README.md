@@ -1,5 +1,7 @@
 # Hohenzollern — nowa kampania
 
+**Dalszy kanon po ostatnim odczytanym save:** gracz potwierdził ślub Burkharda i Irmengard **3 stycznia** (najprawdopodobniej **1067**; rok do potwierdzenia), a ekran osobistej religijności Burkharda dokumentuje `Ora et Labora` i `Penitent` bez daty w grze. [Zaktualizowana oś fabuły](01_KAMPANIA/os_fabuly.md) i [kanon](01_KAMPANIA/stan_aktualny.md). Nie traktować tych wiadomości jako nowego odczytu save’a.
+
 Aktualny stan: **16 XI 1066**, CK3 **1.20.0.4**. Obowiązuje reset poprzedniej kampanii z 10 X 2026; poniższe dane pochodzą wyłącznie z nowych zapisów. Nie przywracać dawnego kanonu z historii Git.
 
 - [Stan aktualny](01_KAMPANIA/stan_aktualny.md)
