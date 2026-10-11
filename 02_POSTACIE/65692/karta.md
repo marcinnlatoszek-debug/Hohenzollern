@@ -1,5 +1,12 @@
 # Gunzelin — CK3 ID 65692
 
+## Bitwa pod Hohenbergiem — 23 VIII 1067
+
+**POTWIERDZONE_SCREEN:** ekran walki `Battle of Hohenberg` datowany **23 VIII 1067** pokazuje powiadomienie: `Our knight Gunzelin von Nordgau was wounded by an enemy soldier!`. Identyfikacja odpowiada Gunzelinowi **ID 65692**, uprzednio potwierdzonemu rycerzowi i mistrzowi intryg [Burkharda 62634](../62634/karta.md). **Wiadomo, że został ranny podczas bitwy; nie potwierdzono śmierci, dalszego stanu zdrowia, przebiegu leczenia ani formalnej zmiany urzędu.** Na wcześniejszych ekranach sierpniowych nie datować urazu wstecz.
+
+[Dokumentacja bitwy i obraz źródłowy](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+
 ## Późniejsza obserwacja — 16 V 1067
 
 **POTWIERDZONE_SCREEN:** Na ekranie z 16 V 1067 Gunzelin jest opisany jako Spymaster and Knight, z prowess 9. [Źródło i zakres](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Wartość ekranowa nie nadpisuje bazowych statystyk starszego save’a.
