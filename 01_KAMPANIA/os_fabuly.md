@@ -1,6 +1,6 @@
 # Oś fabuły — Hohenberg i Szwabia
 
-**Początek historii:** drugi zapis, 18 IX 1066, zgodnie z ustaleniem gracza. **Ostatni zweryfikowany save (selekt. odczyt):** 29 I 1067. **Ślub Burkharda i Irmengard:** 3 I 1067 (dzień podany przez gracza; rok i istnienie małżeństwa zgodne z nowym save’em). Oś zachowuje wydarzenia do późniejszego wykorzystania; nie oznacza, że napisano sceny ani że zegar narracji doszedł do tej daty.
+**Początek historii:** drugi zapis, 18 IX 1066, zgodnie z ustaleniem gracza. **Ostatni zweryfikowany save (selekt. odczyt):** 14 XI 1067. **Ślub Burkharda i Irmengard:** 3 I 1067 (dzień podany przez gracza; rok i istnienie małżeństwa zgodne z nowym save’em). Oś zachowuje wydarzenia do późniejszego wykorzystania; nie oznacza, że napisano sceny ani że zegar narracji doszedł do tej daty.
 
 ## Ustalenie redakcyjne gracza — 11 X 2026
 
@@ -126,3 +126,11 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 | **12 XI 1067** | **Eberhard VI von Nellenburg** dołącza do wojny po stronie gracza (powiadomienie na ekranie 13 XI) | Udział teścia Burkharda w wojnie jest odrębny od istniejącego wcześniej sojuszu dynastycznego. Nie dopisywać okoliczności decyzji, marszu ani spotkania z zięciem. |
 
 [Źródła i oddzielne stany wojsk](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). Najnowszy ekran datowany **13 XI 1067**; ostatni odczytany save nadal z **7 VI 1067**. **Wynik wojny pozostaje niepotwierdzony.** Oś nie przesuwa automatycznie zegara opowieści, a wydarzenia nie są gotowymi scenami.
+
+## Potwierdzenie z nowego zapisu — 14 XI 1067
+
+**POTWIERDZONE_SAVE:** wojna o Szwabię (ID 36) nadal trwa. Po stronie obrońców, obok Rudolfa, Ludwiga i Burkharda, są **Egino II z Zollern**, **Eberhard VI z Nellenburgu** i **Kuno z Wirtembergii (34995)**. Data pola uczestnika Kuna to **13 XI**; przyczyna, okoliczności i data otrzymania wiadomości przez Burkharda są NIEUSTALONE. Wcześniejsze powiadomienia ekranowe o Eginie **2 XI** i Eberhardzie **12 XI** zachowują swoje daty; wewnętrzne daty wpisów uczestników są o pięć dni wcześniejsze i mają jeszcze nieuzgodnioną semantykę.
+
+**Gunzelin 65692 żyje 14 XI**, mimo ranienia w bitwie pod Hohenbergiem 23 VIII. **Gerhard 62635 pozostaje dowódcą armii Hohenbergu**. Nie potwierdzono pełnego wyzdrowienia Gunzelina, pokoju, zwycięstwa w bitwie, zdobycia Baden ani osobistych spotkań dowódców i sojuszników. Liczby wojsk zachować w [raporcie](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md), nie w prozie. Zegar narracji bez zmian, nie napisano nowych scen.
+
+**Kontrola dat starszych zapisów:** dla pliku (9) metadane po ponownym dekodowaniu wskazują **2 II 1067**, mimo wcześniejszego opisu **29 I**; wymaga to oddzielnego uzgodnienia starych etykiet, bez zmiany samych zdarzeń.
