@@ -22,3 +22,7 @@ Leniwość, arbitralność i nieczułość mogą popychać do poszukiwania najł
 1. Nie twierdzić, że postać wykonała działanie, stworzyła spisek, popełniła zdradę, zawiązała sojusz lub wypowiedziała dialog, jeżeli nie potwierdzają tego źródła.
 2. Nie wyprowadzać z etykiety `Treacherous Villain` nowych cech mechanicznych. Natężenia Mild / Normal / Intense pozostają NIEUSTALONE bez wiarygodnego mapowania XP konkretnej wersji moda.
 3. Wygląd zachować według [wyglad.md](wyglad.md), źródła według [zrodla.md](zrodla.md). Wnioski fabularne są wariantami zachowań, nie pamięcią scen ani biografią.
+
+## Późniejsza scena historyczna — rana pod Hohenbergiem
+
+**POTWIERDZONE_SCREEN (23 VIII 1067):** `Gunzelin von Nordgau was wounded by an enemy soldier!` na ekranie `Battle of Hohenberg`. W fabule fakt ranienia rycerza jest potwierdzony, jednak nie wolno dopisywać obrażeń, konkretnych zabiegów, rekonwalescencji, śmierci ani reakcji Burkharda jako faktów. Zapis medyczny i dalszy los NIEUSTALONE. Gunzelin pozostaje osobą wcześniej potwierdzoną jako mistrz intryg i rycerz; nie przesądzać o dacie ewentualnej zmiany jego funkcji po bitwie. [Raport](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
