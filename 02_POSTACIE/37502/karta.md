@@ -1,5 +1,12 @@
 # Egino — CK3 ID 37502
 
+## Nowe wydarzenie — 2 XI 1067
+
+**POTWIERDZONE_SCREEN:** powiadomienie `Ally Joins War: Count Egino II`, datowane **2 Nov**, widoczne na mapie z **7 XI 1067**, potwierdza dołączenie hrabiego **Egina II z Zollern (ID 37502)** do wojny **po stronie gracza**. Jest to formalne uczestnictwo w konflikcie, **nie** potwierdzenie prywatnego pojednania z Burkhardem, przekazania Zollern, zmian roszczeń ani motywów decyzji. Dla fabuły fakt szczególnie ważny z uwagi na wcześniejszą utratę Zollern przez dziadka Burkharda — oba wątki należy prowadzić bez dopisywania scen spotkań.
+
+[Źródło](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+
 ## Aktualizacja ekranowa — hrabia Egino II z Zollern, ród Urach
 
 **POTWIERDZONE_SCREEN:** `Zrzut ekranu 2026-10-10 205019.png` (załącznik `file_0000000064748210bf3bf50aee69c7d6`), portret `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0003.png` (załącznik `file_000000007e5c82468994f684af200535`). Tożsamość połączona z istniejącym ID **37502** dzięki zgodnemu imieniu, wiekowi, tytułowi, rodowi Urach i portretowi. **Data 20 X 1066** pochodzi wyłącznie z nazwy eksportu Barbershop; ekran karty nie zawiera widocznego datownika.
