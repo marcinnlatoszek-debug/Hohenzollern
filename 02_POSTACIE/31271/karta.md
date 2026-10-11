@@ -1,5 +1,12 @@
 # Eberhard — CK3 ID 31271
 
+## Udział wojenny — 12 XI 1067
+
+**POTWIERDZONE_SCREEN:** ekran datowany **13 XI 1067** zawiera powiadomienie `Ally Joins War: Count Eberhard VI` z datą **12 Nov** i informacją `has joined the War on your side`. [Eberhard VI z Nellenburgu](karta.md), ojciec Irmengard 38789 i teść Burkharda 62634, **dołączył do wojny po stronie gracza 12 XI 1067**. Nie mylić daty przystąpienia z wcześniejszym sojuszem dynastycznym, potwierdzonym już w save z 20 X 1066. Nie dopisywać liczby jego wojsk, miejsca zbiórki, motywów ani spotkania z Burkhardem.
+
+[Źródło](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+
 ## Potwierdzona relacja rodzinna — 29 I 1067
 
 **POTWIERDZONE_SAVE** `von_Hohenzollern(9).ck3` potwierdza małżeństwo córki [Irmengard 38789](../38789/karta.md) z [Burkhardem 62634](../62634/karta.md). Ślub odbył się 3 I 1067 (dzień podany przez gracza); na 29 I Eberhard jest jego teściem. Nie wynika z tego obecność Eberharda na uroczystości ani nowa zmiana praw, sojuszy lub opinii.
