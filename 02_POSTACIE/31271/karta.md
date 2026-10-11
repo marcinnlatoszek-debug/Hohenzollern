@@ -1,5 +1,10 @@
 # Eberhard — CK3 ID 31271
 
+## Aktualizacja rodzinna po 16 XI 1066
+
+**KOREKTA_AUTORA:** córka [Irmengard 38789](../38789/karta.md) zawarła ślub z [Burkhardem 62634](../62634/karta.md) **3 stycznia** (najpewniej 1067; rok: WNIOSEK z chronologii). Od ślubu Eberhard jest teściem Burkharda. Fakt podany przez gracza 11 X 2026, po ostatnim technicznie zweryfikowanym save z 16 XI 1066. Nie przypisywać na tej podstawie nowego sojuszu, zmiany opinii, praw do tytułów ani udziału Eberharda w ceremonii.
+
+
 ## Nowe źródła ekranowe — Eberhard VI von Nellenburg (obserwacja 20 X 1066 według nazwy portretu)
 
 **POTWIERDZONE_SCREEN:** ekran: `Zrzut ekranu 2026-10-10 204153.png` (załącznik `file_000000000670824389063cfd3ec22ccb`), portret Barber Shop: `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0001.png` (załącznik `file_000000005cd481f4a9e3ab038703135e`). Obydwa obrazy przedstawiają tę samą postać. Nazwa eksportu Barber Shop automatycznie zawiera „Burkhard”, lecz przedstawia Eberharda. Data świata **1066-10-20** pochodzi z nazwy pliku portretu; sam panel karty nie pokazuje zegara gry.
