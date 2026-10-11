@@ -1,5 +1,12 @@
 # Irmengard — CK3 ID 38789
 
+## Potwierdzenie nowego stanu — 29 I 1067 (POTWIERDZONE_SAVE)
+
+Źródło: `von_Hohenzollern(9).ck3`, SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`. Własne `family_data/primary_spouse=62634` i lista `spouse` zawierają [Burkharda 62634](../62634/karta.md); jego rekord odwzajemnia tę relację. **Małżeństwo dokonane 3 I 1067** — dzień ślubu pochodzi z informacji gracza, stan małżeński z zapisu 29 I.
+
+**POTWIERDZONE_SAVE:** `court_data/employer=62634`, Irmengard jest teraz na dworze Burkharda. Wcześniejsze przebywanie u ojca Eberharda 31271 (18 IX 1066) pozostaje prawidłową historyczną obserwacją. Sprawdzone własne cechy `compassionate`, `zealous`, `humble`, `bossy`; bazowe umiejętności `[8,3,0,9,4,8]` bez zmiany. Wiek 16 na 29 I (urodzona 1 I 1051) — wyliczony z potwierdzonej daty urodzenia. Brak w sprawdzonym polu `child` nie rozstrzyga przyszłej historii rodziny. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md).
+
+
 ## Aktualizacja po 16 XI 1066 — małżeństwo
 
 **KOREKTA_AUTORA:** Irmengard, córka [Eberharda 31271](../31271/karta.md) i [Ity 31410](../31410/karta.md), poślubiła [Burkharda von Hohenzollern 62634](../62634/karta.md) **3 stycznia**; rok **1067** to WNIOSEK z chronologii po ostatnim save z 16 XI 1066, do potwierdzenia. Potwierdzenie gracza z 11 X 2026. Jest odtąd małżonką Burkharda; wcześniejszy stan zaręczyn z 16 XI 1066 pozostaje prawidłową migawką.
