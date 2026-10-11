@@ -1,5 +1,16 @@
 # Burkhard — CK3 ID 62634
 
+## Potwierdzenie nowego stanu — 29 I 1067 (POTWIERDZONE_SAVE)
+
+Źródło: `von_Hohenzollern(9).ck3`, SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`, CK3 1.20.0.4. [Szczegóły odczytu](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md).
+
+- **Małżonka:** [Irmengard von Nellenburg 38789](../38789/karta.md). W obu rekordach są wzajemne wpisy `primary_spouse` i `spouse`. **Ślub 3 I 1067:** data podana przez gracza; stan małżeński potwierdzony zapisem z 29 I.
+- **Religijność:** `roman_rite` związany z katolicyzmem; indywidualny `tenet_ora_et_labora`, `Spiritual Fulfillment=10`. Wcześniejszy ekran pokazywał określenie `Penitent`. Data przyjęcia osobistej zasady i przyczyny stanu duchowego są NIEUSTALONE.
+- **Sprawdzone cechy:** ambitny, pracowity, cierpliwy, `education_stewardship_3`, `lifestyle_gardener`, `intellect_good_2`; domena [1239,1240] i bazowe umiejętności [3,5,4,5,0,8] bez zmiany.
+- **Surowe zasoby:** złoto 21.65853, pobożność 56.35, prestiż 923.1808, XP zarządzania 187.5. Nie ustalono przyczyn wszystkich różnic od 16 XI.
+- **Wiek:** 16 (urodzenie 27 VII 1050). Starsze niżej opisywane zaręczyny to datowane migawki sprzed ślubu, nie obecny stan.
+
+
 ## Aktualizacja po 16 XI 1066 — ślub i indywidualne przekonania
 
 - **KOREKTA_AUTORA:** Burkhard zawarł małżeństwo z [Irmengard 38789](../38789/karta.md) **3 stycznia**, najprawdopodobniej **1067** (rok: WNIOSEK z chronologii po 16 XI 1066). Jest zięciem [Eberharda 31271](../31271/karta.md). Potwierdzenie gracza z 11 X 2026. Ceremonia zakończona; jej miejsce i szczegóły NIEUSTALONE. Zaręczyny na 16 XI 1066 pozostają faktem historycznej migawki.
