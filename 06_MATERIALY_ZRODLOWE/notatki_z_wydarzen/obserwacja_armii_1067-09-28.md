@@ -13,7 +13,7 @@ Otwarty panel **Armies in this location** wskazuje trzy odrębnie nazwane armie 
 | 1st Army of Schmalkalden | 392 |
 | **Suma wartości z panelu (OBLICZONE)** | **1 864** |
 
-Na prawo od środka mapy znajduje się osobny znacznik innej armii z liczbą **1 370**. Sam obraz nie pozwala jednoznacznie przypisać jej dowódcy, właściciela, uczestnictwa w wojnie lub relacji do trzech wymienionych armii.
+Na prawo od środka mapy znajduje się osobny znacznik innej armii z liczbą **1 370**. **Sam ten pierwotny obraz** nie identyfikuje jej dowódcy, ale **później nadesłany tooltip** `Zrzut ekranu 2026-10-11 193332.png` wyjaśnia: **1st Army of Villach**, **Duke Berthold II** (Commanded by Ruler), liczebność 1370, kierunek Grünningen, przybycie przewidywane 2 X 1067. Kalendarz nie jest widoczny w tooltipie, więc dzień obserwacji armii Villach wynika ze wskazanych 4 dni do celu oraz ciągłości screenów (WNIOSEK: ok. 28 IX). Podobieństwo odpowiadającego jej herbu i liczby usuwa roboczą niewiadomą, choć wcześniejszy samodzielny screen pozostaje dowodem wyłącznie pokazanych liczb. [Pełny dossier wojskowy](wojna_szwabska_1067_lipiec_listopad.md).
 
 Widoczna jest nazwa posiadłości **Hohenberg** na mapie, jednak sam panel `Armies in this location` nie podaje nazwy lokalizacji trzech armii: nie zapisywać, że wszystkie stały dokładnie w posiadłości Hohenberg. Zrzut nie pokazuje jednoznacznego raportu bitwy, rozstrzygnięcia oblężenia ani pokoju.
 
@@ -27,6 +27,6 @@ Widoczna jest nazwa posiadłości **Hohenberg** na mapie, jednak sam panel `Armi
 
 ## Zastosowanie fabularne
 
-W osi zachować datę i obecność armii, natomiast wojsku w prozie poświęcać uwagę tylko wtedy, gdy rzeczywiście wymaga tego akcja. **Nie dopisywać** dowódców armii Schmalkalden, rozkazów, bitew, zwycięstw, strat, odsieczy ani rozstrzygnięcia wojny. Obecność Burkharda osobiście w wojsku również nie jest potwierdzona tym ekranem.
+W osi zachować datę i obecność armii, natomiast wojsku w prozie poświęcać uwagę tylko wtedy, gdy rzeczywiście wymaga tego akcja. **Nie dopisywać** niepotwierdzonych dowódców armii Schmalkalden, rozkazów, bitew, zwycięstw, strat, odsieczy ani rozstrzygnięcia wojny. Obecność Burkharda osobiście w wojsku również nie jest potwierdzona tym ekranem.
 
 [Oś fabuły](../../01_KAMPANIA/os_fabuly.md) · [Kanon](../../01_KAMPANIA/stan_aktualny.md) · [Zbiorczy rejestr screenów](../indeks_screenow.md).
