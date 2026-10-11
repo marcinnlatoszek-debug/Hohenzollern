@@ -1,6 +1,6 @@
 # Indeks źródeł nowej kampanii
 
-Aktywny punkt odniesienia: **7 VI 1067**, save (10), SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Późniejsza obserwacja ekranowa: **1 VII 1067**. Historyczny punkt odniesienia: **29 I 1067**, save (9), SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`. [Raport odczytu wybranych pól](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md). Poprzednia migawka: 16 XI 1066, save (7), SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md). Historyczny punkt odniesienia: 20 X 1066, save o SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`. Alias `(6)` zweryfikowany 11 X 2026 jest identyczny z nowym uploadem `(1)` z 20 X. Historyczne aliasy `(1)` i `(2)` o innym hash oznaczają stan 18 IX. Dane dawnej kampanii nie obowiązują.
+Aktywny punkt odniesienia: **7 VI 1067**, save (10), SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Najnowsza obserwacja ekranowa: **28 IX 1067**, wcześniejsze: 1 VII i 19 VII 1067. Historyczny punkt odniesienia: **29 I 1067**, save (9), SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`. [Raport odczytu wybranych pól](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md). Poprzednia migawka: 16 XI 1066, save (7), SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md). Historyczny punkt odniesienia: 20 X 1066, save o SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`. Alias `(6)` zweryfikowany 11 X 2026 jest identyczny z nowym uploadem `(1)` z 20 X. Historyczne aliasy `(1)` i `(2)` o innym hash oznaczają stan 18 IX. Dane dawnej kampanii nie obowiązują.
 
 | Materiał | Zakres | Status |
 |---|---|---|
@@ -34,3 +34,7 @@ Po ostatnim odczytanym save 16 XI 1066 użytkownik potwierdził ślub Burkharda 
 ## Save (9) — 29 I 1067
 
 `von_Hohenzollern(9).ck3`, SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`: potwierdzono małżeństwo Burkhard–Irmengard, employer Irmengard u Burkharda, `tenet_ora_et_labora` i spełnienie duchowe Burkharda 10, wybrane stany zasobów i domeny. Datę ślubu 3 I 1067 podał gracz, a nie osobne odczytane pole datowania ślubu. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md). Brak fizycznej kopii binarnego save’a w publicznym repozytorium.
+
+## Ekran 28 IX 1067 — armie w jednym miejscu
+
+[Notatka źródłowa](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/obserwacja_armii_1067-09-28.md): data z kalendarza gry, panel `Armies in this location` dla Hohenbergu 750, Ulm 722, Schmalkalden 392; oddzielny znacznik 1370 o nieustalonej tożsamości. Nie ustalono wyniku oblężenia Baden ani bitwy. [Indeks screenów](../06_MATERIALY_ZRODLOWE/indeks_screenow.md).
