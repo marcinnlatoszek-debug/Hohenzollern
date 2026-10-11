@@ -1,6 +1,6 @@
 # Hohenzollern — nowa kampania
 
-**Aktualny save: 7 VI 1067; najnowszy screen: 28 IX 1067.** [Raport i dalsze obserwacje](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Wojna o Szwabię trwa od 28 IV; Burkhard dołączył 15 V. Hermann dołączył do strony przeciwnej 26 VI (powiadomienie ekranowe).
+**Ostatni zweryfikowany save: 7 VI 1067; najnowszy datowany screen: 13 XI 1067.** [Pełny rejestr kampanii wojennej i wojsk](06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). Bitwa pod Hohenbergiem udokumentowana 31 VII–23 VIII; Gunzelin ranny, do strony gracza dołączyli Egino II (2 XI) i Eberhard VI (12 XI). Wynik bitwy i wojny NIEUSTALONY. [Raport i dalsze obserwacje](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Wojna o Szwabię trwa od 28 IV; Burkhard dołączył 15 V. Hermann dołączył do strony przeciwnej 26 VI (powiadomienie ekranowe).
 
 **Poprzednia migawka: 29 I 1067**, CK3 **1.20.0.4**; `von_Hohenzollern(9).ck3`. [Raport zmian 16 XI → 29 I](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md). Potwierdzono w save małżeństwo Burkharda i Irmengard, przebywanie Irmengard na jego dworze oraz osobiste `Ora et Labora` i spełnienie duchowe 10. **Ślub 3 I 1067**: dokładny dzień pochodzi z relacji gracza, stan po ślubie z pliku gry.
 
@@ -24,4 +24,4 @@ Najnowszy odczyt dotyczy **wybranych sekcji**, nie kompletnego świata CK3. Obow
 Odczyt obejmuje wybrane pola 15 osób i wskazane struktury. Starsze analizy zachowują własne daty; lista mods bez zmiany.
 
 
-**Nowa migawka 28 IX 1067:** panel mapy potwierdza armie Hohenbergu, Ulm i Schmalkalden w jednym miejscu, bez potwierdzenia bitwy. [Notatka źródłowa](06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/obserwacja_armii_1067-09-28.md) · [Oś fabuły](01_KAMPANIA/os_fabuly.md).
+**Historyczna migawka 28 IX 1067:** panel mapy potwierdza armie Hohenbergu, Ulm i Schmalkalden w jednym miejscu, bez potwierdzenia bitwy. [Notatka źródłowa](06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/obserwacja_armii_1067-09-28.md) · [Oś fabuły](01_KAMPANIA/os_fabuly.md).
