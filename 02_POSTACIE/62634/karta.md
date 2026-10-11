@@ -1,5 +1,10 @@
 # Burkhard — CK3 ID 62634
 
+## Nowa migawka — 14 XI 1067
+
+**POTWIERDZONE_SAVE:** nadal hrabia Hohenbergu i mąż Irmengard 38789; wzajemne małżeństwo pozostaje w obu rekordach, nie odczytano dzieci w sprawdzonym `family_data`. Wciąż uczestnik strony broniącej w aktywnej wojnie `36` pod zwierzchnictwem Rudolfa 33226. **Gerhard 62635** dowodzi jego armią 388; **Gunzelin 65692 żyje** po ranieniu z 23 VIII. Nowy zapis potwierdza uczestnictwo **Egina II, Eberharda VI i Kuna 34995** po tej samej stronie. Siły z `landed_data`: `current_strength=745`, `strength=750`, `levy=147`, odrębne od widocznych na mapie liczebności armii. Domena `[1239,1240]` i indywidualne `tenet_ora_et_labora` zachowane. Wynik wojny NIEUSTALONY. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
+
+
 ## Udział wojenny — późniejsze ekrany 1067
 
 **POTWIERDZONE_SAVE na 7 VI:** Burkhard brał udział w obronie Rudolfa w wojnie o Szwabię od **15 V 1067**, armia Hohenbergu dowodzona w tej migawce przez Gerharda. **POTWIERDZONE_SCREEN:** `Battle of Hohenberg` widoczna na ekranach 31 VII, 6 VIII, 12 VIII i 23 VIII. W tej ostatniej migawce ranny zostaje **Gunzelin von Nordgau 65692**, członek dworu i rycerz Burkharda. Zrzuty **nie dowodzą osobistej obecności Burkharda na polu bitwy**, ostatecznego zwycięstwa ani śmierci rycerza.
