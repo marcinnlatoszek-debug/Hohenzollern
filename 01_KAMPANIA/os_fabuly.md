@@ -105,3 +105,7 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 **19 VII — rok 1067 wywnioskowany z chronologii:** panel Siege of Baden potwierdza trwające oblężenie przez armię Ulm. Dotychczasowy marsz z zamiarem oblężenia ma teraz potwierdzony dalszy etap. Dokładny dzień rozpoczęcia nadal NIEUSTALONY; nie wpisywać 19 VII jako daty rozpoczęcia. Zdobycie twierdzy i wynik wojny niepotwierdzone.
 
 [Screen i zakres odczytu](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). W fabule zachować fakt oblężenia, bez dopisanej bitwy, zdobycia miasta czy spotkania dowódców. Prognozy czasu i liczby wojsk pozostają w dokumentacji stanu.
+
+## Obserwacja 28 IX 1067 — armie w jednym miejscu
+
+**POTWIERDZONE_SCREEN:** panel `Armies in this location` na mapie w rejonie Hohenbergu wymienia 1. armię Hohenbergu, Ulm i Schmalkalden, wszystkie w jednej lokalizacji (liczebności w [notatce źródłowej](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/obserwacja_armii_1067-09-28.md)). Obok widoczny oddzielny znacznik czwartej armii, bez pewnej identyfikacji. **NIEUSTALONE:** miejsce wskazane przez panel, dowódcy tego dnia, strony wszystkich jednostek, rezultat oblężenia Baden i stan samej wojny na 28 IX. Obecność trzech armii nie stanowi dowodu bitwy, rozkazów ani sojuszu. W osi zachować jedynie fakt współobecności, bez rozbudowy opowieści o wojsku przed uzyskaniem dalszych zdarzeń.
