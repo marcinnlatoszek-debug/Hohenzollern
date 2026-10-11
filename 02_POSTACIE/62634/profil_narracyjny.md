@@ -33,3 +33,9 @@ Ambicja, pracowitość i cierpliwość mogą tworzyć młodego władcę, który 
 **WNIOSEK / kierunek fabuły, nie dopisane wydarzenie:** religijność wprowadzać stopniowo, przez pracę, gospodarowanie, decyzje moralne, wrażliwość na sens obowiązku oraz wiarygodne spotkania z kapelanem Helferichem. Nie stawiać jednorazowej sceny nawrócenia. Wiara Burkharda i gorliwość Irmengard mogą być jednym z tematów małżeństwa, lecz nie dowodzą zgodnych opinii ani konfliktu. Data i przyczyna ewentualnej zmiany duchowości pozostają NIEUSTALONE.
 
 [Oś fabuły](../../01_KAMPANIA/os_fabuly.md) · [Karta](karta.md)
+
+## Aktualizacja narracyjna po save z 29 I 1067
+
+**POTWIERDZONE_SAVE:** stan na 29 I 1067. Burkhard i Irmengard są małżonkami; Irmengard przebywa u niego na dworze. Własna zasada Burkharda `Ora et Labora` i spełnienie duchowe 10 występują w zapisie, lecz ich data powstania pozostaje NIEUSTALONA. **KOREKTA_AUTORA:** ślub odbył się 3 I 1067. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md).
+
+**Zasada dla opowiadania:** małżeństwo daje nowy kontekst codzienności i obowiązków, ale nie dowodzi określonych uczuć, rozmów, ceremonii, ciąży ani późniejszych decyzji. Wiara wyrażana stopniowo w działaniu i sposobie myślenia; nie dopisywać nieznanej dawnej winy Burkharda na podstawie ekranowej etykiety `Penitent`. Wydarzenia nie są jeszcze zapisanymi scenami.
