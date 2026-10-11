@@ -1,5 +1,13 @@
 # Burkhard — CK3 ID 62634
 
+## Aktualizacja po 16 XI 1066 — ślub i indywidualne przekonania
+
+- **KOREKTA_AUTORA:** Burkhard zawarł małżeństwo z [Irmengard 38789](../38789/karta.md) **3 stycznia**, najprawdopodobniej **1067** (rok: WNIOSEK z chronologii po 16 XI 1066). Jest zięciem [Eberharda 31271](../31271/karta.md). Potwierdzenie gracza z 11 X 2026. Ceremonia zakończona; jej miejsce i szczegóły NIEUSTALONE. Zaręczyny na 16 XI 1066 pozostają faktem historycznej migawki.
+- **POTWIERDZONE_SCREEN:** `Zrzut ekranu 2026-10-11 183732.png` (panel Personal Beliefs, data w grze **NIEUSTALONA**) — **Catholic Faith**, **Roman Rite**, osobista zasada **Ora et Labora**, **Spiritual Fulfillment: 10**, status **Penitent**. Zasada umożliwia korzystanie z `Develop Capital` i uzyskanie `Gardener`, lecz obraz nie dowodzi wykonania decyzji, daty zmiany przekonań ani określonego aktu pokuty.
+- **POTWIERDZONE_SCREEN — propozycja przed ślubem:** `Zrzut ekranu 2026-10-11 184600.png` — przy zamianie zaręczyn w małżeństwo gra przewidywała dzieci w domu von Hohenzollern. To nie dowód narodzin, zawartego na ekranie ślubu ani jego przebiegu.
+- **Interpretacja do opowieści:** [profil narracyjny](profil_narracyjny.md) i [oś fabuły](../../01_KAMPANIA/os_fabuly.md). Wiara stopniowo obecna w działaniu; nie cofać bez datowania późniejszych wartości religijnych do września 1066.
+
+
 **Źródło:** `von_Hohenzollern(7).ck3`, SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`, CK3 1.20.0.4, stan **16 XI 1066**. POTWIERDZONE_SAVE dla pól; OBLICZONE dla wieku i różnic.
 
 ## Bieżąca migawka — 16 XI
