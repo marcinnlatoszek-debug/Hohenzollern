@@ -5,7 +5,9 @@
 | 1066-09-16 | `von_Hohenzollern.ck3` | `453ae8b338c428b5ccd9ec4ce591d587969c70317922942642ee163b321edf57` | 72 844 529 B | 1.20.0.4 | **obserwacja historyczna**; skan 16 967 170 tokenów |
 | 1066-09-18 | `von_Hohenzollern(1).ck3` | `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941` | 73 103 324 B | 1.20.0.4 | **obserwacja historyczna**; skan 17 024 158 tokenów |
 | **1066-10-20** | **`von_Hohenzollern(1).ck3` (nowy upload; inny hash)** | `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0` | 74 504 886 B | 1.20.0.4 | **obserwacja historyczna**; CRC ZIP OK; [raport zmian](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md) | 
-| **1066-11-16** | **`von_Hohenzollern(7).ck3`** | `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670` | 75 746 069 B | 1.20.0.4 | **stan aktualny**; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md) |
+| **1066-11-16** | **`von_Hohenzollern(7).ck3`** | `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670` | 75 746 069 B | 1.20.0.4 | **obserwacja historyczna**; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md) |
+
+| **1067-01-29** | **`von_Hohenzollern(9).ck3`** | `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991` | 78 644 228 B | 1.20.0.4 | **stan aktualny (odczyt selektywny)**; małżeństwo i indywidualne przekonania Burkharda. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md) |
 
 Daty pochodzą ze struktury Jomini zapisów (`meta_date`), a nie z modyfikacji plików na dysku. Nie łączyć stanów obu dat bez chronologicznego oznaczenia.
 
@@ -41,3 +43,7 @@ Przesłano nową zawartość pod **ponownie używaną nazwą** `von_Hohenzollern
 ## Save (7) — 11 X 2026
 
 **Źródło:** `von_Hohenzollern(7).ck3`, SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`, CK3 1.20.0.4, stan **16 XI 1066**. POTWIERDZONE_SAVE dla pól; OBLICZONE dla wieku i różnic. Kontener 12 464 550 B, CRC poprawne; Rakaly 0.8.21, --unknown-key error. 27 dni po 20 X. [Zakres odczytu](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md). Oryginał niezmieniony; nie dodano binarnego .ck3 do publicznego repozytorium.
+
+## Save (9) — 11 X 2026
+
+`von_Hohenzollern(9).ck3`, 13 044 374 B, SHA-256 `adf79a1b8cecc8909850356c1df81d24a2c04cacd4528f33e16ed10129d8d991`, `gamestate` 78 644 228 B. Data z binarnego `meta_date`: **29 I 1067**, CK3 1.20.0.4. ZIP CRC poprawne. Odczytano wskazane sekcje własnych rekordów Burkharda 62634, Irmengard 38789, Rudolfa 33226, wybrane pola domeny i zasobów. Nie przeprowadzono pełnego audytu wszystkich mechanik ani świata. Zapis nie był modyfikowany i nie został wgrany do publicznego repozytorium. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md).
