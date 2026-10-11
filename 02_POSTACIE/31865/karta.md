@@ -1,5 +1,12 @@
 # Berthold — CK3 ID 31865
 
+## Jesienna obserwacja armii Villach — ok. 28 IX 1067
+
+**POTWIERDZONE_SCREEN:** tooltip `1st Army of Villach` pokazuje **1370** żołnierzy i dowódcę `Duke Berthold II`, `Commanded by Ruler`. Marsz w stronę **Grünningen**, przewidywane przybycie **2 X 1067** (4 dni od ekranu, bez dowodu dotarcia). **WNIOSEK identyfikacyjny:** dowódca z tooltipu jest zgodny z [Bertholdem ID 31865](karta.md), księciem Karyntii i dotychczas potwierdzonym inicjatorem wojny o Szwabię; sam tooltip nie podaje ID. Nie utożsamiać prognozy marszu z faktycznym miejscem stoczenia bitwy.
+
+[Źródła](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+
 ## Potwierdzenie — 7 VI 1067
 
 **POTWIERDZONE_SAVE:** `von_Hohenzollern(10).ck3`, SHA-256 `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4`, CK3 1.20.0.4, **7 VI 1067**. Atakujący w wojnie 36 rozpoczętej 28 IV 1067 przeciw Rudolfowi o roszczenie własnego syna Hermanna 38078 do Szwabii (1216), claim_cb. Wojna nadal aktywna; nie potwierdzono wyniku. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md).
