@@ -48,3 +48,7 @@ Analizować sukcesję, roszczenia, wojny, frakcje, schematy, relacje, zasoby i o
 
 ## Referencje wizualne
 Czytelne, zatwierdzone screeny nowej kampanii służą jako wzorce wyglądu. Zachować twarz, włosy, oczy, wiek i charakterystyczne cechy; nie tworzyć faktów na podstawie samej ilustracji. Nie odtwarzać wzorców starej kampanii z pamięci.
+
+## Ustalenie gracza — 11 X 2026: oś fabuły i sposób opowiadania
+
+Potwierdzone wydarzenia zachowywać w [osi fabuły](01_KAMPANIA/os_fabuly.md), z datą lub przedziałem i źródłem. Wojsko przedstawiać tylko jako faktyczny stan, gdy wymaga tego sytuacja; same zmiany liczb nie są nowym wydarzeniem fabularnym. Postacie wprowadzać naturalnie przez działanie, obowiązki i relacje, ujawniając potrzebne informacje stopniowo. Zdarzenie zapisane w osi nie oznacza napisanej sceny ani wiedzy bohatera. Zegar fabuły pozostaje odrębny od ostatniej daty save’a.

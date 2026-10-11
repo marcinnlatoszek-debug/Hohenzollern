@@ -22,3 +22,5 @@ Ponowny odczyt tego samego save’a 18 IX 1066: dziewięć postaci, surowe XP, j
 [Weryfikacja związku i rad na 20 X](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/weryfikacja_1066-10-20_2026-10-11.json): obustronne zaręczyny, daty zmian rad i ich surowe pola; [uzgodniony raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md).
 
 [Transkrypcja porównania 20 X → 16 XI](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/porownanie_1066-10-20_1066-11-16.json).
+
+[Oś fabuły](../01_KAMPANIA/os_fabuly.md) wiąże datowane wydarzenia z raportami i oddziela tło autora od faktów save’a. Nie jest zapisem ukończonych scen.

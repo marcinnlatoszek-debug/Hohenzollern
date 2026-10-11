@@ -3,6 +3,7 @@
 Aktualny stan: **16 XI 1066**, CK3 **1.20.0.4**. Obowiązuje reset poprzedniej kampanii z 10 X 2026; poniższe dane pochodzą wyłącznie z nowych zapisów. Nie przywracać dawnego kanonu z historii Git.
 
 - [Stan aktualny](01_KAMPANIA/stan_aktualny.md)
+- [Oś fabuły: wydarzenia i zasady wprowadzania postaci](01_KAMPANIA/os_fabuly.md)
 - [Zmiany 18 IX → 20 X 1066](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md)
 - [Szwabia: polityka, władcy i rodziny](07_ANALIZY/rozpoznania_poczatkowe/odczyt_szwabia_1066-09-18.md)
 - [Indeks postaci: 112 odczytanych rekordów](02_POSTACIE/indeks_postaci.md)
