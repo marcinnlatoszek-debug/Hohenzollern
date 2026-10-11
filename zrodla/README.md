@@ -24,3 +24,7 @@ Ponowny odczyt tego samego save’a 18 IX 1066: dziewięć postaci, surowe XP, j
 [Transkrypcja porównania 20 X → 16 XI](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/porownanie_1066-10-20_1066-11-16.json).
 
 [Oś fabuły](../01_KAMPANIA/os_fabuly.md) wiąże datowane wydarzenia z raportami i oddziela tło autora od faktów save’a. Nie jest zapisem ukończonych scen.
+
+## Późniejsze potwierdzenie gracza i screeny religii/małżeństwa — 11 X 2026
+
+Po ostatnim odczytanym save 16 XI 1066 użytkownik potwierdził ślub Burkharda 62634 i Irmengard 38789 **3 stycznia** (rok 1067: WNIOSEK z chronologii, wymaga potwierdzenia z nowego stanu gry). Zrzut `Zrzut ekranu 2026-10-11 183732.png` dotyczy indywidualnej religijności Burkharda (Ora et Labora, Penitent, Spiritual Fulfillment 10); `Zrzut ekranu 2026-10-11 184600.png` dotyczy propozycji małżeństwa jeszcze przed ślubem. Daty w świecie gry na obu obrazach NIEUSTALONE. [Indeks screenów](../06_MATERIALY_ZRODLOWE/indeks_screenow.md), [oś fabuły](../01_KAMPANIA/os_fabuly.md). Oryginalne PNG są załącznikami rozmowy, nie plikami repozytorium.
