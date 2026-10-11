@@ -1,3 +1,13 @@
+# Kanon — uzupełnienie po ostatnim save
+
+**Ostatni technicznie zweryfikowany stan gry:** 16 XI 1066, `von_Hohenzollern(7).ck3`. Poniższe nowsze informacje pochodzą z potwierdzenia gracza i zrzutów ekranu; **nie** z nowego odczytu save’a.
+
+- **KOREKTA_AUTORA:** 3 stycznia odbył się ślub [Burkharda 62634](../02_POSTACIE/62634/karta.md) z [Irmengard 38789](../02_POSTACIE/38789/karta.md). **Rok 1067 jest WNIOSKIEM** wynikającym z daty ostatniego save’a, do potwierdzenia przy kolejnym materiale. Dotychczasowe zaręczyny, udokumentowane na 16 XI 1066, są prawdziwą wcześniejszą migawką. [Oś fabuły](os_fabuly.md).
+- **POTWIERDZONE_SCREEN, bez daty gry:** ekran `Zrzut ekranu 2026-10-11 183732.png` przedstawia osobistą zasadę Burkharda `Ora et Labora`, `Spiritual Fulfillment=10`, `Penitent` oraz katolicyzm i obrządek rzymski. Wcześniejszy save potwierdza już jego katolicką wiarę i obrządek; nie datować pozostałych pól wstecz.
+- **POTWIERDZONE_SCREEN — stan przed ślubem:** `Zrzut ekranu 2026-10-11 184600.png` pokazuje interakcję zamiany zaręczyn w małżeństwo, nie ukończony ślub. Data ceremonii wynika z wypowiedzi gracza. Miejsce i przebieg ceremonii NIEUSTALONE.
+
+---
+
 # Kanon nowej kampanii — 16 XI 1066
 
 **Źródło:** `von_Hohenzollern(7).ck3`, SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`, CK3 1.20.0.4, stan **16 XI 1066**. POTWIERDZONE_SAVE dla pól; OBLICZONE dla wieku i różnic.
