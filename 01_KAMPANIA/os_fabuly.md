@@ -106,6 +106,23 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 
 [Screen i zakres odczytu](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). W fabule zachować fakt oblężenia, bez dopisanej bitwy, zdobycia miasta czy spotkania dowódców. Prognozy czasu i liczby wojsk pozostają w dokumentacji stanu.
 
+## Bitwa pod Hohenbergiem — lato 1067
+
+**POTWIERDZONE_SCREEN:** kolejne migawki zatytułowane `Battle of Hohenberg` poświadczają walkę wojsk hrabstwa z atakującymi **31 VII, 6 VIII, 12 VIII i 23 VIII 1067**. Data rozpoczęcia i zakończenia bitwy oraz jej ostateczny wynik pozostają **NIEUSTALONE**. Herb przeciwników odpowiada wcześniej obserwowanej armii Breisgau (WNIOSEK z heraldyki, nie identyfikacja dowódcy). Nie oznaczać zmieniających się liczb jako potwierdzonych poległych ani rozstrzygnięcia.
+
+**23 VIII 1067 — potwierdzony komunikat o ranieniu [Gunzelina von Nordgau 65692](../02_POSTACIE/65692/karta.md)** w trakcie bitwy przez żołnierza wroga. To pierwsze pewne wydarzenie bezpośrednio dotyczące jednego z rycerzy Burkharda w opisanej walce. Jego śmierć, przebieg leczenia i dalszy stan zdrowia NIEUSTALONE. Nie twierdzić, że Burkhard osobiście dowodził bitwą; jego urzędnik/rycerz uczestniczył w walce.
+
+[Liczebności, stan regimentów i wszystkie cztery ekrany](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). W fabule trzymać się wydarzenia i skutku dla dworu, szczegóły militarne pozostawić w rejestrze technicznym.
+
 ## Obserwacja 28 IX 1067 — armie w jednym miejscu
 
-**POTWIERDZONE_SCREEN:** panel `Armies in this location` na mapie w rejonie Hohenbergu wymienia 1. armię Hohenbergu, Ulm i Schmalkalden, wszystkie w jednej lokalizacji (liczebności w [notatce źródłowej](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/obserwacja_armii_1067-09-28.md)). Obok widoczny oddzielny znacznik czwartej armii, bez pewnej identyfikacji. **NIEUSTALONE:** miejsce wskazane przez panel, dowódcy tego dnia, strony wszystkich jednostek, rezultat oblężenia Baden i stan samej wojny na 28 IX. Obecność trzech armii nie stanowi dowodu bitwy, rozkazów ani sojuszu. W osi zachować jedynie fakt współobecności, bez rozbudowy opowieści o wojsku przed uzyskaniem dalszych zdarzeń.
+**POTWIERDZONE_SCREEN:** panel `Armies in this location` na mapie w rejonie Hohenbergu wymienia 1. armię Hohenbergu, Ulm i Schmalkalden, wszystkie w jednej lokalizacji (liczebności w [notatce źródłowej](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/obserwacja_armii_1067-09-28.md)). Obok widoczny oddzielny znacznik czwartej armii; **jego późniejsza identyfikacja ekranowa** wskazuje armię Villach księcia Bertholda II (1370), co na samym pierwotnym obrazie pozostawało nieustalone. **NIEUSTALONE:** miejsce wskazane przez panel, dowódcy tego dnia, strony wszystkich jednostek, rezultat oblężenia Baden i stan samej wojny na 28 IX. Obecność trzech armii nie stanowi dowodu bitwy, rozkazów ani sojuszu. W osi zachować jedynie fakt współobecności, bez rozbudowy opowieści o wojsku przed uzyskaniem dalszych zdarzeń.
+
+## Dalszy rozwój wojny — listopad 1067
+
+| Data wydarzenia | Potwierdzenie ekranowe | Znaczenie dla fabuły i ograniczenia |
+|---|---|---|
+| **2 XI 1067** | **Egino II z Zollern** dołącza do wojny po stronie gracza (powiadomienie na ekranie 7 XI) | Władca Zollern, powiązanego z utratą dawnego majątku rodziny Burkharda, staje się uczestnikiem tej samej strony konfliktu. **Nie dowodzi to pojednania, osobistej umowy ani rozmowy z Burkhardem.** |
+| **12 XI 1067** | **Eberhard VI von Nellenburg** dołącza do wojny po stronie gracza (powiadomienie na ekranie 13 XI) | Udział teścia Burkharda w wojnie jest odrębny od istniejącego wcześniej sojuszu dynastycznego. Nie dopisywać okoliczności decyzji, marszu ani spotkania z zięciem. |
+
+[Źródła i oddzielne stany wojsk](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). Najnowszy ekran datowany **13 XI 1067**; ostatni odczytany save nadal z **7 VI 1067**. **Wynik wojny pozostaje niepotwierdzony.** Oś nie przesuwa automatycznie zegara opowieści, a wydarzenia nie są gotowymi scenami.
