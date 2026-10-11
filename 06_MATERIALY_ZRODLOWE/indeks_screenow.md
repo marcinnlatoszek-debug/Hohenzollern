@@ -41,3 +41,13 @@ Dodatkowy screen: `Zrzut ekranu 2026-10-10 192419.png` — Personality Summary d
 - Oryginalne PNG mają identyfikatory załączników dostępne w dokumentach `zrodla.md`, ale nie są dostępne jako pliki graficzne z przeglądarki GitHub.
 - Odczyt najnowszego `von_Hohenzollern(3).ck3` nie został tu przeprowadzony; traity w kartach dotyczą save’a z **18 IX 1066**.
 - Opis portretu dowodzi wyglądu **w kadrze**, nie niezmiennego stroju, charakteru ani czynów postaci.
+
+## Obserwacje wojenne — dodane 11 X 2026
+
+| Oryginalny plik | Data gry widoczna | Zakres |
+|---|---|---|
+| Zrzut ekranu 2026-10-11 190351.png | 15 V 1067 | Okno Offer to Join War; wojna o roszczenie Hermanna do Szwabii |
+| Zrzut ekranu 2026-10-11 190443.png | NIEUSTALONA — przycięty panel | Wystawiona armia Hohenbergu: 751, stoi |
+| Zrzut ekranu 2026-10-11 190548.png | 16 V 1067 | Ogólny stan wojska i rycerzy; Konrad z Rottweil jako rycerz |
+
+[Pełna transkrypcja, identyfikatory źródeł i granice wnioskowania](notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Obrazy odczytano bezpośrednio; błędny wcześniejszy komunikat o braku plików nie opisuje wyniku odczytu.

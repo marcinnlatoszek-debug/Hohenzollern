@@ -50,3 +50,13 @@ Relacje wyznaczają naturalne powody obecności: Konrad z Rottweil przy sprawie 
 Rodzinne obciążenie Burkharda można odsłaniać stopniowo przez pamięć ojca i znaczenie Zollern. Nie zamieniać wejścia postaci w odczyt jej karty. Charakter ujawniać w wyborach, zachowaniu i rozmowie; fakty o wieku, urzędzie i pokrewieństwie podawać wtedy, gdy pomagają zrozumieć sytuację.
 
 **Pamięć scen:** brak nowych scen w tej aktualizacji. Wydarzenia pozostają materiałem dla autora; nie zastąpiono nimi rozegranych scen ani nie dopisano spotkań.
+
+## Późniejsze obserwacje — maj 1067
+
+| Czas | Fakt do zachowania | Status i granica |
+|---|---|---|
+| 15 V 1067 | Trwa wojna karyncka o roszczenie hrabiego Hermanna do Szwabii; Rudolf występuje po stronie obronnej. Otwarto możliwość zaoferowania mu wsparcia. | POTWIERDZONE_SCREEN; nie potwierdzono wysłania oferty ani wejścia Burkharda do wojny |
+| Data nieustalona w przyciętym panelu | Wystawiona armia Hohenbergu stoi; portret wskazuje Gerharda jako dowódcę. | POTWIERDZONE_SCREEN dla stanu armii, WNIOSEK wizualny dla tożsamości dowódcy; bez daty zbiórki, miejsca i celu |
+| 16 V 1067 | Gerhard, Gunzelin i Konrad z Rottweil są rycerzami; Gerhard jest też dowódcą. | POTWIERDZONE_SCREEN; nie datować początku obowiązków Konrada wstecz |
+
+[Źródła i dokładny stan wojska](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Nie dopisano scen wojennych, marszu, skutecznego dołączenia do wojny ani przyjaźni z Rudolfem. Wprowadzenie Gerharda i Konrada wynika z ich rzeczywistych obowiązków, gdy scena będzie ich wymagała.

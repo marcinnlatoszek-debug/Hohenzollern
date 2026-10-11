@@ -1,5 +1,10 @@
 # Gerhard — CK3 ID 62635
 
+## Późniejsza obserwacja — 16 V 1067
+
+**POTWIERDZONE_SCREEN:** Na ekranie z 16 V 1067 Gerhard jest opisany jako Marshal, Commander and Knight, z prowess 11. Zgodność portretu w niedatowanym panelu armii wskazuje go jako jej dowódcę (WNIOSEK wizualny). [Źródło i zakres](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Wartość ekranowa nie nadpisuje bazowych statystyk starszego save’a.
+
+
 ## Referencje ekranowe i narracyjne — aktualizacja dokumentacji 10 X 2026
 
 **Dopisek aktualizacyjny:** Poprzednie oznaczenia „wygląd NIEUSTALONY” lub „brak screena” w historycznych partiach karty należy czytać jako stan sprzed otrzymania opisanych poniżej materiałów. Późniejsze screeny nie aktualizują automatycznie wartości save’a z 18 IX 1066.

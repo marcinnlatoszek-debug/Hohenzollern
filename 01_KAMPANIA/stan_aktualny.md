@@ -1,5 +1,7 @@
 # Kanon — uzupełnienie po ostatnim save
 
+**Najnowsza datowana obserwacja ekranowa: 16 V 1067.** [Wojna i wojsko — źródła](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_i_armia_1067-05-15_16.md). Na 15 V widoczne jest okno oferty dołączenia do obrony Rudolfa w wojnie o roszczenie Hermanna do Szwabii; nie potwierdzono przyjęcia oferty. Na 16 V panel wskazuje 752 żołnierzy łącznie, 1 niewystawionego i trzech rycerzy: Gerharda, Gunzelina oraz Konrada z Rottweil. To późniejsza, częściowa migawka ekranowa; nie aktualizuje automatycznie reszty świata z save’a.
+
 **Ostatni technicznie zweryfikowany stan gry:** 16 XI 1066, `von_Hohenzollern(7).ck3`. Poniższe nowsze informacje pochodzą z potwierdzenia gracza i zrzutów ekranu; **nie** z nowego odczytu save’a.
 
 - **KOREKTA_AUTORA:** 3 stycznia odbył się ślub [Burkharda 62634](../02_POSTACIE/62634/karta.md) z [Irmengard 38789](../02_POSTACIE/38789/karta.md). **Rok 1067 jest WNIOSKIEM** wynikającym z daty ostatniego save’a, do potwierdzenia przy kolejnym materiale. Dotychczasowe zaręczyny, udokumentowane na 16 XI 1066, są prawdziwą wcześniejszą migawką. [Oś fabuły](os_fabuly.md).
