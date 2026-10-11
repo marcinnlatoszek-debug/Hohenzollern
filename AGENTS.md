@@ -1,6 +1,6 @@
 # Praca nad projektem Hohenzollern
 
-Przeczytaj README.md, Zasady-projektu.md i zrodla/README.md. Aktywny stan nowej kampanii: 7 VI 1067 (ostatni odczytany save), 13 XI 1067 (najnowszy datowany screen); szczegóły w 01_KAMPANIA/stan_aktualny.md oraz w 06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md. Nie ma zatwierdzonej pamięci scen. Obowiązuje reset z 10 X 2026: nie przywracaj danych żadnej poprzedniej kampanii z historii Git, dawnych zapisów ani pamięci rozmów. Nowy kanon może powstać dopiero z nowych źródeł zaakceptowanych przez użytkownika.
+Przeczytaj README.md, Zasady-projektu.md i zrodla/README.md. Aktywny stan nowej kampanii: **14 XI 1067** (ostatni zweryfikowany save), 13 XI 1067 (najnowszy datowany screen); szczegóły w 01_KAMPANIA/stan_aktualny.md oraz w 06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md. Nie ma zatwierdzonej pamięci scen. Obowiązuje reset z 10 X 2026: nie przywracaj danych żadnej poprzedniej kampanii z historii Git, dawnych zapisów ani pamięci rozmów. Nowy kanon może powstać dopiero z nowych źródeł zaakceptowanych przez użytkownika.
 
 Najpierw sprawdź nowy start według zrodla/Kontrola-nowego-startu.md. Materiały o modach są katalogiem referencyjnym, nie potwierdzoną konfiguracją. Wykluczono 7 pozycji: Regnum Teutonicum, Weight of Crown Fork, Immersive Domain Management, Immersive Realm Laws, Zeitgeist: Situation & Struggle, Additional Lifestyles i nieustalony mod Workshop 3790487196. Nie przypisuj ich mechanik nowej kampanii. Roboczy zestaw to 17 kandydatów, w tym Populated World! warunkowo. Nie myl planu z potwierdzonym playsetem. Nie przypisuj przyczyny błędu konkretnemu modowi bez weryfikacji.
 
@@ -17,3 +17,7 @@ Gracz zatwierdził rozpoznane mody jako zweryfikowane i dopuścił je do kanonu.
 ## Prowadzenie fabuły — ustalenie gracza 11 X 2026
 
 Aktualizuj 01_KAMPANIA/os_fabuly.md po potwierdzonych wydarzeniach. Zachowuj niepewne daty jako przedziały. Liczby wojsk podawaj tylko, gdy potrzebne do stanu faktycznego; nie buduj z ich zmiany niepotwierdzonego zdarzenia. Postacie wprowadzaj naturalnie przez działania i relacje, zgodnie z zasadami projektu. Oś wydarzeń nie jest pamięcią napisanych scen.
+
+## Reguła nadrzędności stanu mechanicznego — 14 XI 1067
+
+Przy rozbieżnościach **nowszy odczytany save CK3 ma pierwszeństwo co do stanu mechanicznego i dat zapisanych we własnych rekordach**. Zrzuty zachowują znaczenie jako odrębne datowane źródła wcześniejszych obserwacji oraz powiadomień; nie wolno ich automatycznie utożsamiać z dniem wpisu uczestnika w `active_wars`. Najnowszy raport: `07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md`. Wojna ID 36 nadal aktywna; uczestnictwo Hermanna 21 VI, Egina II 28 X, Eberharda VI 7 XI, Kuna 13 XI. Błędna dawna interpretacja metadanych save (9) jako 29 I została skorygowana: **2 II 1067**. Nie uzupełniać wyników bitwy lub strat na podstawie niezweryfikowanych flag.
