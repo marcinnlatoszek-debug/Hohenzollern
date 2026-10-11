@@ -1,6 +1,6 @@
 # Oś fabuły — Hohenberg i Szwabia
 
-**Początek historii:** drugi zapis, 18 IX 1066, zgodnie z ustaleniem gracza. **Ostatni stan mechaniczny z odczytanego save’a:** 16 XI 1066. **Późniejszy fakt potwierdzony przez gracza:** ślub Burkharda i Irmengard 3 I (rok 1067 wywnioskowany z chronologii, do weryfikacji przy następnym zapisie). Oś zachowuje wydarzenia do późniejszego wykorzystania; nie oznacza, że napisano sceny ani że zegar narracji doszedł do tej daty.
+**Początek historii:** drugi zapis, 18 IX 1066, zgodnie z ustaleniem gracza. **Ostatni zweryfikowany save (selekt. odczyt):** 29 I 1067. **Ślub Burkharda i Irmengard:** 3 I 1067 (dzień podany przez gracza; rok i istnienie małżeństwa zgodne z nowym save’em). Oś zachowuje wydarzenia do późniejszego wykorzystania; nie oznacza, że napisano sceny ani że zegar narracji doszedł do tej daty.
 
 ## Ustalenie redakcyjne gracza — 11 X 2026
 
@@ -32,11 +32,15 @@
 | 11 XI 1066 | Manfred 57580 został lekarzem Rudolfa, zachowując obowiązki kapelana | POTWIERDZONE_SAVE: stanowisko 401 i zadanie 9882 | Nie dopisywać choroby księcia ani powodu nominacji |
 | Stan 16 XI 1066; moment zmiany nieustalony | Eberhard rozwija prowincję 2768, Hupold szkoli dowódców | POTWIERDZONE_SAVE: zmiana zadań 9879 i 9880 | Zadanie nie potwierdza ukończonej inwestycji ani wyszkolonego dowódcy |
 | Stan 16 XI 1066; moment zmiany nieustalony | Ezzo wskazany w diarchy_successor Burkharda zamiast Helfericha | POTWIERDZONE_SAVE: playable_data | Nie dowodzi aktywnej regencji, nieobecności lub niezdolności hrabiego |
-| 3 I 1067 (rok: WNIOSEK, do potwierdzenia) | **Ślub Burkharda 62634 i Irmengard 38789**; od tej daty małżonkowie, Eberhard 31271 teściem Burkharda | **KOREKTA_AUTORA:** potwierdzenie gracza z 11 X 2026; rok wnioskowany z ostatniej migawki 16 XI 1066 | Ślub jest dokonany, ale miejsce, celebrans, świadkowie, obrzędy i przebieg uroczystości NIEUSTALONE. Ekran „Arrange Marriage” sprzed ślubu był propozycją, nie dowodem ceremonii. |
+| 3 I 1067 | **Ślub Burkharda 62634 i Irmengard 38789**; Eberhard 31271 teściem Burkharda | **KOREKTA_AUTORA (data dnia)**: potwierdzenie gracza; **POTWIERDZONE_SAVE (stan po wydarzeniu)**: wzajemne małżeństwo w save 29 I 1067 | Ślub dokonany; miejsce, celebrans, świadkowie, obrzędy i przebieg ceremonii NIEUSTALONE. Ekran wcześniejszej propozycji nie był dokumentacją przebiegu ślubu. |
 
 [Odczyt i korekty 18 IX → 20 X](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md) · [Porównanie 20 X → 16 XI i pola źródłowe](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md) · [Aktualny stan mechaniczny](stan_aktualny.md).
 
 ## Religijność Burkharda — rozwój w toku opowieści
+
+**Nowe potwierdzenie na 29 I 1067:** save (9) zawiera osobiste `tenet_ora_et_labora`, wartość spełnienia duchowego 10, a także wzajemne powiązanie małżonków. Nie datować przyjęcia tego przekonania na dzień ślubu bez źródła. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-11-16_do_1067-01-29.md).
+
+
 
 - **Ustalone już we wrześniu 1066 (SAVE):** Burkhard wyznaje wiarę katolicką i należy do obrządku rzymskiego. Nie oznacza to, że wówczas znamy wszystkie jego indywidualne przekonania.
 - **Późniejsza obserwacja z panelu Personal Beliefs:** „Ora et Labora” (osobista zasada „Módl się i pracuj”), „Spiritual Fulfillment: 10” oraz „Penitent”. Zrzut `Zrzut ekranu 2026-10-11 183732.png`; **data w świecie gry NIEUSTALONA**. Widoczne mechaniki to dostęp do `Develop Capital` i możliwość uzyskania `Gardener`, nie dowód wykonania decyzji ani daty nadania cechy.
