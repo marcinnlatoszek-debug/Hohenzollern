@@ -1,4 +1,7 @@
-# Helene (Helena) — osobista lekarka Hohenbergu — CK3 ID NIEUSTALONE
+# Helene (Helena) — osobista lekarka Hohenbergu — CK3 ID 52665 (pierwotna karta ekranowa)
+
+**Uzgodnienie 11 X 2026:** ID **52665** potwierdzone w save’ach 20 X i 16 XI; lekarka od 17 X. [Aktualna karta i rozszyfrowane cechy](../52665/karta.md). Starsze oznaczenia ID, daty przybycia i traitów jako NIEUSTALONE opisują etap sprzed tego odczytu. Ścieżkę zachowano dla istniejących linków.
+
 
 **Status:** ROZPOZNANA_SCREEN, ID **NIEUSTALONE**. Robocza karta bez przypisania do dowolnego numerycznego ID. **Źródło:** dwa obrazy z rozgrywki z 11 X 2026; nazwa eksportu portretu podaje **20 X 1066**. Na samych ekranach nie ma niezależnego kalendarza gry.
 

@@ -1,5 +1,10 @@
 # Indeks postaci — 112 własnych rekordów, 18 IX 1066
 
+## Uzupełnienie — 16 XI 1066
+
+[Helene 52665](52665/karta.md), lat 31, lekarka Hohenbergu od 17 X; identyfikacja zastępuje robocze ID NIEUSTALONE. [Uta 38685](38685/karta.md): 15 lat, nowo odczytane zaręczyny z Adalbertem. Historyczny spis 112 osób poniżej zachowuje datę 18 IX. [Zmiany 20 X → 16 XI](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md).
+
+
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 
 Odczytano **112 postaci: 100 żyjących i 12 zmarłych**. Wszystkie 30 wcześniejszych kart odniesień rodzinnych mają teraz imię i odczyt własnego rekordu. Dodano 62 karty do wcześniejszych 50. Zakres: główni władcy, rodziny, dwory regionalne, rady, faktyczni lennicy Rudolfa i Bertholda oraz wybrani elektorzy/kandydaci cesarscy. Nie jest to pełny spis świata.

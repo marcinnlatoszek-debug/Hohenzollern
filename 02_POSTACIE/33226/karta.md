@@ -1,5 +1,12 @@
 # Rudolf — CK3 ID 33226
 
+**Źródło:** `von_Hohenzollern(7).ck3`, SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`, CK3 1.20.0.4, stan **16 XI 1066**. POTWIERDZONE_SAVE dla pól; OBLICZONE dla wieku i różnic.
+
+## Zmiany — 16 XI
+
+crown_authority_1 zastąpiło crown_authority_0. Siły 775 / 775 / 572. Obsada rady bez zmian; Eberhard rozwija prowincję 2768, Hupold szkoli dowódców. Manfred dodatkowo lekarzem od 11 XI. Sojusz z Ludwigiem 31145 i wpis z Utą 38685 przez zaręczyny Uty z Adalbertem 34032. diarchy_successor nadal Burkhard 62634. Dokładny dzień zmiany prawa i zaręczyn NIEUSTALONY. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md).
+
+
 ## Sprawdzone zmiany rady — 20 X 1066
 
 **POTWIERDZONE_SAVE:** kanclerz [Louis 31737](../31737/karta.md), zadanie 9878, `last_councillor_change=1066.10.2`; mistrz intryg [Burkhard 62634](../62634/karta.md), zadanie 9881, `last_councillor_change=1066.10.3`. Ponowny odczyt aliasu `(6)` 11 X 2026; stan gry nadal 20 X. [Chronologia rad](../../04_OTOCZENIE_WLADCY/rada.md). Poniższe dane z 18 IX są migawką historyczną.

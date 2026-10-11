@@ -1,5 +1,12 @@
 # Burkhard — CK3 ID 62634
 
+**Źródło:** `von_Hohenzollern(7).ck3`, SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`, CK3 1.20.0.4, stan **16 XI 1066**. POTWIERDZONE_SAVE dla pól; OBLICZONE dla wieku i różnic.
+
+## Bieżąca migawka — 16 XI
+
+Nadal narzeczony Irmengard i mistrz intryg Rudolfa. Rada, domena, cechy i bazowe umiejętności bez zmian. Złoto 17.694; pobożność 52.5; prestiż 721.2672; XP zarządzania 75. Siły 611 / 751 / 149, po 22 niższe niż 20 X. diarchy_successor=65691 (Ezzo), wcześniej Helferich; nie dowodzi aktywnej regencji. Sukcesja tytułów nadal Rudolf. Sojusz z Eberhardem zapisany bezpośrednio w obu save’ach. [Lekarka Helene 52665](../52665/karta.md) od 17 X. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md). Poniżej zachowano wcześniejsze datowane migawki.
+
+
 ## Nowy stan — 20 X 1066 (POTWIERDZONE_SAVE)
 
 **Weryfikacja 11 X 2026:** alias `von_Hohenzollern(6).ck3` ma identyczny SHA-256 i stan 20 X 1066. Ponowny odczyt Rakaly 0.8.21 z `--unknown-key error` skorygował wcześniejsze błędne przypisanie małżeństwa: oba rekordy zawierają `betrothed`, nie `primary_spouse`. [Wybrane surowe pola](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/weryfikacja_1066-10-20_2026-10-11.json).

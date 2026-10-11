@@ -1,3 +1,24 @@
+# Kanon nowej kampanii — 16 XI 1066
+
+**Źródło:** `von_Hohenzollern(7).ck3`, SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`, CK3 1.20.0.4, stan **16 XI 1066**. POTWIERDZONE_SAVE dla pól; OBLICZONE dla wieku i różnic.
+
+**27 dni po 20 X** (OBLICZONE). [Raport zmian](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md) · [Pola źródłowe](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/porownanie_1066-10-20_1066-11-16.json).
+
+- Burkhard 62634 i Irmengard 38789 nadal zaręczeni; własne traity i bazowe umiejętności Burkharda bez zmiany.
+- Domena [1239,1240] bez zmiany. Sukcesja fallback_default → Rudolf 33226.
+- Obsada sprawdzonych rad bez zmian; Eberhard rozwija prowincję 2768, Hupold szkoli dowódców.
+- Burkhard: złoto 17.694, pobożność 52.5, prestiż 721.2672, XP zarządzania 75; current_strength=611, strength=751, levy=149.
+- diarchy_successor Burkharda wskazuje Ezzo 65691 zamiast Helfericha 58415; nie dowodzi aktywnej regencji.
+- [Helene 52665](../02_POSTACIE/52665/karta.md), lekarka od 17 X, zidentyfikowana w obu save’ach.
+- Rudolf: crown_authority_1, current_strength=775, strength=775, levy=572. Manfred dodatkowo lekarzem od 11 XI.
+- Adalbert 34032 i Uta 38685 zaręczeni; nowe wpisy alliances Rudolfa z Ludwigiem 31145 i Utą. Sojusz Burkharda z Eberhardem potwierdzony w obu stanach.
+- Lista mods bez zmiany; brak ID Burkharda i Rudolfa w przeszukanych wars i faction_manager.
+
+**Zakres:** wybrane pola 15 osób, 11 zadań rad, dwóch lekarzy i trzech tytułów. Pozostałe dane zachowują daty źródeł. Zegar narracji bez zmiany.
+
+<details>
+<summary>Historyczne migawki 20 X 1066 i wcześniejsze</summary>
+
 # Kanon nowej kampanii — 20 X 1066
 
 **Źródło aktualne:** `von_Hohenzollern(1).ck3` (przesłanie 10 X 2026), SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`; `meta_date=1066-10-20`, CK3 1.20.0.4. Nazwa pliku jest identyczna z wcześniejszym aliasem (1) dla 18 IX, ale **hash jest inny**. [Indeks źródeł](../06_MATERIALY_ZRODLOWE/indeks_saveow.md). **POTWIERDZONE_SAVE.**
@@ -116,5 +137,7 @@ Wcześniejsze NIEUSTALONE dotyczące rodziny zastępują w zakresie wskazanych I
 
 </details>
 
+
+</details>
 
 </details>

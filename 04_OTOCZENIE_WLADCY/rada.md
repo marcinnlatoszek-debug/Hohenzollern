@@ -1,5 +1,12 @@
 # Rady władców — historia i aktualizacja 20 X 1066
 
+**Źródło:** `von_Hohenzollern(7).ck3`, SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`, CK3 1.20.0.4, stan **16 XI 1066**. POTWIERDZONE_SAVE dla pól; OBLICZONE dla wieku i różnic.
+
+## Bieżąca kontrola — 16 XI
+
+Obsada 11 sprawdzonych zadań obu rad bez zmian. Eberhard 31271: zadanie 9879 teraz task_develop_county (prov 2768). Hupold 30344: 9880 teraz task_train_commanders. Pięć zadań Burkharda identycznych. Manfred dodatkowo lekarzem Rudolfa od 11 XI. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md).
+
+
 ## Aktualizacja — 20 X 1066 (POTWIERDZONE_SAVE)
 
 **Źródło:** nowy `von_Hohenzollern(1).ck3`, SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`. Poniższa tabela dotyczy sprawdzonych zadań **na 20 X**; główna tabela dokumentu niżej pozostaje historycznym stanem **18 IX**. [Raport zmian](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md).

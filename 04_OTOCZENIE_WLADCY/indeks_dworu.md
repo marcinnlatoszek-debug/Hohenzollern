@@ -1,5 +1,10 @@
 # Dwór Burkharda — 18 IX 1066
 
+## Uzupełnienie — 16 XI 1066
+
+[Helene 52665](../02_POSTACIE/52665/karta.md), ur. 1035.7.11, 31 lat, employer=62634, join_court_date=1066.10.17; lekarka (stanowisko 182) z hire_date=1066.10.17. Potwierdzona już w save 20 X. Nie jest to pełny nowy filtr wszystkich dworzan na 16 XI. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md).
+
+
 **Źródło:** `von_Hohenzollern(2).ck3`, SHA-256 `341d67fc3d15b23b3fba2d33e30a8ce2d4b0f822b3b18c465ec2e2c25821b941`; stan **1066-09-18**, CK3 **1.20.0.4**. Alias (1) ma identyczną zawartość. Odczyt wykonano 10 X 2026.
 
 **POTWIERDZONE_SAVE:** następujące żyjące rekordy mają court_data/employer=62634. Konrad jest wasalem i zarządcą, ale nie figuruje w tej liście employer; oba rodzaje zależności rozdzielono.

@@ -1,5 +1,8 @@
 # Helena (Helene) — osobista lekarka Burkharda: charakter do narracji
 
+**Uzgodnienie 11 X 2026:** ID **52665** potwierdzone w save’ach 20 X i 16 XI; lekarka od 17 X. [Aktualna karta i rozszyfrowane cechy](../52665/karta.md). Starsze oznaczenia ID, daty przybycia i traitów jako NIEUSTALONE opisują etap sprzed tego odczytu. Ścieżkę zachowano dla istniejących linków.
+
+
 **Status:** profil z obserwacji ekranowej, **bez potwierdzonej listy indywidualnych traitów**; CK3 ID NIEUSTALONE. Nie zamieniać zbiorczego określenia w cechy z save’a.
 
 ## Potwierdzone dane

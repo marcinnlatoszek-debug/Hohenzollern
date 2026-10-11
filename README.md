@@ -1,6 +1,6 @@
 # Hohenzollern — nowa kampania
 
-Aktualny stan: **20 X 1066**, CK3 **1.20.0.4**. Obowiązuje reset poprzedniej kampanii z 10 X 2026; poniższe dane pochodzą wyłącznie z nowych zapisów. Nie przywracać dawnego kanonu z historii Git.
+Aktualny stan: **16 XI 1066**, CK3 **1.20.0.4**. Obowiązuje reset poprzedniej kampanii z 10 X 2026; poniższe dane pochodzą wyłącznie z nowych zapisów. Nie przywracać dawnego kanonu z historii Git.
 
 - [Stan aktualny](01_KAMPANIA/stan_aktualny.md)
 - [Zmiany 18 IX → 20 X 1066](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md)
@@ -12,10 +12,8 @@ Aktualny stan: **20 X 1066**, CK3 **1.20.0.4**. Obowiązuje reset poprzedniej ka
 - [Hohenberg: charaktery i materiał do fabuły](07_ANALIZY/rozpoznania_poczatkowe/charaktery_hohenberg_1066-09-18.md)
 - [Metoda analizy postaci](baza/mechaniki/Metoda-charakterow.md)
 
-## Najnowszy save — 20 X 1066
+## Najnowszy save — 16 XI 1066
 
-Z potwierdzonego odczytu: **Burkhard 62634 jest zaręczony z Irmengard 38789**, otrzymał trait `lifestyle_gardener` i jest teraz **mistrzem intryg księcia Rudolfa** (zamiast Friedricha 32172); **Louis 31737 zastąpił Kuna 34995 jako kanclerz Rudolfa**. Rada samego Burkharda i sprawdzone tytuły jego domeny nie zmieniły się. Dawne pełniejsze opracowania opisują stan **18 IX** i pozostają źródłem historycznym, a nie kompletną weryfikacją świata na 20 X.
+[Raport zmian 20 X → 16 XI](07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md): 27 dni gry. Burkhard i Irmengard nadal zaręczeni; obsada rad bez zmiany. Rudolf zmienił prawo na crown_authority_1, ma nowy sojusz przez zaręczyny Adalberta z Utą, a Manfred został jego lekarzem 11 XI. Zidentyfikowano [Helenę 52665](02_POSTACIE/52665/karta.md), lekarkę Hohenbergu od 17 X. Siły Burkharda: 611 / 751 / 149 (current_strength / strength / levy); diarchy_successor wskazuje Ezzo.
 
-Rozpoznane 15 modów zatwierdził gracz 10 X 2026. Odczytano 112 własnych rekordów postaci, rady ośmiu władców, faktycznych wasali Rudolfa i Bertholda, roszczenia, rodziny i nominacje cesarskie. Baden podlega Bertholdowi jako księciu Karyntii, a ten bezpośrednio cesarzowi. Wnioski oddzielono od faktów; opinie, wygląd i pełna interpretacja parametrów pozostają nieustalone.
-
-Weryfikacja 11 X 2026: plik `(6)` jest identyczny z już odczytanym zapisem 20 X. Skorygowano wcześniejsze błędne rozpoznanie ślubu i uzupełniono daty zmian rady: Louis — 2 X, Burkhard — 3 X 1066. Szczegóły i źródłowe pola w raporcie zmian.
+Odczyt obejmuje wybrane pola 15 osób i wskazane struktury. Starsze analizy zachowują własne daty; lista mods bez zmiany.

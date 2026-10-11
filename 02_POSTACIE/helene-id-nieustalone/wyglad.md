@@ -1,5 +1,8 @@
 # Helena (Helene) — wzorzec wyglądu do narracji
 
+**Uzgodnienie 11 X 2026:** ID **52665** potwierdzone w save’ach 20 X i 16 XI; lekarka od 17 X. [Aktualna karta i rozszyfrowane cechy](../52665/karta.md). Starsze oznaczenia ID, daty przybycia i traitów jako NIEUSTALONE opisują etap sprzed tego odczytu. Ścieżkę zachowano dla istniejących linków.
+
+
 **Identyfikator CK3:** NIEUSTALONE. **POTWIERDZONE_SCREEN:** `Barbershop_Count_Burkhard_of_Hohenberg_1066_10_20_0009.png`, identyfikator załącznika rozmowy `file_00000000ada0821091eb769ee43291d0`; obraz pochodzi z Better Barbershop, a jego nazwa zawiera datę **20 X 1066**. Postać w kadrze została rozpoznana dzięki drugiemu obrazowi z podpisem „Helene”, nie dzięki automatycznej nazwie zawierającej „Burkhard”.
 
 ## Cechy widoczne na portrecie

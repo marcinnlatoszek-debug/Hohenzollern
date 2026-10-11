@@ -1,6 +1,6 @@
 # Indeks źródeł nowej kampanii
 
-Aktywny punkt odniesienia: 20 X 1066, save o SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`. Alias `(6)` zweryfikowany 11 X 2026 jest identyczny z nowym uploadem `(1)` z 20 X. Historyczne aliasy `(1)` i `(2)` o innym hash oznaczają stan 18 IX. Dane dawnej kampanii nie obowiązują.
+Aktywny punkt odniesienia: 16 XI 1066, save (7), SHA-256 `c1c5f879a7d6529c3999c5d751509696ce06ff0ace9b7bcf369398a1e5f6c670`. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-10-20_do_1066-11-16.md). Historyczny punkt odniesienia: 20 X 1066, save o SHA-256 `4db685e32ffb282fb88c436b37d468bf93c955cf57576b335e9679313afcfca0`. Alias `(6)` zweryfikowany 11 X 2026 jest identyczny z nowym uploadem `(1)` z 20 X. Historyczne aliasy `(1)` i `(2)` o innym hash oznaczają stan 18 IX. Dane dawnej kampanii nie obowiązują.
 
 | Materiał | Zakres | Status |
 |---|---|---|
@@ -20,3 +20,5 @@ Nie dodano oryginalnych plików instalacji modów. Ich konkretne wersje i pięć
 Ponowny odczyt tego samego save’a 18 IX 1066: dziewięć postaci, surowe XP, języki, daty wejścia na dwór, pamięć 4377 oraz sway 2. [Transkrypcja](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/charaktery_hohenberg_1066-09-18.json). Profile fabularne są oznaczone jako interpretacja, bez dopisanych wydarzeń.
 
 [Weryfikacja związku i rad na 20 X](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/weryfikacja_1066-10-20_2026-10-11.json): obustronne zaręczyny, daty zmian rad i ich surowe pola; [uzgodniony raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1066-09-18_do_1066-10-20.md).
+
+[Transkrypcja porównania 20 X → 16 XI](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/porownanie_1066-10-20_1066-11-16.json).
