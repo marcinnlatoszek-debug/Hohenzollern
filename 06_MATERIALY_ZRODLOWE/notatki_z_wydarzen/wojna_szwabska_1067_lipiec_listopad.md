@@ -4,6 +4,31 @@
 
 **Powiązanie z kampanią:** potwierdzony w save `von_Hohenzollern(10).ck3` (7 VI 1067) konflikt o roszczenie Hermanna 38078 do Szwabii (wojna ID 36, początek 28 IV 1067): [raport](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). Burkhard 62634 dołączył po stronie księcia Rudolfa 33226 dnia 15 V. Nowsze screeny nie zastępują kompletnego późniejszego save’a.
 
+## Zbiorczy wykaz wojsk do porównywania migawek
+
+Poniższe wartości są **czasowo rozdzielone**. Nie sumować oddziałów z różnych dat ani nie łączyć ich liczebności z zasobami domeny w save’ie.
+
+| Armia / formacja | Dzień i potwierdzony stan | Dowódca, tło, kierunek | Granica identyfikacji |
+|---|---|---|---|
+| **Hohenberg** | 16 V: zgromadzenie; 3 VI: **751**; 7 VI: armia ID 388, jednostka 395; 19 VII: **745**; 31 VII: **745** w bitwie; 23 VIII: **511** w bitwie; 28 IX: **750**; niedatowany dalszy screen: **744**; 7 XI: na mapie **738** | **Gerhard 62635** jako `commander` w save **7 VI**; 19 V marsz ku Wirtembergii | Dowodzenia Gerharda nie potwierdzono osobno w czasie bitwy, we wrześniu ani w listopadzie; nie wynika z nazwy armii obecność Burkharda |
+| **Ulm** | 3 VI: **750**; 7 VI: armia ID 355, jednostka 359; 19 VII: **743** przy oblężeniu Baden; 28 IX: **722** | **Rudolf 33226** jako `commander` w save **7 VI**; 30 V kierunek Baden, 19 VII oblężenie w toku | Z końca września nie znamy wyniku oblężenia, a jego liczebności nie oznaczają końcowych strat |
+| **Breisgau** | 1 VII: **463**; 31 VII: atakująca formacja pod Hohenbergiem **463** (WNIOSEK identyfikacji herbu); 23 VIII: **41** na panelu strony atakującej | 1 VII dowódca **Ernst**, marsz na Offenburg, prognoza 6 VII | Dowództwo Ernsta podczas bitwy nie zostało osobno potwierdzone; identyczna liczebność i herb to argument do identyfikacji, ale nie jednoznaczny klucz ID |
+| **Schmalkalden** | 28 IX: **392**, w wykazie `Armies in this location` | Dowódca, właściciel, strona wojny **NIEUSTALONE** | Współobecność nie dowodzi sojuszu ani bezpośredniego udziału w bitwie |
+| **Villach** | ok. 28 IX: **1370**; 7 XI: znacznik Villach **1357** | Tooltip: **Duke Berthold II**, osobiście dowodzi; **Grünningen**, ETA 2 X; wysoki stopień zgodności z Bertholdem **31865** | Planowane przybycie nie jest wykonanym marszem; nie utożsamiać tej armii z breisgauską formacją spod Hohenbergu |
+| **Inne nieidentyfikowane znaczniki** | 7 XI: na mapie również **210** i **296**; 13 XI: m.in. **440** i **296** | Przynależność i dowódcy bez osobnych tooltipów **NIEUSTALONE** | Barwa lub herb nie dostarczają wystarczającej podstawy do utożsamiania wszystkich formacji |
+
+**Podstawa dla wierszy z maja i czerwca:** `von_Hohenzollern(10).ck3`, data 7 VI 1067, [odczyt wojny 36, armii 355/388 i jednostek 359/395](../../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md), oraz [screeny marszowe 15–30 V](wojna_i_armia_1067-05-15_16.md). `units/359.attached_to_this=[395]` na 7 VI wskazuje powiązanie jednostek Rudolfa i Burkharda, ale nie połączenie armii. W save **7 VI** odczytano `landed_data/current_strength=752` u Burkharda oraz regimenty `light_footmen=300`, `bowmen=300`, co jest **innym zakresem danych** niż wystawione oddziały pokazane na ekranach.
+
+### Oś dyplomatyczna uczestników wojny
+
+- **Berthold 31865** — główny atakujący, od 28 IV, w imieniu roszczenia jego syna **Hermanna 38078** do Szwabii.
+- **Rudolf 33226** — główny obrońca; **Ludwig 31145** dołącza 11 V; **Burkhard 62634** dołącza **15 V** — wszystkie daty z `active_wars` na 7 VI.
+- **Hermann 38078** — dołącza do wojny po stronie przeciwnej graczowi według powiadomienia **26 VI**; nie utożsamiać jego wcześniejszej roli roszczącego z tym późniejszym dniem wejścia.
+- **Egino II 37502** — powiadomienie dołączenia **2 XI**, po stronie gracza.
+- **Eberhard VI 31271** — powiadomienie dołączenia **12 XI**, po stronie gracza; wcześniejszy sojusz rodzinny z Burkhardem istniał już w 1066.
+
+**Obecność obu nowych sojuszników nie oznacza znanej liczebności ich oddziałów ani ich obecności na ekranie bitwy.**
+
 ## Materiały z początku lipca — rozpoznanie powtórzeń
 
 - `Zrzut ekranu 2026-10-11 191435(2).png`, `file_0000000052e88210857b5a3f8a189c29`, SHA-256 `729f6bb06b7dafe2037bc20c9e297b8ed9d9ffcaf432f9af913cf3bf58a996c3`. **Bajtowo identyczny** z wcześniej odnotowanym `191435(1).png`, nie nowa migawka. Potwierdza znane fakty z 1 VII: komunikat z **26 VI** o dołączeniu Hermanna do przeciwników; **Ernst** prowadzi armię Breisgau (463) w kierunku Offenburga, przewidywany termin **6 VII** — bez dowodu dotarcia.
