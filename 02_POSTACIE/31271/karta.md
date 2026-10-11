@@ -1,5 +1,10 @@
 # Eberhard — CK3 ID 31271
 
+## Potwierdzona relacja rodzinna — 29 I 1067
+
+**POTWIERDZONE_SAVE** `von_Hohenzollern(9).ck3` potwierdza małżeństwo córki [Irmengard 38789](../38789/karta.md) z [Burkhardem 62634](../62634/karta.md). Ślub odbył się 3 I 1067 (dzień podany przez gracza); na 29 I Eberhard jest jego teściem. Nie wynika z tego obecność Eberharda na uroczystości ani nowa zmiana praw, sojuszy lub opinii.
+
+
 ## Aktualizacja rodzinna po 16 XI 1066
 
 **KOREKTA_AUTORA:** córka [Irmengard 38789](../38789/karta.md) zawarła ślub z [Burkhardem 62634](../62634/karta.md) **3 stycznia** (najpewniej 1067; rok: WNIOSEK z chronologii). Od ślubu Eberhard jest teściem Burkharda. Fakt podany przez gracza 11 X 2026, po ostatnim technicznie zweryfikowanym save z 16 XI 1066. Nie przypisywać na tej podstawie nowego sojuszu, zmiany opinii, praw do tytułów ani udziału Eberharda w ceremonii.
