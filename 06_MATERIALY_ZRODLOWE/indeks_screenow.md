@@ -88,7 +88,7 @@ Poniższe wpisy są **metadanymi załączników rozmowy**; obrazy nie zostały d
 | `Zrzut ekranu 2026-10-11 193533.png` | **7 XI 1067**; powiadomienie **2 XI** | `Ally Joins War: Count Egino II`, dołącza po stronie gracza | POTWIERDZONE_SCREEN |
 | `Zrzut ekranu 2026-10-11 193603.png` | **13 XI 1067**; powiadomienie **12 XI** | `Ally Joins War: Count Eberhard VI`, dołącza po stronie gracza | POTWIERDZONE_SCREEN |
 
-**Powiązania narracyjne:** [Gunzelin 65692](../02_POSTACIE/65692/karta.md) (ranny), [Egino II 37502](../02_POSTACIE/37502/karta.md), [Eberhard VI 31271](../02_POSTACIE/31271/karta.md), [książę Berthold 31865](../02_POSTACIE/31865/karta.md). Nie dopisano wyniku bitwy ani końca wojny. Pełne identyfikatory załączników i hashe znajdują się w źródłowym rejestrze wojny.
+**Powiązania narracyjne:** [Gunzelin 65692](../02_POSTACIE/65692/karta.md) (ranny), [Egino II 37502](../02_POSTACIE/37502/karta.md), [Eberhard VI 31271](../02_POSTACIE/31271/karta.md), [książę Berthold 31865](../02_POSTACIE/31865/karta.md). **Korekta na podstawie późniejszych screenów:** 27 VIII widać zwycięstwo i pościg, a 31 VIII końcowe podsumowanie potwierdza zwycięstwo Hohenbergu (40 poległych po stronie obrony, 196 po stronie ataku). **Końcowy wynik wojny nadal nieustalony.** Pełne identyfikatory załączników i hashe znajdują się w źródłowym rejestrze wojny.
 
 
 ## Końcowy etap bitwy pod Hohenbergiem — 27–31 VIII 1067
