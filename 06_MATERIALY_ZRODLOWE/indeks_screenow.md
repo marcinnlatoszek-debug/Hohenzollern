@@ -101,3 +101,7 @@ Poniższe wpisy są **metadanymi załączników rozmowy**; obrazy nie zostały d
 | `Zrzut ekranu 2026-10-11 192540(1).png` | 31 VIII 1067 | Ponownie przesłany duplikat poprzedniego ekranu | SHA-256 identyczny; nie nowe wydarzenie |
 
 [Źródłowy rejestr wojenny i granice wnioskowania](notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). Screeny wrześniowe i listopadowe dołączone ponownie w tej partii powtarzają obserwacje już opisane wyżej; nie zmieniają osi wydarzeń.
+
+## Zrzut 19 XI 1067 — koncentracja trzech armii i Kuno
+
+`Zrzut ekranu 2026-10-12 193940.png` (załącznik otrzymany **12 X 2026**, SHA-256 `133c88d1b1a0297f3b79f7d019b13e6be0b3cb8651a17c191adea541d15a6f6b`): **POTWIERDZONE_SCREEN**, kalendarz gry **19 XI 1067**. Panel `Armies in this location`: **Hohenberg 738 + Ulm 715 + Schmalkalden 390 = 1843**, wspólny znacznik `(3) 1843`. Powiadomienie **18 XI**: `Allies Join War: Count Kuno and 1 other`, dołączenie do strony gracza Kuna i **jeszcze jednego niezidentyfikowanego władcy**. Zapis wojny 36 z 14 XI ma odrębne pole daty uczestnictwa Kuna 13 XI. Nie nazywać innego władcy bez źródła. [Szczegóły](notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
