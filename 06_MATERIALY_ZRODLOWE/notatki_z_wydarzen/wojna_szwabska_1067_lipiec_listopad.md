@@ -53,6 +53,14 @@ Cztery ekrany zawierają podpis **Battle of Hohenberg**. Strona **Defender** ma 
 
 **POTWIERDZONE_SCREEN:** komunikat na ekranie bitwy 23 VIII 1067: `Our knight Gunzelin von Nordgau was wounded by an enemy soldier!`. Wiązać z [Gunzelinem 65692](../../02_POSTACIE/65692/karta.md), wcześniej potwierdzonym rycerzem i mistrzem intryg Burkharda. **Gunzelin został ranny w trakcie bitwy**. Nie dowodzi to jego śmierci, trwałego kalectwa, sposobu leczenia ani dokładnej chwili kontuzji przed widocznym powiadomieniem. Nie przenosić urazów na wcześniejsze daty.
 
+### Pościg i podsumowanie zwycięstwa — 27–31 VIII 1067
+
+**27 VIII:** ekran bitwy ogłasza **Victory**; Hohenberg jest w fazie **Pursuing**, strona przeciwna **Retreating**. To potwierdza wygraną i pościg, nie zamknięcie bitwy.
+
+**31 VIII:** ekran końcowy zatytułowany **Slaughter at Hohenberg** podaje **Victory** i datę 31 August, 1067. Bilans z ikonami czaszki: Hohenberg **40 poległych**, strona atakująca **196 poległych**. Pozostałe stany na tym ekranie: 705 i 267; wyświetlone wartości początkowe: 745 i 463. Dodatkowo ekran przyznaje 21 Prestige, +7% War Score i +92 Contribution. Nie rozpisywać różnic z wcześniejszych paneli na inne kategorie strat bez źródła. Tytuł ekranu nie potwierdza strat wśród ludności cywilnej. Zwycięstwo bitwy nie oznacza zwycięstwa w wojnie 36, zdobycia Baden ani zawarcia pokoju.
+
+**Powiadomienia widoczne 27 VIII:** 25 VIII kapelan dworski Helferich nie dał się przekonać; komunikat informuje o zresetowaniu zgromadzonego postępu i kolejnej próbie, więc plan trwał dalej. 22 VIII pojawia się nagłówek **Excommunication**, ale ekran nie ujawnia osoby ani sprawcy; nie przypisywać tego zdarzenia żadnej postaci.
+
 **Metadane czterech obrazów:**
 
 | Plik | SHA-256 | Załącznik |
@@ -112,3 +120,13 @@ W nowych blokach armii zapisano **Gerharda 62635 jako dowódcę armii Hohenbergu
 **POTWIERDZONE_SAVE:** pole uczestnika Hermanna = 21 VI; Egina II = 28 X; Eberharda VI = 7 XI; Kuna = 13 XI. **POTWIERDZONE_SCREEN:** komunikaty mają daty 26 VI, 2 XI i 12 XI dla pierwszych trzech postaci. Występuje powtarzalne przesunięcie **pięciu dni**. Nie ustalono mechanicznej przyczyny tej różnicy, więc **daty komunikatu i daty technicznych pól pozostają osobnymi obserwacjami**. Dla Kuna brak własnego powiadomienia. 
 
 [Źródło, identyfikatory, wersja i ograniczenia odczytu](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md). Do osi wydarzeń trafia samo potwierdzenie jego uczestnictwa, nie domniemane okoliczności dołączenia ani rozkazy.
+
+
+### Dodatkowe źródła zwycięstwa pod Hohenbergiem
+
+| Ekran | Załącznik | SHA-256 | Ustalenie |
+|---|---|---|---|
+| `Zrzut ekranu 2026-10-11 192351.png` | `file_000000002df081f4abb32bdce7e9d125` | NIEZAPISANY | 27 VIII: zwycięstwo, pościg Hohenbergu, odwrót przeciwnika |
+| `Zrzut ekranu 2026-10-11 192540.png` | `file_000000000b4081f4a4836ba550d40ad6` | `9c79077b9650f37f17bdbf95fb7cc324b57959a44efe332d6919493d11378870` | 31 VIII: końcowe podsumowanie zwycięstwa i bilans |
+| `Zrzut ekranu 2026-10-11 192540(1).png` | `file_00000000e7548210b8429251019fa963` | `9c79077b9650f37f17bdbf95fb7cc324b57959a44efe332d6919493d11378870` | Bajtowy duplikat poprzedniego obrazu; ten sam wynik, bez nowego wydarzenia |
+

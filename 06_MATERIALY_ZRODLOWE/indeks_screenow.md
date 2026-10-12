@@ -90,3 +90,14 @@ Poniższe wpisy są **metadanymi załączników rozmowy**; obrazy nie zostały d
 
 **Powiązania narracyjne:** [Gunzelin 65692](../02_POSTACIE/65692/karta.md) (ranny), [Egino II 37502](../02_POSTACIE/37502/karta.md), [Eberhard VI 31271](../02_POSTACIE/31271/karta.md), [książę Berthold 31865](../02_POSTACIE/31865/karta.md). Nie dopisano wyniku bitwy ani końca wojny. Pełne identyfikatory załączników i hashe znajdują się w źródłowym rejestrze wojny.
 
+
+## Końcowy etap bitwy pod Hohenbergiem — 27–31 VIII 1067
+
+| Plik | Data świata | Ustalenie | Status |
+|---|---|---|---|
+| `Zrzut ekranu 2026-10-11 192351.png` | 27 VIII 1067 | Zwycięstwo Hohenbergu; pościg za wycofującymi się przeciwnikami | POTWIERDZONE_SCREEN |
+| `Zrzut ekranu 2026-10-11 192448.png` | ekran 27 VIII; powiadomienia 22 i 25 VIII | Nieudana próba przekonania Helfericha; anonimowy nagłówek Excommunication | POTWIERDZONE_SCREEN, adresat ekskomuniki NIEUSTALONY |
+| `Zrzut ekranu 2026-10-11 192540.png` | 31 VIII 1067 | Końcowe podsumowanie: zwycięstwo; polegli 40 / 196 | POTWIERDZONE_SCREEN |
+| `Zrzut ekranu 2026-10-11 192540(1).png` | 31 VIII 1067 | Ponownie przesłany duplikat poprzedniego ekranu | SHA-256 identyczny; nie nowe wydarzenie |
+
+[Źródłowy rejestr wojenny i granice wnioskowania](notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). Screeny wrześniowe i listopadowe dołączone ponownie w tej partii powtarzają obserwacje już opisane wyżej; nie zmieniają osi wydarzeń.

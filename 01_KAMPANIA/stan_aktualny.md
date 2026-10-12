@@ -7,13 +7,13 @@
 - **Gunzelin 65692 żyje** w tym save, ale jego pełnego wyzdrowienia nie potwierdzono. **Gerhard 62635** dowodzi armią Hohenbergu (388), **Rudolf 33226** własną armią (355).
 - **Stan domen (`current_strength / strength / levy`):** Burkhard **745/750/147**, Rudolf **868/872/669**, Egino II **210/210/7**, Eberhard VI **441/448/137**, Berthold **1190/1193/886**. Te liczby nie są sumą wojsk na polu bitwy; więcej w raporcie.
 - **Burkhard i Irmengard** pozostają małżeństwem, bez wpisów potomstwa w sprawdzonych rekordach. Osobiste `tenet_ora_et_labora` Burkharda zachowane.
-- **NIEUSTALONE:** końcowy wynik bitwy, los oblężenia Baden i termin zakończenia wojny. Starsze metadane save (9) po dekodowaniu wskazują 2 II, nie dotychczasowe 29 I; rozbieżność do odrębnego uzgodnienia.
+- **POTWIERDZONE_SCREEN:** bitwa pod Hohenbergiem zakończyła się zwycięstwem 31 VIII 1067; końcowy ekran podaje 40 poległych po stronie Hohenbergu i 196 po stronie przeciwnika. **NIEUSTALONE:** wynik całej wojny, los oblężenia Baden i termin zakończenia konfliktu. Starsze metadane save (9) po dekodowaniu wskazują 2 II, nie dotychczasowe 29 I; rozbieżność do odrębnego uzgodnienia.
 
 ---
 
 # Aktualizacja obserwacji — bitwa i sojusznicy do 13 XI 1067
 
-**POTWIERDZONE_SCREEN:** dokumentacja `Battle of Hohenberg` obejmuje kadry z **31 VII, 6 VIII, 12 VIII i 23 VIII 1067**. Na ekranie z **23 VIII** komunikat stwierdza, że **Gunzelin von Nordgau 65692 został ranny wskutek działania żołnierza wroga**. **Nie potwierdzono wyniku bitwy, daty jej zakończenia ani śmierci Gunzelina.**
+**POTWIERDZONE_SCREEN:** dokumentacja `Battle of Hohenberg` obejmuje kadry z **31 VII, 6 VIII, 12 VIII i 23 VIII 1067**. Na ekranie z **23 VIII** komunikat stwierdza, że **Gunzelin von Nordgau 65692 został ranny wskutek działania żołnierza wroga**. Ekran z **27 VIII** pokazuje zwycięstwo i pościg; podsumowanie z **31 VIII** potwierdza zwycięstwo oraz 40 poległych po stronie Hohenbergu i 196 po stronie atakującej. Dalszy stan zdrowia Gunzelina nieustalony.
 
 **POTWIERDZONE_SCREEN:** osobny tooltip rozpoznaje armię **Villach 1370**, którą osobiście dowodził **książę Berthold II**; kierowała się do Grünningen, z przewidywanym przybyciem **2 X 1067** (nie jest to dowód dotarcia). Uściśla to wcześniejszy nieoznaczony znacznik `1370` z mapy 28 IX.
 

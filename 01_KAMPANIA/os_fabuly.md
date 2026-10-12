@@ -108,11 +108,19 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 
 ## Bitwa pod Hohenbergiem — lato 1067
 
-**POTWIERDZONE_SCREEN:** kolejne migawki zatytułowane `Battle of Hohenberg` poświadczają walkę wojsk hrabstwa z atakującymi **31 VII, 6 VIII, 12 VIII i 23 VIII 1067**. Data rozpoczęcia i zakończenia bitwy oraz jej ostateczny wynik pozostają **NIEUSTALONE**. Herb przeciwników odpowiada wcześniej obserwowanej armii Breisgau (WNIOSEK z heraldyki, nie identyfikacja dowódcy). Nie oznaczać zmieniających się liczb jako potwierdzonych poległych ani rozstrzygnięcia.
+**POTWIERDZONE_SCREEN:** kolejne migawki zatytułowane `Battle of Hohenberg` poświadczają walkę wojsk hrabstwa z atakującymi **31 VII, 6 VIII, 12 VIII i 23 VIII 1067**. Bitwa trwała już 31 VII; jej dokładna data rozpoczęcia jest **NIEUSTALONA**. Herb przeciwników odpowiada wcześniej obserwowanej armii Breisgau (WNIOSEK z heraldyki, nie identyfikacja dowódcy). Nie oznaczać zmieniających się liczb z paneli walki jako potwierdzonych poległych.
+
+| Data | Wydarzenie do zachowania | Potwierdzenie i granica |
+|---|---|---|
+| **25 VIII 1067** | Próba przekonania kapelana Helfericha nie powiodła się; plan był kontynuowany | Powiadomienie widoczne na ekranie 27 VIII; przyczyna i przebieg rozmowy NIEUSTALONE |
+| **27 VIII 1067** | Ekran bitwy ogłasza zwycięstwo Hohenbergu; przeciwnik się wycofuje, a wojska Hohenbergu prowadzą pościg | To etap pościgu, nie końcowe podsumowanie bitwy |
+| **31 VIII 1067** | Końcowe podsumowanie potwierdza zwycięstwo pod Hohenbergiem | Ekran `Slaughter at Hohenberg`: 40 poległych po stronie Hohenbergu i 196 po stronie atakującej; wynik samej wojny NIEUSTALONY |
 
 **23 VIII 1067 — potwierdzony komunikat o ranieniu [Gunzelina von Nordgau 65692](../02_POSTACIE/65692/karta.md)** w trakcie bitwy przez żołnierza wroga. To pierwsze pewne wydarzenie bezpośrednio dotyczące jednego z rycerzy Burkharda w opisanej walce. Jego śmierć, przebieg leczenia i dalszy stan zdrowia NIEUSTALONE. Nie twierdzić, że Burkhard osobiście dowodził bitwą; jego urzędnik/rycerz uczestniczył w walce.
 
-[Liczebności, stan regimentów i wszystkie cztery ekrany](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). W fabule trzymać się wydarzenia i skutku dla dworu, szczegóły militarne pozostawić w rejestrze technicznym.
+**27 VIII — 31 VIII 1067:** 27 VIII ekran ogłosił zwycięstwo i pokazał pościg za wycofującymi się przeciwnikami. Końcowe podsumowanie z 31 VIII potwierdza zwycięstwo pod Hohenbergiem oraz 40 poległych po stronie Hohenbergu i 196 po stronie atakującej. Nie jest to potwierdzenie zakończenia wojny o Szwabię ani zdobycia Baden. [Odczyt, liczby i identyfikatory źródeł](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+[Liczebności, stan regimentów i źródła ekranowe](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). W fabule zachować przebieg potwierdzony na ekranach, bez dopisanych scen.
 
 ## Obserwacja 28 IX 1067 — armie w jednym miejscu
 
