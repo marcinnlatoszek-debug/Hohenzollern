@@ -1,5 +1,12 @@
 # Kanon bieżący — save 14 XI 1067
 
+## Meldunek o bitwie pod Zollern — brak daty gry i wyniku
+
+**RELACJA_GRACZA (12 X 2026):** trwająca bitwa pod Zollern pomiędzy siłami księcia Rudolfa i Bertholda II, księcia Karyntii. **Gerhard 62635** dowodzi siłami strony Rudolfa i został szczególnie wyróżniony (charakter wyróżnienia **NIEUSTALONY**). **Bernhard został ranny**; możliwe odniesienie do marszałka Egina II, Bernharda 45253, **wymaga identyfikacji**. Według oceny gracza rycerze sprawują się dobrze, przewaga może prowadzić do zwycięstwa, lecz **bitwa NADAL TRWA** i jej rezultat **NIE JEST POTWIERDZONY**. Wspomniany przyszły zrzut ekranu nie określa jeszcze daty w świecie CK3. Odrębne od potwierdzonego zwycięstwa w sierpniowej bitwie pod Hohenbergiem.
+
+**Granica stanu mechanicznego:** ostatni odczytany save pozostaje datowany **14 XI 1067**, a ostatni datowany screen **19 XI 1067**. Relacja nie dowodzi, kiedy rozpoczęto nową bitwę ani że zakończyła się przed którymkolwiek z tych dni. [Notatka źródłowa](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md).
+
+
 ## Najnowsza obserwacja wojsk — 19 XI 1067
 
 **POTWIERDZONE_SCREEN:** panel `Armies in this location` z **19 XI 1067** identyfikuje trzy oddzielne armie w jednej lokalizacji: **1st Army of Hohenberg 738**, **1st Army of Ulm 715**, **1st Army of Schmalkalden 390**, **łącznie 1 843 (OBLICZONE)**. Znacznik zbiorczy `(3) 1843` był już widoczny **17 XI**, lecz przypisanie dokładnego składu tego wcześniejszego dnia pozostaje tylko wnioskiem o ciągłości koncentracji. Nie wynika stąd jeden dowódca, nowa bitwa ani zdobycie Hohenbergu.
