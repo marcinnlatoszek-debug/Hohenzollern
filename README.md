@@ -1,5 +1,14 @@
-# Hohenzollern
+# Nobilis gens von Hohenzollern — kampania CK3
 
-Nowy początek projektu kroniki rodu Hohenzollernów w kampanii Crusader Kings III.
+Stan otwarcia tej kampanii: **1066-09-15**. Głównym źródłem jest zapis gry; fakty, wnioski i prognozy są rozdzielone.
 
-Repozytorium zostało wyczyszczone z dotychczasowych plików. Nowe materiały i struktura projektu będą dodawane stopniowo, po weryfikacji z zapisami gry i ustaloną osią fabularną.
+- [Stan aktualny](01_KAMPANIA/stan_aktualny.md)
+- [Punkt startowy](01_KAMPANIA/punkt_startowy.md)
+- [Oś czasu](01_KAMPANIA/os_czasu.md)
+- [Indeks postaci](02_POSTACIE/indeks_postaci.md)
+- [Indeks terytoriów](03_TERYTORIA/indeks_terytoriow.md)
+- [Analiza najbliższego otoczenia](07_ANALIZY/rozpoznania_poczatkowe/otoczenie_1066-09-15.md)
+- [Wojsko i obronność](04_OTOCZENIE_WLADCY/armia_i_obronnosc.md)
+- [Oś fabuły — warianty, nie kanon przyszłych wydarzeń](08_KRONIKI_I_OPOWIADANIA/os_fabuly.md)
+
+Każda karta postaci zapisuje wiek na datę save’a i ma zachować kolejne obserwacje. Przy nowym zapisie dopisz wiersz wieku oraz datowane zmiany, nie usuwając wcześniejszych wpisów.
