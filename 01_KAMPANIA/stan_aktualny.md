@@ -1,5 +1,16 @@
 # Kanon bieżący — save 14 XI 1067
 
+## Najnowsza obserwacja wojsk — 19 XI 1067
+
+**POTWIERDZONE_SCREEN:** panel `Armies in this location` z **19 XI 1067** identyfikuje trzy oddzielne armie w jednej lokalizacji: **1st Army of Hohenberg 738**, **1st Army of Ulm 715**, **1st Army of Schmalkalden 390**, **łącznie 1 843 (OBLICZONE)**. Znacznik zbiorczy `(3) 1843` był już widoczny **17 XI**, lecz przypisanie dokładnego składu tego wcześniejszego dnia pozostaje tylko wnioskiem o ciągłości koncentracji. Nie wynika stąd jeden dowódca, nowa bitwa ani zdobycie Hohenbergu.
+
+**POTWIERDZONE_SCREEN:** powiadomienie **18 XI** `Allies Join War: Count Kuno and 1 other`; Kuno i jeszcze jeden, **niezidentyfikowany** władca po stronie gracza. **POTWIERDZONE_SAVE:** Kuno 34995 figuruje już w wojnie 36 na 14 XI z technicznym polem daty **13 XI**. To różne rodzaje obserwacji, nie dowód podwójnego przystąpienia. [Nowa notatka źródłowa](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/koncentracja_wojsk_1067-11-17_19.md).
+
+**Ostatni zweryfikowany save nadal 14 XI 1067; ostatni datowany screen 19 XI 1067.**
+
+---
+
+
 ## Późniejszy ekran — 19 XI 1067
 
 **POTWIERDZONE_SCREEN:** panel mapy pokazuje **trzy armie w jednym miejscu** w rejonie Hohenbergu: Hohenberg **738**, Ulm **715**, Schmalkalden **390** (łącznie **1843**, OBLICZONE). **18 XI 1067** — data powiadomienia `Allies Join War: Count Kuno and 1 other`, potwierdzającego dołączenie Kuna oraz **jednego nieustalonego władcy** po stronie gracza. Techniczne pole udziału Kuna w save z 14 XI ma datę **13 XI**, a ekran komunikatu **18 XI**; nie wygładzać różnicy bez wyjaśnienia. [Źródło i pełna analiza](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
