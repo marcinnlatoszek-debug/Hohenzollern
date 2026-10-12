@@ -165,3 +165,9 @@ Nie dopisywać konkretnej metody leczenia, czasu rekonwalescencji ani osobistej 
 **19 XI (POTWIERDZONE_SCREEN, data na kalendarzu):** panel `Armies in this location` identyfikuje koncentrację wojsk **Hohenbergu, Ulm i Schmalkalden** w jednej lokalizacji w okolicy Hohenbergu. Liczebności i porównanie z ekranem 17 XI w [rejestrze armii](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). Jest to **współobecność trzech odrębnych armii**, nie dowód jednej bitwy lub jednego dowództwa. Do opowieści wykorzystać wagę przybywających sił i wiadomości o poparciu tylko w kontekście ich rzeczywistej dostępności dla bohatera.
 
 **Stan źródeł:** najnowszy zweryfikowany **save 14 XI 1067**, późniejszy **screen 19 XI 1067**. Nie tworzyć faktów dotyczących wyniku wojny na podstawie koncentracji.
+
+## Listopadowa koncentracja armii — 17–19 XI 1067
+
+**POTWIERDZONE_SCREEN:** **17 XI** mapa przedstawia zgrupowanie `(3) 1843` w rejonie Hohenbergu; na ekranie z **19 XI** panel `Armies in this location` ujawnia skład **trzech odrębnych armii: Hohenbergu, Ulm i Schmalkalden**. To współobecność wojsk, nie potwierdzenie ich połączenia pod jednym dowódcą, planu ofensywy ani rozpoczęcia nowej bitwy. Zgodność łącznej liczby 1843 w obu dniach przemawia za ciągłością koncentracji, lecz dokładnego składu na 17 XI osobno nie udowodniono. [Pełna dokumentacja i liczby](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/koncentracja_wojsk_1067-11-17_19.md).
+
+**18 XI — POTWIERDZONE_SCREEN:** powiadomienie `Allies Join War: Count Kuno and 1 other` informuje o hrabim Kunie oraz **drugim niezidentyfikowanym władcy** dołączających po stronie gracza. Save z 14 XI już obejmuje Kuna w wojnie z technicznym polem daty **13 XI**; wiadomość z 18 XI nie jest dowodem drugiego przystąpienia. Nie wpisywać nazwy nieznanego władcy ani jego motywacji. Zegar i pamięć napisanych scen bez zmian.
