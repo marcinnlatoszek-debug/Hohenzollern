@@ -10,7 +10,7 @@
 | **1067-06-07** | `von_Hohenzollern(10).ck3` | `07c6a99a994f118ea5e9aa469f2493a7d767bc608d81a2092b4acab8197922d4` | 80 522 347 B | 1.20.0.4 | **stan historyczny**; [raport](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md) |
 
 
-| **1067-11-14** | **`von_Hohenzollern(20261011-173838).ck3`** (alias `20261011-175242`) | `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b` | 82 755 991 B | 1.20.0.4 | **stan aktualny: zweryfikowany binarnie**; aktywna wojna 36, obie strony i daty uczestnictwa, armie oraz postacie. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md) |
+| **1067-11-14** | **`von_Hohenzollern(20261011-173838).ck3`** (aliasy `20261011-175242`, `20261012-043114`) | `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b` | 82 755 991 B | 1.20.0.4 | **stan aktualny: zweryfikowany binarnie**; aktywna wojna 36, obie strony i daty uczestnictwa, armie oraz postacie. [Raport](../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md) |
 
 Daty pochodzą ze struktury Jomini zapisów (`meta_date`), a nie z modyfikacji plików na dysku. Nie łączyć stanów obu dat bez chronologicznego oznaczenia.
 
@@ -66,3 +66,8 @@ Przesłano nową zawartość pod **ponownie używaną nazwą** `von_Hohenzollern
 `von_Hohenzollern(20261011-173838).ck3`, SHA-256 `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b`, 82 755 991 B gamestate, CRC ZIP poprawne. Binarne `meta_date=53154528` odpowiada **14 XI 1067**, potwierdzono 1.20.0.4. `von_Hohenzollern(20261011-175242).ck3` ma identyczny hash — jest aliasem, nie nową datą. Pełny rejestr zweryfikowanych pól, listy uczestników i oddziałów w [raporcie](../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md). Nie dodano `.ck3` do publicznego repozytorium.
 
 **Korekta techniczna save (9):** ponowna weryfikacja oryginału `von_Hohenzollern(9).ck3` daje `meta_date=53147688` → **2 II 1067**, nie 29 I. Nie jest to odrębny save; wcześniejsza data wynikała z błędu dekodowania. Od 16 XI 1066 do 2 II 1067 upłynęło **78 dni** (nie 74), a od 2 II do 7 VI **125 dni** (nie 129).
+
+
+## Alias przesłany 12 X 2026
+
+`von_Hohenzollern(20261012-043114).ck3` ma SHA-256 `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b`, identyczny z zapisem 14 XI już ujętym wyżej. Kontener 13 952 962 B, `gamestate` 82 755 991 B, ZIP CRC poprawne; Rakaly 0.8.21, `--unknown-key error`. To bajtowy alias, nie nowa migawka ani zmiana kampanii. Oryginał pozostał niezmieniony i nie został dodany do publicznego repozytorium.
