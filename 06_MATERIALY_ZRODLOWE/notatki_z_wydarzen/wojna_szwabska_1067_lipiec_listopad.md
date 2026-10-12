@@ -172,3 +172,11 @@ Na osobnych znacznikach widoczne są jednostki **210** i **440**. Bez tooltipów
 **Chronologia wieloźródłowa:** w save datowanym 14 XI 1067 Kuno już widnieje w wojnie 36 po stronie broniących z techniczną datą pola uczestnika **13 XI**. Ekran nowy pokazuje **powiadomienie z 18 XI**, pięć dni później. Zapisać obie daty z nazwą źródła; nie twierdzić, że 18 XI jest koniecznie początkiem jego uczestnictwa. Nie wiadomo też, czy nowy drugi władca znajdował się w obozie Kuna, kto nim był, ani jakie wojska wystawił.
 
 Dla fabuły: możliwy ważny etap gromadzenia sił przy Hohenbergu i poszerzania poparcia dla Rudolfa, ale nie jest to dowód kolejnej bitwy, zdobycia Baden, układów osobistych czy końca wojny.
+
+## Koncentracja listopadowa — 17 i 19 XI 1067
+
+**POTWIERDZONE_SCREEN:** znacznik zbiorczy `(3) 1843` na ekranie **17 XI**. Panel `Armies in this location` na ekranie **19 XI** ustala skład: `1st Army of Hohenberg 738`, `1st Army of Ulm 715`, `1st Army of Schmalkalden 390`; **suma 1843**. Armie współobecne, nie scalone w jedno dowództwo; dowódca Schmalkalden nieustalony. Stany trzech jednostek odnoszą się do **19 XI**, nie potwierdzają identycznego rozkładu dwóch dni wcześniej.
+
+**18 XI — komunikat:** `Allies Join War: Count Kuno and 1 other`, po stronie gracza. **Kuno 34995** jest już w save 14 XI z datą pola uczestnictwa **13 XI**. Dat tych nie utożsamiać, nie mnożyć wydarzenia; drugi władca bez identyfikacji. Widoczne osobne znaczniki 210 i 440 nie mają na nowym ekranie podpisanych dowódców.
+
+[Metryki dwóch ekranów, porównanie wojsk i ograniczenia](koncentracja_wojsk_1067-11-17_19.md).
