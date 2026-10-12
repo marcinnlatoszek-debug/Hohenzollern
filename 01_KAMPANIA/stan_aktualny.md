@@ -1,5 +1,12 @@
 # Kanon bieżący — save 14 XI 1067
 
+## Nowa relacja gracza o wojnie — data w CK3 niepodana
+
+**RELACJA_GRACZA z 12 X 2026 (czas rzeczywisty; bez nowego zapisu gry):** Berthold II z **1 357** żołnierzami oblega **Zollern**; wojsko z **Breisgau** maszeruje mu na pomoc. Jednocześnie oblężenie **Baden** jest bliskie rozstrzygnięcia, ale twierdza nie została jeszcze potwierdzona jako zdobyta. Oddziały **Zollern** i **Nellenburga** kierują się ku Baden, aby dołączyć do sił księcia — najpewniej **Rudolfa**, choć brak nowego kadru do identyfikacji. Możliwa większa bitwa jest **WNIOSEK / PROGNOZA**, nie stan faktyczny. [Rozpiska meldunku](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+**Uwaga:** ten meldunek nie ma daty świata gry, więc **nie nadpisuje** rekordu armii i wojny ze zweryfikowanego save'a **14 XI 1067**. Nie dopisywać kapitulacji Baden, upadku Zollern, dotarcia posiłków ani bitwy bez późniejszego źródła.
+
+
 **POTWIERDZONE_SAVE:** `von_Hohenzollern(20261011-175242).ck3` (alias `20261011-173838`), SHA-256 `a64b8551e487aef4fc3df4edc4d1909f51af590829ff4afe6c8e3d5370b66d6b`; CK3 1.20.0.4; **14 XI 1067**. [Raport odczytu](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
 
 - **Wojna 36 nadal aktywna:** Berthold i Hermann przeciw Rudolfowi, Ludwigowi, Burkhardowi, Eginowi II, Eberhardowi VI oraz **Kunowi z Wirtembergii 34995**. Techniczna data pola Kuna: **13 XI**; przyczyna wejścia NIEUSTALONA.
