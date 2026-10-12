@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Württemberg, Tübingen, Neckargau, Baden, Eberstein, Würmgau, Nagoldgau
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `7, 8, 6, 4, 1, 0`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `7, 8, 6, 4, 1, 0`
 - Identyfikatory traits z save: `77, 60, 71, 16, 251` (nazwy nieustalone).
 ## Relacje zidentyfikowane w save
 - Małżonek/małżonka ID: 40486.

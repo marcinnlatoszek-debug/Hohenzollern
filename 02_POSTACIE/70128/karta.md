@@ -12,7 +12,7 @@
 
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `8, 4, 4, 6, 13, 4`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `8, 4, 4, 6, 13, 4`
 - Identyfikatory traits z save: `57, 69, 48, 20` (nazwy nieustalone).
 ## Rodzina i relacje
 Brak czytelnych odnośników rodzinnych w odczytanym zakresie; NIEUSTALONE.

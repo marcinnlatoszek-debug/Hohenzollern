@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Ulm, Helfenstein, Schelklingen, Hellenstein, Teck, Urach
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `7, 6, 4, 8, 3, 0`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `7, 6, 4, 8, 3, 0`
 - Identyfikatory traits z save: `55, 77, 70, 21` (nazwy nieustalone).
 ## Relacje zidentyfikowane w save
 - Małżonek/małżonka ID: 39418.

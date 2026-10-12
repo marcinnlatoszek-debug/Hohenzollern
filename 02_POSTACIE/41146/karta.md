@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Fürstenberg, Hegau, Kyburg, Zürich, Rapperswil, Schwyz
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `8, 7, 6, 8, 7, 7`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `8, 7, 6, 8, 7, 7`
 - Identyfikatory traits z save: `47, 60, 71, 16, 246` (nazwy nieustalone).
 ## Rodzina i relacje
 Brak czytelnych odnośników rodzinnych w odczytanym zakresie; NIEUSTALONE.

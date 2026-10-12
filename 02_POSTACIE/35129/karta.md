@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Pfinzgau
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `10, 2, 6, 10, 0, 4`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `10, 2, 6, 10, 0, 4`
 - Identyfikatory traits z save: `75, 70, 73, 17, 239` (nazwy nieustalone).
 ## Rodzina i relacje
 Brak czytelnych odnośników rodzinnych w odczytanym zakresie; NIEUSTALONE.

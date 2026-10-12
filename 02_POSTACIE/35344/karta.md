@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Clettgau
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `6, 6, 5, 6, 4, 2`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `6, 6, 5, 6, 4, 2`
 - Identyfikatory traits z save: `60, 68, 72, 16, 242` (nazwy nieustalone).
 ## Relacje zidentyfikowane w save
 - Małżonek/małżonka ID: 35691.

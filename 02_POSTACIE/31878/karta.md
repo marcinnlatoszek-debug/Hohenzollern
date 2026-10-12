@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Hohenberg
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `6, 7, 6, 5, 10, 4`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `6, 7, 6, 5, 10, 4`
 - Identyfikatory traits z save: `62, 68, 73, 0, 37` (nazwy nieustalone).
 ## Relacje zidentyfikowane w save
 - Małżonek/małżonka ID: brak primary_spouse w odczytanym rekordzie.

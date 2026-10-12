@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Thurgau
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `1, 6, 5, 2, 8, 1`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `1, 6, 5, 2, 8, 1`
 - Identyfikatory traits z save: `51, 54, 77, 21, 42` (nazwy nieustalone).
 ## Rodzina i relacje
 Brak czytelnych odnośników rodzinnych w odczytanym zakresie; NIEUSTALONE.

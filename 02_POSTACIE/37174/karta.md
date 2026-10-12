@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Ravensburg
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `5, 4, 5, 8, 1, 0`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `5, 4, 5, 8, 1, 0`
 - Identyfikatory traits z save: `47, 59, 72, 17, 242, 230` (nazwy nieustalone).
 ## Relacje zidentyfikowane w save
 - Małżonek/małżonka ID: 41194.

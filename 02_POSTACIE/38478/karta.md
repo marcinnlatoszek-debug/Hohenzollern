@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Kirchberg
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `2, 0, 4, 8, 0, 6`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `2, 0, 4, 8, 0, 6`
 - Identyfikatory traits z save: `54, 51, 59, 21` (nazwy nieustalone).
 ## Relacje zidentyfikowane w save
 - Małżonek/małżonka ID: 70926.

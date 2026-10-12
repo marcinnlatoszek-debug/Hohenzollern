@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Dillingen
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `4, 9, 4, 4, 2, 7`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `4, 9, 4, 4, 2, 7`
 - Identyfikatory traits z save: `55, 52, 75, 16, 32, 251` (nazwy nieustalone).
 ## Relacje zidentyfikowane w save
 - Małżonek/małżonka ID: 35345.

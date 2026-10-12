@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Zollern; z domeny osobistej odczytano tytuł hrabstwa 3432, baronię b_zollern 3433 i landless noble-family title 33881
 - Tytuł Zollern (3432); baronia b_zollern (3433); osobny tytuł domu 33881 jest oznaczony jako landless. Burkhard jest head_of_house domu 13475.
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `3, 5, 4, 5, 0, 8`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `3, 5, 4, 5, 0, 8`
 - Identyfikatory traits z save: `67, 54, 57, 12, 46, 152` (nazwy nieustalone).
 ## Rodzina i relacje
 Brak czytelnych odnośników rodzinnych w odczytanym zakresie; NIEUSTALONE.

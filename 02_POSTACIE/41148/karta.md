@@ -12,7 +12,7 @@
 - Tytuły / pozycja: brak domeny w odczytanym rekordzie
 
 - Historia tytułu c_zollern (3432) wymienia Friedricha jako poprzedniego posiadacza przed 1066-09-15. Save nie dowodzi przyczyny zmiany ani pokrewieństwa z Burkhardem.
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `5, 5, 7, 5, 8, 8`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `5, 5, 7, 5, 8, 8`
 - Identyfikatory traits z save: `58, 47, 75, 16, 238` (nazwy nieustalone).
 ## Rodzina i relacje
 Brak czytelnych odnośników rodzinnych w odczytanym zakresie; NIEUSTALONE.

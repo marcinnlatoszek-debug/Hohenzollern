@@ -12,7 +12,7 @@
 - Tytuły / pozycja: Grüningen, Sigmaringen, Linzgau, Berge
 
 
-- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Waleczność, Zarządzanie, Intryga, Nauka, Krzepkość): `6, 5, 8, 7, 4, 2`
+- Umiejętności zapisane w kolejności CK3 (Dyplomacja, Wojskowość, Zarządzanie, Intryga, Nauka, Waleczność): `6, 5, 8, 7, 4, 2`
 - Identyfikatory traits z save: `56, 61, 75, 0` (nazwy nieustalone).
 ## Rodzina i relacje
 Brak czytelnych odnośników rodzinnych w odczytanym zakresie; NIEUSTALONE.
