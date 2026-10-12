@@ -1,5 +1,12 @@
 # Gerhard — CK3 ID 62635
 
+## Dowodzenie pod Zollern i wyróżnienie — relacja gracza, data nieustalona
+
+**RELACJA_GRACZA (12 X 2026):** Gerhard (62635) dowodzi siłami strony **księcia Rudolfa** w **trwającej bitwie o Zollern** przeciw wojskom księcia Karyntii Bertholda II. Gracz przekazał, że Gerhard otrzymał **duże wyróżnienie / uznanie** za swoje działania. **Nie ustalono dokładnej nazwy, rodzaju i daty wyróżnienia ani mechanicznej zmiany cech, tytułu czy roli dowódcy**. Nie dopisywać odznaczenia ani nowego urzędu bez screena. Ocena bliskiego zwycięstwa pochodzi od gracza, nie jest jeszcze wynikiem bitwy. Na 14 XI save odrębnie potwierdzał Gerharda jako dowódcę armii Hohenbergu; nowa relacja nie zawiera daty świata CK3.
+
+[Źródło](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md).
+
+
 ## Potwierdzone dowodzenie — 14 XI 1067
 
 **POTWIERDZONE_SAVE:** dowódca armii Hohenbergu `armies/388` nadal ma ID **62635 — Gerhard**. Jednostka armijna `395`, lokalizacja `2759` (nazwa miejsca NIEUSTALONA z samego klucza). To aktualizacja względem stanu 7 VI; nie dowodzi obecności Gerharda w każdej fazie sierpniowej bitwy ani nie potwierdza jej wyniku. [Odczyt](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
