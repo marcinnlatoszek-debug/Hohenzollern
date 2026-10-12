@@ -130,3 +130,18 @@ W nowych blokach armii zapisano **Gerharda 62635 jako dowódcę armii Hohenbergu
 | `Zrzut ekranu 2026-10-11 192540.png` | `file_000000000b4081f4a4836ba550d40ad6` | `9c79077b9650f37f17bdbf95fb7cc324b57959a44efe332d6919493d11378870` | 31 VIII: końcowe podsumowanie zwycięstwa i bilans |
 | `Zrzut ekranu 2026-10-11 192540(1).png` | `file_00000000e7548210b8429251019fa963` | `9c79077b9650f37f17bdbf95fb7cc324b57959a44efe332d6919493d11378870` | Bajtowy duplikat poprzedniego obrazu; ten sam wynik, bez nowego wydarzenia |
 
+## Bieżący meldunek gracza — równoczesne oblężenia Zollern i Baden (data gry NIEUSTALONA)
+
+**Źródło:** wypowiedzi gracza z 12 X 2026 (data rzeczywista). **RELACJA_GRACZA**, nie nowy odczyt save'a i nie osobny zrzut. W zapisie z 14 XI 1067 wojna 36 pozostaje aktywna, jednak samej sytuacji poniżej nie wolno w całości przypisywać do tego dnia.
+
+| Rejon / jednostki | Zgłoszony stan i zamierzony ruch | Status |
+|---|---|---|
+| **Zollern** | Książę Karyntii **Berthold II (31865)** prowadzi **oblężenie Zollern**; armia liczy **1 357 ludzi** | RELACJA_GRACZA, data gry NIEUSTALONA; nie potwierdza upadku twierdzy |
+| **Breisgau → Berthold** | Oddziały z Breisgau zmierzają do sił księcia Karyntii | RELACJA_GRACZA; dowódca i liczebność tego przemarszu NIEUSTALONE; brak potwierdzonego dotarcia |
+| **Baden** | Oblężenie trwa; według obserwacji gracza twierdza jest bliska upadku | RELACJA_GRACZA + przewidywanie gracza; **Baden nie jest potwierdzone jako zdobyte** |
+| **Zollern i Nellenburg → Baden** | Oddziały związane z Zollern (Egino II 37502) i Nellenburgiem (Eberhard VI 31271) maszerują ku Baden, by połączyć się z wojskami księcia | RELACJA_GRACZA. **Rudolf (33226)** jest prawdopodobnym referentem „księcia”, lecz bez nowego ekranu jest to WNIOSEK. Nazwę podaną jako „Nernburg” znormalizowano roboczo do Nellenburga. Sam marsz nie dowodzi dotarcia lub faktycznego połączenia |
+
+**OCENA STRATEGICZNA / WNIOSEK:** siły z Breisgau koncentrują się ku Bertholdowi, a oddziały sprzymierzeńców Rudolfa kierują się ku Baden. Ta sytuacja zwiększa możliwość nowego starcia polowego lub próby odsieczy, ale nie przesądza **miejsca, daty, wielkości, stron ani wyniku jakiejkolwiek przyszłej bitwy**. Nie sumować tych sił z wcześniejszymi datowanymi liczebnościami (np. siły domen z 14 XI).
+
+[Oś fabuły](../../01_KAMPANIA/os_fabuly.md) · [nadrzędny odczyt save 14 XI](../../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md).
+
