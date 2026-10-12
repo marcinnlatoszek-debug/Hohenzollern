@@ -1,8 +1,8 @@
 # Bernhard — CK3 ID 45253
 
-## Profil Bernharda a relacja o ranieniu — data nieustalona
+## Identyfikacja Bernharda z meldunku o Zollern
 
-**RELACJA_GRACZA (12 X 2026):** podczas **trwającej bitwy o Zollern** został ranny człowiek nazwany **Bernhardem**. **WNIOSEK:** może to być postać o ID **45253**, wcześniej rozpoznana jako posiadacz Reutlingen, marszałek i rycerz Egina II z Zollern, lecz wypowiedź **nie podaje ID ani pełnej identyfikacji**. W związku z tym **nie oznaczać mechanicznego stanu rannego postaci 45253 jako potwierdzonego**, dopóki screenshot, tooltip lub save nie rozstrzygną tożsamości. Nie ustalono rodzaju rany, jej następstw, daty wydarzenia ani wyniku bitwy. [Źródło](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md).
+**RELACJA_GRACZA (12 X 2026):** podczas bitwy pod Zollern ranny został Bernhard. **POTWIERDZONE_SCREEN, bez daty gry:** osobny profil pokazuje burmistrza Bernharda z Reutlingen, zarządcę Egina II. Imię, miasto i urząd mocno wskazują na postać z tej karty (ID **45253**), choć identyfikator nie jest widoczny na ekranie. Portret pokazuje ślad rany na twarzy. Profil nie ustala, kiedy powstało obrażenie, czy jest to mechaniczny status rannego ani czy Bernhard brał udział w bitwie. Rodzaj i następstwa obrażenia oraz wynik bitwy pozostają **NIEUSTALONE**. [Źródło i analiza](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md).
 
 
 ## Profil Bernharda i relacja o ranieniu — ekran bez daty gry
