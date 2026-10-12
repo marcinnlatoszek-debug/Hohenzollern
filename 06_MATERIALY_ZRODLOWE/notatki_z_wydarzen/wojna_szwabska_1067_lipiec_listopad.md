@@ -145,3 +145,7 @@ W nowych blokach armii zapisano **Gerharda 62635 jako dowódcę armii Hohenbergu
 
 [Oś fabuły](../../01_KAMPANIA/os_fabuly.md) · [nadrzędny odczyt save 14 XI](../../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md).
 
+
+## Następstwo urazu Gunzelina — aktualizacja źródłowa
+
+**KOREKTA_AUTORA / POTWIERDZENIE GRACZA (12 X 2026, czas rzeczywisty):** Gunzelin von Nordgau, ranny podczas bitwy pod Hohenbergiem (komunikat ekranowy **23 VIII 1067**), **wyzdrowiał**. Nie znamy dnia wyzdrowienia w grze, szczegółów leczenia ani daty zakończenia rekonwalescencji. Save z **14 XI 1067** potwierdzał już, że żyje i nadal pełni funkcję przy dworze; jego pola nie stanowią w tym opracowaniu osobnego potwierdzenia daty wyleczenia. Zachować obie obserwacje i nie zastępować ich domyślną datą.
