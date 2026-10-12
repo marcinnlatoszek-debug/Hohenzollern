@@ -149,3 +149,26 @@ W nowych blokach armii zapisano **Gerharda 62635 jako dowódcę armii Hohenbergu
 ## Następstwo urazu Gunzelina — aktualizacja źródłowa
 
 **KOREKTA_AUTORA / POTWIERDZENIE GRACZA (12 X 2026, czas rzeczywisty):** Gunzelin von Nordgau, ranny podczas bitwy pod Hohenbergiem (komunikat ekranowy **23 VIII 1067**), **wyzdrowiał**. Nie znamy dnia wyzdrowienia w grze, szczegółów leczenia ani daty zakończenia rekonwalescencji. Save z **14 XI 1067** potwierdzał już, że żyje i nadal pełni funkcję przy dworze; jego pola nie stanowią w tym opracowaniu osobnego potwierdzenia daty wyleczenia. Zachować obie obserwacje i nie zastępować ich domyślną datą.
+
+## Koncentracja wojsk i powiadomienie — 19 XI 1067
+
+**POTWIERDZONE_SCREEN:** `Zrzut ekranu 2026-10-12 193940.png` (otrzymany 12 X 2026, SHA-256 `133c88d1b1a0297f3b79f7d019b13e6be0b3cb8651a17c191adea541d15a6f6b`, PNG **1209×906**). **Data CK3 widoczna w dolnej części interfejsu:** `19th of November, 1067 AD`. Oryginalny PNG zachowano w załącznikach rozmowy; nie w repozytorium GitHub.
+
+Panel `Armies in this location` pokazuje zgrupowanie **trzech odrębnych armii w jednej lokalizacji mapy**:
+
+| Armia — dokładna etykieta ekranu | Liczba widoczna |
+|---|---:|
+| `1st Army of Hohenberg` | **738** |
+| `1st Army of Ulm` | **715** |
+| `1st Army of Schmalkalden` | **390** |
+| **Suma arytmetyczna (OBLICZONE)** | **1843** |
+
+Liczba `(3) 1843` na wspólnym znaczniku odpowiada sumie trzech wymienionych armii. **Nie jest to dowód wspólnego dowódcy ani osobnego, jednolitego regimentu.** Nazwa prowincji wskazanej przez panel nie jest tekstowo podana; geograficznie mapa ukazuje rejon Hohenbergu. Ekran uściśla skład koncentracji widocznej już **17 XI 1067** (na tamtym obrazie bez otwartej listy), ale nie stanowi dowodu, że zgrupowanie nie zmieniło położenia między tymi dniami.
+
+Na osobnych znacznikach widoczne są jednostki **210** i **440**. Bez tooltipów przypisanie ich do konkretnych władców pozostaje **WNIOSEK z heraldyki i poprzednich danych**, nie odczytem nazwy z tego ekranu. **Nie dodawać ich do 1843**.
+
+**POTWIERDZONE_SCREEN — powiadomienie dyplomatyczne:** data przy wydarzeniu `18 Nov`; tytuł `Allies Join War: Count Kuno and 1 other`, treść `Count Kuno and 1 other Ruler have joined the War on your side.` Zapis dotyczy wiadomości o dołączeniu **Kuna z Wirtembergii (ID 34995)** oraz **jednego innego, nienazwanego władcy**, który również dołączył do strony gracza. Nie zgadywać tożsamości drugiej osoby na podstawie widocznych liczebności wojsk.
+
+**Chronologia wieloźródłowa:** w save datowanym 14 XI 1067 Kuno już widnieje w wojnie 36 po stronie broniących z techniczną datą pola uczestnika **13 XI**. Ekran nowy pokazuje **powiadomienie z 18 XI**, pięć dni później. Zapisać obie daty z nazwą źródła; nie twierdzić, że 18 XI jest koniecznie początkiem jego uczestnictwa. Nie wiadomo też, czy nowy drugi władca znajdował się w obozie Kuna, kto nim był, ani jakie wojska wystawił.
+
+Dla fabuły: możliwy ważny etap gromadzenia sił przy Hohenbergu i poszerzania poparcia dla Rudolfa, ale nie jest to dowód kolejnej bitwy, zdobycia Baden, układów osobistych czy końca wojny.
