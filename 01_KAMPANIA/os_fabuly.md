@@ -106,21 +106,21 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 
 [Screen i zakres odczytu](../07_ANALIZY/rozpoznania_poczatkowe/zmiany_1067-01-29_do_1067-06-07.md). W fabule zachować fakt oblężenia, bez dopisanej bitwy, zdobycia miasta czy spotkania dowódców. Prognozy czasu i liczby wojsk pozostają w dokumentacji stanu.
 
-## Bitwa pod Hohenbergiem — lato 1067
+## Bitwa pod Hohenbergiem — zwycięstwo, lato 1067
 
-**POTWIERDZONE_SCREEN:** kolejne migawki zatytułowane `Battle of Hohenberg` poświadczają walkę wojsk hrabstwa z atakującymi **31 VII, 6 VIII, 12 VIII i 23 VIII 1067**. Bitwa trwała już 31 VII; jej dokładna data rozpoczęcia jest **NIEUSTALONA**. Herb przeciwników odpowiada wcześniej obserwowanej armii Breisgau (WNIOSEK z heraldyki, nie identyfikacja dowódcy). Nie oznaczać zmieniających się liczb z paneli walki jako potwierdzonych poległych.
+**POTWIERDZONE_SCREEN — wydarzenie zakończone:** wojska Hohenbergu **obroniły się i zwyciężyły w bitwie pod Hohenbergiem** podczas wojny o Szwabię. Potwierdzenie nie opiera się na samej przewadze liczebnej ani wyłącznie na interpretacji save'a: seria datowanych ekranów `Battle of Hohenberg` dokumentuje przebieg, a końcowy ekran `Slaughter at Hohenberg` z **31 VIII 1067** podaje **Victory**. **Dokładny dzień rozpoczęcia bitwy NIEUSTALONY** — 31 VII to pierwsza udokumentowana obserwacja, nie potwierdzenie początku starcia.
 
-| Data | Wydarzenie do zachowania | Potwierdzenie i granica |
+| Data | Potwierdzone wydarzenie | Znaczenie i granice |
 |---|---|---|
-| **25 VIII 1067** | Próba przekonania kapelana Helfericha nie powiodła się; plan był kontynuowany | Powiadomienie widoczne na ekranie 27 VIII; przyczyna i przebieg rozmowy NIEUSTALONE |
-| **27 VIII 1067** | Ekran bitwy ogłasza zwycięstwo Hohenbergu; przeciwnik się wycofuje, a wojska Hohenbergu prowadzą pościg | To etap pościgu, nie końcowe podsumowanie bitwy |
-| **31 VIII 1067** | Końcowe podsumowanie potwierdza zwycięstwo pod Hohenbergiem | Ekran `Slaughter at Hohenberg`: 40 poległych po stronie Hohenbergu i 196 po stronie atakującej; wynik samej wojny NIEUSTALONY |
+| **31 VII 1067** | Trwa bitwa pod Hohenbergiem; Hohenberg jest stroną broniącą, a przeciwnik atakującą | Pierwszy datowany ekran `Battle of Hohenberg`; herb przeciwnika jest zgodny z wcześniejszą armią Breisgau (**WNIOSEK identyfikacyjny**) |
+| **6 i 12 VIII 1067** | Kolejne migawki **tej samej** bitwy, z malejącą liczebnością walczących po obu stronach | Nie są to osobne bitwy; bieżące stany żołnierzy nie są tożsame z oficjalnymi stratami |
+| **23 VIII 1067** | **Gunzelin von Nordgau (ID 65692), rycerz i mistrz intryg Burkharda, zostaje ranny** podczas bitwy | Powiadomienie `Our knight Gunzelin von Nordgau was wounded by an enemy soldier!`; późniejszy save z **14 XI** potwierdza, że Gunzelin żyje i zachował urząd |
+| **27 VIII 1067** | **Victory** — wojska Hohenbergu ścigają wycofującego się przeciwnika | Interfejs pokazuje `Pursuing` i `Retreating`; to faza pościgu, nie końcowy bilans |
+| **31 VIII 1067** | **Zwycięstwo pod Hohenbergiem potwierdzone końcowym podsumowaniem** | `Slaughter at Hohenberg`: **40 poległych** po stronie Hohenbergu i **196** po stronie atakującej; dodatkowe efekty mechaniczne w rejestrze źródłowym |
 
-**23 VIII 1067 — potwierdzony komunikat o ranieniu [Gunzelina von Nordgau 65692](../02_POSTACIE/65692/karta.md)** w trakcie bitwy przez żołnierza wroga. To pierwsze pewne wydarzenie bezpośrednio dotyczące jednego z rycerzy Burkharda w opisanej walce. Jego śmierć, przebieg leczenia i dalszy stan zdrowia NIEUSTALONE. Nie twierdzić, że Burkhard osobiście dowodził bitwą; jego urzędnik/rycerz uczestniczył w walce.
+**Osobne wydarzenie dworskie — 25 VIII 1067:** na ekranie z 27 VIII widnieje powiadomienie o nieudanej próbie przekonania kapelana Helfericha i kontynuowaniu planu. Powiadomienie nie podaje przebiegu rozmowy ani celu, którego nie udało się osiągnąć; nie łączyć go przyczynowo z wynikiem bitwy.
 
-**27 VIII — 31 VIII 1067:** 27 VIII ekran ogłosił zwycięstwo i pokazał pościg za wycofującymi się przeciwnikami. Końcowe podsumowanie z 31 VIII potwierdza zwycięstwo pod Hohenbergiem oraz 40 poległych po stronie Hohenbergu i 196 po stronie atakującej. Nie jest to potwierdzenie zakończenia wojny o Szwabię ani zdobycia Baden. [Odczyt, liczby i identyfikatory źródeł](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
-
-[Liczebności, stan regimentów i źródła ekranowe](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). W fabule zachować przebieg potwierdzony na ekranach, bez dopisanych scen.
+**Skutek fabularny:** zwycięstwo stanowi potwierdzony epizod w historii rządów Burkharda i obrony jego ziem. Można opisywać konsekwencje zwycięstwa oraz ranienie Gunzelina, jednak **nie twierdzić bez źródła**, że Burkhard sam prowadził wojska, że konkretny dowódca poległ, że zdobyto Baden, że zakończyła się wojna lub że poznano wszystkie indywidualne losy uczestników. Stan mechaniczny po wydarzeniu jest nadrzędny: save **14 XI 1067** potwierdza, że wojna 36 o Szwabię **nadal trwa**. Liczebności, skład oddziałów, ekranowy bilans i identyfikatory źródeł znajdują się w [dossier bitwy i rejestrze wojsk](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md); [weryfikacja save'a](../07_ANALIZY/rozpoznania_poczatkowe/weryfikacja_save_1067-11-14.md). **Jest to ustalona oś wydarzeń, nie gotowa scena prozy.**
 
 ## Obserwacja 28 IX 1067 — armie w jednym miejscu
 
