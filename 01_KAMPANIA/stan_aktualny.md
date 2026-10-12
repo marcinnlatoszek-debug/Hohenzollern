@@ -1,11 +1,12 @@
-# Kanon bieżący — save 14 XI 1067
+# Kanon bieżący — ostatni save 14 XI 1067; późniejsza obserwacja 23 II 1068
 
-## Meldunek o bitwie pod Zollern — brak daty gry i wyniku
+## Późniejszy ekran bitwy pod Zollern — 15–23 II 1068
 
-**RELACJA_GRACZA (12 X 2026):** trwająca bitwa pod Zollern pomiędzy siłami księcia Rudolfa i Bertholda II, księcia Karyntii. **Gerhard 62635** dowodzi siłami strony Rudolfa i został szczególnie wyróżniony (charakter wyróżnienia **NIEUSTALONY**). **Bernhard został ranny**; możliwe odniesienie do marszałka Egina II, Bernharda 45253, **wymaga identyfikacji**. Według oceny gracza rycerze sprawują się dobrze, przewaga może prowadzić do zwycięstwa, lecz **bitwa NADAL TRWA** i jej rezultat **NIE JEST POTWIERDZONY**. Wspomniany przyszły zrzut ekranu nie określa jeszcze daty w świecie CK3. Odrębne od potwierdzonego zwycięstwa w sierpniowej bitwie pod Hohenbergiem.
+**POTWIERDZONE_SCREEN:** panele z 15 i 23 II 1068 pokazują bitwę pod Zollern nadal w toku. Nagłówki armii zmieniają się z 2 357 obrońców i 1 611 atakujących na 2 367 i 849. Przewaga bieżącej liczebności jest po stronie obrońców, lecz nie można utożsamić różnicy z poległymi ani uznać starcia za rozstrzygnięte. Szczegóły regimentów i ograniczenia odczytu: [raport bitwy](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md).
 
-**Granica stanu mechanicznego:** ostatni odczytany save pozostaje datowany **14 XI 1067**, a ostatni datowany screen **19 XI 1067**. Relacja nie dowodzi, kiedy rozpoczęto nową bitwę ani że zakończyła się przed którymkolwiek z tych dni. [Notatka źródłowa](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md).
+**RELACJA_GRACZA:** Rudolf (33226) przeciw Bertholdowi II (31865); Gerhard (62635) dowodzi po stronie Rudolfa i otrzymał nieokreślone „wielkie wyróżnienie”. Gracz zgłosił ranienie Bernharda. Niedatowany profil silnie pasuje do Bernharda 45253 z Reutlingen, zarządcy Egina II; portret pokazuje ślad rany, ale nie ustala daty, udziału w starciu ani mechanicznego statusu rannego. Szczegóły w [raporcie](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md) i [karcie Bernharda](../02_POSTACIE/45253/karta.md).
 
+**Granica stanu mechanicznego:** ostatni odczytany save pozostaje z **14 XI 1067**. Lutowe ekrany są późniejszymi obserwacjami, nie nowym odczytem save’a i nie aktualizują same przez się stanu pozostałych postaci ani wojny. Powiązanie bitwy z wojną 36 opiera się na ciągłości kampanii i relacji gracza; numer wojny nie jest widoczny na panelu bitwy.
 
 ## Najnowsza obserwacja wojsk — 19 XI 1067
 

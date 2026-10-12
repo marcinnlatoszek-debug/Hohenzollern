@@ -114,3 +114,14 @@ Poniższe wpisy są **metadanymi załączników rozmowy**; obrazy nie zostały d
 | `Zrzut ekranu 2026-10-12 193940.png` | **19 XI 1067** (powiadomienie **18 XI**) | Panel: Hohenberg **738**, Ulm **715**, Schmalkalden **390**; wiadomość o hrabim Kunie i innym, niezidentyfikowanym władcy po stronie gracza | `133c88d1b1a0297f3b79f7d019b13e6be0b3cb8651a17c191adea541d15a6f6b` |
 
 **POTWIERDZONE_SCREEN.** Obrazy są załącznikami rozmowy; nie przechowuje się binarnych PNG w repozytorium. Daty plików są rzeczywiste, natomiast daty gry w tabeli pochodzą z kalendarza CK3. [Szczegółowy odczyt](notatki_z_wydarzen/koncentracja_wojsk_1067-11-17_19.md).
+
+
+## Bitwa pod Zollern — ekrany 15 i 23 II 1068 oraz profil Bernharda
+
+| Plik | Data świata gry | Ustalenie | Załącznik / SHA-256 |
+|---|---|---|---|
+| `Zrzut ekranu 2026-10-12 194413.png` | **15 II 1068** | Bitwa trwa; nagłówki: obrońcy 2 357, atakujący 1 611; silniejsi rycerze atakujących | `file_00000000ddf881f481b961bb8f411c3d` · `012c57af2ffbc46c7458a11022de376085dc01f19e1c1e1933ae87a0e8711d5c` |
+| `Zrzut ekranu 2026-10-12 194653.png` | **23 II 1068** | Bitwa nadal trwa; nagłówki: obrońcy 2 367, atakujący 849; wynik nieustalony | `file_0000000016f881f49b278dc7e67be146` · `4e83b500ba3344f131805d9f70930de91dcc0304236637ec20c37e55c5aa2c17` |
+| `Zrzut ekranu 2026-10-12 194640.png` | Data gry **NIEUSTALONA** | Profil burmistrza Bernharda z Reutlingen, zarządcy Egina II, 35 lat; portret pokazuje ślad rany na twarzy | `file_000000000a2c81f4900e468ad9c5bc3c` · `40cd98430f0960b42bc56a9be481eab3671b8b987f09745f37e950db66c403c5` |
+
+Profil silnie pasuje do postaci z karty **Bernhard 45253**, ale sam nie dowodzi daty obrażenia ani udziału w bitwie. Szczegółowe odczyty składów, kontr i ograniczeń: [raport bitwy](notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md) · [karta Bernharda](../02_POSTACIE/45253/karta.md). Obrazy pozostają załącznikami rozmowy, bez kopii PNG w repozytorium.

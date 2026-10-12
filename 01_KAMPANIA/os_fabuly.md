@@ -172,10 +172,13 @@ Nie dopisywać konkretnej metody leczenia, czasu rekonwalescencji ani osobistej 
 
 **18 XI — POTWIERDZONE_SCREEN:** powiadomienie `Allies Join War: Count Kuno and 1 other` informuje o hrabim Kunie oraz **drugim niezidentyfikowanym władcy** dołączających po stronie gracza. Save z 14 XI już obejmuje Kuna w wojnie z technicznym polem daty **13 XI**; wiadomość z 18 XI nie jest dowodem drugiego przystąpienia. Nie wpisywać nazwy nieznanego władcy ani jego motywacji. Zegar i pamięć napisanych scen bez zmian.
 
-## Meldunek o trwającej bitwie pod Zollern — dzień NIEUSTALONY
+## Bitwa pod Zollern — 15–23 II 1068
 
-**RELACJA_GRACZA (12 X 2026, czas rzeczywisty; brak nowego screena z datą gry):** podczas trwającej wojny o Szwabię **toczy się bitwa o Zollern między wojskami księcia Rudolfa a siłami Bertholda II, księcia Karyntii**. Po stronie Rudolfa dowodzi **Gerhard (62635)**, który według meldunku otrzymał **znaczące wyróżnienie/uznanie**; dokładnej natury wyróżnienia, mechaniki i daty **NIE USTALONO**. **Bernhard został ranny**; w istniejących kartach jest Bernhard (45253), marszałek i rycerz Egina II, ale utożsamienie go z rannym wymaga zrzutu ekranu. **Bitwa w chwili meldunku NADAL TRWA**. Dobra postawa rycerzy oraz przewidywane zwycięstwo to **ocena gracza**, nie zatwierdzony wynik starcia.
+**POTWIERDZONE_SCREEN:** dwa panele datują trwającą bitwę na **15 i 23 lutego 1068**. Pierwszy pokazuje 2 357 obrońców i 1 611 atakujących; drugi 2 367 i 849. Na późniejszym ekranie bitwa nadal trwa, więc **wynik pozostaje NIEUSTALONY**. Różnicy liczebności nagłówków nie traktować jako liczby poległych. Dokładne składy, kontry, rozbieżności w sumach i identyfikatory załączników zachowano w [raporcie bitwy](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md).
 
-**Kontekst narracyjny:** Zollern jest miejscem związanym z utratą dawnych ziem Hohenzollernów. Wykorzystać wagę historyczną miejsca i rolę Gerharda, ale **nie dopisywać osobistej obecności Burkharda, celu zdobycia Zollern, szczegółów ran Bernharda, ceremonii wyróżnienia ani zwycięstwa**. To nowa bitwa, nie sierpniowa bitwa pod Hohenbergiem, której zwycięstwo odnotowano odrębnie. Data bieżącego starcia w świecie CK3 **NIEUSTALONA**; zapowiedziane potwierdzenie ekranowe jeszcze nie dotarło.
+**RELACJA_GRACZA (12 X 2026):** strony starcia to wojska księcia Rudolfa (33226) i księcia Karyntii Bertholda II (31865). Gerhard (62635) dowodzi po stronie Rudolfa i otrzymał „wielkie wyróżnienie”; rodzaj wyróżnienia nieustalony. Bernhard został ranny. Osobny ekran profilu mocno wskazuje na Bernharda z Reutlingen, zarządcę Egina II, zgodnego z kartą 45253; portret pokazuje ślad rany na twarzy, lecz profil bez daty gry nie dowodzi jego udziału w bitwie ani daty/mechanicznego statusu obrażenia. [Karta Bernharda](../02_POSTACIE/45253/karta.md).
 
-[Pełny meldunek i punkty do późniejszej weryfikacji](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md).
+**Granica fabularna:** Zollern zachowuje znaczenie historyczne dla rodu Burkharda. Nie dopisywać jego obecności, celu odzyskania ziem, motywacji, sceny wyróżnienia ani wyniku. Do osi wpisano samą bitwę i relację o dowódcy oraz rannym; szczegóły oddziałów pozostają w źródłowym raporcie.
+
+[Raport źródłowy i analiza](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md) · [Karta Gerharda](../02_POSTACIE/62635/karta.md).
+
