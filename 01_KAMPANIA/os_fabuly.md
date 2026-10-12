@@ -151,3 +151,9 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 
 **Priorytet źródeł:** ostatni zweryfikowany save z **14 XI 1067** pozostaje nadrzędnym stanem mechanicznym w swojej dacie; ta relacja opisuje nową, **niedatowaną w świecie gry obserwację gracza**, nie jest korektą lokalizacji wojsk w save ani dowodem, że wszystkie przemarsze nastąpiły 14 XI. [Rejestr ruchów wojsk](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
 
+
+## Następstwo bitwy — potwierdzone wyzdrowienie Gunzelina
+
+**KOREKTA_AUTORA / POTWIERDZENIE GRACZA (12 X 2026, data rzeczywista):** **Gunzelin von Nordgau (ID 65692) wyzdrowiał** po ranieniu udokumentowanym podczas bitwy pod Hohenbergiem **23 VIII 1067**. **Dokładny dzień w kalendarzu CK3 pozostaje NIEUSTALONY.** Na 14 XI Gunzelin figurował w `living` i zachowywał stanowisko mistrza intryg, lecz te odczyty nie stanowiły odrębnego datowanego komunikatu o wyzdrowieniu. Do opowieści zachować fakt choroby/obrażeń i późniejszego odzyskania zdrowia jako dwa powiązane wydarzenia bez arbitralnego datowania terapii.
+
+Nie dopisywać konkretnej metody leczenia, czasu rekonwalescencji ani osobistej reakcji Burkharda bez zatwierdzonej sceny. Informacja nie zmienia wyniku bitwy ani aktualnego wyniku wojny. [Karta Gunzelina](../02_POSTACIE/65692/karta.md).
