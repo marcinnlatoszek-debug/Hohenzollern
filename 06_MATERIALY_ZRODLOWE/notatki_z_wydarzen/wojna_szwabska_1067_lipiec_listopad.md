@@ -180,3 +180,9 @@ Dla fabuły: możliwy ważny etap gromadzenia sił przy Hohenbergu i poszerzania
 **18 XI — komunikat:** `Allies Join War: Count Kuno and 1 other`, po stronie gracza. **Kuno 34995** jest już w save 14 XI z datą pola uczestnictwa **13 XI**. Dat tych nie utożsamiać, nie mnożyć wydarzenia; drugi władca bez identyfikacji. Widoczne osobne znaczniki 210 i 440 nie mają na nowym ekranie podpisanych dowódców.
 
 [Metryki dwóch ekranów, porównanie wojsk i ograniczenia](koncentracja_wojsk_1067-11-17_19.md).
+
+## Nowy meldunek — bitwa pod Zollern (data gry i wynik nieustalone)
+
+**RELACJA_GRACZA z 12 X 2026:** pod Zollern trwa bitwa pomiędzy siłami **Rudolfa 33226** a wojskami **Bertholda II 31865**. Po stronie Rudolfa według gracza dowodzi **Gerhard 62635**, który uzyskał szczególne uznanie lub wyróżnienie, bez ustalonej nazwy efektu. **Bernhard został ranny**; potencjalne utożsamienie z **Bernhardem 45253, marszałkiem Egina II**, pozostaje WNIOSKIEM do weryfikacji screenem. Ocena „rycerze spisali się” i prawdopodobieństwo zwycięstwa nie oznaczają jeszcze rozstrzygnięcia. **Bitwa w toku.**
+
+Nie ustalono daty CK3, składu armii w bitwie, poniesionych strat, przyczyn wyróżnienia Gerharda ani stanu Bernharda po walce. Nie sumować do niej automatycznie trzech armii skoncentrowanych pod Hohenbergiem 19 XI. [Meldunek i ograniczenia](meldunek_bitwa_o_zollern_data_nieustalona.md).
