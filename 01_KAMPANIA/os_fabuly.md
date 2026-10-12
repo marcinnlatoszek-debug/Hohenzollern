@@ -142,3 +142,12 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 **Gunzelin 65692 żyje 14 XI**, mimo ranienia w bitwie pod Hohenbergiem 23 VIII. **Gerhard 62635 pozostaje dowódcą armii Hohenbergu**. Nie potwierdzono pełnego wyzdrowienia Gunzelina, pokoju, zwycięstwa w bitwie, zdobycia Baden ani osobistych spotkań dowódców i sojuszników. Liczby wojsk zachować w [raporcie](../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md), nie w prozie. Zegar narracji bez zmian, nie napisano nowych scen.
 
 **Kontrola dat starszych zapisów:** dla pliku (9) metadane po ponownym dekodowaniu wskazują **2 II 1067**, mimo wcześniejszego opisu **29 I**; wymaga to oddzielnego uzgodnienia starych etykiet, bez zmiany samych zdarzeń.
+
+## Bieżąca obserwacja marszów i oblężeń — data świata gry nieustalona
+
+**RELACJA_GRACZA (12 X 2026, data rzeczywista; bez nowego datowanego screena/save'a):** w trwającej wojnie o Szwabię książę Karyntii **Berthold II (31865)** oblega **Zollern** na czele sił liczących **1 357 żołnierzy**. W kierunku jego wojsk podąża armia z **Breisgau**. Równocześnie **Baden nadal jest oblegane i według oceny gracza może wkrótce upaść**, lecz jego zdobycia **nie potwierdzono**. Oddziały **Zollern** i **Nellenburga** zmierzają ku Baden, by połączyć się z wojskami księcia — **Rudolfa (33226) według kontekstu obrońców; identyfikacja dowódcy miejsca połączenia jest WNIOSKIEM**. Określenie „Nernburg” z wypowiedzi gracza odczytano roboczo jako **Nellenburg (Eberhard VI 31271)**; do potwierdzenia nazwą w interfejsie.
+
+**WNIOSEK strategiczny, nie wydarzenie:** równoczesne marsze i oblężenia **mogą** prowadzić do większej bitwy, jednak **nie ma jeszcze potwierdzenia** połączenia wojsk, miejsca przyszłego starcia, jego daty, uczestników, wyniku ani zdobycia którejkolwiek z twierdz. Nie dopisywać ataku na maszerujące oddziały jako faktu. Równoczesne działania przy Zollern i Baden tworzą kontekst fabularny dla zagrożenia ziem Egina II i decyzji pozostałych sprzymierzeńców, ale nie dowodzą ich motywacji.
+
+**Priorytet źródeł:** ostatni zweryfikowany save z **14 XI 1067** pozostaje nadrzędnym stanem mechanicznym w swojej dacie; ta relacja opisuje nową, **niedatowaną w świecie gry obserwację gracza**, nie jest korektą lokalizacji wojsk w save ani dowodem, że wszystkie przemarsze nastąpiły 14 XI. [Rejestr ruchów wojsk](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
