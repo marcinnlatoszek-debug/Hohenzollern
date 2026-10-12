@@ -157,3 +157,11 @@ Dokładny dzień przypięcia jednostek, nazwa miejsca z tych powiązań, dotarci
 **KOREKTA_AUTORA / POTWIERDZENIE GRACZA (12 X 2026, data rzeczywista):** **Gunzelin von Nordgau (ID 65692) wyzdrowiał** po ranieniu udokumentowanym podczas bitwy pod Hohenbergiem **23 VIII 1067**. **Dokładny dzień w kalendarzu CK3 pozostaje NIEUSTALONY.** Na 14 XI Gunzelin figurował w `living` i zachowywał stanowisko mistrza intryg, lecz te odczyty nie stanowiły odrębnego datowanego komunikatu o wyzdrowieniu. Do opowieści zachować fakt choroby/obrażeń i późniejszego odzyskania zdrowia jako dwa powiązane wydarzenia bez arbitralnego datowania terapii.
 
 Nie dopisywać konkretnej metody leczenia, czasu rekonwalescencji ani osobistej reakcji Burkharda bez zatwierdzonej sceny. Informacja nie zmienia wyniku bitwy ani aktualnego wyniku wojny. [Karta Gunzelina](../02_POSTACIE/65692/karta.md).
+
+## 18–19 XI 1067 — sojusznicy i zgromadzenie armii pod Hohenbergiem
+
+**18 XI (POTWIERDZONE_SCREEN, data powiadomienia):** komunikat `Allies Join War: Count Kuno and 1 other` potwierdza, że **Kuno z Wirtembergii oraz jeszcze jeden, niezidentyfikowany władca** dołączyli do wojny po stronie gracza. **13 XI** to odrębna techniczna data uczestnictwa Kuna w save z 14 XI. Różnica pięciu dni nie dowodzi początku uczestnictwa dopiero 18 XI; nieznany drugi władca pozostaje bez ustalonego ID, motywów i sił.
+
+**19 XI (POTWIERDZONE_SCREEN, data na kalendarzu):** panel `Armies in this location` identyfikuje koncentrację wojsk **Hohenbergu, Ulm i Schmalkalden** w jednej lokalizacji w okolicy Hohenbergu. Liczebności i porównanie z ekranem 17 XI w [rejestrze armii](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md). Jest to **współobecność trzech odrębnych armii**, nie dowód jednej bitwy lub jednego dowództwa. Do opowieści wykorzystać wagę przybywających sił i wiadomości o poparciu tylko w kontekście ich rzeczywistej dostępności dla bohatera.
+
+**Stan źródeł:** najnowszy zweryfikowany **save 14 XI 1067**, późniejszy **screen 19 XI 1067**. Nie tworzyć faktów dotyczących wyniku wojny na podstawie koncentracji.
