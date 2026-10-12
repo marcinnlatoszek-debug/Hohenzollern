@@ -41,3 +41,12 @@ Najwyższy zapisany fort_level to 7 w Zollern (b_zollern, b_gammertingen); nast�
 ## Braki
 
 Lista wojen, liczebność oddziałów w polu, skład MAA, rycerze, dowódcy i rozejmy: NIEUSTALONE. Do uzupełnienia potrzebne są panele armii i dyplomacji.
+
+
+## Porównanie stanu na 1067-01-15
+
+Save2 zmienia profil Burkharda (66943): levy 144 (bez zmiany), current_strength 459→268, power 17784.946→11123.946, max_power 22270→12690. To nadal surowe wartości profilu, nie policzone oddziały w polu. Dla pozostałych władców tabela powyżej pozostaje wyłącznie odczytem save1 i nie jest aktualnym stanem liczebności wojsk.
+
+Wśród tych samych ośmiu castle_holding w pięciu hrabstwach zachowały się wymienione budynki i poziomy fortów, poza b_lindau w Ravensburgu: fort_level wzrósł z 1 do 2. Porównanie obejmuje tę samą rozpoznaną pulę ośmiu zamków; nie jest pełnym spisem wszystkich holdings w regionie.
+
+Źródło: `von_Hohenzollern(2).ck3` • CK3 1.20.0.4 • stan 1067-01-15 • SHA-256 `C5E0C6839E2593EF162C7F7D0D5A2FBB2C15709AACBB60AFBAF3A096055E3588`.

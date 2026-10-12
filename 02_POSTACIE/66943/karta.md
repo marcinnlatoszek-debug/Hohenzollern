@@ -19,9 +19,16 @@ Brak czytelnych odnośników rodzinnych w odczytanym zakresie; NIEUSTALONE.
 ## Dane militarne z profilu
 - `levy=144`; `current_strength=459`; `power=17784.946`; `max_power=22270`.
 - Są to pola zapisane w save; bez panelu gry nie utożsamiaj ich ze składem armii w polu ani liczbą regimentu.
+## Stan na 1067-01-15
+- Małżonka: Hedwig (41150); save2 potwierdza wzajemny odnośnik małżeństwa. W odczytanym rekordzie rodzinnym nie znaleziono dzieci.
+- Profil militarny w save2: levy=144, current_strength=268, power=11123.946, max_power=12690. Surowe pola save’a, nie stan armii w polu.
+- Następca tytułu Zollern nadal zapisany jako Rudolf (35525).
+- Źródło: von_Hohenzollern(2).ck3 • CK3 1.20.0.4 • stan 1067-01-15 • SHA-256 C5E0C6839E2593EF162C7F7D0D5A2FBB2C15709AACBB60AFBAF3A096055E3588.
+
 ## Rejestr wieku i zmian
 | Data gry | Data urodzenia | Wiek | Źródło / aktualizacja |
 |---|---|---:|---|
 | 1066-09-15 | 1050-07-02 | 16 | save początkowy |
+| 1067-01-15 | 1050-07-02 | 16 | save `von_Hohenzollern(2).ck3` • CK3 1.20.0.4 • 1067-01-15 • SHA-256 `C5E0C6839E2593EF162C7F7D0D5A2FBB2C15709AACBB60AFBAF3A096055E3588` |
 
 Przy każdym kolejnym save dopisz nowy wiersz wieku i datowane, potwierdzone zmiany. Zachowaj stare obserwacje; prognoz nie wpisuj do faktów.

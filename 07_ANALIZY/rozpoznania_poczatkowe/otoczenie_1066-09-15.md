@@ -24,3 +24,10 @@
 Nie ustalono składu armii, aktywnych wojen, opinii wasali, roszczeń Friedricha, rodziców Burkharda, populacji ani nazw modów. Cechy występują jako numeryczne IDs i wymagają screenów/definicji. Statystyki wojskowe są skopiowane z pól save’a, bez interpretowania ich jako liczby oddziałów w polu.
 
 Źródło: `von_Hohenzollern(1).ck3` • CK3 1.20.0.4 • stan 1066-09-15 • SHA-256 `E8DD2ECAC4D525EBF5456C22B5B3D3FA9422D45F620D57298FD25830B55A85D7`
+
+
+## Korekta po porównaniu z save2
+
+W save1 c_kirchberg (3460) już miało de_facto_liege=201 (Bawaria), a nie Swabia (202). Save2 pokazuje nowo utworzone d_augsburg (2678) Arnolda jako pośredni tytuł zależności Kirchbergu; samo d_augsburg jest de facto pod Bawarią. Wcześniejsze wpisy w tym raporcie i strukturze, które nazywały Kirchberg wasalem de facto Swabii, były błędne; zostały poprawione w indeksie i aktualnej strukturze.
+
+Save2 potwierdza też zmiany tytułów Teck (Berthold 43117 od 1066-10-10) i Urach (Bernhard 61007 od 1066-10-18), małżeństwo Burkharda z Hedwig, gościa Gerharda (44445) oraz skutek wydarzenia rolnego w Zollern. Szczegóły i ograniczenia: [porównanie save’ów](../porownania_save/porownanie_1066-09-15_1067-01-15.md).

@@ -1,8 +1,9 @@
 # Nobilis gens von Hohenzollern — kampania CK3
 
-Stan otwarcia tej kampanii: **1066-09-15**. Głównym źródłem jest zapis gry; fakty, wnioski i prognozy są rozdzielone.
+Stan aktualny kampanii: **1067-01-15**. Stan otwarcia: 1066-09-15. Głównym źródłem jest zapis gry; fakty, wnioski i prognozy są rozdzielone.
 
 - [Stan aktualny](01_KAMPANIA/stan_aktualny.md)
+- [Porównanie save’ów 1066-09-15 → 1067-01-15](07_ANALIZY/porownania_save/porownanie_1066-09-15_1067-01-15.md)
 - [Punkt startowy](01_KAMPANIA/punkt_startowy.md)
 - [Oś czasu](01_KAMPANIA/os_czasu.md)
 - [Indeks postaci](02_POSTACIE/indeks_postaci.md)

@@ -20,9 +20,14 @@
 ## Dane militarne z profilu
 - `levy=589`; `current_strength=800`; `power=21070`.
 - Są to pola zapisane w save; bez panelu gry nie utożsamiaj ich ze składem armii w polu ani liczbą regimentu.
+## Stan na 1067-01-15
+- Nadal hrabia Kirchbergu (c_kirchberg, 3460); 19 listopada 1066 utworzono dla niego d_augsburg (2678). De facto d_augsburg podlega Bawarii (201), choć de iure należy do Szwabii. c_kirchberg jest de facto pod d_augsburg.
+- Źródło: von_Hohenzollern(2).ck3 • CK3 1.20.0.4 • stan 1067-01-15 • SHA-256 C5E0C6839E2593EF162C7F7D0D5A2FBB2C15709AACBB60AFBAF3A096055E3588.
+
 ## Rejestr wieku i zmian
 | Data gry | Data urodzenia | Wiek | Źródło / aktualizacja |
 |---|---|---:|---|
 | 1066-09-15 | 1040-01-01 | 26 | save początkowy |
+| 1067-01-15 | 1040-01-01 | 27 | save `von_Hohenzollern(2).ck3` • CK3 1.20.0.4 • 1067-01-15 • SHA-256 `C5E0C6839E2593EF162C7F7D0D5A2FBB2C15709AACBB60AFBAF3A096055E3588` |
 
 Przy każdym kolejnym save dopisz nowy wiersz wieku i datowane, potwierdzone zmiany. Zachowaj stare obserwacje; prognoz nie wpisuj do faktów.

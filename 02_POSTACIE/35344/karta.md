@@ -24,5 +24,6 @@
 | Data gry | Data urodzenia | Wiek | Źródło / aktualizacja |
 |---|---|---:|---|
 | 1066-09-15 | 1025-01-01 | 41 | save początkowy |
+| 1067-01-15 | 1025-01-01 | 42 | save `von_Hohenzollern(2).ck3` • CK3 1.20.0.4 • 1067-01-15 • SHA-256 `C5E0C6839E2593EF162C7F7D0D5A2FBB2C15709AACBB60AFBAF3A096055E3588` |
 
 Przy każdym kolejnym save dopisz nowy wiersz wieku i datowane, potwierdzone zmiany. Zachowaj stare obserwacje; prognoz nie wpisuj do faktów.

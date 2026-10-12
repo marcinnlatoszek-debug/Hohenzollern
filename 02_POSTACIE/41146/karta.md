@@ -19,9 +19,14 @@ Brak czytelnych odnośników rodzinnych w odczytanym zakresie; NIEUSTALONE.
 ## Dane militarne z profilu
 - `levy=468`; `current_strength=571`; `power=16070`.
 - Są to pola zapisane w save; bez panelu gry nie utożsamiaj ich ze składem armii w polu ani liczbą regimentu.
+## Stan na 1067-01-15
+- Save2 nadal wykazuje Bertholda (41146) jako posiadacza sześciu hrabstw Szwabii; odrębny Berthold (43117) posiada Teck.
+- Źródło: von_Hohenzollern(2).ck3 • CK3 1.20.0.4 • stan 1067-01-15 • SHA-256 C5E0C6839E2593EF162C7F7D0D5A2FBB2C15709AACBB60AFBAF3A096055E3588.
+
 ## Rejestr wieku i zmian
 | Data gry | Data urodzenia | Wiek | Źródło / aktualizacja |
 |---|---|---:|---|
 | 1066-09-15 | 1050-01-01 | 16 | save początkowy |
+| 1067-01-15 | 1050-01-01 | 17 | save `von_Hohenzollern(2).ck3` • CK3 1.20.0.4 • 1067-01-15 • SHA-256 `C5E0C6839E2593EF162C7F7D0D5A2FBB2C15709AACBB60AFBAF3A096055E3588` |
 
 Przy każdym kolejnym save dopisz nowy wiersz wieku i datowane, potwierdzone zmiany. Zachowaj stare obserwacje; prognoz nie wpisuj do faktów.
