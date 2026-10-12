@@ -22,3 +22,7 @@ Może akceptować obecną pozycję, lecz oczekiwać szacunku dla fachowości. Um
 1. Nie twierdzić, że postać wykonała działanie, stworzyła spisek, popełniła zdradę, zawiązała sojusz lub wypowiedziała dialog, jeżeli nie potwierdzają tego źródła.
 2. Nie wyprowadzać z etykiety `Balanced` nowych cech mechanicznych. Natężenia Mild / Normal / Intense pozostają NIEUSTALONE bez wiarygodnego mapowania XP konkretnej wersji moda.
 3. Wygląd zachować według [wyglad.md](wyglad.md), źródła według [zrodla.md](zrodla.md). Wnioski fabularne są wariantami zachowań, nie pamięcią scen ani biografią.
+
+## Rola w bitwie o Zollern — relacja gracza
+
+**RELACJA_GRACZA (12 X 2026, data CK3 nieustalona):** Gerhard sprawuje dowództwo nad siłami Rudolfa w **trwającej** bitwie pod Zollern przeciw Bertholdowi II. Otrzymał duże wyróżnienie lub uznanie według meldunku gracza; nie potwierdzono jeszcze jego nazwy, ceremonii ani ewentualnej zmiany mechanicznej. Jego rola może być istotna dla dalszego opowiadania, zwłaszcza z uwagi na historyczne znaczenie Zollern dla Hohenzollernów. Nie dopisywać własnych rozkazów, dialogów, zakończenia bitwy ani obecności Burkharda przy Gerhardzie. [Źródło](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/meldunek_bitwa_o_zollern_data_nieustalona.md).
