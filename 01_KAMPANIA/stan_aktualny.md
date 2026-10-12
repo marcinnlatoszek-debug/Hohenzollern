@@ -1,5 +1,10 @@
 # Kanon bieżący — save 14 XI 1067
 
+## Aktualizacja stanu Gunzelina — potwierdzenie gracza
+
+**KOREKTA_AUTORA / POTWIERDZENIE GRACZA (12 X 2026):** **Gunzelin 65692 wyzdrowiał** po ranieniu w bitwie pod Hohenbergiem, odnotowanym **23 VIII 1067**. Gracz **nie podał daty wyzdrowienia w grze**. To późniejsza wiadomość o postaci, niezastępująca danych mechanicznych save’a z 14 XI ani wcześniejszego potwierdzenia udziału Gunzelina w walce. Dawne wpisy „wyleczenie niepotwierdzone” zachowano jako zapis poprzedniego stanu rozpoznania; sam fakt wyzdrowienia jest obecnie **potwierdzony przez gracza**. [Karta](../02_POSTACIE/65692/karta.md) · [oś fabuły](os_fabuly.md).
+
+
 ## Nowa relacja gracza o wojnie — data w CK3 niepodana
 
 **RELACJA_GRACZA z 12 X 2026 (czas rzeczywisty; bez nowego zapisu gry):** Berthold II z **1 357** żołnierzami oblega **Zollern**; wojsko z **Breisgau** maszeruje mu na pomoc. Jednocześnie oblężenie **Baden** jest bliskie rozstrzygnięcia, ale twierdza nie została jeszcze potwierdzona jako zdobyta. Oddziały **Zollern** i **Nellenburga** kierują się ku Baden, aby dołączyć do sił księcia — najpewniej **Rudolfa**, choć brak nowego kadru do identyfikacji. Możliwa większa bitwa jest **WNIOSEK / PROGNOZA**, nie stan faktyczny. [Rozpiska meldunku](../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
