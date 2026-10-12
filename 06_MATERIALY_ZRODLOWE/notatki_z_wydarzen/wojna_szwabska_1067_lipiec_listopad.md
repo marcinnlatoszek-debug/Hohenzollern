@@ -95,7 +95,7 @@ Widoczne na mapach znaczniki (m.in. 738 Hohenberg, 1357 Villach, 210 i 296 na 7 
 
 ## Ograniczenia narracyjne
 
-Zapisz jako **wydarzenia**: wojna o Szwabię, oblężenie Baden (lipcowa obserwacja), bitwa pod Hohenbergiem (potwierdzone fazy 31 VII–23 VIII), **ranienie Gunzelina**, obecność wojsk Bertholda na mapie i dołączenie Egina II oraz Eberharda VI. Postacie wprowadzać przez funkcję i relację; fakt dołączenia Egina może mieć znaczenie wobec rodzinnej historii Zollern, lecz **nie jest dowodem pojednania, negocjacji, zdrady lub zmiany jego charakteru**. Nie dopisano wygranej bitwy, śmierci rycerza, zajęcia Baden, odwrotu Bertholda ani końca wojny. Liczebności pozostają w rejestrze wojsk, a nie w prozie kroniki.
+Zapisz jako **wydarzenia**: wojna o Szwabię, oblężenie Baden (lipcowa obserwacja), bitwa pod Hohenbergiem (potwierdzone fazy 31 VII–23 VIII), **ranienie Gunzelina**, obecność wojsk Bertholda na mapie i dołączenie Egina II oraz Eberharda VI. Postacie wprowadzać przez funkcję i relację; fakt dołączenia Egina może mieć znaczenie wobec rodzinnej historii Zollern, lecz **nie jest dowodem pojednania, negocjacji, zdrady lub zmiany jego charakteru**. **Po uzupełnieniu o ekrany 27 i 31 VIII: zwycięstwo Hohenbergu w tej bitwie jest POTWIERDZONE_SCREEN.** Nadal nie dopisano śmierci rycerza, zdobycia Baden, odwrotu całej armii Bertholda ani końca wojny. Liczebności pozostają w rejestrze wojsk, a nie w prozie kroniki.
 
 [Oś fabuły](../../01_KAMPANIA/os_fabuly.md) · [Stan i źródła](../../01_KAMPANIA/stan_aktualny.md) · [Indeks ekranów](../indeks_screenow.md).
 
