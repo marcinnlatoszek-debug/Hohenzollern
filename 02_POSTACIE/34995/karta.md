@@ -1,5 +1,10 @@
 # Kuno — CK3 ID 34995
 
+## Powiadomienie wojenne — 18 XI 1067
+
+**POTWIERDZONE_SCREEN (ekran 19 XI):** komunikat `Allies Join War: Count Kuno and 1 other` z datą **18 XI** mówi, że hrabia Kuno i inny władca dołączyli do wojny po stronie gracza. **POTWIERDZONE_SAVE (14 XI):** własny wpis Kuna `34995` w wojnie 36 ma już techniczną datę **13 XI**. Różnicy pięciu dni nie interpretować jako dwóch osobnych przystąpień; semantyka przesunięcia między polem binarnym a komunikatem NIEUSTALONA. Drugiego uczestnika nie zidentyfikowano. [Źródło](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/koncentracja_wojsk_1067-11-17_19.md).
+
+
 ## Powiadomienie o dołączeniu do wojny — 18 XI 1067
 
 **POTWIERDZONE_SCREEN:** zrzut `Zrzut ekranu 2026-10-12 193940.png`, kalendarz **19 XI 1067**, zawiera komunikat `Allies Join War: Count Kuno and 1 other` datowany **18 XI**. Potwierdza wiadomość o dołączeniu Kuna oraz jeszcze **jednego niezidentyfikowanego władcy** po stronie gracza. **POTWIERDZONE_SAVE (14 XI):** techniczny wpis uczestnika wojny 36 dla Kuna datowany już **13 XI**. Dni powiadomienia i wpisu w bazie różnią się o pięć i powinny pozostać odrębne. Nie ustanawiać osobistej rozmowy, wspólnej narady ani lokalizacji Kuna na podstawie samego komunikatu. [Rejestr wojsk](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
