@@ -105,3 +105,12 @@ Poniższe wpisy są **metadanymi załączników rozmowy**; obrazy nie zostały d
 ## Zrzut 19 XI 1067 — koncentracja trzech armii i Kuno
 
 `Zrzut ekranu 2026-10-12 193940.png` (załącznik otrzymany **12 X 2026**, SHA-256 `133c88d1b1a0297f3b79f7d019b13e6be0b3cb8651a17c191adea541d15a6f6b`): **POTWIERDZONE_SCREEN**, kalendarz gry **19 XI 1067**. Panel `Armies in this location`: **Hohenberg 738 + Ulm 715 + Schmalkalden 390 = 1843**, wspólny znacznik `(3) 1843`. Powiadomienie **18 XI**: `Allies Join War: Count Kuno and 1 other`, dołączenie do strony gracza Kuna i **jeszcze jednego niezidentyfikowanego władcy**. Zapis wojny 36 z 14 XI ma odrębne pole daty uczestnictwa Kuna 13 XI. Nie nazywać innego władcy bez źródła. [Szczegóły](notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+## Koncentracja wojsk — zrzuty 17–19 XI 1067
+
+| Oryginalny obraz | Data świata CK3 | Fakt ekranowy | SHA-256 |
+|---|---|---|---|
+| `Zrzut ekranu 2026-10-12 193225.png` | **17 XI 1067** | Zbiorczy znacznik `(3) 1843`; inne formacje na mapie oddzielnie | `b9831af332c79cbb393cd719c4b3748488b7ea7d5ea6c3a610ebd6660ad3899a` |
+| `Zrzut ekranu 2026-10-12 193940.png` | **19 XI 1067** (powiadomienie **18 XI**) | Panel: Hohenberg **738**, Ulm **715**, Schmalkalden **390**; wiadomość o hrabim Kunie i innym, niezidentyfikowanym władcy po stronie gracza | `133c88d1b1a0297f3b79f7d019b13e6be0b3cb8651a17c191adea541d15a6f6b` |
+
+**POTWIERDZONE_SCREEN.** Obrazy są załącznikami rozmowy; nie przechowuje się binarnych PNG w repozytorium. Daty plików są rzeczywiste, natomiast daty gry w tabeli pochodzą z kalendarza CK3. [Szczegółowy odczyt](notatki_z_wydarzen/koncentracja_wojsk_1067-11-17_19.md).
