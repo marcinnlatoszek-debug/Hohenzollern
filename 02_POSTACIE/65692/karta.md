@@ -1,5 +1,12 @@
 # Gunzelin — CK3 ID 65692
 
+## Potwierdzenie wyzdrowienia — data w świecie gry nieustalona
+
+**KOREKTA_AUTORA / POTWIERDZENIE GRACZA (12 X 2026, czas rzeczywisty):** **Gunzelin von Nordgau (CK3 ID 65692) wyzdrowiał** po odniesieniu ran w bitwie pod Hohenbergiem, udokumentowanych ekranem z **23 VIII 1067**. **Dokładna data wyzdrowienia w kalendarzu CK3 nie została podana**. Stan ten jest późniejszą informacją od gracza, nie odczytem dodatkowego save’a ani dowodem daty zakończenia leczenia.
+
+**Ciągłość źródeł:** na 14 XI 1067 save potwierdzał życie Gunzelina i brak odczytanej cechy `wounded_1/2/3` w sprawdzonych polach; wcześniejsza analiza nie ustalała jeszcze jednoznacznie wyzdrowienia. Potwierdzenie gracza rozstrzyga **sam fakt powrotu do zdrowia**, lecz nie czas trwania obrażeń, kurację, opiekę lekarską ani ewentualne trwałe skutki. W starszych opisach „wyzdrowienie NIEUSTALONE” chodzi o stan wiedzy sprzed niniejszej korekty.
+
+
 ## Potwierdzenie życia — save 14 XI 1067
 
 **POTWIERDZONE_SAVE:** Gunzelin von Nordgau `65692` ma własny rekord w `living` na 14 XI 1067, `court_data/employer=62634` i powiązane zadanie rady `16782045`; nadal figuruje na liście rycerzy Burkharda. **Przeżył ranienie odnotowane 23 VIII**. Nie wiadomo z tego odczytu, czy został w pełni wyleczony, jak przebiegało leczenie, ani czy doznał trwałych następstw. [Raport](../../07_ANALIZY/rozpoznania_poczatkowe/odczyt_1067-11-14_wojna_i_rod.md).
