@@ -26,3 +26,7 @@ Leniwość, arbitralność i nieczułość mogą popychać do poszukiwania najł
 ## Późniejsza scena historyczna — rana pod Hohenbergiem
 
 **POTWIERDZONE_SCREEN (23 VIII 1067):** `Gunzelin von Nordgau was wounded by an enemy soldier!` na ekranie `Battle of Hohenberg`. W fabule fakt ranienia rycerza jest potwierdzony, jednak nie wolno dopisywać obrażeń, konkretnych zabiegów, rekonwalescencji, śmierci ani reakcji Burkharda jako faktów. Zapis medyczny i dalszy los NIEUSTALONE. Gunzelin pozostaje osobą wcześniej potwierdzoną jako mistrz intryg i rycerz; nie przesądzać o dacie ewentualnej zmiany jego funkcji po bitwie. [Raport](../../06_MATERIALY_ZRODLOWE/notatki_z_wydarzen/wojna_szwabska_1067_lipiec_listopad.md).
+
+## Wyzdrowienie — późniejsze potwierdzenie gracza
+
+**KOREKTA_AUTORA / POTWIERDZENIE GRACZA (12 X 2026):** Gunzelin **wyzdrowiał** po ranieniu w bitwie pod Hohenbergiem 23 VIII 1067. **Data powrotu do zdrowia w świecie CK3 NIEUSTALONA.** W narracji zachować następstwo: najpierw udział i ranienie rycerza, potem potwierdzone wyzdrowienie. Nie dopisywać określonej metody leczenia, długości rekonwalescencji, udziału wskazanej lekarki, dialogów ani daty jego powrotu do służby. Wcześniejsze zastrzeżenia o nieznanym wyniku leczenia opisują historyczny stan rozpoznania i są odtąd rozstrzygnięte tylko co do samego wyzdrowienia.
