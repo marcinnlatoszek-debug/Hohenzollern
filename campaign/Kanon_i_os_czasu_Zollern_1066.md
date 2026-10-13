@@ -12,6 +12,12 @@
 
 Save z 24 listopada wyznacza początek kroniki. Późniejsze screeny aktualizują stan świata, nie cofając daty bazowej. Kolejne screeny, informacje użytkownika i save’y należy włączać do osi czasu z datą gry i źródłem. Nie dopisywać niepotwierdzonych zdarzeń ani więzi rodzinnych.
 
+## Reguła przesuwania osi czasu i zapisu wydarzeń
+
+Oś czasu przesuwana jest wyłącznie w rozmowie projektu „Nobilis gens von Hohenzollern”. Nowy, odczytany save zamyka dotychczasowy odcinek i wyznacza nowy potwierdzony punkt czasu. Do kolejnego przesunięcia screeny przypisuje się do ostatniej ustalonej daty; inną datę widoczną jednoznacznie w grze należy odnotować wraz z rozbieżnością.
+
+Wydarzenia nowe lub proponowane pozostają robocze, dopóki użytkownik ich wyraźnie nie zaakceptuje. Po akceptacji zapisuje się je w odpowiedniej karcie lub osi czasu repozytorium wraz ze źródłem i datą gry. Przy tworzeniu kolejnych osi fabuły korzysta się z zaakceptowanych wpisów pobranych z GitHuba. Brak akceptacji oznacza brak wpisu do kanonu i brak użycia wydarzenia jako potwierdzonej podstawy fabuły.
+
 ## Punkt wyjścia kampanii
 
 ### Potwierdzone fakty
