@@ -33,7 +33,7 @@ Na 6 marca 1067 Burkhard:
 - posiada trzy z czterech dostępnych miejsc domeny;
 - włada hrabstwem o kontroli 100 i rozwoju 8.
 
-Na дворе Burkharda:
+Na dworze Burkharda:
 
 - **Hedwig** — żona, przy zadaniu małżonki;
 - **Radbot** — kanclerz;
