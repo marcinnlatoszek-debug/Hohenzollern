@@ -4,7 +4,7 @@
 **Poprzedni zatwierdzony pełny save:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (1070 dni gry wcześniej).  
 **Najnowsza zatwierdzona obserwacja ekranowa:** **1 października 1073** — po udanej inspekcji Hohenbergu i rozpoczęciu regencji Burkharda nad księciem Rudolfem, ekran epidemii pokazuje grypę Wszebora i gruźlicę; widoczna liczba ofiar wynosi 0. Pełny save z 18 X 1073 jest nowszy od tej obserwacji ekranowej.  
 **Starszy punkt archiwalny:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
-**Akceptacja przesunięcia osi:** 14 października 2026, wyraźne potwierdzenie użytkownika „Tak”.  
+**Akceptacja najnowszego punktu 18 X 1073:** 14 października 2026, potwierdzenie użytkownika „zatwierdzam” po raporcie porównawczym. Wcześniejszy punkt 12 XI 1070 zatwierdzono osobno („Tak”).  
 **Początek właściwej opowieści:** 6 marca 1067.  
 **Chronologia:** screeny potwierdzają obserwacje od 16 XI 1070 do 1 X 1073; zachowują własne daty i są uzupełnione pełnym save'em z 18 X 1073.
 
