@@ -1,12 +1,17 @@
 # Brief dla Astry — dalsza historia Zollern i oś czasu
 
-> **Status: PROJEKT DO AKCEPTACJI UŻYTKOWNIKA.**  
-> Ten plik porządkuje materiał do dalszej pracy, ale sam nie zatwierdza nowych wydarzeń do kanonu ani nie upoważnia Astry do rozstrzygania otwartych wątków. Fakty widoczne w screenach i tooltipach są potwierdzone w źródłach; wpisanie ich do kanonu oraz użycie jako wiążącej podstawy fabuły wymaga akceptacji użytkownika. Podpowiedzi odsłonięte kursorem traktuj jako potwierdzone odczyty.
+> **Status: ZATWIERDZONY BRIEF DLA ASTRY.**  
+> Użytkownik zaakceptował tę wersję briefu 14 października 2026 r. Podpowiedzi odsłonięte kursorem traktuj jako potwierdzone odczyty źródła. Wydarzenia opisane niżej są potwierdzone w screenach; nie uznawaj ich automatycznie za pełny zapis stanu gry ani nie dopowiadaj nierozstrzygniętych skutków.
 
 **Zakres:** właściwa opowieść zaczyna się 6 marca 1067 r. Najnowszy dostępny ekran pochodzi z 1 października 1073 r.  
 **Ostatni zweryfikowany pełny save:** 12 listopada 1070 r. Dwa nowsze save’y nie zostały jeszcze przeanalizowane. Ekrany po tej dacie są punktowymi obserwacjami, nie pełnym stanem świata.  
 **Język narracji:** polski.  
 **Dokumenty bazowe:** [kanon i oś kampanii](Kanon_i_os_czasu_Zollern_1066.md), [rozszerzona oś wydarzeń](Os_czasu_Zollern_1068-1070.md), [stan kampanii](../01_KAMPANIA/stan_aktualny.md).
+
+## Tekst przekazania Astrze
+
+> Astra, korzystaj z tego zatwierdzonego briefu jako wskazówek do dalszej opowieści i porządkowania osi czasu. Prowadź historię od 6 marca 1067 r.; stawiaj politykę, relacje i codzienne rządzenie przed opisem bitew. Traktuj tooltipy jako potwierdzone odczyty. Zachowuj rozróżnienie między faktem ze źródła, zatwierdzonym kanonem i literacką oprawą. Nie rozstrzygaj otwartych kwestii bez decyzji użytkownika. Najnowsze dostępne screeny sięgają 1 października 1073 r.; ostatni zweryfikowany pełny save pochodzi z 12 listopada 1070 r.
+
 
 ## Zadanie Astry
 
@@ -73,4 +78,4 @@ Astra może wymyślić brzmienie rozmów, osobiste odczucia, pogodę, ruch ulicz
 
 Nie ustanawiaj bez akceptacji użytkownika: śmierci, narodzin, małżeństw, sukcesji, zwycięstw, pokoju, zmiany tytułu, długotrwałego sojuszu, wyniku spisku, końca regencji ani trwałego rozstrzygnięcia losu postaci. Nie przypisuj ukrytych zamiarów na podstawie samej opinii, tytułu, cechy ani obecności postaci w wydarzeniu.
 
-**Kolejny krok po akceptacji briefu:** przygotować aktualizację osi wydarzeń i zatwierdzony szkic dalszego odcinka. Do tego czasu brief służy jako propozycja redakcyjna, nie wiążąca instrukcja dla Astry.
+**Brief został zaakceptowany jako dokument roboczy dla Astry.** Nowe rozstrzygnięcia kampanii i wiążące zmiany osi nadal wymagają osobnej, jednoznacznej akceptacji użytkownika.
