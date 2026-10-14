@@ -1,20 +1,20 @@
 # Stan kampanii — wykaz punktów kontrolnych
 
 **Ostatni zatwierdzony odczyt pełnego save'a:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (CK3 1.20.1).  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **16 listopada 1070** — regencja Burkharda trwa już czwarty miesiąc.  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **7 kwietnia 1072** — Meinhard kończy fabrykowanie roszczenia do Hohenbergu, a Burkhard przyjmuje niewysunięte roszczenie. Ostatni pełny save nadal pochodzi z 12 XI 1070.  
 **Poprzedni zatwierdzony pełny save:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja przesunięcia osi:** 14 października 2026, wyraźne potwierdzenie użytkownika „Tak”.  
 **Początek właściwej opowieści:** 6 marca 1067.  
-**Chronologia:** ostatnia osobno zatwierdzona obserwacja sprzed nowego save'a to zdrowie Hupolda III z 3 XI 1070. Nie przenosić tej obserwacji na 12 XI bez dowodu.
+**Chronologia:** screeny potwierdzają obserwacje z 16 XI 1070, 17 XII 1071 i 7 IV 1072; nie są to pełne save'y.
 
-## Najnowsza obserwacja — 16 listopada 1070
+## Wcześniejsza obserwacja — 16 listopada 1070
 
 - Ekran pokazuje aktywne dzielenie władzy; Burkhard pełni funkcję regenta.
 - Użytkownik potwierdził, że regencja trwa już czwarty miesiąc. Data jej początku nie została dokładnie ustalona.
 - Osobny ekran postaci wskazuje księcia-opata Romualda z Sankt Gallen, ale nie potwierdza jednoznacznie, że to on jest osobą objętą regencją. Nie odczytano wartości ani kierunku szali, wykorzystanych uprawnień ani skutków politycznych. Nie aktualizować na tej podstawie tytułów, urzędów ani relacji.
 - **Wytyczna do szkicu, nie fakt kanoniczny:** bitwa z nadesłanego materiału ma pozostać wątkiem mniej istotnym; główny nacisk osi przesunąć na regencję i jej kontekst polityczny.
 
-## Aktualny punkt — 12 listopada 1070
+## Ostatni pełny save — 12 listopada 1070
 
 - **Rodzina:** Burkhard (66952) i Hedwig (41150) żyją i pozostają małżeństwem. Dwaj synowie Burkhard (79306) i Leopold (81336) nadal żyją; lista dzieci rodziców nie zmieniła się.
 - **Tytuły:** Burkhard posiada `c_zollern` i `b_zollern`; Rudolf (35525) posiada `d_swabia`, `k_swabia_herzog` i `c_ulm`; Heinrich (41198) posiada `e_hre`. W porównanym zakresie właściciele bez zmian.
@@ -53,3 +53,13 @@
 - [Indeks postaci](../02_POSTACIE/indeks_postaci.md)
 - [Indeks save'ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md)
 - [Raport weryfikacji 12 XI 1070](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md)
+
+
+## Najnowsze obserwacje ekranowe — 17 grudnia 1071 i 7 kwietnia 1072
+
+- **17 XII 1071:** Gerlach jest zarządcą i rycerzem, Siegmund kanclerzem i rycerzem, Radbot marszałkiem i rycerzem, a Reinhard rycerzem. Ekran wojsk pokazuje 4/4 rycerzy i 100% skuteczności.
+- **17 XII 1071:** podpowiedzi relacji wskazują różne opinie możnych o księciu Rudolfie: Hupold III −55, Louis −23, Berengar +7, Adalbert −42. Nie dowodzi to buntu ani planowanego działania.
+- **7 IV 1072:** Meinhard kończy zadanie fabrykowania roszczenia do Hohenbergu. Burkhard przyjmuje niewysunięte roszczenie; hrabina Adelheid traci 30 opinii o Burkhardzie na 10 lat. Adelheid pozostaje właścicielką hrabstwa na ekranie.
+- Screen wydarzenia o ciekawości syna i dziedzica Burkharda nie pokazuje potwierdzonego wyboru ani nadania cechy. Data gry nieustalona.
+- Użytkownik podał datę postępu „18 października”, bez roku; nie przypisano jej do osi jako datowanego zdarzenia, ponieważ ekrany podają własne, późniejsze daty.
+- To obserwacje ekranowe, nie nowy punkt pełnego save'a. Bieżący pełny stan kampanii po 12 XI 1070 wymaga save'a do weryfikacji.
