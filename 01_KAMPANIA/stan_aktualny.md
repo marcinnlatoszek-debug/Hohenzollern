@@ -11,7 +11,7 @@
 
 - Ekran pokazuje aktywne dzielenie władzy; Burkhard pełni funkcję regenta.
 - Użytkownik potwierdził, że regencja trwa już czwarty miesiąc. Data jej początku nie została dokładnie ustalona.
-- Nie odczytano osoby objętej regencją, wartości ani kierunku szali, wykorzystanych uprawnień ani skutków politycznych. Nie aktualizować na tej podstawie tytułów, urzędów ani relacji.
+- Osobny ekran postaci wskazuje księcia-opata Romualda z Sankt Gallen, ale nie potwierdza jednoznacznie, że to on jest osobą objętą regencją. Nie odczytano wartości ani kierunku szali, wykorzystanych uprawnień ani skutków politycznych. Nie aktualizować na tej podstawie tytułów, urzędów ani relacji.
 - **Wytyczna do szkicu, nie fakt kanoniczny:** bitwa z nadesłanego materiału ma pozostać wątkiem mniej istotnym; główny nacisk osi przesunąć na regencję i jej kontekst polityczny.
 
 ## Aktualny punkt — 12 listopada 1070
