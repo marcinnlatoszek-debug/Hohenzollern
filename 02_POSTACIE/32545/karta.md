@@ -1,6 +1,6 @@
 # Hupold III z Nördlingen — ID 32545
 
-**Najnowsza obserwacja:** 12 listopada 1070.  
+**Najnowszy zatwierdzony odczyt:** **18 października 1073**; wcześniejszy 12 XI 1070.  
 **Źródło obecności i aktualnych tytułów (jeśli odczytano):** `von_Hohenzollern(10).ck3`, [raport 12 XI 1070](../../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).  
 **Zatwierdzenie:** 14 października 2026, zakres danych wyraźnie odczytanych.  
 **Uwaga:** starsze informacje pochodzą z datowanych źródeł; nie stanowią potwierdzenia ich aktualności na 12 XI.
@@ -32,3 +32,9 @@ Przekrój 6 III 1067: Hupold z rodu Hupoldinger, ojciec Hedwig, władca Drachgau
 - **Dodatkowe dane widoczne na screenie:** Na karcie: hrabia Nördlingen, 61 lat, marszałek Rudolfa i łowczy, wojskowość 25, opinia o Burkhardzie +28. Identyfikację z ID 32545 wspierają więź z Hedwig 41150 i zgodna cecha serca.
 
 **Uwaga:** kody angielskie są dosłownymi identyfikatorami z tego zapisu gry. Polskie określenia są opisowymi tłumaczeniami, nie zawsze nazwami dokładnie użytymi przez tłumaczenie gry/moda. Same cechy nie dowodzą dokonanych czynów lub motywacji fabularnych.
+
+## Zatwierdzony nowy stan — 18 października 1073
+
+- Hupold III (32545) **żyje** w nowym save; podstawowe cechy osobowości `wrathful`, `lustful`, `deceitful` pozostają bez zmiany. Wcześniejsze cechy `faltering_heart` i `fragile_bones` **nie** są dowodem zgonu ani nowej diagnozy na 18 X.
+- Zatwierdzone screeny z 1072 potwierdzają jego udział po stronie Burkharda w wojnie o Hohenberg oraz oblężenie Ebingen przez jego wojsko **8 VI 1072**. Nie potwierdzono dowodzenia Hupolda bitwą 7 V.
+- Surowe pola 18 X: złoto **83,99**, prestiż **841,76**, pobożność **−75,49**, pole sił **1127**. Aktualna opinia o Burkhardzie i urzędy NIEUSTALONE. Źródło: [raport porównawczy 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
