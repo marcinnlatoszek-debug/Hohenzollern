@@ -1,12 +1,25 @@
 # Stan kampanii — wykaz punktów kontrolnych
 
-**Ostatni zweryfikowany i zatwierdzony odczyt pełnego save'a:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (CK3 1.20.1).
-**Nowsze pliki save:** `von_Hohenzollern(20261014-200855).ck3` i `von_Hohenzollern(20261014-201208).ck3` zostały przesłane 14 X 2026, ale ich zawartość nie została jeszcze przeanalizowana ani zatwierdzona.  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **1 października 1073** — po udanej inspekcji Hohenbergu i rozpoczęciu regencji Burkharda nad księciem Rudolfem, ekran epidemii pokazuje grypę Wszebora i gruźlicę; widoczna liczba ofiar wynosi 0. Ostatni zweryfikowany pełny save nadal pochodzi z 12 XI 1070.  
-**Poprzedni zatwierdzony pełny save:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
+**Ostatni zweryfikowany i zatwierdzony odczyt pełnego save'a:** **18 października 1073**, `von_Hohenzollern(20261014-200855).ck3` (CK3 1.20.1). Duplikat `von_Hohenzollern(20261014-201208).ck3` jest identyczny bajtowo.  
+**Poprzedni zatwierdzony pełny save:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (1070 dni gry wcześniej).  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **1 października 1073** — po udanej inspekcji Hohenbergu i rozpoczęciu regencji Burkharda nad księciem Rudolfem, ekran epidemii pokazuje grypę Wszebora i gruźlicę; widoczna liczba ofiar wynosi 0. Pełny save z 18 X 1073 jest nowszy od tej obserwacji ekranowej.  
+**Starszy punkt archiwalny:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja przesunięcia osi:** 14 października 2026, wyraźne potwierdzenie użytkownika „Tak”.  
 **Początek właściwej opowieści:** 6 marca 1067.  
-**Chronologia:** screeny potwierdzają obserwacje od 16 XI 1070 do 3 VII 1073; nie są to pełne save'y.
+**Chronologia:** screeny potwierdzają obserwacje od 16 XI 1070 do 1 X 1073; zachowują własne daty i są uzupełnione pełnym save'em z 18 X 1073.
+
+## Aktualny pełny save — 18 października 1073
+
+**Zatwierdzenie:** użytkownik „zatwierdzam” po raporcie pogłębionego porównania (14 X 2026). [Pełny raport 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md) · [oś 1070–1073](../campaign/Os_czasu_Zollern_1070-1073.md).
+
+- **Rodzina:** Burkhard (66952) i Hedwig (41150) żyją; **Leopold (81336) zmarł 7 VII 1071** — przyczyna śmierci **NIEUSTALONA**; starszy syn Burkhard (79306) żyje i ma cechę `curious`. **Hedwig jest w ciąży 18 X 1073**; brak potwierdzonego nowego porodu.
+- **Wojna:** Burkhard wygrał bitwę przeciw Adelheid (31878) **7 V 1072** i **17 I 1073 wygrał wojnę roszczeniową o Hohenberg**, przejmując `c_hohenberg`. Konkretnych dowódców i przyczyny śmierci Leopolda nie ustalono.
+- **Tytuły:** Burkhard posiada `c_zollern`, `b_zollern`, `c_hohenberg`, `b_hohenberg`. Rudolf (35525) nadal posiada `d_swabia`, a Heinrich (41198) `e_hre`; hierarchia Burkhard → Rudolf → Heinrich pozostaje.
+- **Szwabia:** w porównaniu 31 bezpośrednich hrabstw Rudolfa jedyną zmianą posiadacza hrabstwa jest Hohenberg; lokalna baronia `b_rottweil` przeszła z Lothara (48230) do Wenzela (44447), data NIEUSTALONA.
+- **Zadania rady:** Siegmund — sprawy zagraniczne, Gerlach — pobór podatków, Walpurga — przeciwdziałanie spiskom; Radbot wykonuje obecnie `task_increase_control`, wcześniej organizował pobór. Osoba aktualnego kapelana i funkcja medyka nie zostały w pełni potwierdzone.
+- **Zasoby Burkharda (surowe pola save'a):** złoto **318,63**, prestiż **728,19**, pobożność **90,1**, pole sił **893** (inne pola **936**, znaczenie UI NIEUSTALONE). To nie pełny ekran wynikowy.
+- **Regencja:** ekran z **3 VIII 1073** potwierdza rozpoczęcie regencji nad Rudolfem, ale **trwanie jej 18 X jest NIEUSTALONE**.
+- **Ograniczenia:** aktualne frakcje, bieżące sojusze, dokładni dowódcy, pełna sukcesja, opinie UI i wynik ciąży — NIEUSTALONE. Wartości z 1070 pozostają archiwalne.
 
 ## Wcześniejsza obserwacja — 16 listopada 1070
 
@@ -15,7 +28,7 @@
 - Osobny ekran postaci wskazuje księcia-opata Romualda z Sankt Gallen, ale nie potwierdza jednoznacznie, że to on jest osobą objętą regencją. Nie odczytano wartości ani kierunku szali, wykorzystanych uprawnień ani skutków politycznych. Nie aktualizować na tej podstawie tytułów, urzędów ani relacji.
 - **Wytyczna do szkicu, nie fakt kanoniczny:** bitwa z nadesłanego materiału ma pozostać wątkiem mniej istotnym; główny nacisk osi przesunąć na regencję i jej kontekst polityczny.
 
-## Ostatni pełny save — 12 listopada 1070
+## Archiwalny pełny save — 12 listopada 1070
 
 - **Rodzina:** Burkhard (66952) i Hedwig (41150) żyją i pozostają małżeństwem. Dwaj synowie Burkhard (79306) i Leopold (81336) nadal żyją; lista dzieci rodziców nie zmieniła się.
 - **Tytuły:** Burkhard posiada `c_zollern` i `b_zollern`; Rudolf (35525) posiada `d_swabia`, `k_swabia_herzog` i `c_ulm`; Heinrich (41198) posiada `e_hre`. W porównanym zakresie właściciele bez zmian.
@@ -36,14 +49,16 @@
 - Hupold III z Nördlingen, 61 lat: ogólna ocena zdrowia „Przyzwoite”, opis „czuje się dobrze”, schorzenie „Niewydolne serce”; widoczne dodatnie czynniki zdrowia opisane w [karcie Hupolda](../02_POSTACIE/Hupold_III_Nordlingen/karta.md).
 - Informacja jest datowanym stanem postaci, **nie** nowym punktem pełnego save'a ani dowodem rychłej śmierci.
 
-## Ograniczenia
+## Ograniczenia archiwalnego odczytu 1070
 
-- Nadal nieustalone na 12 XI: pełny stan wojenny, frakcje, skład urzędów, armie, sukcesja dla poszczególnych tytułów, zasoby i dochody, kontrola i rozwój, ukończenie fabrykowania roszczenia.
+- W odczycie 12 XI 1070 nieustalone: pełny stan wojenny, frakcje, skład urzędów, armie, sukcesja dla poszczególnych tytułów, zasoby i dochody, kontrola i rozwój, ukończenie fabrykowania roszczenia.
 - Liczby bazowych umiejętności odczytano ze struktur binarnych, **bez korekt widocznych w interfejsie** — nie zastępują wartości ekranu postaci.
 - Screeny z września, października i 3 XI 1070 zachowują własne daty; nie przypisuje się ich nowemu save'owi.
 
 ## Dokumenty powiązane
 
+- [Raport nowego pełnego save'a 18 X 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md)
+- [Oś 1070–1073](../campaign/Os_czasu_Zollern_1070-1073.md)
 - [Kanon charakterów i dworu na 12 XI 1070](../campaign/Kanon_charakterow_1070-11-12.md)
 - [Reguły interpretowania osobowości w CK3](../05_MECHANIKI_CK3/Zasady_interpretacji_charakteru.md)
 
@@ -92,4 +107,4 @@
 - **29 IX 1073:** zaraza dotyka baronię Krnov w hrabstwie Opawa; wskazane pierwotne ognisko to Brzeg z 10 V 1073. Tooltip pokazuje kontrolę 99 (−0,19), rozwój 1, powszechną opinię +23, spadek rozwoju −2 miesięcznie i zagrożenie zarazą +20.
 - **1 X 1073:** panel epidemii pokazuje grypę Wszebora i gruźlicę, 0 ofiar śmiertelnych; Turnov nie jest zagrożony zakażeniem grypą Wszebora.
 - Propozycja uczynienia Luitgard opiekunką syna Burkharda pozostaje niewysłana na widocznym ekranie; data i odpowiedź nieustalone.
-- To obserwacje ekranowe, nie nowy punkt pełnego save'a. Bieżący pełny stan kampanii po 12 XI 1070 wymaga save'a do weryfikacji.
+- To obserwacje ekranowe, nie nowy punkt pełnego save'a. Nowy pełny save z 18 X 1073 zweryfikowano; jego zakres i ograniczenia opisuje raport 1073.
