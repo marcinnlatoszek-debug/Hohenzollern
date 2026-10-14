@@ -3,7 +3,7 @@
 **Status:** ZATWIERDZONA METODA INTERPRETACJI — polecenie użytkownika 14 października 2026: „zapisz do kanonu, sprawdz informacje o mechanikach ck3 o tym jak odczytywac charakter itd”.  
 **Zastosowanie:** wszystkie karty postaci, plany powieści i opowiadania Astry.  
 **Wersja kampanii:** Crusader Kings III 1.20.1, **19 wpisów modów**; nie potwierdzono źródeł ani dokładnych wersji modów.  
-**Ostatni punkt pełnego save'a:** 12 XI 1070.  
+**Najnowszy zatwierdzony pełny save:** **18 X 1073**; przekrój cech z 12 XI 1070 pozostaje źródłem archiwalnym. [Raport 18 X 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).  
 **Kanon cech postaci:** [12 XI 1070](../campaign/Kanon_charakterow_1070-11-12.md).
 
 ## 1. Hierarchia dowodów: cztery różne poziomy
@@ -58,7 +58,7 @@ Dla dworzan i postaci AI najlepiej stosować zasadę: **cecha → prawdopodobna 
 - `intellect_good_2` Burkharda to dziedziczna cecha „inteligentny” (gra odróżnia ją od wykształcenia). Nie utożsamiaj jej z przewidywaniem, że będzie podejmował wyłącznie rozsądne decyzje.
 - `military_engineer` Siegmunda i Radbota oznacza zdolności specjalistyczne; nie dowodzi osobistego udziału w oblężeniu.
 - `open_terrain_expert` Gerlacha jest kompetencją dowódczą; nie dowodzi, że uczestniczył w kampanii na otwartym terenie.
-- `faltering_heart` Hupolda III i `sickly` Leopolda są potwierdzonymi stanami/cechami zdrowia; ich przebiegu ani zgonu **nie można przewidywać jako faktu**.
+- `faltering_heart` Hupolda III i `sickly` Leopolda są potwierdzonymi cechami zdrowia. **Leopold zmarł 7 VII 1071** według nowszego save'a; **przyczyna zgonu jest nieustalona** i nie wynika automatycznie z `sickly`. Nie przewidywać dalszych losów Hupolda z samych cech zdrowia.
 - Aktualna opinia +56 między Burkhardem i Hedwig nie jest tożsama z wydarzeniem „miłość”; −7 Radbota nie potwierdza zdrady; +79 Siegmunda nie jest przysięgą dozgonnej wierności. Rodzinne uczucia i konflikt literacki wymagają oddzielnego traktowania.
 - Zadanie kapelana, aktualny urząd, obecność na dworze i bycie w rejestrze żyjących to różne typy danych. Nie łącz ich bez źródła.
 
