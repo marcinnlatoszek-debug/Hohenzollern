@@ -17,3 +17,16 @@
 - Żyje i pozostaje na liście dzieci Burkharda i Hedwig.
 - Bazowa tablica tokenu 10661: `[0, 0, 0, 0, 0, 0]`, bez zmiany między zapisami; nie są to końcowe statystyki UI.
 - Bieżąca pozycja w sukcesji, pozostałe cechy: **NIEUSTALONE**. [Źródło](../../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).
+
+
+## Cechy postaci odczytane z tabeli traits — 12 listopada 1070
+
+**Źródło i status:** zapis von_Hohenzollern(20261014-155345).ck3, identyczny bajtowo z zatwierdzonym zapisem von_Hohenzollern(10).ck3; dane zweryfikowane w tabeli 307 nazw cech i dodane na wyraźne polecenie użytkownika.
+**Screen porównawczy:** Zrzut ekranu 2026-10-14 173230.png; data 12 XI 1070 wynika z zapisu i ekranu rady tej serii, nie z samego portretu.
+
+- **ID cech w zapisie:** [137].
+- **Cechy osobowości:** Brak ustalonych cech osobowości niemowlęcia.
+- **Inne cechy / wykształcenie:** sickly — chorowity; to jedyna cecha w liście traits. Kod 151 występujący w osobnym polu nie jest potwierdzoną dodatkową cechą..
+- **Dodatkowe dane widoczne na screenie:** Na screenie wiek 0 lat i ikona opatrunku; nie wynika z tego żadna prognoza zgonu.
+
+**Uwaga:** kody angielskie są dosłownymi identyfikatorami z tego zapisu gry. Polskie określenia są opisowymi tłumaczeniami, nie zawsze nazwami dokładnie użytymi przez tłumaczenie gry/moda. Same cechy nie dowodzą dokonanych czynów lub motywacji fabularnych.
