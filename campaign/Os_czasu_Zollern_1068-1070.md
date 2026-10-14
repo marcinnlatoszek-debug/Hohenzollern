@@ -1,6 +1,6 @@
 # Zollern — zatwierdzone uzupełnienie osi, 1068–1070
 
-**Status:** pakiet A i rozstrzygnięcia użytkownika do punktów C.1–C.3 oraz zatwierdzony odczyt save'a z 2 VIII 1070. Późniejsze wpisy ze screenów zachowują swoje oryginalne daty.  
+**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
 **Zakres:** zatwierdzone wpisy chronologiczne. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
@@ -37,6 +37,7 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **2 X 1070** | Meinhard nadal fabrykuje roszczenie do hrabstwa; postęp zadania wynosi **33,8/100** (o 2,9 punktu więcej niż 8 IX). | Screen `Zrzut ekranu 2026-10-14 062531.png`; potwierdzenie użytkownika. Nie ustalono docelowego hrabstwa ani uzyskania roszczenia. |
 | **30 X 1070** (data powiadomienia; ekran 1 XI 1070) | **Hrabia Hupold III** został skutecznie przekonany do Burkharda: otrzymał modyfikator opinii **+25** o Burkhardzie z zanikiem **0,60/rok**. Komunikat informuje o wyzerowaniu zdobytej szansy powodzenia, przewag i postępów fazy spisku „Przekonywanie do siebie”, a także o kontynuowaniu starań. | Screen `Zrzut ekranu 2026-10-14 063805.png`; potwierdzenie użytkownika. Nie przypisywać daty 1 XI zamiast daty powiadomienia 30 X. |
 | **3 XI 1070** | **Hrabia Hupold III z Nördlingen** (61 lat) ma ocenę zdrowia **„Przyzwoite”**; opis UI: „Hrabia Hupold III czuje się dobrze”. Widoczny jest negatywny czynnik zdrowotny **„Niewydolne serce”** oraz pozytywne czynniki: `miv_health_plus_2`, „Zmiękczenie po próbie uwiedzenia” i „Osobisty medyk”. Nie wynika stąd nieuchronna ani rychła śmierć. | Screeny `Zrzut ekranu 2026-10-14 064048.png`, `Zrzut ekranu 2026-10-14 064342.png`; data 3 XI 1070 przekazana przez użytkownika, następnie jednoznacznie zatwierdzona. |
+| **12 XI 1070** | **Zatwierdzony nowy punkt kontrolny:** Burkhard i Hedwig żyją i pozostają małżeństwem, obaj synowie żyją; Burkhard nadal posiada Zollern, Rudolf księstwo Szwabii, Heinrich cesarstwo. W zapisach Burkharda pozostają podział konfederacyjny i preferencja męska. | Save `von_Hohenzollern(10).ck3`, CK3 1.20.1; porównanie ze stanem 2 VIII 1070; **zatwierdzenie użytkownika 14 X 2026**. Nie dowodzi braku innych zdarzeń między 3 a 12 XI. [Raport](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md). |
 
 ## Wydarzenie zatwierdzone — dokładna data gry nieustalona
 
@@ -55,6 +56,14 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 - **Własność Zollern:** Burkhard zachował hrabstwo w porównanych rejestrach. Nie stwierdzono zmian posiadaczy wymienionych tytułów względem punktu 6 III 1067; nie przesądza to o zmianach innych obszarów kampanii.
 - **Nieustalone:** aktualny skład rady, wojny, frakcje, liczebność wojsk, inwestycje i pełna sukcesja na 2 VIII 1070. Wstępnie zmapowane zasoby Burkharda wymagają kontroli w interfejsie i nie są wprowadzane jako zatwierdzone kwoty.
 - **Uwaga o kolejności:** zatwierdzone wydarzenia wrześniowe, październikowe i późniejsze obserwacje są odrębne od sierpniowego save'a. Nie wycofuje się ich i nie przypisuje do 2 VIII.
+
+## Zatwierdzony odczyt stanu — 12 listopada 1070
+
+- **Źródło:** `von_Hohenzollern(10).ck3`, CK3 1.20.1; [pełny raport](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).
+- **Dynastia:** Burkhard (66952) i Hedwig (41150) nadal są małżeństwem. Lista potomstwa w obu rekordach rodziców: Burkhard (79306, ur. 27 XII 1068), Leopold (81336, ur. 21 IV 1070). Wszyscy czworo w rejestrze żyjących; dodatkowego dziecka w tej liście nie znaleziono.
+- **Zwierzchnictwo i ziemie:** `c_zollern` oraz `b_zollern` posiada Burkhard; `d_swabia`, `k_swabia_herzog` i `c_ulm` posiada Rudolf (35525); `e_hre` posiada Heinrich (41198). Posiadacze porównanych tytułów bez zmiany względem sierpnia.
+- **Prawo:** `confederate_partition_succession_law`, `male_preference_law`, `crown_authority_0` występują w rekordzie Burkharda; nie ustalono pełnej kolejności dziedziców.
+- **Nieustalone:** urzędy dworu, wojny, armia, gospodarka, budowle oraz wyniki przedsięwzięć politycznych po wcześniejszych screenach. Zmiana niezmapowanych pól nie stanowi dowodu wydarzenia.
 
 ## Powiązania z kartami osób
 
