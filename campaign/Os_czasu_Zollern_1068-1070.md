@@ -1,9 +1,9 @@
 # Zollern — zatwierdzone uzupełnienie osi, 1068–1073
 
-**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **14 VI 1073**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
+**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **3 VII 1073**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
-**Zakres:** zatwierdzone wpisy chronologiczne do 14 VI 1073; ostatni odczytany i zatwierdzony pełny save pochodzi z 12 XI 1070; dwa nowsze pliki save nie zostały jeszcze przeanalizowane. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
+**Zakres:** zatwierdzone wpisy chronologiczne do 3 VII 1073; ostatni odczytany i zatwierdzony pełny save pochodzi z 12 XI 1070; dwa nowsze pliki save nie zostały jeszcze przeanalizowane. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
 
 ## Rozstrzygnięcia użytkownika
 
@@ -58,6 +58,11 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **14 IV 1073 (obserwacja)** | Ekran legitymacji określa Burkharda jako „Uznanego władcę”, poziom 2/5. | Screen `Zrzut ekranu 2026-10-14 210752.png`. To stan widoczny w interfejsie, nie osobne wydarzenie. |
 | **13 VI 1073** | Meinhard, nadworny kapelan, pracuje nad fabrykowaniem roszczenia do hrabstwa Nagoldgau; ekran pokazuje około 2 lata do końca zadania. Roszczenie nie jest jeszcze potwierdzone. | Screen `Zrzut ekranu 2026-10-14 211438.png`. |
 | **14 VI 1073 (obserwacja)** | Panel aktywności mówi, że Burkhard nie ma obecnie trwających aktywności; inspekcja ziem jest dostępna do zaplanowania, ale ekran nie potwierdza jej rozpoczęcia. | Screen `Zrzut ekranu 2026-10-14 211630(1).png`. |
+
+| **15 VI 1073** | Burkhard rozpoczyna inspekcję ziem i wyrusza do Hohenbergu; ekran wskazuje Balingen jako bieżące miejsce oraz około 5 dni do następnego celu. | Screen `2026-10-14 211715.png`. |
+| **25 VI 1073** | Burkhard dociera do Hohenbergu. Inspekcja ma zapewnić, by miejscowa ludność pamiętała o swoim seniorze; ekran pokazuje 7 gości i 46% szansy powodzenia. Służba rozprasza Burkharda, a mieszkaniec prosi o pomoc; nie potwierdzono wyboru odpowiedzi. | Screeny `2026-10-14 211834.png`, `211949.png`, `212223.png`. |
+| **29 VI 1073** | W inspekcji pojawiają się problemy z gildią kupiecką i walące się mury miejskie, a także przyjazna szlachta; interfejs pokazuje niewielkie zmiany szans powodzenia. | Screeny `2026-10-14 212522.png`, `212534.png`. Są to komplikacje i modyfikatory aktywności, nie potwierdzenie jej ukończenia. |
+| **3 VII 1073** | Podczas przeglądu dokumentów Burkhard znajduje dodatkowe środki na problemy infrastrukturalne. Kolejny ekran zdaje się pokazywać udany wynik i przeznaczenie pomocy na miejskie rezydencje w Hohenbergu; widoczny jest też czasowy modyfikator miasta, lecz jego dokładna nazwa i efekt nie są w pełni czytelne. | Screeny `2026-10-14 212615.png`, `212725.png`. Szczegóły efektu pozostają do potwierdzenia. |
 
 ## Wydarzenie zatwierdzone — dokładna data gry nieustalona
 
