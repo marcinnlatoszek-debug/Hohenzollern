@@ -32,6 +32,15 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **1 VI 1070** | Marszałek Radbot zawiera małżeństwo z Amalie. | Screen `2026-10-14 002348`; przypisanie daty potwierdzone przez użytkownika. |
 | **1 VI 1070** | Gracz akceptuje zmiany religijne przedstawione w wiadomości Meinharda; zmiany zostają zastosowane. | Screen `2026-10-14 002753` oraz wyraźne potwierdzenie użytkownika dotyczące wyboru i wejścia skutków w życie. W opracowaniu wymieniono „Ora et labora” (fundamentalny), „Pax et bonum” (znany), doktrynę „Awunkulat (małżeństwo)” i +10 punktów spełnienia duchowego. Nie rozszerzać tego na niepokazane skutki polityczne lub społeczne. |
 
+| **8 IX 1070** | Nadworny kapelan Meinhard wykonuje zadanie fabrykowania roszczenia do hrabstwa; postęp wynosi **30,9/100**. Nie potwierdzono jeszcze uzyskania roszczenia. | Screen `Zrzut ekranu 2026-10-14 062039(1).png`; potwierdzenie użytkownika. Cel zadania nieustalony. |
+| **18 IX 1070** | Zakończono budowę **rynku** w posiadłości opisanej w powiadomieniu jako „Dwór von Hohenzollern Dom”. | Screen `Zrzut ekranu 2026-10-14 062408.png`; powiadomienie oznaczone „18 wrz”, data na ekranie 19 IX 1070; potwierdzenie użytkownika. Tym samym potwierdzono realizację budowy planowanej wcześniej na 18 IX 1070. |
+| **2 X 1070** | Meinhard nadal fabrykuje roszczenie do hrabstwa; postęp zadania wynosi **33,8/100** (o 2,9 punktu więcej niż 8 IX). | Screen `Zrzut ekranu 2026-10-14 062531.png`; potwierdzenie użytkownika. Nie ustalono docelowego hrabstwa ani uzyskania roszczenia. |
+
+## Wydarzenie zatwierdzone — dokładna data gry nieustalona
+
+**Nowy obrządek: udianizm.** W grze pojawia się wiadomość o powstaniu odłamu chrześcijaństwa zwanego **udianizmem**, któremu przewodzi **Udo**, arcybiskup Trewiru, postać kultury szwabskiej. Nowy obrządek odbiega od rzymskiego; w powiadomieniu wskazano dogmat „Świętość natury” jako najważniejszą zmianę. Gracz **wybrał pierwszą odpowiedź**: „Moja dusza jest bezpieczna dzięki obrządkowi o nazwie obrządek rzymski”, potwierdzając pozostanie Burkharda przy obrządku rzymskim i brak przejścia na udianizm. Źródło: `Zrzut ekranu 2026-10-14 063523.png` oraz jednoznaczne potwierdzenie użytkownika. **Nie ustalono daty gry z widocznego ekranu**; brak dowodów na wybuch wojny religijnej, prześladowania czy zmianę wiary innych konkretnych postaci. Zapisano bez przypisywania domyślnej daty 2 X 1070.
+
+
 ## Powiązania z kartami osób
 
 - **Burkhard, hrabia Zollern:** ojciec synów Burkharda i Leopolda; podejmuje decyzję o uwięzieniu Nikolausa; akceptuje wychowanie Berthy.
