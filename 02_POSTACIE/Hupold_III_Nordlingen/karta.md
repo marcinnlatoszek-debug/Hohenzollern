@@ -41,3 +41,10 @@ Dolegliwość serca może w przyszłości wpłynąć na sprawy polityczne Nördl
 - **Wykształcenie i pozostałe cechy:** `education_martial_2`, `strategist`, `holy_warrior`, `fragile_bones`, `faltering_heart`.
 - **Źródło:** `von_Hohenzollern(20261014-155345).ck3` i `Zrzut ekranu 2026-10-14 173237.png`.
 - Nie przenosić oceny zdrowia z 3 XI automatycznie na 12 XI, ani nie wyciągać wniosków o terminie zgonu.
+
+## Uzupełnienie na podstawie save'a 18 X 1073
+
+- **Hupold III (32545) żyje** w nowym zapisie; jego trzy cechy osobowości pozostają bez zmiany. Dane zdrowotne z 3 XI 1070 zachowują datę i nie dowodzą zgonu ani pogorszenia zdrowia w 1073.
+- Zatwierdzone screeny potwierdzają udział Hupolda w wojnie Burkharda o Hohenberg w 1072, w tym oblężenie Ebingen przez jego armię **8 VI 1072**. Nie ma dowodu, że dowodził bitwą 7 V.
+- Odczyt surowych pól 18 X 1073: złoto **83,99**, prestiż **841,76**, pobożność **−75,49**, pole sił **1127**. Bieżąca opinia o Burkhardzie, urząd i szczegóły zdrowia NIEUSTALONE.
+- [Raport porównawczy 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
