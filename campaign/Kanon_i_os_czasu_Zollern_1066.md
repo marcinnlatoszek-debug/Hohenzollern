@@ -8,6 +8,15 @@
 **Wersja CK3 w dwóch ostatnich zapisach:** 1.20.1  
 **Bieżące ustalenia:** [stan kampanii na 12 XI 1070](../01_KAMPANIA/stan_aktualny.md) i [oś wydarzeń 1068–1070](Os_czasu_Zollern_1068-1070.md). Starsze wpisy tego dokumentu zachowują ich historyczne daty.
 
+## Kanon charakterów i mechanika interpretacji — 12 listopada 1070
+
+**Użytkownik zatwierdził włączenie odczytanych cech postaci do kanonu** i zlecił weryfikację zasad interpretowania charakteru na podstawie mechanik CK3. Na datę **12 XI 1070** obowiązują dwa powiązane dokumenty:
+
+- [Zatwierdzony kanon charakterów i stanu dworu](Kanon_charakterow_1070-11-12.md) — dokładne cechy Burkharda, Hedwig, Rudolfa, Hupolda III, radnych i pozostałych postaci, z identyfikatorami i datą.
+- [Zasady interpretacji osobowości CK3](../05_MECHANIKI_CK3/Zasady_interpretacji_charakteru.md) — obowiązująca dla Astry metoda rozróżniania cech, mechaniki, poziomu stresu, działań AI, relacji i hipotez literackich.
+
+**Klauzula kanonu:** cechy postaci są faktami gry; ich możliwe skutki i motywacje są wnioskami literackimi. Nie dowodzą nowych wydarzeń, zdrad, romansów, wojen ani chorób o nieustalonym przebiegu. Zmiana cechy albo urzędu w późniejszym save'ie wymaga ponownego datowanego odczytu i zatwierdzenia. Cech z 12 XI nie przenosić na sceny wcześniejsze bez źródła.
+
 ## Jak czytać ten zapis
 
 - **Potwierdzone** — widoczne w save, screenie albo jednoznacznie przekazane przez użytkownika.
