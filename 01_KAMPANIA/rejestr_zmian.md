@@ -1,6 +1,16 @@
 # Rejestr zatwierdzonych zmian kampanii
 
 
+## 14 października 2026 — kanon charakterów i źródła mechanik CK3
+
+**Decyzja użytkownika:** „zapisz do kanonu, sprawdz informacje o mechanikach ck3 o tym jak odczytywac charakter itd”.
+
+- Dodano [kanon charakterów i rady na 12 XI 1070](../campaign/Kanon_charakterow_1070-11-12.md), odwołując się do potwierdzonych cech z save'a i stanowisk z ekranów.
+- Dodano [obowiązujące zasady interpretacji charakteru](../05_MECHANIKI_CK3/Zasady_interpretacji_charakteru.md): kategorie cech, stres, AI, wykształcenie, relacje i cztery poziomy wiarygodności.
+- Zweryfikowano reguły CK3 z zewnętrznymi danymi opartymi o pliki `common/traits` i encyklopedię (CK3DB, częściowo 1.20.1, częściowo 1.20.0.4). Zewnętrzne reguły są **wiedzą o mechanice**, a nie wydarzeniami kampanii.
+- Potwierdzono, że **19 aktywnych modów** może zmieniać efekty mechanik. Wskazówki dotyczące możliwych psychologicznych napięć pozostają opisanymi interpretacjami dla Astry, nie faktami o działaniach bohaterów.
+- Nie przesuwano punktu świata poza 12 XI 1070 i nie dopisywano fikcyjnych czynów do osi.
+
 ## 14 października 2026 — rozpoznanie cech z binarnego zapisu 12 XI 1070
 
 **Polecenie użytkownika:** odczytać cechy z plików gry i dodać je do kart postaci.
