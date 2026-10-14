@@ -1,5 +1,17 @@
 # Rejestr zatwierdzonych zmian kampanii
 
+## 14 października 2026 — zatwierdzenie pełnego save'a 18 X 1073
+
+**Decyzja użytkownika:** „zatwierdzam” po pogłębionej analizie porównawczej dwóch identycznych nowszych plików save z punktem 12 XI 1070.
+
+- **Nowy zatwierdzony punkt:** **18 X 1073**, `von_Hohenzollern(20261014-200855).ck3` (duplikat `von_Hohenzollern(20261014-201208).ck3`, ten sam SHA-256); CK3 1.20.1, te same 19 modów i 10 DLC. **Poprzedni punkt:** 12 XI 1070, różnica 1070 dni gry.
+- **7 VII 1071:** zgon Leopolda (81336), przyczyna NIEUSTALONA.
+- **7 V 1072:** zwycięstwo Burkharda (66952) w bitwie przeciw Adelheid (31878).
+- **17 I 1073:** zwycięstwo Burkharda w wojnie roszczeniowej i przejęcie `c_hohenberg` od Adelheid. Burkhard nadal jest wasalem Rudolfa; Rudolf nadal księciem Szwabii, Heinrich cesarzem.
+- **18 X 1073:** Hedwig (41150) w ciąży, syn Burkhard (79306) ma `curious`; brak potwierdzonego nowego porodu. Radbot (66953) wykonuje `task_increase_control`. Lokalna zmiana `b_rottweil` została odnotowana bez daty i bez łączenia z podbojem Burkharda.
+- **Zachowane ograniczenia:** nieustalone przyczyna zgonu, dowódcy, frakcje, opinie UI, aktualny kapelan i medyk, stan regencji 18 X i wynik ciąży. Archiwalne screeny do 1 X 1073 zachowują własne daty i odrębne źródła.
+- Dodano [raport 18 X 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md), [oś 1070–1073](../campaign/Os_czasu_Zollern_1070-1073.md) i [kartę Hohenbergu](../03_TERYTORIA/HRABSTWA/c_hohenberg/karta.md); zaktualizowano stan kampanii, indeks save'ów, karty postaci i terytoriów. Żadnych nowych fikcyjnych wydarzeń nie wpisano.
+
 
 ## 14 października 2026 — kanon charakterów i źródła mechanik CK3
 
