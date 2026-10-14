@@ -2,11 +2,11 @@
 
 **Ostatni zweryfikowany i zatwierdzony odczyt pełnego save'a:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (CK3 1.20.1).
 **Nowsze pliki save:** `von_Hohenzollern(20261014-200855).ck3` i `von_Hohenzollern(20261014-201208).ck3` zostały przesłane 14 X 2026, ale ich zawartość nie została jeszcze przeanalizowana ani zatwierdzona.  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **14 czerwca 1073** — oblężenie Hohenbergu zakończone; Burkhard kontroluje okupowane miejsce i schwytał królewnę Katharinę. Nie ma nowszego zweryfikowanego i zatwierdzonego save'a. Ostatni taki odczyt pochodzi z 12 XI 1070.  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **3 lipca 1073** — trwa inspekcja ziem w Hohenbergu; Burkhard znajduje dodatkowe środki na infrastrukturę, a kolejny ekran zdaje się pokazywać udaną pomoc dla miejskich rezydencji. Dokładny efekt czasowego modyfikatora wymaga potwierdzenia. Nie ma nowszego zweryfikowanego i zatwierdzonego save'a; ostatni taki odczyt pochodzi z 12 XI 1070.  
 **Poprzedni zatwierdzony pełny save:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja przesunięcia osi:** 14 października 2026, wyraźne potwierdzenie użytkownika „Tak”.  
 **Początek właściwej opowieści:** 6 marca 1067.  
-**Chronologia:** screeny potwierdzają obserwacje od 16 XI 1070 do 7 V 1072; nie są to pełne save'y.
+**Chronologia:** screeny potwierdzają obserwacje od 16 XI 1070 do 3 VII 1073; nie są to pełne save'y.
 
 ## Wcześniejsza obserwacja — 16 listopada 1070
 
@@ -56,7 +56,7 @@
 - [Raport weryfikacji 12 XI 1070](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md)
 
 
-## Najnowsze obserwacje ekranowe — 17 grudnia 1071–14 czerwca 1073
+## Najnowsze obserwacje ekranowe — 17 grudnia 1071–3 lipca 1073
 
 - **17 XII 1071:** Gerlach jest zarządcą i rycerzem, Siegmund kanclerzem i rycerzem, Radbot marszałkiem i rycerzem, a Reinhard rycerzem. Ekran wojsk pokazuje 4/4 rycerzy i 100% skuteczności.
 - **17 XII 1071:** podpowiedzi relacji wskazują różne opinie możnych o księciu Rudolfie: Hupold III −55, Louis −23, Berengar +7, Adalbert −42. Nie dowodzi to buntu ani planowanego działania.
@@ -77,6 +77,10 @@
 - **8 IV 1073:** modyfikator „Kara za spowiedź” do IV 1078: −15 opinii duchowieństwa i +15% spełnienia duchowego; Burkhard ma działać na polecenie spowiednika.
 - **14 IV 1073:** legitymacja określa Burkharda jako „Uznanego władcę”, poziom 2/5.
 - **13 VI 1073:** Meinhard fabrykuje roszczenie do Nagoldgau; pozostały około 2 lata, wynik niepotwierdzony.
-- **14 VI 1073:** inspekcja ziem jest dostępna do zaplanowania; nie ma aktywności w toku i nie potwierdzono rozpoczęcia inspekcji.
+- **14 VI 1073:** inspekcja ziem jest dostępna do zaplanowania; nie ma aktywności w toku.
+- **15 VI 1073:** Burkhard rozpoczyna inspekcję, wyrusza z Balingen i kieruje się do Hohenbergu (około 5 dni podróży).
+- **25 VI 1073:** Burkhard dociera do Hohenbergu. Inspekcja ma przypominać miejscowym o ich seniorze; 7 gości, 46% szans powodzenia. Służba go rozprasza, a mieszkaniec prosi o pomoc; wybór odpowiedzi niepotwierdzony.
+- **29 VI 1073:** komplikacje inspekcji obejmują złe relacje z gildią kupiecką i walące się mury miejskie, równoważone przez przyjazną szlachtę.
+- **3 VII 1073:** Burkhard znajduje środki na infrastrukturę; kolejny ekran zdaje się pokazywać udaną pomoc przeznaczoną na miejskie rezydencje Hohenbergu. Szczegóły modyfikatora czasowego są nieczytelne.
 - Propozycja uczynienia Luitgard opiekunką syna Burkharda pozostaje niewysłana na widocznym ekranie; data i odpowiedź nieustalone.
 - To obserwacje ekranowe, nie nowy punkt pełnego save'a. Bieżący pełny stan kampanii po 12 XI 1070 wymaga save'a do weryfikacji.
