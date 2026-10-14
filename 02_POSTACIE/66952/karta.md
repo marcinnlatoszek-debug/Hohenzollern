@@ -32,3 +32,16 @@
 - W rekordzie figurują `confederate_partition_succession_law`, `male_preference_law` i `crown_authority_0`. Nie przesądza to o bieżącej kolejności sukcesji wszystkich tytułów.
 - Pole bazowych umiejętności (token 10661) nie zmieniło się między porównanymi zapisami: wektor `[3, 5, 4, 5, 0, 8]`. Mapowanie na wynikowe statystyki interfejsu i korekty z modyfikatorów **nieustalone**.
 - Nie potwierdzono aktualnych kwot zasobów, urzędów, armii, wojen i wyników przedsięwzięć z wcześniejszych screenów. Niezinterpretowanych zmian pól pomocniczych nie wpisuje się jako nowych wydarzeń.
+
+
+## Cechy postaci odczytane z tabeli traits — 12 listopada 1070
+
+**Źródło i status:** zapis von_Hohenzollern(20261014-155345).ck3, identyczny bajtowo z zatwierdzonym zapisem von_Hohenzollern(10).ck3; dane zweryfikowane w tabeli 307 nazw cech i dodane na wyraźne polecenie użytkownika.
+**Screen porównawczy:** Zrzut ekranu 2026-10-14 173059.png; data 12 XI 1070 wynika z zapisu i ekranu rady tej serii, nie z samego portretu.
+
+- **ID cech w zapisie:** [67,54,57,12,46,152].
+- **Cechy osobowości:** ambitious — ambitny; diligent — pracowity; patient — cierpliwy.
+- **Inne cechy / wykształcenie:** education_stewardship_3 (zarządzanie, poziom 3); lifestyle_gardener (ogrodnik); intellect_good_2 (inteligentny).
+- **Dodatkowe dane widoczne na screenie:** Na karcie: zarządzanie 21, złoto 242, prestiż 632, pobożność 168, stosunek małżonki +56.
+
+**Uwaga:** kody angielskie są dosłownymi identyfikatorami z tego zapisu gry. Polskie określenia są opisowymi tłumaczeniami, nie zawsze nazwami dokładnie użytymi przez tłumaczenie gry/moda. Same cechy nie dowodzą dokonanych czynów lub motywacji fabularnych.
