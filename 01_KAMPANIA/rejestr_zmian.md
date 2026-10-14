@@ -1,5 +1,19 @@
 # Rejestr zatwierdzonych zmian kampanii
 
+
+## 14 października 2026 — rozpoznanie cech z binarnego zapisu 12 XI 1070
+
+**Polecenie użytkownika:** odczytać cechy z plików gry i dodać je do kart postaci.
+
+- Ponownie nadesłany plik `von_Hohenzollern(20261014-155345).ck3` ma ten sam SHA-256 co już zatwierdzony save `von_Hohenzollern(10).ck3`, więc **oś nie została przesunięta**.
+- Zidentyfikowano tabelę **307 nazw cech** w `gamestate` oraz ich indeksy w rekordach (`traits`, token 1608).
+- Uzupełniono osiem istniejących kart cechami Burkharda, Hedwig, Radbota, Walpurgi, Meinharda, Ingi, Hupolda III i Leopolda; powiązano Hupolda III z ID 32545.
+- Utworzono karty Rudolfa (35525), Gerlacha (72054) i Siegmunda (76331).
+- Zaktualizowano indeks postaci i raport źródłowy, w tym odróżnienie cech od automatycznych opisów charakteru i odrębnych pól save'a.
+- Nie zatwierdzono żadnego nowego zdarzenia fabularnego ani przyszłego wyniku wojny, sukcesji czy choroby.
+
+Dokument źródłowy: [rozpoznanie cech w raporcie](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md#9-uzupełnienie-pełne-rozpoznanie-pola-cech-postaci-14-x-2026).
+
 ## 14 października 2026 — zatwierdzenie punktu 12 XI 1070
 
 **Decyzja użytkownika:** „Tak” — akceptacja wcześniej przedstawionego pakietu odczytu `von_Hohenzollern(10).ck3`.
