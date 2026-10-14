@@ -2,7 +2,7 @@
 
 **Ostatni zweryfikowany i zatwierdzony odczyt pełnego save'a:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (CK3 1.20.1).
 **Nowsze pliki save:** `von_Hohenzollern(20261014-200855).ck3` i `von_Hohenzollern(20261014-201208).ck3` zostały przesłane 14 X 2026, ale ich zawartość nie została jeszcze przeanalizowana ani zatwierdzona.  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **3 lipca 1073** — trwa inspekcja ziem w Hohenbergu; Burkhard znajduje dodatkowe środki na infrastrukturę, a kolejny ekran zdaje się pokazywać udaną pomoc dla miejskich rezydencji. Dokładny efekt czasowego modyfikatora wymaga potwierdzenia. Nie ma nowszego zweryfikowanego i zatwierdzonego save'a; ostatni taki odczyt pochodzi z 12 XI 1070.  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **1 października 1073** — po udanej inspekcji Hohenbergu i rozpoczęciu regencji Burkharda nad księciem Rudolfem, ekran epidemii pokazuje grypę Wszebora i gruźlicę; widoczna liczba ofiar wynosi 0. Ostatni zweryfikowany pełny save nadal pochodzi z 12 XI 1070.  
 **Poprzedni zatwierdzony pełny save:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja przesunięcia osi:** 14 października 2026, wyraźne potwierdzenie użytkownika „Tak”.  
 **Początek właściwej opowieści:** 6 marca 1067.  
@@ -56,7 +56,7 @@
 - [Raport weryfikacji 12 XI 1070](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md)
 
 
-## Najnowsze obserwacje ekranowe — 17 grudnia 1071–3 lipca 1073
+## Najnowsze obserwacje ekranowe — 17 grudnia 1071–1 października 1073
 
 - **17 XII 1071:** Gerlach jest zarządcą i rycerzem, Siegmund kanclerzem i rycerzem, Radbot marszałkiem i rycerzem, a Reinhard rycerzem. Ekran wojsk pokazuje 4/4 rycerzy i 100% skuteczności.
 - **17 XII 1071:** podpowiedzi relacji wskazują różne opinie możnych o księciu Rudolfie: Hupold III −55, Louis −23, Berengar +7, Adalbert −42. Nie dowodzi to buntu ani planowanego działania.
@@ -79,8 +79,17 @@
 - **13 VI 1073:** Meinhard fabrykuje roszczenie do Nagoldgau; pozostały około 2 lata, wynik niepotwierdzony.
 - **14 VI 1073:** inspekcja ziem jest dostępna do zaplanowania; nie ma aktywności w toku.
 - **15 VI 1073:** Burkhard rozpoczyna inspekcję, wyrusza z Balingen i kieruje się do Hohenbergu (około 5 dni podróży).
-- **25 VI 1073:** Burkhard dociera do Hohenbergu. Inspekcja ma przypominać miejscowym o ich seniorze; 7 gości, 46% szans powodzenia. Służba go rozprasza, a mieszkaniec prosi o pomoc; wybór odpowiedzi niepotwierdzony.
+- **25 VI 1073:** Burkhard dociera do Hohenbergu. Inspekcja ma przypominać miejscowym o ich seniorze; 7 gości, 46% szans powodzenia. Zdarzenia pokazują rozproszenie przez służbę i prośbę mieszkańca o pomoc.
 - **29 VI 1073:** komplikacje inspekcji obejmują złe relacje z gildią kupiecką i walące się mury miejskie, równoważone przez przyjazną szlachtę.
-- **3 VII 1073:** Burkhard znajduje środki na infrastrukturę; kolejny ekran zdaje się pokazywać udaną pomoc przeznaczoną na miejskie rezydencje Hohenbergu. Szczegóły modyfikatora czasowego są nieczytelne.
+- **3 VII 1073:** Burkhard przeznacza dodatkowe środki na miejskie rezydencje Hohenbergu; podpowiedź kursora potwierdza 10-letni modyfikator.
+- **5 VII 1073:** kontrola Hohenbergu wzrasta o 5.
+- **6 VII 1073:** Burkhard inwestuje w lokalne gildie. Modyfikator zwiększa przyrost rozwoju o 12% oraz o 3% za każdą budowlę (+0,12 i +0,03 miesięcznie). Wśród mieszkańców spór o przebudowę murów i odnowę dzielnicy handlowej.
+- **7 VII 1073:** szansa powodzenia inspekcji nieznacznie spada.
+- **8 VII 1073:** inspekcja kończy się powodzeniem, ograniczając lokalną korupcję i bandytyzm. Hrabstwo Hohenberg otrzymuje „Usprawniony pobór podatków” na 10 lat; posiadłość otrzymuje priorytet podatkowy na 15 lat (+2 złota miesięcznie, +15% podatków z posiadłości). Burkhard otrzymuje +50 prestiżu; rosną kontrola i rozwój.
+- Podpowiedź zadania zarządcy „Zwiększ kontrolę” w Hohenbergu pokazuje 4,13% miesięcznej szansy na usunięcie korupcji, +3,00 z umiejętności zarządcy, +1,13 kontroli, +0,51 miesięcznego postępu i 15 lat do końca. Ekran pokazuje miejsce do przypisania zadania; same wartości podpowiedzi są potwierdzone, przypisania nie dopisuję.
+- **3 VIII 1073:** Burkhard rozpoczyna regencję nad księciem Rudolfem, który nie może rządzić osobiście. Burkhard wybiera natychmiastowe objęcie regencji i zyskuje uprawnienia regenta oraz szalę władzy.
+- **15 IX 1073:** biskup Jaromir z Opawy ma gruźlicę (suchoty) i krwawy kaszel.
+- **29 IX 1073:** zaraza dotyka baronię Krnov w hrabstwie Opawa; wskazane pierwotne ognisko to Brzeg z 10 V 1073. Tooltip pokazuje kontrolę 99 (−0,19), rozwój 1, powszechną opinię +23, spadek rozwoju −2 miesięcznie i zagrożenie zarazą +20.
+- **1 X 1073:** panel epidemii pokazuje grypę Wszebora i gruźlicę, 0 ofiar śmiertelnych; Turnov nie jest zagrożony zakażeniem grypą Wszebora.
 - Propozycja uczynienia Luitgard opiekunką syna Burkharda pozostaje niewysłana na widocznym ekranie; data i odpowiedź nieustalone.
 - To obserwacje ekranowe, nie nowy punkt pełnego save'a. Bieżący pełny stan kampanii po 12 XI 1070 wymaga save'a do weryfikacji.
