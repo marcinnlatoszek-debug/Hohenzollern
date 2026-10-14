@@ -1,7 +1,7 @@
 # Stan kampanii — wykaz punktów kontrolnych
 
-**Ostatni zatwierdzony odczyt pełnego save'a:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (CK3 1.20.1).  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **17 stycznia 1073** — oblężenie Hohenbergu zakończone; Burkhard kontroluje okupowane miejsce i schwytał królewnę Katharinę. Nie ma nowego pełnego save'a. Ostatni pełny save nadal pochodzi z 12 XI 1070.  
+**Ostatni zweryfikowany i zatwierdzony odczyt pełnego save'a:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (CK3 1.20.1).\n**Nowsze pliki save:** `von_Hohenzollern(20261014-200855).ck3` i `von_Hohenzollern(20261014-201208).ck3` zostały przesłane 14 X 2026, ale ich zawartość nie została jeszcze przeanalizowana ani zatwierdzona.  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **17 stycznia 1073** — oblężenie Hohenbergu zakończone; Burkhard kontroluje okupowane miejsce i schwytał królewnę Katharinę. Nie ma nowszego zweryfikowanego i zatwierdzonego save'a. Ostatni taki odczyt pochodzi z 12 XI 1070.  
 **Poprzedni zatwierdzony pełny save:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja przesunięcia osi:** 14 października 2026, wyraźne potwierdzenie użytkownika „Tak”.  
 **Początek właściwej opowieści:** 6 marca 1067.  
