@@ -1,7 +1,7 @@
 # Stan kampanii — wykaz punktów kontrolnych
 
 **Ostatni zatwierdzony odczyt pełnego save'a:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (CK3 1.20.1).  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **7 maja 1072** — wojna o Hohenberg trwa; ekran pokazuje +50% przewagi wojennej i pościg. Nie ma nowego pełnego save'a. Ostatni pełny save nadal pochodzi z 12 XI 1070.  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **17 stycznia 1073** — oblężenie Hohenbergu zakończone; Burkhard kontroluje okupowane miejsce i schwytał królewnę Katharinę. Nie ma nowego pełnego save'a. Ostatni pełny save nadal pochodzi z 12 XI 1070.  
 **Poprzedni zatwierdzony pełny save:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja przesunięcia osi:** 14 października 2026, wyraźne potwierdzenie użytkownika „Tak”.  
 **Początek właściwej opowieści:** 6 marca 1067.  
@@ -55,7 +55,7 @@
 - [Raport weryfikacji 12 XI 1070](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md)
 
 
-## Najnowsze obserwacje ekranowe — 17 grudnia 1071–7 maja 1072
+## Najnowsze obserwacje ekranowe — 17 grudnia 1071–17 stycznia 1073
 
 - **17 XII 1071:** Gerlach jest zarządcą i rycerzem, Siegmund kanclerzem i rycerzem, Radbot marszałkiem i rycerzem, a Reinhard rycerzem. Ekran wojsk pokazuje 4/4 rycerzy i 100% skuteczności.
 - **17 XII 1071:** podpowiedzi relacji wskazują różne opinie możnych o księciu Rudolfie: Hupold III −55, Louis −23, Berengar +7, Adalbert −42. Nie dowodzi to buntu ani planowanego działania.
@@ -64,7 +64,14 @@
 - Użytkownik podał datę postępu „18 października”, bez roku; nie przypisano jej do osi jako datowanego zdarzenia, ponieważ ekrany podają własne, późniejsze daty.
 - **10 IV 1072:** Burkhard wypowiada Adelheid wojnę, aby wyegzekwować roszczenie do Hohenbergu. Powiadomienie z 11 IV mówi o pogorszeniu relacji między rodami von Hohenzollern i Etichonen.
 - **17 IV 1072:** oblężenie Hohenbergu ma według interfejsu zakończyć się za 7 dni; zdobycie nie jest potwierdzone.
-- **19 IV–7 V 1072:** trwa bitwa pod Hohenbergiem. Widoczne siły: 750 przeciw 252; 7 V ekran pokazuje +50% przewagi wojennej i fazę pościgu. Ostateczny wynik wojny nieustalony.
+- **19 IV–7 V 1072:** bitwa pod Hohenbergiem; widoczne siły 750 przeciw 252, a ekran z 7 V pokazuje +50% przewagi i pościg. Wynik wojny nieustalony.
 - Hrabia Hupold III przyjmuje wezwanie i dołącza do wojny po stronie Burkharda; dokładna data powiadomienia nieczytelna.
+- **8 VI 1072:** sojusznicza armia Hupolda III oblega Ebingen; osobne powiadomienie wspomina o szerzeniu się herezji, bez czytelnej nazwy.
+- **10 VII 1072:** Burkhard ma skupienie stylu życia na bogactwie.
+- **17 VIII 1072:** posiadłość Zollern otrzymuje modyfikator „Zmotywowani pracownicy”; dokładna wartość efektu budowy nieczytelna.
+- **16 IX 1072:** Radbot zostaje przekonany do Burkharda (+25 opinii).
+- **15 X–18 XII 1072:** oblężenie Hohenbergu trwa; widoczne są wyniszczenie, epidemia, dezercja i brak machin oblężniczych.
+- **16–17 I 1073:** oblężenie kończy się, Burkhard kontroluje okupowane miejsce, a podczas oblężenia schwytano królewnę Katharinę. Uwięzienie pogarsza relację rodów Rheinfelden i von Hohenzollern. Tytuł Hohenbergu nie został potwierdzony jako przekazany Burkhardowi.
 - **Rozbieżność tytułu:** 7 IV ekran wskazuje hrabinę Adelheid jako właścicielkę Hohenbergu; ekran z 10 IV wskazuje królewicza Bertholda z Karyntii. Do rozstrzygnięcia w kolejnym save.
+- Propozycja uczynienia Luitgard opiekunką syna Burkharda pozostaje niewysłana na widocznym ekranie; data i odpowiedź nieustalone.
 - To obserwacje ekranowe, nie nowy punkt pełnego save'a. Bieżący pełny stan kampanii po 12 XI 1070 wymaga save'a do weryfikacji.
