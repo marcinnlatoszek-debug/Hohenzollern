@@ -1,9 +1,9 @@
 # Zollern — zatwierdzone uzupełnienie osi, 1068–1073
 
-**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **3 VII 1073**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
+**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **1 X 1073**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
-**Zakres:** zatwierdzone wpisy chronologiczne do 3 VII 1073; ostatni odczytany i zatwierdzony pełny save pochodzi z 12 XI 1070; dwa nowsze pliki save nie zostały jeszcze przeanalizowane. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
+**Zakres:** zatwierdzone wpisy chronologiczne do 1 X 1073; ostatni odczytany i zatwierdzony pełny save pochodzi z 12 XI 1070; dwa nowsze pliki save nie zostały jeszcze przeanalizowane. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
 
 ## Rozstrzygnięcia użytkownika
 
@@ -61,7 +61,16 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **15 VI 1073** | Burkhard rozpoczyna inspekcję ziem i wyrusza do Hohenbergu; ekran wskazuje Balingen jako bieżące miejsce oraz około 5 dni do następnego celu. | Screen `2026-10-14 211715.png`. |
 | **25 VI 1073** | Burkhard dociera do Hohenbergu. Inspekcja ma zapewnić, by miejscowa ludność pamiętała o swoim seniorze; ekran pokazuje 7 gości i 46% szansy powodzenia. Służba rozprasza Burkharda, a mieszkaniec prosi o pomoc; nie potwierdzono wyboru odpowiedzi. | Screeny `2026-10-14 211834.png`, `211949.png`, `212223.png`. |
 | **29 VI 1073** | W inspekcji pojawiają się problemy z gildią kupiecką i walące się mury miejskie, a także przyjazna szlachta; interfejs pokazuje niewielkie zmiany szans powodzenia. | Screeny `2026-10-14 212522.png`, `212534.png`. Są to komplikacje i modyfikatory aktywności, nie potwierdzenie jej ukończenia. |
-| **3 VII 1073** | Podczas przeglądu dokumentów Burkhard znajduje dodatkowe środki na problemy infrastrukturalne. Kolejny ekran zdaje się pokazywać udany wynik i przeznaczenie pomocy na miejskie rezydencje w Hohenbergu; widoczny jest też czasowy modyfikator miasta, lecz jego dokładna nazwa i efekt nie są w pełni czytelne. | Screeny `2026-10-14 212615.png`, `212725.png`. Szczegóły efektu pozostają do potwierdzenia. |
+| **3 VII 1073** | Podczas przeglądu dokumentów Burkhard znajduje dodatkowe środki na problemy infrastrukturalne i wybiera pomoc dla miejskich rezydencji Hohenbergu. Późniejsze ekrany pokazują jednak, że inspekcja trwa dalej i kończy się dopiero w lipcu. | Screeny `2026-10-14 212615.png`, `212725.png`; rezultat potwierdzają późniejsze ekrany z 8 VII. |
+| **5 VII 1073** | W trakcie inspekcji kontrola Hohenbergu wzrasta o 5; szansa powodzenia aktywności nieznacznie rośnie. | Screen `2026-10-14 212812.png`. |
+| **6 VII 1073** | Mieszkańcy wskazują na potrzebę przebudowy Hohenbergu. Kapitan garnizonu Martin proponuje przesunięcie i przebudowę starych murów, zaś przedstawiciel gildii Welf zabiega o odnowę dzielnicy handlowej. Ekran pokazuje 67% szans powodzenia; kolejny tooltip potwierdza modyfikator „Zainwestowano w gildie”, wzmacniający rozwój handlu. | Screeny `2026-10-14 212946.png`, `213015.png`. Zrzuty nie pokazują jednoznacznie, którą wypowiedź Burkhard wybrał. |
+| **7 VII 1073 (obserwacja)** | Szansa powodzenia inspekcji nieznacznie spada. | Screen `2026-10-14 213037.png`; szczegół zdarzenia nieczytelny. |
+| **8 VII 1073** | Inspekcja kończy się powodzeniem: Burkhard pomaga ograniczyć lokalną korupcję i bandytyzm. Hohenberg otrzymuje modyfikator „Usprawniony pobór podatków” na 10 lat oraz priorytet inspekcji „podatki” na 15 lat; widoczne są też wzrost kontroli i rozwoju oraz nagroda dla Burkharda. | Screeny `2026-10-14 213111.png`, `213153.png`, `213211.png`. Wartości przyrostu rozwoju i nagrody nie są w pełni czytelne. |
+
+| **3 VIII 1073** | Burkhard rozpoczyna regencję nad swoim seniorem, księciem Rudolfem. Ekran uzasadnia ją niezdolnością Rudolfa do osobistego rządzenia; Burkhard wybiera natychmiastowe objęcie władzy i uzyskuje dostęp do uprawnień regenta. | Screen `2026-10-14 213316.png`. Szczegółowa przyczyna stanu Rudolfa nie jest czytelna. |
+| **15 IX 1073 (obserwacja)** | Biskup Jaromir z Opawy choruje na gruźlicę (w grze: suchoty). | Screen `2026-10-14 213420.png`. To diagnoza postaci, odrębna od informacji o epidemii w regionie. |
+| **29 IX 1073** | W baronii Krnov w hrabstwie Opawa pojawia się zaraza; ekran wskazuje Brzeg jako pierwotne ognisko z 10 V 1073. W posiadłości widoczne są spadek rozwoju i zwiększone zagrożenie zarazą. | Screen `2026-10-14 213508.png`. |
+| **1 X 1073 (obserwacja)** | Ekran epidemii wymienia grypę Wszebora i gruźlicę; widoczna liczba ofiar śmiertelnych wynosi 0. Turnov nie wykazuje ryzyka zakażenia grypą Wszebora. | Screen `2026-10-14 213622.png`; stan tylko z chwili obserwacji. |
 
 ## Wydarzenie zatwierdzone — dokładna data gry nieustalona
 
