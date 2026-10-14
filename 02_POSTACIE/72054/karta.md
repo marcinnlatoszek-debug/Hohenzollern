@@ -1,6 +1,6 @@
 # Gerlach — ID 72054
 
-**Stan odczytu:** 12 listopada 1070. **Status:** potwierdzone w zapisie i screenie, dopisane do kart na prośbę użytkownika.  
+**Najnowszy odczyt:** **18 października 1073**; starszy ekran i cechy 12 XI 1070. **Status:** potwierdzone w zapisie i screenie, dopisane do kart na prośbę użytkownika.  
 **Źródła:** `von_Hohenzollern(20261014-155345).ck3` = `von_Hohenzollern(10).ck3`; `Zrzut ekranu 2026-10-14 174246.png`; [raport źródłowy](../../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).
 
 ## Pozycja i rodzina
@@ -21,3 +21,8 @@
 ## Ograniczenia
 
 Nie potwierdzono faktycznego udziału Gerlacha w konkretnej bitwie, oblężeniu ani jego dowództwa. Cechy i zdolności pozwalają kreować jego głos w scenach wojskowych, ale nie przesądzają zdarzeń gry.
+
+## Zatwierdzony nowy stan — 18 października 1073
+
+- Gerlach (72054) żyje; osobowość `brave`, `lustful`, `gregarious` bez zmiany.
+- Zadanie zarządcy: **`task_collect_taxes`** (pobór podatków), jak w 1070. Brak dowodu dowodzenia konkretną bitwą wojny o Hohenberg. Źródło: [raport 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
