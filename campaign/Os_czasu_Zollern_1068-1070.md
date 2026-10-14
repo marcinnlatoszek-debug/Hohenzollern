@@ -1,9 +1,9 @@
-# Zollern — zatwierdzone uzupełnienie osi, 1068–1072
+# Zollern — zatwierdzone uzupełnienie osi, 1068–1073
 
-**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **7 V 1072**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
+**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **17 I 1073**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
-**Zakres:** zatwierdzone wpisy chronologiczne do 7 V 1072; pełny save nadal kończy się na 12 XI 1070. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
+**Zakres:** zatwierdzone wpisy chronologiczne do 17 I 1073; pełny save nadal kończy się na 12 XI 1070. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
 
 ## Rozstrzygnięcia użytkownika
 
@@ -46,6 +46,14 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **11 IV 1072** | Powiadomienie odnotowuje pogorszenie relacji między rodami von Hohenzollern i Etichonen po wypowiedzeniu wojny przez Burkharda Adelheid. | Screen `Zrzut ekranu 2026-10-14 200853.png`. Nie przesądza o dalszych działaniach członków tych rodów. |
 | **17 IV 1072** | Oblężenie Hohenbergu trwa; ekran wskazuje jeszcze 7 dni do przewidywanego końca, 18 IV. | Screen `Zrzut ekranu 2026-10-14 201116.png`. To przewidywany termin, nie potwierdzenie zdobycia zamku. |
 | **19 IV–7 V 1072** | Wokół Hohenbergu trwa bitwa: ekran z 19 IV pokazuje 750 żołnierzy przeciw 252 i czterech rycerzy przeciw dwóm; kolejne ujęcia z 21 IV i 2 V pokazują dalszy przebieg walki. Ekran 7 V podaje +50% przewagi wojennej i fazę pościgu. | Screeny `Zrzut ekranu 2026-10-14 201306.png`, `202353.png`, `202611.png`, `202700.png`, `202742.png`. Screeny nie potwierdzają końca wojny ani ostatecznego wyniku bitwy; w szkicu bitwa pozostaje tłem dla kampanii o Hohenberg. |
+| **8 VI 1072** | Armia sojusznicza Hupolda III oblega Ebingen i przygotowuje się do ataku na cel wojny. Osobne powiadomienie tego dnia mówi, że szerzy się herezja; nie pozwala ustalić jej nazwy ani tego, kogo dotknęła. | Screeny `Zrzut ekranu 2026-10-14 203017.png` i `203057.png`. |
+| **10 VII 1072 (obserwacja)** | Burkhard ma skupienie stylu życia na bogactwie; ekran pokazuje 30/1000 doświadczenia w zarządzaniu i 2/27 odblokowanych atrybutów. | Screen `Zrzut ekranu 2026-10-14 203417.png`. Stan na ekranie, nie zmiana władzy ani nowy save. |
+| **17 VIII 1072** | W posiadłości Zollern pojawia się modyfikator „Zmotywowani pracownicy”; opis wskazuje na skrócenie czasu wznoszenia budowli. Dokładna wartość efektu nieczytelna. | Screeny `Zrzut ekranu 2026-10-14 203635.png` i `203652.png`; ekran podaje okres 10 lat. |
+| **16 IX 1072** | Radbot zostaje przekonany do Burkharda i otrzymuje +25 opinii; Burkhard kontynuuje starania w fazie „Przekonywanie do siebie”. | Screen `Zrzut ekranu 2026-10-14 203802.png`. |
+| **15 X 1072** | Burkhard nadal oblega Hohenberg. Armia nie ma machin oblężniczych; ekran pokazuje wyniszczenie 1% miesięcznie i rozprzestrzenianie się epidemii choroby. | Screen `Zrzut ekranu 2026-10-14 204126.png`. |
+| **29 XI 1072** | Oblężenie Hohenbergu nadal trwa; interfejs sygnalizuje dezercję. | Screen `Zrzut ekranu 2026-10-14 204235.png`. |
+| **18 XII 1072** | Armia Burkharda wciąż prowadzi oblężenie Hohenbergu; screen nadal pokazuje brak machin oblężniczych. | Screen `Zrzut ekranu 2026-10-14 204342.png`. |
+| **16–17 I 1073** | Oblężenie Hohenbergu zostaje zakończone; miejsce znajduje się pod kontrolą Burkharda, a gra przyznaje wynik za okupację. Podczas oblężenia schwytano królewnę Katharinę, wychowankę hrabiny Adelheid. Powiadomienie z 17 I mówi, że uwięzienie Kathariny pogorszyło relację między rodami Rheinfelden i von Hohenzollern. | Screeny `Zrzut ekranu 2026-10-14 204436.png`, `204506.png` i `204523.png`. Zakończenie oblężenia i okupacja nie potwierdzają jeszcze końca wojny ani przeniesienia tytułu Hohenbergu na Burkharda. |
 
 ## Wydarzenie zatwierdzone — dokładna data gry nieustalona
 
@@ -102,11 +110,13 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 - [Tło świata na 6 marca 1067](Tlo_swiata_Szwabia_1067.md).
 
 
-## Zdarzenie bez ustalonej daty gry
+## Zdarzenia bez ustalonej daty gry
 
 Screen `Zrzut ekranu 2026-10-14 200019.png` pokazuje wydarzenie dotyczące pytań syna i dziedzica Burkharda. Widoczna odpowiedź wiąże wybór z cechą „Ciekawski”, ale screen nie potwierdza jednoznacznie, że odpowiedź została wybrana ani że cecha została już nadana. Nie wpisywać tego jako zmiany cechy, dopóki nie pojawi się ekran potwierdzający wynik.
 
-Użytkownik podał, że rozgrywka posunęła się do 18 października; rok nie został określony. Screeny z pakietu mają daty od 17 XII 1071 do 7 V 1072; wpisy wojenne zachowują własne daty. Daty widoczne na ekranach zachowują pierwszeństwo przy wpisywaniu konkretnych wydarzeń.
+Screen `Zrzut ekranu 2026-10-14 204022.png` przedstawia przygotowaną propozycję, by Luitgard została opiekunką i wychowawczynią syna Burkharda. Widoczny przycisk „Wyślij propozycję” oznacza, że wysłania ani przyjęcia propozycji nie potwierdzono. Data gry nieczytelna.
+
+Użytkownik podał, że rozgrywka posunęła się do 18 października; rok nie został określony. Screeny z pakietów mają daty od 17 XII 1071 do 17 I 1073; wpisy wojenne zachowują własne daty. Daty widoczne na ekranach zachowują pierwszeństwo przy wpisywaniu konkretnych wydarzeń.
 
 
 **Sojusznik w wojnie:** screen `Zrzut ekranu 2026-10-14 201159.png` potwierdza, że hrabia Hupold III przyjął wezwanie i dołączył do wojny po stronie Burkharda. Dokładna data tej odpowiedzi nie jest czytelna na ekranie; nie przypisano jej do konkretnego dnia.
