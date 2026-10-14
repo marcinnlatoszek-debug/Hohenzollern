@@ -2,7 +2,9 @@
 
 **Punkt bazowy:** ostatni pełny save z 24 listopada 1066  
 **Pierwsza aktualizacja ze screenów:** 1 grudnia 1066  
-**Wersja gry w save:** Crusader Kings III 1.20.0.4
+**Wersja gry w save bazowym:** Crusader Kings III 1.20.0.4  
+**Zatwierdzony punkt kontrolny:** 2 sierpnia 1070 — `von_Hohenzollern(9).ck3`  
+**Wersja gry w nowym punkcie kontrolnym:** Crusader Kings III 1.20.1
 
 ## Jak czytać ten zapis
 
@@ -52,6 +54,21 @@ Po śmierci Konrada szesnastoletni Burkhard musi przejąć rachunki, powinności
 | 1 grudnia 1066 | Ekran rady pokazuje Hedwig przy asyście władcy, Meinharda jako kapelana, Radbota jako kanclerza i Walpurgę jako mistrzynię szpiegów. Stanowiska zarządcy i marszałka są wolne. | Potwierdzone na screenie rady z widoczną datą 1 XII 1066. |
 | Około 1 grudnia 1066 | Karty dworzan z tej samej serii pokazują Ingę jako osobistego medyka i Gerlacha jako rycerza. | Potwierdzone na screenach profili; data gry nie jest widoczna na każdym profilu. |
 
+## Zatwierdzony punkt kontrolny — 2 sierpnia 1070
+
+**Źródło:** `von_Hohenzollern(9).ck3`; odczyt zgłoszony i zaakceptowany przez użytkownika 14 października 2026. Zapis gry jest w formacie Jomini (część binarna i skompresowany `gamestate`). Pełne mapowanie pól nie zostało zweryfikowane.
+
+**Potwierdzone w odczycie, zatwierdzone do kanonu:**
+
+- Burkhard von Hohenzollern (ID 66952) pozostaje hrabią Zollern; jego żoną jest Hedwig (ID 41150).
+- Syn Burkhard (ID 79306), urodzony **27 grudnia 1068**, oraz syn Leopold (ID 81336), urodzony **21 kwietnia 1070**, figurują jako dzieci Burkharda i Hedwig. Narodziny były już wpisane do chronologii na podstawie wcześniejszych screenów; nowy save potwierdza te wpisy i uzupełnia identyfikatory.
+- Rudolf (ID 35525) pozostaje księciem Szwabii, a Heinrich (ID 41198) cesarzem.
+- W porównanych zapisach posiadaczy tytułów nie wykazano zmiany hrabstwa Zollern ani podstawowej osobistej domeny Rudolfa. Nie dowodzi to niezmienności wszystkich relacji politycznych czy wojskowych.
+
+**Granice odczytu:** wartości złota, prestiżu i pobożności uzyskane ze wstępnego mapowania pól pozostają do weryfikacji i nie zastępują danych kanonicznych. Nie ustalono pełnego stanu rady, dworu, armii, wojen ani frakcji.
+
+**Chronologia:** punkt kontrolny z 2 VIII 1070 jest wcześniejszy od osobno zatwierdzonych screenów z 8 IX, 18 IX i 2 X 1070. Wydarzenia te pozostają ważne; nie wolno przypisywać ich do sierpniowego save'a. Zobacz [oś wydarzeń 1068–1070](Os_czasu_Zollern_1068-1070.md).
+
 ## Rejestr screenów z 13 października 2026
 
 - `Zrzut ekranu 2026-10-13 091342.png` — wydarzenie dotyczące wyboru osobistego medyka.
@@ -67,6 +84,6 @@ Po śmierci Konrada szesnastoletni Burkhard musi przejąć rachunki, powinności
 ## Otwarte punkty do następnej aktualizacji
 
 1. Wyjaśnić różnicę między stanem domeny i tytułów w save z 24 XI a kartą Burkharda ze screenów.
-2. Przy następnym save sprawdzić, czy skład rady, dworu i rycerzy nadal jest aktualny.
+2. Mimo odczytu save'a z 2 VIII 1070 nadal nie ustalono pełnego, aktualnego składu rady, dworu i rycerzy.
 3. Odczytać aktualny stan wojen, frakcji, sukcesji, relacji i tytułów księstwa Szwabii.
 4. Dopisywać do osi czasu tylko wydarzenia z określoną datą gry; jeśli daty nie widać, oznaczać ją jako przybliżoną albo nieustaloną.
