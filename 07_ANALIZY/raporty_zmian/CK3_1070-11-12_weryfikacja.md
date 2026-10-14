@@ -127,3 +127,30 @@ Wymienionych nieustalonych elementów nie dopisywać jako faktów. Sprawdzone da
 4. Karty `03_TERYTORIA/HRABSTWA/c_zollern` i `03_TERYTORIA/KSIESTWA/d_swabia` — utrzymanie właścicieli na nową datę.
 
 **GRA DOSTARCZA FAKTÓW. KANON USTALA HISTORIĘ.** Żadna niezweryfikowana mechanika ani domniemane wydarzenie nie stają się faktem.
+
+
+## 9. Uzupełnienie: pełne rozpoznanie pola cech postaci (14 X 2026)
+
+Ponownie dostarczony `von_Hohenzollern(20261014-155345).ck3` jest **identyczny bajtowo** z `von_Hohenzollern(10).ck3` (SHA-256: `6bf7eeda89f32236668a2370ca1e9789445f65fb81486c11514c94337e2ab015`). Nie przesuwa daty gry poza 12 XI 1070.
+
+W sekcji gamestate odczytano **307-elementową listę nazw traitów** (od indeksu 0). Pole listy cech osoby to token `1608`, zawierający indeksy do tej samej listy. Dzięki temu poniższe identyfikatory są bezpośrednim odczytem, a nie rekonstrukcją ikon.
+
+| Osoba (ID) | Trzy cechy charakteru | Inne zapisane identyfikatory traitów |
+|---|---|---|
+| Burkhard 66952 | `ambitious`, `diligent`, `patient` | `education_stewardship_3`, `lifestyle_gardener`, `intellect_good_2` |
+| Hedwig 41150 | `impatient`, `arrogant`, `content` | `education_learning_2` |
+| Rudolf 35525 | `wrathful`, `forgiving`, `just` | `education_learning_2`, `erudite`, `lifestyle_scholar` |
+| Hupold III 32545 | `wrathful`, `lustful`, `deceitful` | `education_martial_2`, `strategist`, `holy_warrior`, `fragile_bones`, `faltering_heart` |
+| Radbot 66953 | `fickle`, `sadistic`, `impatient` | `education_martial_3`, `military_engineer` |
+| Walpurga 66954 | `generous`, `calm`, `chaste` | `education_intrigue_2` |
+| Gerlach 72054 | `brave`, `lustful`, `gregarious` | `education_martial_1`, `open_terrain_expert` |
+| Meinhard 69353 | `ambitious`, `just`, `greedy` | `education_diplomacy_2`, `lifestyle_traveler`, `cleric` |
+| Inga 69354 | `deceitful`, `forgiving`, `lustful` | `education_learning_1`, `devoted` |
+| Siegmund 76331 | `compassionate`, `honest`, `content` | `education_martial_1`, `military_engineer`, `loyal` |
+| Leopold 81336 | — niemowlę | `sickly` |
+
+**Rozróżnienie:** dla Leopolda liczba `151` występuje w odrębnym polu tokenu `13346`, **nie w liście traits**; nie przypisano mu `intellect_good_1` jako cechy.
+
+**Identyfikacja:** ID Siegmunda wynika z rekordu pierwszego imienia oraz zgodności cech i danych ekranu. Hupolda III połączono z 32545 na podstawie powiązania rodzinnego z Hedwig 41150 i cechy `faltering_heart` obecnej również na screenie zdrowia.
+
+**Screeny kontrolne:** seria od `Zrzut ekranu 2026-10-14 173059.png` do `Zrzut ekranu 2026-10-14 174332.png`; ekran rady z tej samej serii wskazuje 12 XI 1070. Nazwy techniczne wpisano do kart postaci; polskie odpowiedniki są tłumaczeniami opisowymi. Cechy nie dowodzą działań fabularnych.
