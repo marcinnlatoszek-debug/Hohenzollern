@@ -90,7 +90,7 @@ Po śmierci Konrada szesnastoletni Burkhard musi przejąć rachunki, powinności
 
 **Granice odczytu:** wartości złota, prestiżu i pobożności uzyskane ze wstępnego mapowania pól pozostają do weryfikacji i nie zastępują danych kanonicznych. Nie ustalono pełnego stanu rady, dworu, armii, wojen ani frakcji.
 
-**Chronologia:** punkt kontrolny z 2 VIII 1070 jest wcześniejszy od osobno zatwierdzonych screenów z 8 IX, 18 IX i 2 X 1070. Wydarzenia te pozostają ważne; nie wolno przypisywać ich do sierpniowego save'a. Zobacz [oś wydarzeń 1068–1070](Os_czasu_Zollern_1068-1070.md).
+**Chronologia:** punkt kontrolny z 2 VIII 1070 jest wcześniejszy od osobno zatwierdzonych screenów z 8 IX, 18 IX i 2 X 1070. Wydarzenia te pozostają ważne; nie wolno przypisywać ich do sierpniowego save'a. Zobacz [oś wydarzeń 1068–1073](Os_czasu_Zollern_1068-1070.md).
 
 ## Rejestr screenów z 13 października 2026
 
