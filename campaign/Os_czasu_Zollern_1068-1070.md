@@ -1,9 +1,9 @@
 # Zollern — zatwierdzone uzupełnienie osi, 1068–1073
 
-**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **17 I 1073**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
+**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **14 VI 1073**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
-**Zakres:** zatwierdzone wpisy chronologiczne do 17 I 1073; ostatni odczytany i zatwierdzony pełny save pochodzi z 12 XI 1070; dwa nowsze pliki save nie zostały jeszcze przeanalizowane. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
+**Zakres:** zatwierdzone wpisy chronologiczne do 14 VI 1073; ostatni odczytany i zatwierdzony pełny save pochodzi z 12 XI 1070; dwa nowsze pliki save nie zostały jeszcze przeanalizowane. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
 
 ## Rozstrzygnięcia użytkownika
 
@@ -54,6 +54,10 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **29 XI 1072** | Oblężenie Hohenbergu nadal trwa; interfejs sygnalizuje dezercję. | Screen `Zrzut ekranu 2026-10-14 204235.png`. |
 | **18 XII 1072** | Armia Burkharda wciąż prowadzi oblężenie Hohenbergu; screen nadal pokazuje brak machin oblężniczych. | Screen `Zrzut ekranu 2026-10-14 204342.png`. |
 | **16–17 I 1073** | Oblężenie Hohenbergu zostaje zakończone; miejsce znajduje się pod kontrolą Burkharda, a gra przyznaje wynik za okupację. Podczas oblężenia schwytano królewnę Katharinę, wychowankę hrabiny Adelheid. Powiadomienie z 17 I mówi, że uwięzienie Kathariny pogorszyło relację między rodami Rheinfelden i von Hohenzollern. | Screeny `Zrzut ekranu 2026-10-14 204436.png`, `204506.png` i `204523.png`. Zakończenie oblężenia i okupacja nie potwierdzają jeszcze końca wojny ani przeniesienia tytułu Hohenbergu na Burkharda. |
+| **8 IV 1073** | Ekran potwierdza skutek spowiedzi Burkharda: otrzymuje modyfikator „Kara za spowiedź”, obowiązek działania na polecenie spowiednika, −15 opinii duchowieństwa i +15% spełnienia duchowego do kwietnia 1078. | Screeny `Zrzut ekranu 2026-10-14 210643.png`, `210703.png`, `210739.png`; dwie kopie screenów 210643/210703 potraktowane jako duplikaty. |
+| **14 IV 1073 (obserwacja)** | Ekran legitymacji określa Burkharda jako „Uznanego władcę”, poziom 2/5. | Screen `Zrzut ekranu 2026-10-14 210752.png`. To stan widoczny w interfejsie, nie osobne wydarzenie. |
+| **13 VI 1073** | Meinhard, nadworny kapelan, pracuje nad fabrykowaniem roszczenia do hrabstwa Nagoldgau; ekran pokazuje około 2 lata do końca zadania. Roszczenie nie jest jeszcze potwierdzone. | Screen `Zrzut ekranu 2026-10-14 211438.png`. |
+| **14 VI 1073 (obserwacja)** | Panel aktywności mówi, że Burkhard nie ma obecnie trwających aktywności; inspekcja ziem jest dostępna do zaplanowania, ale ekran nie potwierdza jej rozpoczęcia. | Screen `Zrzut ekranu 2026-10-14 211630(1).png`. |
 
 ## Wydarzenie zatwierdzone — dokładna data gry nieustalona
 
@@ -116,7 +120,9 @@ Screen `Zrzut ekranu 2026-10-14 200019.png` pokazuje wydarzenie dotyczące pyta�
 
 Screen `Zrzut ekranu 2026-10-14 204022.png` przedstawia przygotowaną propozycję, by Luitgard została opiekunką i wychowawczynią syna Burkharda. Widoczny przycisk „Wyślij propozycję” oznacza, że wysłania ani przyjęcia propozycji nie potwierdzono. Data gry nieczytelna.
 
-Użytkownik podał, że rozgrywka posunęła się do 18 października; rok nie został określony. Screeny z pakietów mają daty od 17 XII 1071 do 17 I 1073; wpisy wojenne zachowują własne daty. Daty widoczne na ekranach zachowują pierwszeństwo przy wpisywaniu konkretnych wydarzeń.
+Screen z 14 VI 1073 przedstawia dostępną inspekcję ziem jako aktywność do zaplanowania, przy komunikacie o braku trwających aktywności. Nie ma potwierdzenia jej rozpoczęcia.
+
+Użytkownik podał, że rozgrywka posunęła się do 18 października; rok nie został określony. Screeny z pakietów mają daty od 17 XII 1071 do 14 VI 1073; wpisy wojenne zachowują własne daty. Daty widoczne na ekranach zachowują pierwszeństwo przy wpisywaniu konkretnych wydarzeń.
 
 
 **Sojusznik w wojnie:** screen `Zrzut ekranu 2026-10-14 201159.png` potwierdza, że hrabia Hupold III przyjął wezwanie i dołączył do wojny po stronie Burkharda. Dokładna data tej odpowiedzi nie jest czytelna na ekranie; nie przypisano jej do konkretnego dnia.
