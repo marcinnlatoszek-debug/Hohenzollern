@@ -1,6 +1,6 @@
 # Zollern — zatwierdzone uzupełnienie osi, 1068–1070
 
-**Status:** pakiet A oraz rozstrzygnięcia użytkownika do punktów C.1–C.3, przyjęte w tej rozmowie.  
+**Status:** pakiet A i rozstrzygnięcia użytkownika do punktów C.1–C.3 oraz zatwierdzony odczyt save'a z 2 VIII 1070. Późniejsze wpisy ze screenów zachowują swoje oryginalne daty.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
 **Zakres:** zatwierdzone wpisy chronologiczne. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
@@ -31,6 +31,7 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **21 IV 1070** | Hedwig rodzi kolejnego syna, **Leopolda von Hohenzollern**. Karta niemowlęcia pokazuje jedno rodzeństwo. | Screeny `2026-10-14 003015`, `003034`; dzień i miesiąc podane przez gracza, rok potwierdzony w tej rozmowie. |
 | **1 VI 1070** | Marszałek Radbot zawiera małżeństwo z Amalie. | Screen `2026-10-14 002348`; przypisanie daty potwierdzone przez użytkownika. |
 | **1 VI 1070** | Gracz akceptuje zmiany religijne przedstawione w wiadomości Meinharda; zmiany zostają zastosowane. | Screen `2026-10-14 002753` oraz wyraźne potwierdzenie użytkownika dotyczące wyboru i wejścia skutków w życie. W opracowaniu wymieniono „Ora et labora” (fundamentalny), „Pax et bonum” (znany), doktrynę „Awunkulat (małżeństwo)” i +10 punktów spełnienia duchowego. Nie rozszerzać tego na niepokazane skutki polityczne lub społeczne. |
+| **2 VIII 1070** | **Zatwierdzony punkt kontrolny zapisu gry.** Burkhard pozostaje hrabią Zollern, Rudolf księciem Szwabii, Heinrich cesarzem; zapis potwierdza dwóch synów Burkharda i Hedwig. | Save `von_Hohenzollern(9).ck3`, CK3 1.20.1; zatwierdzenie użytkownika 14 X 2026. Część pól wymaga dalszego mapowania. |
 | **8 IX 1070** | Nadworny kapelan Meinhard wykonuje zadanie fabrykowania roszczenia do hrabstwa; postęp wynosi **30,9/100**. Nie potwierdzono jeszcze uzyskania roszczenia. | Screen `Zrzut ekranu 2026-10-14 062039(1).png`; potwierdzenie użytkownika. Cel zadania nieustalony. |
 | **18 IX 1070** | Zakończono budowę **rynku** w posiadłości opisanej w powiadomieniu jako „Dwór von Hohenzollern Dom”. | Screen `Zrzut ekranu 2026-10-14 062408.png`; powiadomienie oznaczone „18 wrz”, data na ekranie 19 IX 1070; potwierdzenie użytkownika. Tym samym potwierdzono realizację budowy planowanej wcześniej na 18 IX 1070. |
 | **2 X 1070** | Meinhard nadal fabrykuje roszczenie do hrabstwa; postęp zadania wynosi **33,8/100** (o 2,9 punktu więcej niż 8 IX). | Screen `Zrzut ekranu 2026-10-14 062531.png`; potwierdzenie użytkownika. Nie ustalono docelowego hrabstwa ani uzyskania roszczenia. |
@@ -43,6 +44,16 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 
 **Nowy obrządek: udianizm.** W grze pojawia się wiadomość o powstaniu odłamu chrześcijaństwa zwanego **udianizmem**, któremu przewodzi **Udo**, arcybiskup Trewiru, postać kultury szwabskiej. Nowy obrządek odbiega od rzymskiego; w powiadomieniu wskazano dogmat „Świętość natury” jako najważniejszą zmianę. Gracz **wybrał pierwszą odpowiedź**: „Moja dusza jest bezpieczna dzięki obrządkowi o nazwie obrządek rzymski”, potwierdzając pozostanie Burkharda przy obrządku rzymskim i brak przejścia na udianizm. Źródło: `Zrzut ekranu 2026-10-14 063523.png` oraz jednoznaczne potwierdzenie użytkownika. **Nie ustalono daty gry z widocznego ekranu**; brak dowodów na wybuch wojny religijnej, prześladowania czy zmianę wiary innych konkretnych postaci. Zapisano bez przypisywania domyślnej daty 2 X 1070.
 
+
+## Zatwierdzony odczyt stanu — 2 sierpnia 1070
+
+- **Data gry:** 2 VIII 1070; **źródło:** `von_Hohenzollern(9).ck3`; **wersja CK3:** 1.20.1.
+- **Burkhard von Hohenzollern:** ID 66952, hrabia Zollern, żona Hedwig (ID 41150).
+- **Potomkowie:** Burkhard (ID 79306, ur. 27 XII 1068) oraz Leopold (ID 81336, ur. 21 IV 1070). Nowy zapis potwierdza wcześniej zatwierdzone narodziny i rozróżnia ojca oraz syna o tym samym imieniu.
+- **Zwierzchnictwo:** Rudolf (ID 35525) jest księciem Szwabii; Heinrich (ID 41198) cesarzem. Rudolf posiada osobiście hrabstwa Ulm, Helfenstein, Schelklingen i Hellenstein według porównanych zapisów tytułów. Nie jest to wykaz całego księstwa.
+- **Własność Zollern:** Burkhard zachował hrabstwo w porównanych rejestrach. Nie stwierdzono zmian posiadaczy wymienionych tytułów względem punktu 6 III 1067; nie przesądza to o zmianach innych obszarów kampanii.
+- **Nieustalone:** aktualny skład rady, wojny, frakcje, liczebność wojsk, inwestycje i pełna sukcesja na 2 VIII 1070. Wstępnie zmapowane zasoby Burkharda wymagają kontroli w interfejsie i nie są wprowadzane jako zatwierdzone kwoty.
+- **Uwaga o kolejności:** zatwierdzone wydarzenia wrześniowe, październikowe i późniejsze obserwacje są odrębne od sierpniowego save'a. Nie wycofuje się ich i nie przypisuje do 2 VIII.
 
 ## Powiązania z kartami osób
 
@@ -62,7 +73,7 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 - Zachować odrębność wojny Marchii Nordgau, wojny Czech o Nordgau, wojny Bawarii o Salzburg i wojny Rudolfa przeciw Einhardowi.
 - Bufor 2 nie potwierdza osobistego udziału Burkharda w bitwach.
 - Dokładne daty zmian rady i uzyskanie roszczenia do Hohenbergu wymagają osobnych dowodów i zatwierdzenia. Ukończenie rynku 18 IX 1070 oraz rezultat przekonywania Hupolda III (powiadomienie 30 X 1070) zostały później osobno udokumentowane i zatwierdzone.
-- Przyjęcie tych wpisów nie jest samo w sobie nowym odczytem save’a ani zatwierdzeniem nowego punktu zatrzymania kampanii. Datowane zdarzenia zachowują własne daty; oficjalne przesunięcie osi następuje zgodnie z osobną procedurą projektu.
+- Odczyt `von_Hohenzollern(9).ck3` i punkt kontrolny 2 VIII 1070 zostały osobno zatwierdzone 14 X 2026. Wcześniejsze i późniejsze wpisy zachowują własne daty.
 - Każdy kolejny fakt lub wydarzenie musi zostać wyraźnie zatwierdzony przez użytkownika przed dodaniem do kanonu.
 
 ## Dokumenty powiązane
