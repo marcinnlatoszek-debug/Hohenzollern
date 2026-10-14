@@ -1,6 +1,6 @@
 # Zollern — zatwierdzone uzupełnienie osi, 1068–1070
 
-**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
+**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **16 XI 1070**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
 **Zakres:** zatwierdzone wpisy chronologiczne. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
@@ -38,6 +38,8 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **30 X 1070** (data powiadomienia; ekran 1 XI 1070) | **Hrabia Hupold III** został skutecznie przekonany do Burkharda: otrzymał modyfikator opinii **+25** o Burkhardzie z zanikiem **0,60/rok**. Komunikat informuje o wyzerowaniu zdobytej szansy powodzenia, przewag i postępów fazy spisku „Przekonywanie do siebie”, a także o kontynuowaniu starań. | Screen `Zrzut ekranu 2026-10-14 063805.png`; potwierdzenie użytkownika. Nie przypisywać daty 1 XI zamiast daty powiadomienia 30 X. |
 | **3 XI 1070** | **Hrabia Hupold III z Nördlingen** (61 lat) ma ocenę zdrowia **„Przyzwoite”**; opis UI: „Hrabia Hupold III czuje się dobrze”. Widoczny jest negatywny czynnik zdrowotny **„Niewydolne serce”** oraz pozytywne czynniki: `miv_health_plus_2`, „Zmiękczenie po próbie uwiedzenia” i „Osobisty medyk”. Nie wynika stąd nieuchronna ani rychła śmierć. | Screeny `Zrzut ekranu 2026-10-14 064048.png`, `Zrzut ekranu 2026-10-14 064342.png`; data 3 XI 1070 przekazana przez użytkownika, następnie jednoznacznie zatwierdzona. |
 | **12 XI 1070** | **Zatwierdzony nowy punkt kontrolny:** Burkhard i Hedwig żyją i pozostają małżeństwem, obaj synowie żyją; Burkhard nadal posiada Zollern, Rudolf księstwo Szwabii, Heinrich cesarstwo. W zapisach Burkharda pozostają podział konfederacyjny i preferencja męska. | Save `von_Hohenzollern(10).ck3`, CK3 1.20.1; porównanie ze stanem 2 VIII 1070; **zatwierdzenie użytkownika 14 X 2026**. Nie dowodzi braku innych zdarzeń między 3 a 12 XI. [Raport](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md). |
+
+| **16 XI 1070 (obserwacja)** | Ekran pokazuje aktywne dzielenie władzy; Burkhard pełni funkcję regenta. Użytkownik doprecyzował, że regencja trwa już czwarty miesiąc. | Screen `Zrzut ekranu 2026-10-14 180447(1).png` oraz doprecyzowanie użytkownika. Nie ustalono dokładnej daty jej początku, osoby objętej regencją, wartości ani kierunku szali, użycia uprawnień ani skutków politycznych. |
 
 ## Wydarzenie zatwierdzone — dokładna data gry nieustalona
 
