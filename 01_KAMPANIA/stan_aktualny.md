@@ -3,7 +3,7 @@
 **Ostatni zatwierdzony odczyt pełnego save'a:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3` (CK3 1.20.1).  
 **Data akceptacji odczytu:** 14 października 2026.  
 **Początek właściwej opowieści:** 6 marca 1067.  
-**Najpóźniejsze zatwierdzone zdarzenie w osi dostępnej w repozytorium przy tej aktualizacji:** powiadomienie z 30 października 1070 (ekran 1 listopada 1070).  
+**Najpóźniejsza zatwierdzona obserwacja w osi dostępnej w repozytorium przy tej aktualizacji:** stan zdrowia hrabiego Hupolda III z 3 listopada 1070.  
 **Uwaga:** chronologia zdarzeń jest nowsza od ostatniego odczytanego save'a. Stan z 2 VIII nie stanowi automatycznie opisu świata po 2 VIII.
 
 ## Zatwierdzone na 2 sierpnia 1070
@@ -12,6 +12,12 @@
 - Synowie: Burkhard (ID 79306), urodzony 27 XII 1068; Leopold (ID 81336), urodzony 21 IV 1070.
 - Rudolf (ID 35525) pozostaje księciem Szwabii, a Heinrich (ID 41198) cesarzem.
 - Porównane rejestry tytułów nie wykazały zmiany posiadacza hrabstwa Zollern ani wymienionych bezpośrednich hrabstw Rudolfa.
+
+
+## Osobna obserwacja zatwierdzona 3 listopada 1070
+
+- Hupold III z Nördlingen, 61 lat: ogólna ocena zdrowia „Przyzwoite”, opis „czuje się dobrze”, schorzenie „Niewydolne serce”; widoczne dodatnie czynniki zdrowia opisane w [karcie Hupolda](../02_POSTACIE/Hupold_III_Nordlingen/karta.md).
+- Informacja jest datowanym stanem postaci, **nie** nowym punktem pełnego save'a ani dowodem rychłej śmierci.
 
 ## Ograniczenia
 
