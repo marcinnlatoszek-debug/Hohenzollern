@@ -17,3 +17,16 @@ Był kapelanem Burkharda (6 III 1067); 1 VI 1070 przekazał wiadomość o zmiana
 
 - Tablica sześciu bazowych wartości z tokenu 10661: `[5, 3, 6, 7, 12, 7]`. W 2 VIII i 12 XI jest taka sama. Jest to odczyt pola binarnego, **nie** wynikowe umiejętności z panelu gry (mapowanie wymaga weryfikacji).
 - Pełne cechy, opinie, aktywne urzędy, siły wojskowe, plany polityczne oraz stan zdrowia na 12 XI, jeśli niewymienione w sekcji stanu, pozostają **NIEUSTALONE**.
+
+
+## Cechy postaci odczytane z tabeli traits — 12 listopada 1070
+
+**Źródło i status:** zapis von_Hohenzollern(20261014-155345).ck3, identyczny bajtowo z zatwierdzonym zapisem von_Hohenzollern(10).ck3; dane zweryfikowane w tabeli 307 nazw cech i dodane na wyraźne polecenie użytkownika.
+**Screen porównawczy:** Zrzut ekranu 2026-10-14 174258.png; data 12 XI 1070 wynika z zapisu i ekranu rady tej serii, nie z samego portretu.
+
+- **ID cech w zapisie:** [67,70,51,6,280,185].
+- **Cechy osobowości:** ambitious — ambitny; just — sprawiedliwy; greedy — chciwy.
+- **Inne cechy / wykształcenie:** education_diplomacy_2 (dyplomacja, poziom 2); lifestyle_traveler (podróżnik); cleric (duchowny).
+- **Dodatkowe dane widoczne na screenie:** Na karcie: biskup sufragan, 31 lat, wojskowość 11, opinia +3. Automatyczny opis «Bezduszny ateista» nie jest dowodem istnienia odrębnego traitu ateista.
+
+**Uwaga:** kody angielskie są dosłownymi identyfikatorami z tego zapisu gry. Polskie określenia są opisowymi tłumaczeniami, nie zawsze nazwami dokładnie użytymi przez tłumaczenie gry/moda. Same cechy nie dowodzą dokonanych czynów lub motywacji fabularnych.
