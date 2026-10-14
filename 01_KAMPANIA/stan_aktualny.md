@@ -55,7 +55,7 @@
 - [Raport weryfikacji 12 XI 1070](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md)
 
 
-## Najnowsze obserwacje ekranowe — 17 grudnia 1071 i 7 kwietnia 1072
+## Najnowsze obserwacje ekranowe — 17 grudnia 1071–7 maja 1072
 
 - **17 XII 1071:** Gerlach jest zarządcą i rycerzem, Siegmund kanclerzem i rycerzem, Radbot marszałkiem i rycerzem, a Reinhard rycerzem. Ekran wojsk pokazuje 4/4 rycerzy i 100% skuteczności.
 - **17 XII 1071:** podpowiedzi relacji wskazują różne opinie możnych o księciu Rudolfie: Hupold III −55, Louis −23, Berengar +7, Adalbert −42. Nie dowodzi to buntu ani planowanego działania.
