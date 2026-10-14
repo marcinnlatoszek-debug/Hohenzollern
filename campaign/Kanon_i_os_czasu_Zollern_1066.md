@@ -1,6 +1,6 @@
 # Kanon kampanii i oś czasu Zollern
 
-**Punkt bazowy:** ostatni pełny save z 24 listopada 1066  
+**Punkt bazowy:** archiwalny pełny save z 24 listopada 1066  
 **Pierwsza aktualizacja ze screenów:** 1 grudnia 1066  
 **Wersja gry w save bazowym:** Crusader Kings III 1.20.0.4  
 **Najnowszy zatwierdzony punkt kontrolny:** **18 października 1073** — `von_Hohenzollern(20261014-200855).ck3` (identyczny duplikat `von_Hohenzollern(20261014-201208).ck3`).  
@@ -71,7 +71,7 @@ Po śmierci Konrada szesnastoletni Burkhard musi przejąć rachunki, powinności
 | Sierpień 1066 | Śmierć Konrada; Burkhard dziedziczy Zollern. | Potwierdzenie użytkownika. |
 | 15 września 1066 | Save zapisuje początek rządów Burkharda w Zollern. | Potwierdzone w save. |
 | 25 września 1066 | Hedwig dołącza do dworu Burkharda. | Potwierdzone w save; nie jest to automatycznie data ślubu. |
-| **24 listopada 1066** | **Punkt bazowy kroniki — data ostatniego pełnego save’a.** | **Save `von_Hohenzollern(2).ck3`.** |
+| **24 listopada 1066** | **Punkt bazowy kroniki — data archiwalnego pełnego save’a.** | **Save `von_Hohenzollern(2).ck3`.** |
 | Około 1 grudnia 1066 | Karta Burkharda pokazuje 2 tytuły i wykorzystanie domeny 1/4; pasek zasobów pokazuje 116 złota, 723 prestiżu i 53 pobożności. | Obserwacja ze screenów; dokładna data jest widoczna na późniejszym ekranie rady. Save z 24 XI przedstawiał inny stan. Przyczyna różnicy jest do sprawdzenia. |
 | 1 grudnia 1066 | Ekran rady pokazuje Hedwig przy asyście władcy, Meinharda jako kapelana, Radbota jako kanclerza i Walpurgę jako mistrzynię szpiegów. Stanowiska zarządcy i marszałka są wolne. | Potwierdzone na screenie rady z widoczną datą 1 XII 1066. |
 | Około 1 grudnia 1066 | Karty dworzan z tej samej serii pokazują Ingę jako osobistego medyka i Gerlacha jako rycerza. | Potwierdzone na screenach profili; data gry nie jest widoczna na każdym profilu. |
