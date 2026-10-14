@@ -1,10 +1,18 @@
 # Stan kampanii — wykaz punktów kontrolnych
 
 **Ostatni zatwierdzony odczyt pełnego save'a:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (CK3 1.20.1).  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **16 listopada 1070** — regencja Burkharda trwa już czwarty miesiąc.  
 **Poprzedni zatwierdzony pełny save:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja przesunięcia osi:** 14 października 2026, wyraźne potwierdzenie użytkownika „Tak”.  
 **Początek właściwej opowieści:** 6 marca 1067.  
 **Chronologia:** ostatnia osobno zatwierdzona obserwacja sprzed nowego save'a to zdrowie Hupolda III z 3 XI 1070. Nie przenosić tej obserwacji na 12 XI bez dowodu.
+
+## Najnowsza obserwacja — 16 listopada 1070
+
+- Ekran pokazuje aktywne dzielenie władzy; Burkhard pełni funkcję regenta.
+- Użytkownik potwierdził, że regencja trwa już czwarty miesiąc. Data jej początku nie została dokładnie ustalona.
+- Nie odczytano osoby objętej regencją, wartości ani kierunku szali, wykorzystanych uprawnień ani skutków politycznych. Nie aktualizować na tej podstawie tytułów, urzędów ani relacji.
+- **Wytyczna do szkicu, nie fakt kanoniczny:** bitwa z nadesłanego materiału ma pozostać wątkiem mniej istotnym; główny nacisk osi przesunąć na regencję i jej kontekst polityczny.
 
 ## Aktualny punkt — 12 listopada 1070
 
