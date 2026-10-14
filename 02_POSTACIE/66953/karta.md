@@ -1,6 +1,6 @@
 # Radbot — ID 66953
 
-**Najnowsza obserwacja:** 12 listopada 1070.  
+**Najnowszy zatwierdzony odczyt:** **18 października 1073**; wcześniejszy 12 XI 1070.  
 **Źródło obecności i aktualnych tytułów (jeśli odczytano):** `von_Hohenzollern(10).ck3`, [raport 12 XI 1070](../../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).  
 **Zatwierdzenie:** 14 października 2026, zakres danych wyraźnie odczytanych.  
 **Uwaga:** starsze informacje pochodzą z datowanych źródeł; nie stanowią potwierdzenia ich aktualności na 12 XI.
@@ -34,3 +34,9 @@
 - **Dodatkowe dane widoczne na screenie:** Na karcie: marszałek, wojskowość 15, opinia o Burkhardzie −7; automatyczny opis nie oznacza potwierdzonej zdrady.
 
 **Uwaga:** kody angielskie są dosłownymi identyfikatorami z tego zapisu gry. Polskie określenia są opisowymi tłumaczeniami, nie zawsze nazwami dokładnie użytymi przez tłumaczenie gry/moda. Same cechy nie dowodzą dokonanych czynów lub motywacji fabularnych.
+
+## Zatwierdzony nowy stan — 18 października 1073
+
+- Radbot (66953) żyje, zachowuje cechy `fickle`, `sadistic`, `impatient`.
+- Zadanie rady: **`task_increase_control` (zwiększanie kontroli)**; na 12 XI 1070 było `task_organize_levies` (organizowanie poboru). **Data i motyw zmiany NIEUSTALONE**; nie przypisywać zadania konkretnemu hrabstwu bez mapowania celu.
+- Screen z 16 IX 1072 potwierdza przekonanie Radbota do Burkharda (+25 opinii wówczas); bieżąca wartość opinii 18 X NIEUSTALONA. Źródło: [raport 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
