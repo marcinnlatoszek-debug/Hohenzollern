@@ -4,6 +4,7 @@
 **Pierwsza aktualizacja ze screenów:** 1 grudnia 1066  
 **Wersja gry w save bazowym:** Crusader Kings III 1.20.0.4  
 **Najnowszy zatwierdzony punkt kontrolny:** **12 listopada 1070** — `von_Hohenzollern(10).ck3`  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **16 listopada 1070** — regencja Burkharda trwa już czwarty miesiąc.  
 **Poprzedni punkt kontrolny:** 2 sierpnia 1070 — `von_Hohenzollern(9).ck3`  
 **Wersja CK3 w dwóch ostatnich zapisach:** 1.20.1  
 **Bieżące ustalenia:** [stan kampanii na 12 XI 1070](../01_KAMPANIA/stan_aktualny.md) i [oś wydarzeń 1068–1070](Os_czasu_Zollern_1068-1070.md). Starsze wpisy tego dokumentu zachowują ich historyczne daty.
