@@ -35,6 +35,10 @@
 
 ## Dokumenty powiązane
 
+- [Kanon charakterów i dworu na 12 XI 1070](../campaign/Kanon_charakterow_1070-11-12.md)
+- [Reguły interpretowania osobowości w CK3](../05_MECHANIKI_CK3/Zasady_interpretacji_charakteru.md)
+
+
 - [Kanon początkowy](../campaign/Kanon_i_os_czasu_Zollern_1066.md)
 - [Oś zdarzeń 1068–1070](../campaign/Os_czasu_Zollern_1068-1070.md)
 - [Tło Szwabii na 6 III 1067](../campaign/Tlo_swiata_Szwabia_1067.md)
