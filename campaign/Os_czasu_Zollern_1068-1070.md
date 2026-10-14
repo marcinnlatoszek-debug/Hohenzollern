@@ -1,9 +1,17 @@
 # Zollern — zatwierdzone uzupełnienie osi, 1068–1073
 
-**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **1 X 1073**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
+**Status:** zatwierdzone zdarzenia ekranowe do **1 X 1073** oraz punkty pełnych save'ów z 2 VIII 1070, 12 XI 1070 i **18 X 1073**. Screeny zachowują swoje daty; nowy odczyt potwierdza zakończenie wojny i zmianę właściciela Hohenbergu.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
-**Zakres:** zatwierdzone wpisy chronologiczne do 1 X 1073; ostatni odczytany i zatwierdzony pełny save pochodzi z 12 XI 1070; dwa nowsze pliki save nie zostały jeszcze przeanalizowane. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
+**Zakres:** szczegółowe datowane wpisy ze screenów do 1 X 1073. **Najnowszy zatwierdzony pełny save: 18 X 1073**, opisany w [raporcie](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md) i [osi 1070–1073](Os_czasu_Zollern_1070-1073.md). Wcześniejsze, niezatwierdzone propozycje literackie nie stają się automatycznie kanonem.
+
+## Uzupełnienie potwierdzone nowym save'em 18 X 1073
+
+- **7 VII 1071:** zmarł Leopold (81336); przyczyna nieustalona.
+- **7 V 1072:** Burkhard (66952) wygrał bitwę przeciw Adelheid (31878); nie ustalono dowódców.
+- **17 I 1073:** `war_won` i historia `c_hohenberg` potwierdzają zwycięstwo Burkharda w wojnie roszczeniowej oraz przejęcie hrabstwa od Adelheid. Dawniejsze zapisy o „niepotwierdzonym wyniku wojny” dotyczą wyłącznie stanu wiedzy z samych screenów.
+- **18 X 1073:** Burkhard włada Zollern i Hohenbergiem; Hedwig jest w ciąży; Rudolf i Heinrich zachowują tytuły.
+- **Ważne:** szczegółowa, nowsza oś [1070–1073](Os_czasu_Zollern_1070-1073.md) ma pierwszeństwo w kwestiach rozstrzygniętych przez nowy save; nie usuwa ani nie zmienia wcześniejszych dat ekranowych.
 
 ## Rozstrzygnięcia użytkownika
 
@@ -42,7 +50,7 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **16 XI 1070 (obserwacja)** | Ekran pokazuje aktywne dzielenie władzy; Burkhard pełni funkcję regenta. Użytkownik doprecyzował, że regencja trwa już czwarty miesiąc. | Screen `Zrzut ekranu 2026-10-14 180447(1).png` oraz doprecyzowanie użytkownika. Nie ustalono dokładnej daty jej początku, osoby objętej regencją, wartości ani kierunku szali, użycia uprawnień ani skutków politycznych. |
 | **17 XII 1071 (obserwacja)** | Ekrany rady i rycerzy pokazują Gerlacha jako zarządcę i rycerza, Siegmunda jako kanclerza i rycerza, Radbota jako marszałka i rycerza oraz Reinharda jako rycerza. Obsadzono 4/4 miejsca rycerskie; skuteczność rycerzy wynosi 100%. Podpowiedzi relacji pokazują zróżnicowane opinie możnych o księciu Rudolfie: Hupold III −55, Louis −23, Berengar +7, Adalbert −42. | Screeny `Zrzut ekranu 2026-10-14 195601.png`–`195915.png`, z widoczną datą 17 XII 1071. To stan dworu i relacji z chwili obserwacji, nie dowód buntu ani konkretnej decyzji politycznej. |
 | **7 IV 1072** | Kapelan Meinhard kończy zadanie fabrykowania roszczenia do hrabstwa Hohenberg. Burkhard wybiera „Załatw to!” i otrzymuje niewysunięte roszczenie do tytułu Hohenberg; hrabina Adelheid traci 30 opinii o nim na 10 lat. Adelheid nadal jest wskazana jako właścicielka hrabstwa. | Screeny `Zrzut ekranu 2026-10-14 200400.png` i `200428.png`. Uzyskanie roszczenia nie oznacza przejęcia Hohenbergu ani rozpoczęcia wojny. |
-| **10 IV 1072** | Burkhard wypowiada hrabinie Adelheid wojnę, by wyegzekwować roszczenie do Hohenbergu. | Screeny `Zrzut ekranu 2026-10-14 200722.png` i `200749.png`. Ekran wojny potwierdza cel i obrończynię. Osobny ekran z tego dnia pokazuje jednak królewicza Bertholda z Karyntii jako właściciela hrabstwa — rozbieżność z ekranem 7 IV, który wskazywał Adelheid; wymaga weryfikacji w kolejnym save. |
+| **10 IV 1072** | Burkhard wypowiada hrabinie Adelheid wojnę, by wyegzekwować roszczenie do Hohenbergu. | Screeny `Zrzut ekranu 2026-10-14 200722.png` i `200749.png`. Ekran wojny potwierdza cel i obrończynię. Osobny ekran z tego dnia pokazuje jednak królewicza Bertholda z Karyntii jako właściciela hrabstwa — rozbieżność z ekranem 7 IV, który wskazywał Adelheid; została rozstrzygnięta przez historię tytułu w save 18 X 1073: Adelheid traci hrabstwo na rzecz Burkharda 17 I 1073. |
 | **11 IV 1072** | Powiadomienie odnotowuje pogorszenie relacji między rodami von Hohenzollern i Etichonen po wypowiedzeniu wojny przez Burkharda Adelheid. | Screen `Zrzut ekranu 2026-10-14 200853.png`. Nie przesądza o dalszych działaniach członków tych rodów. |
 | **Kwiecień 1072 (data ekranu nieczytelna)** | Oblężenie Hohenbergu trwa; ekran wskazuje jeszcze 7 dni do przewidywanego końca, 18 IV. | Screen `Zrzut ekranu 2026-10-14 201116.png`. Nie ustalono dokładnego dnia obserwacji; przewidywany termin nie potwierdza zdobycia zamku. |
 | **19 IV–7 V 1072** | Wokół Hohenbergu trwa bitwa: ekran z 19 IV pokazuje 750 żołnierzy przeciw 252 i czterech rycerzy przeciw dwóm; kolejne ujęcia z 21 IV i 2 V pokazują dalszy przebieg walki. Ekran 7 V podaje +50% przewagi wojennej i fazę pościgu. | Screeny `Zrzut ekranu 2026-10-14 201306.png`, `202353.png`, `202611.png`, `202700.png`, `202742.png`. Screeny nie potwierdzają końca wojny ani ostatecznego wyniku bitwy; w szkicu bitwa pozostaje tłem dla kampanii o Hohenberg. |
