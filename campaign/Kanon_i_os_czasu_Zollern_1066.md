@@ -4,7 +4,7 @@
 **Pierwsza aktualizacja ze screenów:** 1 grudnia 1066  
 **Wersja gry w save bazowym:** Crusader Kings III 1.20.0.4  
 **Najnowszy zatwierdzony punkt kontrolny:** **12 listopada 1070** — `von_Hohenzollern(10).ck3`  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **17 stycznia 1073** — oblężenie Hohenbergu zakończone; Burkhard kontroluje okupowane miejsce i schwytał królewnę Katharinę. Nie ma potwierdzonego końca wojny ani przeniesienia tytułu.  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **14 czerwca 1073** — oblężenie Hohenbergu zakończone; Burkhard kontroluje okupowane miejsce i schwytał królewnę Katharinę. Nie ma potwierdzonego końca wojny ani przeniesienia tytułu.  
 **Poprzedni punkt kontrolny:** 2 sierpnia 1070 — `von_Hohenzollern(9).ck3`  
 **Wersja CK3 w dwóch ostatnich zapisach:** 1.20.1  
 **Bieżące ustalenia:** [stan kampanii na 12 XI 1070](../01_KAMPANIA/stan_aktualny.md) i [oś wydarzeń 1068–1072](Os_czasu_Zollern_1068-1070.md). Starsze wpisy tego dokumentu zachowują ich historyczne daty.
@@ -66,13 +66,17 @@ Po śmierci Konrada szesnastoletni Burkhard musi przejąć rachunki, powinności
 | 1 grudnia 1066 | Ekran rady pokazuje Hedwig przy asyście władcy, Meinharda jako kapelana, Radbota jako kanclerza i Walpurgę jako mistrzynię szpiegów. Stanowiska zarządcy i marszałka są wolne. | Potwierdzone na screenie rady z widoczną datą 1 XII 1066. |
 | Około 1 grudnia 1066 | Karty dworzan z tej samej serii pokazują Ingę jako osobistego medyka i Gerlacha jako rycerza. | Potwierdzone na screenach profili; data gry nie jest widoczna na każdym profilu. |
 
-## Późniejsze obserwacje ekranowe — 17 grudnia 1071–17 stycznia 1073
+## Późniejsze obserwacje ekranowe — 17 grudnia 1071–14 czerwca 1073
 
 - **17 XII 1071:** screeny pokazują skład dworu i rycerzy oraz zróżnicowane opinie możnych o Rudolfie; szczegóły i granice zapisano w [osi wydarzeń 1068–1072](Os_czasu_Zollern_1068-1070.md).
 - **7 IV 1072:** Meinhard kończy fabrykowanie roszczenia do Hohenbergu. Burkhard przyjmuje niewysunięte roszczenie.
 - **10 IV 1072:** Burkhard wypowiada wojnę o Hohenberg, by wyegzekwować roszczenie. Screen z tego dnia wskazuje królewicza Bertholda z Karyntii jako właściciela, w sprzeczności ze screenem z 7 IV wskazującym Adelheid.
 - **17 IV 1072–17 I 1073:** Burkhard oblega Hohenberg; Hupold III dołącza do wojny, a jego armia atakuje także cel wojny w Ebingen. Po bitwie z 19 IV ekran z 7 V pokazuje +50% przewagi i fazę pościgu. Oblężenie Hohenbergu kończy się 16–17 I 1073; Burkhard kontroluje okupowane miejsce i schwytano królewnę Katharinę. Nie potwierdzono końca wojny ani przekazania tytułu.
 - W 1072 r. odnotowano też skupienie Burkharda na bogactwie (10 VII), modyfikator „Zmotywowani pracownicy” w Zollern (17 VIII) i przekonanie Radbota do Burkharda (+25 opinii, 16 IX).
+- **8 IV 1073:** spowiedź Burkharda kończy się modyfikatorem „Kara za spowiedź” do kwietnia 1078 (−15 opinii duchowieństwa, +15% spełnienia duchowego; obowiązek działania na polecenie spowiednika).
+- **14 IV 1073:** legitymacja Burkharda: „Uznany władca”, poziom 2/5.
+- **13 VI 1073:** Meinhard fabrykuje roszczenie do Nagoldgau, z około 2 latami pozostałymi do zakończenia zadania; efekt niepotwierdzony.
+- **14 VI 1073:** inspekcja ziem jest dostępna do zaplanowania, lecz ekran mówi, że nie ma obecnie aktywności w toku; rozpoczęcia inspekcji nie potwierdzono.
 - Propozycja Luitgard jako opiekunki syna Burkharda widoczna jest jako niewysłana; data gry nieustalona.
 - Screen o ciekawości syna nie potwierdza, że wybrano opcję ani że nadano cechę.
 - Są to obserwacje ekranowe, nie nowy save.
