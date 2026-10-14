@@ -43,6 +43,8 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 
 ## Wydarzenie zatwierdzone — dokładna data gry nieustalona
 
+**Książę-opat Romuald z Sankt Gallen — obserwacja bez ustalonej daty gry.** Osobny ekran postaci wskazuje jego tytuł i siedzibę. Materiały obecnie nie potwierdzają jednoznacznie, że Romuald jest osobą, której regentem jest Burkhard; nie łączyć obu informacji jako pewnego faktu. Źródło: `Zrzut ekranu 2026-10-14 184835.png`.
+
 **Przygotowanie spisku wobec Meinharda — data gry nieustalona.** Interfejs przedstawia planowany spisek „Przekonywanie do siebie”, którego celem jest **biskup sufragan Meinhard**, a inicjatorem hrabia Burkhard (Zollern). Wyświetlono poziom trudności **bardzo niski** oraz przewidywany czas fazy **11 miesięcy**. Na ekranie nadal widoczny jest przycisk **„Rozpocznij spisek”**: materiał **nie potwierdza uruchomienia spisku**, jego sukcesu ani zakończenia. Źródło: `Zrzut ekranu 2026-10-14 063826.png`; użytkownik wyraźnie zatwierdził przyjęcie materiału. Nie łączyć automatycznie tej próby przekonywania z odrębnym zadaniem kapelana dotyczącym fabrykowania roszczenia.
 
 
