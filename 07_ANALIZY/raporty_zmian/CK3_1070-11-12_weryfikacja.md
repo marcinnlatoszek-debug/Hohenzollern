@@ -1,10 +1,10 @@
 # Weryfikacja zapisu CK3 — 12 listopada 1070
 
-**Status:** ODCZYT ŹRÓDŁA / OCZEKUJE NA AKCEPTACJĘ DO KANONU  
+**Status:** ZATWIERDZONE DO KANONU — akceptacja użytkownika 14 października 2026, w zakresie jednoznacznie odczytanych danych  
 **Data analizy:** 14 października 2026  
 **Źródło:** `von_Hohenzollern(10).ck3`  
 **Porównanie:** `von_Hohenzollern(9).ck3` z 2 VIII 1070  
-**Nie przesuwa samodzielnie osi czasu i nie zatwierdza nowych wydarzeń.**
+**Punkt kontrolny osi czasu zatwierdzony: 12 listopada 1070.** Ograniczenia odczytu i status NIEUSTALONE dla niezmapowanych pól pozostają w mocy.
 
 ## 1. Kontrola techniczna
 
@@ -117,9 +117,9 @@ Pełne zliczenie rekordów: pula zidentyfikowanych żyjących wzrosła z 43 970 
 - Czy zrealizowano lub uruchomiono nowy spisek wobec Meinharda, opisany na wcześniejszym screenie jako planowany.
 - Znaczenie niezmapowanych pól binarnych i dokładne wersje aktywnych modów.
 
-Wymienionych nieustalonych elementów nie dopisywać jako faktów. Sprawdzone daty i tytuły z nowego save'a można przedłożyć użytkownikowi do zatwierdzenia jako kolejny punkt osi.
+Wymienionych nieustalonych elementów nie dopisywać jako faktów. Sprawdzone daty i tytuły z nowego save'a zostały zatwierdzone przez użytkownika jako kolejny punkt osi (12 XI 1070); nieustalone elementy pozostają poza kanonem.
 
-## 8. Proponowane dokumenty docelowe — po akceptacji użytkownika
+## 8. Dokumenty docelowe — po zatwierdzeniu przez użytkownika
 
 1. `01_KAMPANIA/stan_aktualny.md` — nowy zatwierdzony punkt 12 XI 1070.
 2. `campaign/Os_czasu_Zollern_1068-1070.md` — datowany punkt kontrolny, bez dopisywania wydarzeń nieodczytanych z gry.
