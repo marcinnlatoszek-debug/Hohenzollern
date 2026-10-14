@@ -67,7 +67,7 @@ Inspekcja Hohenbergu może służyć jako kontrapunkt dla wojny: po okupacji prz
 
 - Przy każdym nowym zestawie screenów najpierw uporządkuj fakty według daty gry, a następnie wskaż źródło i status.
 - Tooltip po najechaniu kursorem jest źródłem danych tak samo jak tekst głównego okna. Podane tam wartości traktuj jako potwierdzone odczyty.
-- Oddziel „potwierdzone w źródle” od „zatwierdzone do kanonu”. Wpisy z sekcji o najnowszej serii są źródłowo potwierdzone, ale niniejszy brief pozostaje projektem do akceptacji.
+- Oddziel „potwierdzone w źródle” od „zatwierdzone do kanonu”. Wpisy z sekcji o najnowszej serii są źródłowo potwierdzone, a sam brief jest zaakceptowanym dokumentem roboczym; poszczególne nowe rozstrzygnięcia kampanii nadal wymagają osobnej akceptacji.
 - Przy rozbieżnych datach zachowaj obie obserwacje i opisz, czego dotyczą; nie uśredniaj ani nie zgaduj.
 - Zachowaj wcześniejsze stany jako archiwalne. Nowy screen nie nadpisuje wcześniejszego save’a i nie tworzy pełnego snapshotu.
 - Przed wiążącym wpisem do osi, zmianą kanonu lub użyciem nowego rozstrzygnięcia w opowiadaniu przedstaw użytkownikowi dokładną treść do zatwierdzenia.
