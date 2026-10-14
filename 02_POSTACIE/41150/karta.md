@@ -24,3 +24,16 @@
 - W obu rekordach rodziców pozostają dwaj synowie: Burkhard (79306) i Leopold (81336); brak nowego dziecka **w odczytanej liście**.
 - Bazowa tablica sześciu wartości (token 10661): `[5, 8, 4, 9, 1, 5]` — bez zmiany wobec 2 VIII. To nie są zweryfikowane wartości końcowe w UI.
 - Bieżące zadanie małżonki, umiejętności z modyfikatorami i inne cechy na 12 XI 1070 pozostają NIEUSTALONE.
+
+
+## Cechy postaci odczytane z tabeli traits — 12 listopada 1070
+
+**Źródło i status:** zapis von_Hohenzollern(20261014-155345).ck3, identyczny bajtowo z zatwierdzonym zapisem von_Hohenzollern(10).ck3; dane zweryfikowane w tabeli 307 nazw cech i dodane na wyraźne polecenie użytkownika.
+**Screen porównawczy:** Zrzut ekranu 2026-10-14 173118.png; data 12 XI 1070 wynika z zapisu i ekranu rady tej serii, nie z samego portretu.
+
+- **ID cech w zapisie:** [58,59,68,21].
+- **Cechy osobowości:** impatient — niecierpliwa; arrogant — arogancka; content — zadowolona.
+- **Inne cechy / wykształcenie:** education_learning_2 (nauka, poziom 2).
+- **Dodatkowe dane widoczne na screenie:** Na karcie: opinia małżonka +56, wiek 20. Automatyczny opis «Zadowolona idiotka» nie jest osobną cechą.
+
+**Uwaga:** kody angielskie są dosłownymi identyfikatorami z tego zapisu gry. Polskie określenia są opisowymi tłumaczeniami, nie zawsze nazwami dokładnie użytymi przez tłumaczenie gry/moda. Same cechy nie dowodzą dokonanych czynów lub motywacji fabularnych.
