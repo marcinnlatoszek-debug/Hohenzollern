@@ -63,7 +63,7 @@
 - Screen wydarzenia o ciekawości syna i dziedzica Burkharda nie pokazuje potwierdzonego wyboru ani nadania cechy. Data gry nieustalona.
 - Użytkownik podał datę postępu „18 października”, bez roku; nie przypisano jej do osi jako datowanego zdarzenia, ponieważ ekrany podają własne, późniejsze daty.
 - **10 IV 1072:** Burkhard wypowiada Adelheid wojnę, aby wyegzekwować roszczenie do Hohenbergu. Powiadomienie z 11 IV mówi o pogorszeniu relacji między rodami von Hohenzollern i Etichonen.
-- **17 IV 1072:** oblężenie Hohenbergu ma według interfejsu zakończyć się za 7 dni; zdobycie nie jest potwierdzone.
+- **Kwiecień 1072 (data ekranu nieczytelna):** oblężenie Hohenbergu ma według interfejsu zakończyć się za 7 dni, do 18 IV; zdobycie nie jest potwierdzone.
 - **19 IV–7 V 1072:** bitwa pod Hohenbergiem; widoczne siły 750 przeciw 252, a ekran z 7 V pokazuje +50% przewagi i pościg. Wynik wojny nieustalony.
 - Hrabia Hupold III przyjmuje wezwanie i dołącza do wojny po stronie Burkharda; dokładna data powiadomienia nieczytelna.
 - **8 VI 1072:** sojusznicza armia Hupolda III oblega Ebingen; osobne powiadomienie wspomina o szerzeniu się herezji, bez czytelnej nazwy.
