@@ -1,9 +1,9 @@
-# Zollern — zatwierdzone uzupełnienie osi, 1068–1070
+# Zollern — zatwierdzone uzupełnienie osi, 1068–1072
 
-**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **16 XI 1070**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
+**Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **7 IV 1072**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
-**Zakres:** zatwierdzone wpisy chronologiczne. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
+**Zakres:** zatwierdzone wpisy chronologiczne do 7 IV 1072; pełny save nadal kończy się na 12 XI 1070. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
 
 ## Rozstrzygnięcia użytkownika
 
@@ -40,6 +40,8 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **12 XI 1070** | **Zatwierdzony nowy punkt kontrolny:** Burkhard i Hedwig żyją i pozostają małżeństwem, obaj synowie żyją; Burkhard nadal posiada Zollern, Rudolf księstwo Szwabii, Heinrich cesarstwo. W zapisach Burkharda pozostają podział konfederacyjny i preferencja męska. | Save `von_Hohenzollern(10).ck3`, CK3 1.20.1; porównanie ze stanem 2 VIII 1070; **zatwierdzenie użytkownika 14 X 2026**. Nie dowodzi braku innych zdarzeń między 3 a 12 XI. [Raport](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md). |
 
 | **16 XI 1070 (obserwacja)** | Ekran pokazuje aktywne dzielenie władzy; Burkhard pełni funkcję regenta. Użytkownik doprecyzował, że regencja trwa już czwarty miesiąc. | Screen `Zrzut ekranu 2026-10-14 180447(1).png` oraz doprecyzowanie użytkownika. Nie ustalono dokładnej daty jej początku, osoby objętej regencją, wartości ani kierunku szali, użycia uprawnień ani skutków politycznych. |
+| **17 XII 1071 (obserwacja)** | Ekrany rady i rycerzy pokazują Gerlacha jako zarządcę i rycerza, Siegmunda jako kanclerza i rycerza, Radbota jako marszałka i rycerza oraz Reinharda jako rycerza. Obsadzono 4/4 miejsca rycerskie; skuteczność rycerzy wynosi 100%. Podpowiedzi relacji pokazują zróżnicowane opinie możnych o księciu Rudolfie: Hupold III −55, Louis −23, Berengar +7, Adalbert −42. | Screeny `Zrzut ekranu 2026-10-14 195601.png`–`195915.png`, z widoczną datą 17 XII 1071. To stan dworu i relacji z chwili obserwacji, nie dowód buntu ani konkretnej decyzji politycznej. |
+| **7 IV 1072** | Kapelan Meinhard kończy zadanie fabrykowania roszczenia do hrabstwa Hohenberg. Burkhard wybiera „Załatw to!” i otrzymuje niewysunięte roszczenie do tytułu Hohenberg; hrabina Adelheid traci 30 opinii o nim na 10 lat. Adelheid nadal jest wskazana jako właścicielka hrabstwa. | Screeny `Zrzut ekranu 2026-10-14 200400.png` i `200428.png`. Uzyskanie roszczenia nie oznacza przejęcia Hohenbergu ani rozpoczęcia wojny. |
 
 ## Wydarzenie zatwierdzone — dokładna data gry nieustalona
 
@@ -94,3 +96,10 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 
 - [Wcześniejszy zapis kanonu i osi](Kanon_i_os_czasu_Zollern_1066.md).
 - [Tło świata na 6 marca 1067](Tlo_swiata_Szwabia_1067.md).
+
+
+## Zdarzenie bez ustalonej daty gry
+
+Screen `Zrzut ekranu 2026-10-14 200019.png` pokazuje wydarzenie dotyczące pytań syna i dziedzica Burkharda. Widoczna odpowiedź wiąże wybór z cechą „Ciekawski”, ale screen nie potwierdza jednoznacznie, że odpowiedź została wybrana ani że cecha została już nadana. Nie wpisywać tego jako zmiany cechy, dopóki nie pojawi się ekran potwierdzający wynik.
+
+Użytkownik podał, że rozgrywka posunęła się do 18 października; rok nie został określony. Screeny z tego pakietu mają własne, późniejsze daty: 17 XII 1071 i 7 IV 1072. Daty widoczne na ekranach zachowują pierwszeństwo przy wpisywaniu konkretnych wydarzeń.
