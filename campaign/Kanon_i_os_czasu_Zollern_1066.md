@@ -4,7 +4,7 @@
 **Pierwsza aktualizacja ze screenów:** 1 grudnia 1066  
 **Wersja gry w save bazowym:** Crusader Kings III 1.20.0.4  
 **Najnowszy zatwierdzony punkt kontrolny:** **12 listopada 1070** — `von_Hohenzollern(10).ck3`  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **3 lipca 1073** — Burkhard prowadzi inspekcję ziem w Hohenbergu; ekran wskazuje na udaną pomoc dla miejskich rezydencji, ale dokładny efekt modyfikatora pozostaje nieczytelny. Nadal nie ma potwierdzonego końca wojny o Hohenberg ani przeniesienia tytułu.  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **1 października 1073** — panel epidemii pokazuje grypę Wszebora i gruźlicę, bez ofiar śmiertelnych na chwilę obserwacji. Burkhard rozpoczął regencję nad księciem Rudolfem 3 VIII. Nadal nie ma potwierdzonego końca wojny o Hohenberg ani przeniesienia tytułu.  
 **Poprzedni punkt kontrolny:** 2 sierpnia 1070 — `von_Hohenzollern(9).ck3`  
 **Wersja CK3 w dwóch ostatnich zapisach:** 1.20.1  
 **Bieżące ustalenia:** [stan kampanii na 12 XI 1070](../01_KAMPANIA/stan_aktualny.md) i [oś wydarzeń 1068–1073](Os_czasu_Zollern_1068-1070.md). Starsze wpisy tego dokumentu zachowują ich historyczne daty.
@@ -66,9 +66,9 @@ Po śmierci Konrada szesnastoletni Burkhard musi przejąć rachunki, powinności
 | 1 grudnia 1066 | Ekran rady pokazuje Hedwig przy asyście władcy, Meinharda jako kapelana, Radbota jako kanclerza i Walpurgę jako mistrzynię szpiegów. Stanowiska zarządcy i marszałka są wolne. | Potwierdzone na screenie rady z widoczną datą 1 XII 1066. |
 | Około 1 grudnia 1066 | Karty dworzan z tej samej serii pokazują Ingę jako osobistego medyka i Gerlacha jako rycerza. | Potwierdzone na screenach profili; data gry nie jest widoczna na każdym profilu. |
 
-## Późniejsze obserwacje ekranowe — 17 grudnia 1071–3 lipca 1073
+## Późniejsze obserwacje ekranowe — 17 grudnia 1071–1 października 1073
 
-- **17 XII 1071:** screeny pokazują skład dworu i rycerzy oraz zróżnicowane opinie możnych o Rudolfie; szczegóły i granice zapisano w [osi wydarzeń 1068–1072](Os_czasu_Zollern_1068-1070.md).
+- **17 XII 1071:** screeny pokazują skład dworu i rycerzy oraz zróżnicowane opinie możnych o Rudolfie; szczegóły i granice zapisano w [osi wydarzeń 1068–1073](Os_czasu_Zollern_1068-1070.md).
 - **7 IV 1072:** Meinhard kończy fabrykowanie roszczenia do Hohenbergu. Burkhard przyjmuje niewysunięte roszczenie.
 - **10 IV 1072:** Burkhard wypowiada wojnę o Hohenberg, by wyegzekwować roszczenie. Screen z tego dnia wskazuje królewicza Bertholda z Karyntii jako właściciela, w sprzeczności ze screenem z 7 IV wskazującym Adelheid.
 - **17 IV 1072–17 I 1073:** Burkhard oblega Hohenberg; Hupold III dołącza do wojny, a jego armia atakuje także cel wojny w Ebingen. Po bitwie z 19 IV ekran z 7 V pokazuje +50% przewagi i fazę pościgu. Oblężenie Hohenbergu kończy się 16–17 I 1073; Burkhard kontroluje okupowane miejsce i schwytano królewnę Katharinę. Nie potwierdzono końca wojny ani przekazania tytułu.
@@ -78,12 +78,21 @@ Po śmierci Konrada szesnastoletni Burkhard musi przejąć rachunki, powinności
 - **13 VI 1073:** Meinhard fabrykuje roszczenie do Nagoldgau, z około 2 latami pozostałymi do zakończenia zadania; efekt niepotwierdzony.
 - **14 VI 1073:** inspekcja ziem jest dostępna do zaplanowania, bez aktywności w toku.
 - **15 VI 1073:** Burkhard rozpoczyna inspekcję i rusza z Balingen do Hohenbergu (około 5 dni podróży).
-- **25 VI 1073:** dociera do Hohenbergu; inspekcja ma przypomnieć ludności o seniorze. Ekran pokazuje 7 gości i 46% szans powodzenia; komplikacje obejmują rozproszenie przez służbę i prośbę mieszkańca o pomoc, bez potwierdzonej decyzji.
+- **25 VI 1073:** dociera do Hohenbergu; inspekcja ma przypomnieć ludności o seniorze. Ekran pokazuje 7 gości i 46% szans powodzenia; komplikacje obejmują rozproszenie przez służbę i prośbę mieszkańca o pomoc.
 - **29 VI 1073:** inspekcja ujawnia problemy z gildią kupiecką i murami miejskimi, a także przyjazną szlachtę.
-- **3 VII 1073:** Burkhard znajduje fundusze na infrastrukturę; kolejny ekran zdaje się pokazywać ich udane przeznaczenie na miejskie rezydencje Hohenbergu. Szczegóły czasowego modyfikatora są nieczytelne.
+- **3 VII 1073:** Burkhard przeznacza fundusze na miejskie rezydencje Hohenbergu; podpowiedź kursora potwierdza 10-letni modyfikator.
+- **5 VII 1073:** kontrola Hohenbergu wzrasta o 5.
+- **6 VII 1073:** Burkhard inwestuje w lokalne gildie. Modyfikator zwiększa przyrost rozwoju o 12%, a każda budowla dodaje 3% (+0,12 i +0,03 miesięcznie). Mieszkańcy spierają się o przebudowę murów i odnowę dzielnicy handlowej.
+- **7 VII 1073:** szansa powodzenia inspekcji nieznacznie spada.
+- **8 VII 1073:** inspekcja kończy się powodzeniem, ograniczając lokalną korupcję i bandytyzm. Hrabstwo Hohenberg otrzymuje „Usprawniony pobór podatków” na 10 lat; posiadłość Hohenberg otrzymuje priorytet podatkowy na 15 lat (+2 złota miesięcznie i +15% podatków z posiadłości); Burkhard zyskuje +50 prestiżu. Wzrastają kontrola i rozwój.
+- Podpowiedź zadania zarządcy „Zwiększ kontrolę” w Hohenbergu potwierdza 4,13% miesięcznej szansy na usunięcie korupcji, +3,00 z umiejętności zarządcy, +1,13 kontroli, +0,51 miesięcznego postępu i 15 lat do końca. Ekran przedstawia opcję przypisania zadania, ale nie potwierdza jego przypisania.
+- **3 VIII 1073:** Burkhard rozpoczyna regencję nad swoim seniorem, księciem Rudolfem, którego ekran określa jako niezdolnego do osobistego rządzenia. Burkhard wybiera natychmiastowe rozpoczęcie regencji i zyskuje uprawnienia regenta oraz szalę władzy.
+- **15 IX 1073:** biskup Jaromir z Opawy cierpi na gruźlicę (suchoty) i krwawy kaszel.
+- **29 IX 1073:** zaraza pojawia się w baronii Krnov w hrabstwie Opawa; ekran podaje Brzeg z 10 V 1073 jako pierwotne ognisko. Podpowiedź wskazuje kontrolę 99 (−0,19), rozwój 1, powszechną opinię +23, spadek rozwoju −2 miesięcznie i zagrożenie zarazą +20.
+- **1 X 1073:** panel epidemii pokazuje grypę Wszebora i gruźlicę, 0 ofiar śmiertelnych; Turnov nie jest zagrożony zakażeniem grypą Wszebora.
 - Propozycja Luitgard jako opiekunki syna Burkharda widoczna jest jako niewysłana; data gry nieustalona.
 - Screen o ciekawości syna nie potwierdza, że wybrano opcję ani że nadano cechę.
-- Są to obserwacje ekranowe, nie nowy save.
+- Są to obserwacje ekranowe, nie nowy save. Informacje odsłonięte w podpowiedziach kursora traktowane są jako potwierdzone zgodnie z instrukcją użytkownika z 14 X 2026.
 
 ## Zatwierdzony punkt kontrolny — 2 sierpnia 1070
 
