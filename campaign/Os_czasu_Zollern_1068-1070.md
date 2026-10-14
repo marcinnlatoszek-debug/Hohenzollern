@@ -31,12 +31,15 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 | **21 IV 1070** | Hedwig rodzi kolejnego syna, **Leopolda von Hohenzollern**. Karta niemowlęcia pokazuje jedno rodzeństwo. | Screeny `2026-10-14 003015`, `003034`; dzień i miesiąc podane przez gracza, rok potwierdzony w tej rozmowie. |
 | **1 VI 1070** | Marszałek Radbot zawiera małżeństwo z Amalie. | Screen `2026-10-14 002348`; przypisanie daty potwierdzone przez użytkownika. |
 | **1 VI 1070** | Gracz akceptuje zmiany religijne przedstawione w wiadomości Meinharda; zmiany zostają zastosowane. | Screen `2026-10-14 002753` oraz wyraźne potwierdzenie użytkownika dotyczące wyboru i wejścia skutków w życie. W opracowaniu wymieniono „Ora et labora” (fundamentalny), „Pax et bonum” (znany), doktrynę „Awunkulat (małżeństwo)” i +10 punktów spełnienia duchowego. Nie rozszerzać tego na niepokazane skutki polityczne lub społeczne. |
-
 | **8 IX 1070** | Nadworny kapelan Meinhard wykonuje zadanie fabrykowania roszczenia do hrabstwa; postęp wynosi **30,9/100**. Nie potwierdzono jeszcze uzyskania roszczenia. | Screen `Zrzut ekranu 2026-10-14 062039(1).png`; potwierdzenie użytkownika. Cel zadania nieustalony. |
 | **18 IX 1070** | Zakończono budowę **rynku** w posiadłości opisanej w powiadomieniu jako „Dwór von Hohenzollern Dom”. | Screen `Zrzut ekranu 2026-10-14 062408.png`; powiadomienie oznaczone „18 wrz”, data na ekranie 19 IX 1070; potwierdzenie użytkownika. Tym samym potwierdzono realizację budowy planowanej wcześniej na 18 IX 1070. |
 | **2 X 1070** | Meinhard nadal fabrykuje roszczenie do hrabstwa; postęp zadania wynosi **33,8/100** (o 2,9 punktu więcej niż 8 IX). | Screen `Zrzut ekranu 2026-10-14 062531.png`; potwierdzenie użytkownika. Nie ustalono docelowego hrabstwa ani uzyskania roszczenia. |
+| **30 X 1070** (data powiadomienia; ekran 1 XI 1070) | **Hrabia Hupold III** został skutecznie przekonany do Burkharda: otrzymał modyfikator opinii **+25** o Burkhardzie z zanikiem **0,60/rok**. Komunikat informuje o wyzerowaniu zdobytej szansy powodzenia, przewag i postępów fazy spisku „Przekonywanie do siebie”, a także o kontynuowaniu starań. | Screen `Zrzut ekranu 2026-10-14 063805.png`; potwierdzenie użytkownika. Nie przypisywać daty 1 XI zamiast daty powiadomienia 30 X. |
 
 ## Wydarzenie zatwierdzone — dokładna data gry nieustalona
+
+**Przygotowanie spisku wobec Meinharda — data gry nieustalona.** Interfejs przedstawia planowany spisek „Przekonywanie do siebie”, którego celem jest **biskup sufragan Meinhard**, a inicjatorem hrabia Burkhard (Zollern). Wyświetlono poziom trudności **bardzo niski** oraz przewidywany czas fazy **11 miesięcy**. Na ekranie nadal widoczny jest przycisk **„Rozpocznij spisek”**: materiał **nie potwierdza uruchomienia spisku**, jego sukcesu ani zakończenia. Źródło: `Zrzut ekranu 2026-10-14 063826.png`; użytkownik wyraźnie zatwierdził przyjęcie materiału. Nie łączyć automatycznie tej próby przekonywania z odrębnym zadaniem kapelana dotyczącym fabrykowania roszczenia.
+
 
 **Nowy obrządek: udianizm.** W grze pojawia się wiadomość o powstaniu odłamu chrześcijaństwa zwanego **udianizmem**, któremu przewodzi **Udo**, arcybiskup Trewiru, postać kultury szwabskiej. Nowy obrządek odbiega od rzymskiego; w powiadomieniu wskazano dogmat „Świętość natury” jako najważniejszą zmianę. Gracz **wybrał pierwszą odpowiedź**: „Moja dusza jest bezpieczna dzięki obrządkowi o nazwie obrządek rzymski”, potwierdzając pozostanie Burkharda przy obrządku rzymskim i brak przejścia na udianizm. Źródło: `Zrzut ekranu 2026-10-14 063523.png` oraz jednoznaczne potwierdzenie użytkownika. **Nie ustalono daty gry z widocznego ekranu**; brak dowodów na wybuch wojny religijnej, prześladowania czy zmianę wiary innych konkretnych postaci. Zapisano bez przypisywania domyślnej daty 2 X 1070.
 
@@ -58,7 +61,7 @@ Użytkownik odpowiedział: **„1 tak ,2 Burkhard 3 tak”**.
 - Historyczne przekroje świata, w tym stan sukcesji z 6 marca 1067, zachowują własną datę. Nie przenosić ich automatycznie na stan po narodzinach dzieci.
 - Zachować odrębność wojny Marchii Nordgau, wojny Czech o Nordgau, wojny Bawarii o Salzburg i wojny Rudolfa przeciw Einhardowi.
 - Bufor 2 nie potwierdza osobistego udziału Burkharda w bitwach.
-- Dokładne daty zmian rady, zakończenie przekonywania Hupolda, uzyskanie roszczenia do Hohenbergu i ukończenie rynku wymagają osobnych dowodów i zatwierdzenia.
+- Dokładne daty zmian rady i uzyskanie roszczenia do Hohenbergu wymagają osobnych dowodów i zatwierdzenia. Ukończenie rynku 18 IX 1070 oraz rezultat przekonywania Hupolda III (powiadomienie 30 X 1070) zostały później osobno udokumentowane i zatwierdzone.
 - Przyjęcie tych wpisów nie jest samo w sobie nowym odczytem save’a ani zatwierdzeniem nowego punktu zatrzymania kampanii. Datowane zdarzenia zachowują własne daty; oficjalne przesunięcie osi następuje zgodnie z osobną procedurą projektu.
 - Każdy kolejny fakt lub wydarzenie musi zostać wyraźnie zatwierdzony przez użytkownika przed dodaniem do kanonu.
 
