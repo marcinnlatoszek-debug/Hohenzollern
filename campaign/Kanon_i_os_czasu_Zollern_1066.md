@@ -3,11 +3,21 @@
 **Punkt bazowy:** ostatni pełny save z 24 listopada 1066  
 **Pierwsza aktualizacja ze screenów:** 1 grudnia 1066  
 **Wersja gry w save bazowym:** Crusader Kings III 1.20.0.4  
-**Najnowszy zatwierdzony punkt kontrolny:** **12 listopada 1070** — `von_Hohenzollern(10).ck3`  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **1 października 1073** — panel epidemii pokazuje grypę Wszebora i gruźlicę, bez ofiar śmiertelnych na chwilę obserwacji. Burkhard rozpoczął regencję nad księciem Rudolfem 3 VIII. Nadal nie ma potwierdzonego końca wojny o Hohenberg ani przeniesienia tytułu.  
-**Poprzedni punkt kontrolny:** 2 sierpnia 1070 — `von_Hohenzollern(9).ck3`  
-**Wersja CK3 w dwóch ostatnich zapisach:** 1.20.1  
-**Bieżące ustalenia:** [stan kampanii na 12 XI 1070](../01_KAMPANIA/stan_aktualny.md) i [oś wydarzeń 1068–1073](Os_czasu_Zollern_1068-1070.md). Starsze wpisy tego dokumentu zachowują ich historyczne daty.
+**Najnowszy zatwierdzony punkt kontrolny:** **18 października 1073** — `von_Hohenzollern(20261014-200855).ck3` (identyczny duplikat `von_Hohenzollern(20261014-201208).ck3`).  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **1 października 1073** — panel epidemii pokazuje grypę Wszebora i gruźlicę, bez ofiar śmiertelnych na chwilę obserwacji. Burkhard rozpoczął regencję nad Rudolfem 3 VIII; czy trwa 18 X — NIEUSTALONE. **Nowy save rozstrzygnął zakończenie wojny i przejęcie Hohenbergu 17 I 1073.**  
+**Poprzedni punkt kontrolny:** **12 listopada 1070** — `von_Hohenzollern(10).ck3` (starszy: 2 sierpnia 1070).  
+**Wersja CK3 w trzech ostatnich zapisach:** 1.20.1  
+**Bieżące ustalenia:** [stan kampanii na 18 X 1073](../01_KAMPANIA/stan_aktualny.md), [raport 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md), [oś 1070–1073](Os_czasu_Zollern_1070-1073.md) i [oś wydarzeń 1068–1073](Os_czasu_Zollern_1068-1070.md). Starsze wpisy tego dokumentu zachowują ich historyczne daty.
+
+## Nowy zatwierdzony punkt — 18 października 1073
+
+**Źródło:** [weryfikacja save'a](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md) i [oś 1070–1073](Os_czasu_Zollern_1070-1073.md).
+
+- **7 VII 1071:** umiera Leopold, syn Burkharda i Hedwig. Przyczyna NIEUSTALONA; `sickly` nie dowodzi przyczyny.
+- **7 V 1072:** Burkhard zwycięża Adelheid w bitwie; dowódcy NIEUSTALENI.
+- **17 I 1073:** Burkhard wygrywa wojnę roszczeniową i przejmuje `c_hohenberg` od Adelheid. Nadal pozostaje wasalem Rudolfa.
+- **18 X 1073:** Burkhard posiada Zollern i Hohenberg; Rudolf pozostaje księciem Szwabii, Heinrich cesarzem. Hedwig ma `pregnant`; starszy syn Burkhard `curious`. Nie ma potwierdzonego nowego porodu.
+- **Granice:** frakcje, aktualne sojusze, opinie UI, stan regencji 18 X, przyczyna śmierci i dokładni dowódcy — NIEUSTALONE.
 
 ## Kanon charakterów i mechanika interpretacji — 12 listopada 1070
 
@@ -71,7 +81,7 @@ Po śmierci Konrada szesnastoletni Burkhard musi przejąć rachunki, powinności
 - **17 XII 1071:** screeny pokazują skład dworu i rycerzy oraz zróżnicowane opinie możnych o Rudolfie; szczegóły i granice zapisano w [osi wydarzeń 1068–1073](Os_czasu_Zollern_1068-1070.md).
 - **7 IV 1072:** Meinhard kończy fabrykowanie roszczenia do Hohenbergu. Burkhard przyjmuje niewysunięte roszczenie.
 - **10 IV 1072:** Burkhard wypowiada wojnę o Hohenberg, by wyegzekwować roszczenie. Screen z tego dnia wskazuje królewicza Bertholda z Karyntii jako właściciela, w sprzeczności ze screenem z 7 IV wskazującym Adelheid.
-- **17 IV 1072–17 I 1073:** Burkhard oblega Hohenberg; Hupold III dołącza do wojny, a jego armia atakuje także cel wojny w Ebingen. Po bitwie z 19 IV ekran z 7 V pokazuje +50% przewagi i fazę pościgu. Oblężenie Hohenbergu kończy się 16–17 I 1073; Burkhard kontroluje okupowane miejsce i schwytano królewnę Katharinę. Nie potwierdzono końca wojny ani przekazania tytułu.
+- **17 IV 1072–17 I 1073:** Burkhard oblega Hohenberg; Hupold III dołącza do wojny, a jego armia atakuje także cel wojny w Ebingen. Po bitwie z 19 IV ekran z 7 V pokazuje +50% przewagi i fazę pościgu. Oblężenie Hohenbergu kończy się 16–17 I 1073; Burkhard kontroluje okupowane miejsce i schwytano królewnę Katharinę. Nowy save potwierdził koniec wojny i przejęcie tytułu 17 I 1073; szczegóły w raporcie 1073.
 - W 1072 r. odnotowano też skupienie Burkharda na bogactwie (10 VII), modyfikator „Zmotywowani pracownicy” w Zollern (17 VIII) i przekonanie Radbota do Burkharda (+25 opinii, 16 IX).
 - **8 IV 1073:** spowiedź Burkharda kończy się modyfikatorem „Kara za spowiedź” do kwietnia 1078 (−15 opinii duchowieństwa, +15% spełnienia duchowego; obowiązek działania na polecenie spowiednika).
 - **14 IV 1073:** legitymacja Burkharda: „Uznany władca”, poziom 2/5.
