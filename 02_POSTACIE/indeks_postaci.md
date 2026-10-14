@@ -3,6 +3,10 @@
 **Aktualizacja:** 14 października 2026.  
 **Ostatni zatwierdzony odczyt save'a:** 12 listopada 1070 (poprzedni 2 sierpnia 1070).
 
+**Zatwierdzony zbiorczy [kanon charakterów na 12 XI 1070](../campaign/Kanon_charakterow_1070-11-12.md).**  
+**Metoda tworzenia wiarygodnych osobowości dla Astry:** [Zasady interpretacji charakteru CK3](../05_MECHANIKI_CK3/Zasady_interpretacji_charakteru.md).  
+Wpisane identyfikatory cech i wartości UI są faktami gry; możliwe motywacje są interpretacją, nie zdarzeniami historycznymi.
+
 ## Karty utworzone na podstawie zatwierdzonego odczytu
 
 - [Burkhard von Hohenzollern, hrabia Zollern — ID 66952](66952/karta.md)
