@@ -1,11 +1,25 @@
 # Indeks kart postaci — kampania Hohenzollern
 
 **Aktualizacja:** 14 października 2026.  
-**Ostatni zatwierdzony odczyt save'a:** 12 listopada 1070 (poprzedni 2 sierpnia 1070).
+**Ostatni zatwierdzony odczyt save'a:** **18 października 1073** (poprzedni 12 listopada 1070; starszy 2 sierpnia 1070).
 
-**Zatwierdzony zbiorczy [kanon charakterów na 12 XI 1070](../campaign/Kanon_charakterow_1070-11-12.md).**  
+**Archiwalny zbiorczy [kanon charakterów na 12 XI 1070](../campaign/Kanon_charakterow_1070-11-12.md).**  
 **Metoda tworzenia wiarygodnych osobowości dla Astry:** [Zasady interpretacji charakteru CK3](../05_MECHANIKI_CK3/Zasady_interpretacji_charakteru.md).  
 Wpisane identyfikatory cech i wartości UI są faktami gry; możliwe motywacje są interpretacją, nie zdarzeniami historycznymi.
+
+## Zatwierdzony nowy stan — 18 października 1073
+
+Źródło: [raport odczytu save'a 18 X 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md), [oś wydarzeń 1070–1073](../campaign/Os_czasu_Zollern_1070-1073.md).
+
+- [Burkhard (66952)](66952/karta.md) żyje, posiada Zollern i Hohenberg (od 17 I 1073); cechy osobowości bez zmian.
+- [Hedwig (41150)](41150/karta.md) żyje, jest w ciąży na 18 X 1073; wynik ciąży nieustalony.
+- [Burkhard junior (79306)](79306/karta.md) żyje i ma `curious`; dokładna data nadania cechy nieustalona.
+- [Leopold (81336)](81336/karta.md) **zmarł 7 VII 1071**; przyczyna NIEUSTALONA mimo `sickly`.
+- [Rudolf (35525)](35525/karta.md) nadal księciem Szwabii; [Hupold III (32545)](32545/karta.md) i [Heinrich (41198)](41198/karta.md) żyją; Heinrich nadal cesarzem.
+- [Radbot (66953)](66953/karta.md) wykonuje `task_increase_control`; Siegmund, Gerlach i Walpurga mają potwierdzone zadania. **Aktualny kapelan i medyk wymagają weryfikacji.**
+- [Adelheid (31878)](31878/karta.md) traci Hohenberg na rzecz Burkharda 17 I 1073.
+
+Dane z 12 XI 1070 pozostają prawdziwe **wyłącznie dla tamtej daty**; w szczególności wpis o żyjącym Leopoldzie jest archiwalny, nie stanem obecnym.
 
 ## Karty utworzone na podstawie zatwierdzonego odczytu
 
@@ -42,4 +56,4 @@ Wpisane identyfikatory cech i wartości UI są faktami gry; możliwe motywacje s
 - Zaktualizowano cechy w istniejących kartach Burkharda (66952), Hedwig (41150), Radbota (66953), Walpurgi (66954), Meinharda (69353), Ingi (69354), Hupolda III (32545) i Leopolda (81336).
 - Źródłem jest ten sam save z 12 XI 1070, przesłany ponownie jako `von_Hohenzollern(20261014-155345).ck3`. Data kanonicznej osi **nie zmienia się**. Zestaw źródeł i ograniczenia podano także w [raporcie źródłowym](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).
 
-Najnowsza obserwacja potwierdza **życie** wymienionych postaci w chwili zapisu, nie dowodzi ciągłości ich urzędów ani tytułów niewymienionych w odczytanych rekordach. Datowany stan rady z 6 III 1067 pozostaje archiwalny.
+Archiwalna obserwacja z 12 XI 1070 potwierdza **życie** wymienionych postaci w tamtej chwili, nie dowodzi ciągłości ich urzędów ani tytułów niewymienionych w odczytanych rekordach. Datowany stan rady z 6 III 1067 pozostaje archiwalny.
