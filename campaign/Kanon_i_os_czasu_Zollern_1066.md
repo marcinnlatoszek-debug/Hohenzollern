@@ -4,10 +4,10 @@
 **Pierwsza aktualizacja ze screenów:** 1 grudnia 1066  
 **Wersja gry w save bazowym:** Crusader Kings III 1.20.0.4  
 **Najnowszy zatwierdzony punkt kontrolny:** **12 listopada 1070** — `von_Hohenzollern(10).ck3`  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **16 listopada 1070** — regencja Burkharda trwa już czwarty miesiąc.  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **7 kwietnia 1072** — Meinhard kończy fabrykowanie roszczenia do Hohenbergu, a Burkhard przyjmuje niewysunięte roszczenie.  
 **Poprzedni punkt kontrolny:** 2 sierpnia 1070 — `von_Hohenzollern(9).ck3`  
 **Wersja CK3 w dwóch ostatnich zapisach:** 1.20.1  
-**Bieżące ustalenia:** [stan kampanii na 12 XI 1070](../01_KAMPANIA/stan_aktualny.md) i [oś wydarzeń 1068–1070](Os_czasu_Zollern_1068-1070.md). Starsze wpisy tego dokumentu zachowują ich historyczne daty.
+**Bieżące ustalenia:** [stan kampanii na 12 XI 1070](../01_KAMPANIA/stan_aktualny.md) i [oś wydarzeń 1068–1072](Os_czasu_Zollern_1068-1070.md). Starsze wpisy tego dokumentu zachowują ich historyczne daty.
 
 ## Kanon charakterów i mechanika interpretacji — 12 listopada 1070
 
@@ -65,6 +65,13 @@ Po śmierci Konrada szesnastoletni Burkhard musi przejąć rachunki, powinności
 | Około 1 grudnia 1066 | Karta Burkharda pokazuje 2 tytuły i wykorzystanie domeny 1/4; pasek zasobów pokazuje 116 złota, 723 prestiżu i 53 pobożności. | Obserwacja ze screenów; dokładna data jest widoczna na późniejszym ekranie rady. Save z 24 XI przedstawiał inny stan. Przyczyna różnicy jest do sprawdzenia. |
 | 1 grudnia 1066 | Ekran rady pokazuje Hedwig przy asyście władcy, Meinharda jako kapelana, Radbota jako kanclerza i Walpurgę jako mistrzynię szpiegów. Stanowiska zarządcy i marszałka są wolne. | Potwierdzone na screenie rady z widoczną datą 1 XII 1066. |
 | Około 1 grudnia 1066 | Karty dworzan z tej samej serii pokazują Ingę jako osobistego medyka i Gerlacha jako rycerza. | Potwierdzone na screenach profili; data gry nie jest widoczna na każdym profilu. |
+
+## Późniejsze obserwacje ekranowe — 17 grudnia 1071 i 7 kwietnia 1072
+
+- **17 XII 1071:** screeny pokazują skład dworu i rycerzy oraz zróżnicowane opinie możnych o Rudolfie; szczegóły i granice zapisano w [osi wydarzeń 1068–1072](Os_czasu_Zollern_1068-1070.md).
+- **7 IV 1072:** Meinhard kończy fabrykowanie roszczenia do Hohenbergu. Burkhard przyjmuje niewysunięte roszczenie; hrabina Adelheid pozostaje właścicielką hrabstwa.
+- Screen o ciekawości syna nie potwierdza, że wybrano opcję ani że nadano cechę.
+- Są to obserwacje ekranowe, nie nowy save.
 
 ## Zatwierdzony punkt kontrolny — 2 sierpnia 1070
 
