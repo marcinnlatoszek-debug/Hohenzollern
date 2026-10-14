@@ -21,3 +21,16 @@
 ## Powiązania
 
 - [Amalie (66955)](../66955/karta.md).
+
+
+## Cechy postaci odczytane z tabeli traits — 12 listopada 1070
+
+**Źródło i status:** zapis von_Hohenzollern(20261014-155345).ck3, identyczny bajtowo z zatwierdzonym zapisem von_Hohenzollern(10).ck3; dane zweryfikowane w tabeli 307 nazw cech i dodane na wyraźne polecenie użytkownika.
+**Screen porównawczy:** Zrzut ekranu 2026-10-14 174310.png; data 12 XI 1070 wynika z zapisu i ekranu rady tej serii, nie z samego portretu.
+
+- **ID cech w zapisie:** [79,77,58,17,239].
+- **Cechy osobowości:** fickle — zmienny; sadistic — sadystyczny; impatient — niecierpliwy.
+- **Inne cechy / wykształcenie:** education_martial_3 (wojskowość, poziom 3); military_engineer (inżynier wojskowy).
+- **Dodatkowe dane widoczne na screenie:** Na karcie: marszałek, wojskowość 15, opinia o Burkhardzie −7; automatyczny opis nie oznacza potwierdzonej zdrady.
+
+**Uwaga:** kody angielskie są dosłownymi identyfikatorami z tego zapisu gry. Polskie określenia są opisowymi tłumaczeniami, nie zawsze nazwami dokładnie użytymi przez tłumaczenie gry/moda. Same cechy nie dowodzą dokonanych czynów lub motywacji fabularnych.
