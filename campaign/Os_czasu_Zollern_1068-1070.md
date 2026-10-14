@@ -3,7 +3,7 @@
 **Status:** zatwierdzone wcześniejsze zdarzenia oraz punkty save z 2 VIII i **12 XI 1070**; najnowsza zatwierdzona obserwacja ekranowa: **17 I 1073**. Osobne screeny zachowują swoje oryginalne daty; nowe dane z 12 XI zaakceptował użytkownik 14 X 2026.  
 **Początek właściwej opowieści:** 6 marca 1067 roku.  
 **Źródło opracowania:** `Bufor2_material_do_osi_fabuly_1068-1070(1).md`, sporządzony z 29 screenów oraz komentarzy gracza. Poniższe wpisy opierają się na odczycie tego opracowania i późniejszych potwierdzeniach użytkownika.  
-**Zakres:** zatwierdzone wpisy chronologiczne do 17 I 1073; pełny save nadal kończy się na 12 XI 1070. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
+**Zakres:** zatwierdzone wpisy chronologiczne do 17 I 1073; ostatni odczytany i zatwierdzony pełny save pochodzi z 12 XI 1070; dwa nowsze pliki save nie zostały jeszcze przeanalizowane. Pakiet B przedstawiony w rozmowie pozostaje propozycją wymagającą osobnej akceptacji.
 
 ## Rozstrzygnięcia użytkownika
 
