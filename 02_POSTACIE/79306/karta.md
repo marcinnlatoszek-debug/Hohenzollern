@@ -1,6 +1,6 @@
 # Burkhard von Hohenzollern (syn) — ID 79306
 
-**Najnowsza obserwacja:** 12 listopada 1070.  
+**Najnowszy zatwierdzony odczyt:** **18 października 1073**; wcześniejsza obserwacja 12 XI 1070.  
 **Wcześniejsza obserwacja:** 2 sierpnia 1070.  
 **Źródła:** screeny z 27 XII 1068 opisane w [osi 1068–1070](../../campaign/Os_czasu_Zollern_1068-1070.md); `von_Hohenzollern(9).ck3`, `von_Hohenzollern(10).ck3`.  
 **Status:** ZATWIERDZONE DO KANONU.
@@ -18,3 +18,9 @@
 - Żyje i pozostaje na liście dzieci Burkharda i Hedwig.
 - Bazowa tablica tokenu 10661: `[0, 1, 0, 1, 1, 1]`, bez zmiany między zapisami; nie należy interpretować jej jako wynikowych statystyk UI.
 - Bieżące prawa następstwa dla poszczególnych tytułów: **NIEUSTALONE**. [Źródło](../../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).
+
+## Zatwierdzony nowy stan — 18 października 1073
+
+- Żyje; w nowym save ma cechę dziecięcą **`curious` (ciekawski)**. Dokładna data nabycia cechy NIEUSTALONA; starszy ekran wydarzenia nie dowodził wyboru opcji.
+- Młodszy brat **Leopold (81336) zmarł 7 VII 1071**. Lista genealogiczna rodziców nadal obejmuje oboje dzieci, nie oznacza to, że oboje żyją.
+- Surowy wektor bazowych umiejętności `[2,3,1,2,1,3]` (w 1070 `[0,1,0,1,1,1]`); to nie wynikowe statystyki UI. Aktualna pełna kolejność dziedziczenia NIEUSTALONA. Źródło: [raport porównawczy 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
