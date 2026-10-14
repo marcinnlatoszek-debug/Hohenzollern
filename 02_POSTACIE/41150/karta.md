@@ -1,6 +1,6 @@
 # Hedwig — ID 41150
 
-**Najnowszy zatwierdzony odczyt:** 12 listopada 1070.  
+**Najnowszy zatwierdzony odczyt:** **18 października 1073**; poprzedni 12 XI 1070.  
 **Poprzednia obserwacja:** 2 sierpnia 1070.  
 **Źródła:** `von_Hohenzollern(9).ck3`, `von_Hohenzollern(10).ck3`; [raport 12 XI 1070](../../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md); [tło z 6 marca 1067](../../campaign/Tlo_swiata_Szwabia_1067.md); [oś 1068–1070](../../campaign/Os_czasu_Zollern_1068-1070.md).  
 **Status:** zatwierdzone do kanonu 14 X 2026.
@@ -37,3 +37,10 @@
 - **Dodatkowe dane widoczne na screenie:** Na karcie: opinia małżonka +56, wiek 20. Automatyczny opis «Zadowolona idiotka» nie jest osobną cechą.
 
 **Uwaga:** kody angielskie są dosłownymi identyfikatorami z tego zapisu gry. Polskie określenia są opisowymi tłumaczeniami, nie zawsze nazwami dokładnie użytymi przez tłumaczenie gry/moda. Same cechy nie dowodzą dokonanych czynów lub motywacji fabularnych.
+
+## Zatwierdzony nowy stan — 18 października 1073
+
+- Żyje, pozostaje małżonką Burkharda (66952); cechy `impatient`, `arrogant`, `content` bez zmiany.
+- **Jest w ciąży**: `pregnant` w aktualnej liście cech. **Nie potwierdzono jeszcze narodzin trzeciego dziecka ani wyniku ciąży.**
+- Syn **Leopold (81336) zmarł 7 VII 1071**; przyczyna NIEUSTALONA. Syn Burkhard (79306) żyje i ma `curious`.
+- Bazowy wektor `[5,8,4,9,1,5]` bez zmiany; to nie wynikowe umiejętności UI. Źródło: [raport porównawczy 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
