@@ -26,10 +26,25 @@
 | **15 IX–1 X 1073** | Obserwacje gruźlicy i epidemii w regionie Opawy oraz panelu epidemii. | Screeny; nie dowodzą zgonów w Zollern. |
 | **18 X 1073** | **Nowy pełny save:** Burkhard posiada Zollern i Hohenberg; Rudolf pozostaje księciem Szwabii, Heinrich cesarzem; Hedwig ma `pregnant`, starszy syn `curious`; Radbot wykonuje `task_increase_control`. | Odczyt binarny; trzecie dziecko nie jest jeszcze odnotowane, a wynik ciąży nieznany. |
 
+## Uzupełnienie: wydarzenia Cesarstwa i polityki (zatwierdzone 15 X 2026)
+
+**Źródło:** [kanon polityczny Cesarstwa](Kanon_polityki_Cesarstwa_1067-1073.md), pogłębiony odczyt save'ów 1070 i 1073. **Nie utożsamiać** wojny cesarza z wojnami jego wasali.
+
+| Data gry | Zdarzenie | Status i granice |
+|---|---|---|
+| **12 VIII 1070** | Heinrich (41198) rozpoczyna wojnę de iure o `c_stormarn` przeciw Svendowi (33989). | [SAVE] `memory 29684`, `war_memory_cb_de_jure`. |
+| **12 XI 1070** | W odczycie brak aktywnej frakcji z Heinrichem jako celem; lista 7 tytułów elektorskich ustalona. | [SAVE] Punkt kontrolny; nie oznacza braku jakiejkolwiek opozycji. |
+| **4 III 1071** | Przegrana strony Heinricha pod Auch z Ottone (33368). | [SAVE] `battle_lost_memory 16810558`; liczebność i wojna NIEUSTALONE. |
+| **15 XI 1072** | Przegrana strony Heinricha pod Lugues z Gottfriedem (31670). | [SAVE] `battle_lost_memory 39785`; liczebność i wojna NIEUSTALONE. |
+| **1 VI 1073** | Heinrich wygrywa wojnę de iure o Stormarn. | [SAVE] `memory 42081`; warunki pokoju NIEUSTALONE. |
+| **18 X 1073** | Aktywna frakcja populistyczna `16777365` przeciw Heinrichowi; siedem tytułów elektorskich bez zmian od 1070. | [SAVE] Skład i data powstania frakcji NIEUSTALONE; brak aktywnej frakcji przeciw Rudolfowi w odczycie. |
+
+**Wcześniejsza wojna Heinricha:** 19 XII 1067 – 2 VI 1068, przeciw Domenicowi (32313), kontekst `d_istria`, zwycięstwo cesarza; szczegóły w [kanonie politycznym](Kanon_polityki_Cesarstwa_1067-1073.md). Porównanie 1070–1073 wykazuje również zmiany posiadaczy tytułów poza Szwabią, bez automatycznego przypisywania ich do wojen.
+
 ## Rozdzielenie faktów od interpretacji
 
 **Fakty:** datowane zdarzenia, pamięci wojenne, historia tytułów, statusy i cechy odczytane w save oraz zatwierdzone obserwacje ekranowe.  
 **Hipotezy i sceny literackie:** przeżywanie żałoby, rozmowy o sukcesji, relacje dworu po zdobyciu Hohenbergu, przyczyny zmiany zadań rady. Nie są to samodzielne zdarzenia kanoniczne.  
-**NIEUSTALONE:** przyczyna śmierci Leopolda, dokładni dowódcy, aktualne frakcje, motywy postaci, obecna regencja i wynik ciąży.
+**NIEUSTALONE:** przyczyna śmierci Leopolda, dokładni dowódcy, skład i siła frakcji populistycznej, motywy postaci, obecna regencja i wynik ciąży.
 
 Oś wcześniejsza [1068–1073](Os_czasu_Zollern_1068-1070.md) zachowuje dokładne daty screenów, w tym inspekcję i politykę. [Raport 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md) stanowi dowód nowych odczytów.
