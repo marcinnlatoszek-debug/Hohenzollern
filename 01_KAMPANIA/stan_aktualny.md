@@ -19,7 +19,19 @@
 - **Zadania rady:** Siegmund — sprawy zagraniczne, Gerlach — pobór podatków, Walpurga — przeciwdziałanie spiskom; Radbot wykonuje obecnie `task_increase_control`, wcześniej organizował pobór. Osoba aktualnego kapelana i funkcja medyka nie zostały w pełni potwierdzone.
 - **Zasoby Burkharda (surowe pola save'a):** złoto **318,63**, prestiż **728,19**, pobożność **90,1**, pole sił **893** (inne pola **936**, znaczenie UI NIEUSTALONE). To nie pełny ekran wynikowy.
 - **Regencja:** ekran z **3 VIII 1073** potwierdza rozpoczęcie regencji nad Rudolfem, ale **trwanie jej 18 X jest NIEUSTALONE**.
-- **Ograniczenia:** aktualne frakcje, bieżące sojusze, dokładni dowódcy, pełna sukcesja, opinie UI i wynik ciąży — NIEUSTALONE. Wartości z 1070 pozostają archiwalne.
+- **Ograniczenia:** frakcja populistyczna przeciw Heinrichowi jest rozpoznana na 18 X 1073, ale jej skład i siła, bieżące sojusze, dokładni dowódcy, pełna sukcesja, opinie UI i wynik ciąży — NIEUSTALONE. Wartości z 1070 pozostają archiwalne.
+
+## Rozszerzenie polityczne do 18 X 1073 — zatwierdzone 15 X 2026
+
+**Nowe źródło kanoniczne:** [Cesarstwo i Szwabia 1067–1073](../campaign/Kanon_polityki_Cesarstwa_1067-1073.md). **Materiał dla Astry:** [brief aktualny](../campaign/Brief_dla_Astry_Cesarstwo_i_Szwabia_do_1073-10-18.md).
+
+- **Heinrich 41198:** pamięci dwóch własnych zwycięskich wojen ofensywnych: przeciw Domenicowi (Istria), **19 XII 1067–2 VI 1068**, oraz de iure o Stormarn przeciw Svendowi, **12 VIII 1070–1 VI 1073**. Szczegóły pokojów nieustalone.
+- **Bitwy strony cesarskiej:** przegrane pod Auch **4 III 1071** i Lugues **15 XI 1072**; bez danych liczebnych i pewnego przypisania do wojen. Hohenberg (750 przeciw 252 na screenie) to największe liczbowo potwierdzone starcie w dostępnych materiałach, nie udowodnione największe całego Cesarstwa.
+- **Elektorzy:** siedem tytułów i posiadaczy bez zmian w 1070–1073: Anno/Kolonia, Siegfried/Moguncja, Udo/Trewir, Vratislav/Czechy, Heinrich/Wschodnia Frankonia, Kasper/Ostmark, Ordulf/Angria.
+- **Frakcje:** **18 X 1073** odczytano frakcję populistyczną `16777365` przeciw Heinrichowi; **12 XI 1070** brak jej w odczycie. W obu punktach nie odczytano aktywnej frakcji przeciw Rudolfowi. Skład i siła frakcji nieustalone.
+- **Poza Szwabią:** odczytano zmiany posiadaczy `c_stormarn`, `d_nordgau`, `d_salzburg`, `d_osterreich`, `c_vienna`, `c_holstein`, `c_ditmarschen`, `c_brunswick`. **Nie rozstrzygnięto przyczyn zmian**.
+- **Regencja Rudolfa:** początek 3 VIII 1073 potwierdzony, koniec i trwanie 18 X 1073 nadal **NIEUSTALONE**.
+- **Późniejszy plik:** `von_Hohenzollern(20261015-182245).ck3` to save z **4 II 1075**, nie zatwierdzony jako nowa granica osi. Stan świata i fabuła pozostają przy **18 X 1073**.
 
 ## Wcześniejsza obserwacja — 16 listopada 1070
 
