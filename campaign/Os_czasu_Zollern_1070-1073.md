@@ -14,6 +14,7 @@
 | **10 IV 1072** | Burkhard wypowiada Adelheid wojnę roszczeniową o Hohenberg. | Zatwierdzony screen; cel i strony potwierdzone także pamięcią wojenną save'a. |
 | **17 IV 1072** | Pamięć `joined_allys_war` z `ally=66952`, `enemy=31878`. | Save 1073; nie ustalono właściciela pamięci. Hupold III został niezależnie potwierdzony ekranowo jako uczestnik wojny po stronie Burkharda. |
 | **19 IV–7 V 1072** | Trwa bitwa w rejonie Hohenbergu; **7 V Burkhard zwycięża Adelheid**. | Screeny walk i obustronne pamięci bitwy z save'a; dowódcy i szczegółowe straty nieustaleni. |
+| **7 V 1072; osobny ekran oblężenia** | Pokazany jest postęp oblężenia 1/325, tempo 1 dziennie, około 20 dni do końca i brak machin oblężniczych. Najechana opcja „Szturmuj fort” oznacza wybrany szturm. | Nie da się pewnie ustalić oblegającej armii ani posiadłości; nie łączyć tego ekranu z bitwą pod Hohenbergiem ani nie dopisywać wyniku szturmu. |
 | **8 VI 1072** | Armia Hupolda III oblega Ebingen. | Zatwierdzony screen; nie dowodzi dowodzenia Hupolda bitwą 7 V. |
 | **16 IX 1072** | Radbot zostaje przekonany do Burkharda (+25 opinii). | Zatwierdzony screen; nie zakładać trwałości liczby opinii. |
 | **15 X–18 XII 1072** | Oblężenie Hohenbergu trwa; obserwowane wyniszczenie, dezercja, brak machin oblężniczych. | Zatwierdzone ekrany z osobnymi datami. |
@@ -49,4 +50,4 @@
 
 Oś wcześniejsza [1068–1073](Os_czasu_Zollern_1068-1070.md) zachowuje dokładne daty screenów, w tym inspekcję i politykę. [Raport 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md) stanowi dowód nowych odczytów.
 
-**Dalszy ciąg:** [oś czasu 18 X 1073 – 16 XII 1075](Os_czasu_Zollern_1073-1075.md).
+**Dalszy ciąg:** [oś czasu 18 X 1073 – 27 XII 1075](Os_czasu_Zollern_1073-1075.md), następnie [oś 3 III 1076 – 28 XII 1077](Os_czasu_Zollern_1075-1077.md).
