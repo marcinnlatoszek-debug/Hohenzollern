@@ -49,3 +49,5 @@ Ekran potwierdza, że **hrabia Friedrich III dał się przekonać do Burkharda**
 - Używaj zapisu imienia **Wanzel** dla burmistrza Rottweil zgodnie z korektą gracza.
 - Rozróżniaj na mapie miejsce wymarszu, aktualne położenie armii, kierunek marszu, docelowe hrabstwo i położenie armii sojuszniczej.
 - Stan na najnowszym ekranie: wojna i oblężenie nadal trwają; ich wynik nie jest znany.
+
+**Dalszy ciąg:** [oś czasu 3 III 1076 – 28 XII 1077](Os_czasu_Zollern_1075-1077.md).
