@@ -1,5 +1,15 @@
 # Rejestr zatwierdzonych zmian kampanii
 
+## 15 października 2026 — zatwierdzenie polityki Cesarstwa i briefu dla Astry
+
+**Decyzja użytkownika:** „dodaj zmiany i informacje do kanonu i do wglądu dla astry” po ukończeniu raportu Deep Research.
+
+- Dodano [kanon polityki Cesarstwa i Szwabii 1067–1073](../campaign/Kanon_polityki_Cesarstwa_1067-1073.md) i [aktualny brief dla Astry](../campaign/Brief_dla_Astry_Cesarstwo_i_Szwabia_do_1073-10-18.md).
+- Włączono do chronologii dwie wojny Heinricha z zachowanych pamięci save'a: Istria **19 XII 1067–2 VI 1068** i Stormarn **12 VIII 1070–1 VI 1073**; dwie przegrane bitwy strony cesarskiej pod Auch i Lugues; siedmiu elektorów i frakcję populistyczną przeciw Heinrichowi na 18 X 1073.
+- Odnotowano wybrane zmiany tytułów poza Szwabią **bez przypisywania nieznanych przyczyn**. Zachowano nieustalony koniec regencji Rudolfa, szczegóły cesarskich pokojów, skład frakcji i globalny ranking bitew.
+- Uaktualniono główny kanon, oś 1070–1073, stan kampanii, indeks save'ów i oznaczono poprzedni brief Astry jako **archiwalny w zakresie stanu wiedzy**.
+- Nowszy `von_Hohenzollern(20261015-182245).ck3` ma datę **4 II 1075**; **nie** zatwierdzono przesunięcia kanonu z **18 X 1073** na 1075. Nie dopisano nowych zdarzeń literackich jako faktów gry.
+
 ## 14 października 2026 — zatwierdzenie pełnego save'a 18 X 1073
 
 **Decyzja użytkownika:** „zatwierdzam” po pogłębionej analizie porównawczej dwóch identycznych nowszych plików save z punktem 12 XI 1070.
