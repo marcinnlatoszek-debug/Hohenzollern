@@ -1,7 +1,7 @@
-# Oś czasu Hohenzollernów — 18 października 1073 – 16 grudnia 1075
+# Oś czasu Hohenzollernów — 18 października 1073 – 27 grudnia 1075
 
 **Stan aktualizacji:** 15 października 2026. Kontynuacja [osi do 18 października 1073](Os_czasu_Zollern_1070-1073.md).  
-**Zakres:** zdarzenia kampanii CK3 od końca 1073 do najnowszego czytelnego zapisu z 16 grudnia 1075.  
+**Zakres:** zdarzenia kampanii CK3 od końca 1073 do najnowszego czytelnego zapisu z 27 grudnia 1075.  
 **Zasada decyzji:** gracz potwierdził, że screen z najechaną opcją zazwyczaj oznacza jej wybranie (około 99% przypadków). W tej osi takie wybory są ujmowane jako dokonane. Efekt niewidoczny na późniejszym ekranie pozostaje osobno oznaczony.
 
 | Data gry | Wydarzenie i zapis do kanonu | Granice odczytu |
@@ -35,6 +35,8 @@
 | **26 X 1075** | Burkhard martwi się kosztami utrzymania wojska. Wybiera „Podatki z posiadłości”: uzyskuje „Pobór podatków wojennych” na trzy lata; hrabstwa pobierają dodatkowe podatki od chłopów. | Najechana opcja uznana za dokonaną. |
 | **16 XII 1075** | Mapa/okno oblężenia pokazuje w tej samej lokalizacji 2. armię Burkharda i armię z Thurgau; dowódcą Hohenzollernów jest Reinhard. Własna armia liczy ok. 1 239 żołnierzy. Widoczne są 40 machin oblężniczych, duży wyłom w murach, postęp 2,4 dziennie oraz widoczny szacowany czas oblężenia 14 dni. Wojsko jest dobrze zaopatrzone; wyniszczenie 1% miesięcznie. | Obecność obu armii w jednym miejscu potwierdza wspólne oblężenie. Wojna dotyczy Clettgau, ale nazwy obleganej posiadłości nie da się pewnie odczytać; nie przesądzać wyniku oblężenia. |
 | **Grudzień 1075; dokładny dzień nieustalony** | Burkhard odzyskuje zdrowie: kaszel znika i odzyskuje siły. Gracz potwierdził, że w grudniu zniknęła również cecha „Choroba”. | Bez dokładnego dnia i bez dopisywania przyczyny zakażenia. |
+| **27 XII 1075** | Panel armii pokazuje oddział dowodzony przez **burmistrza Pietra**, który zbiera się jeszcze przez 2 dni. Zaopatrzenie wynosi 100, z przyrostem +20 miesięcznie. Powiadomienie zawiera klucz lokalizacji miv_toast_enemy_join_one i nieprzetłumaczony opis, co wskazuje na dołączenie jednej armii wroga do wojny; z ekranu nie da się ustalić jej nazwy ani dokładnej strony/relacji. | Data i wartości są czytelne. Nie utożsamiać tego oddziału z wojskiem Hohenzollernów ani nie dopowiadać, czyją armią jest Pietro. |
+| **Data nieczytelna; screen po 16 XII 1075** | Mapa pokazuje **sojuszniczą armię Urach** prowadzącą oblężenie w rejonie oznaczonym jako **Clettgau**. Podgląd postaci identyfikuje hrabiego **Matthiasa z Urach**, lat 44, jako koniuszego księcia Rudolfa. Wskazuje to na udział sił Urach w operacji Rudolfa; nie da się pewnie ustalić dokładnej obleganej posiadłości ani czy Matthias osobiście dowodzi tą armią. | Data i nazwa konkretnego zamku/posiadłości nieczytelne. Nie traktować wzmianki o Urach jako dowodu, że to nowy właściciel Clettgau. |
 
 ## Obserwacja bez pewnej daty gry
 
