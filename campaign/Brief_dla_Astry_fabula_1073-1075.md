@@ -3,7 +3,7 @@
 **Zakres:** kontynuacja po zatwierdzonym briefie do 18 października 1073.  
 **Podstawowa oś faktów:** [Oś czasu Hohenzollernów 1073–1075](Os_czasu_Zollern_1073-1075.md).  
 **Poprzedni kontekst:** [Brief Cesarstwo, Szwabia i Hohenzollernowie do 18 X 1073](Brief_dla_Astry_Cesarstwo_i_Szwabia_do_1073-10-18.md).  
-**Punkt końcowy obecnego materiału:** 16 grudnia 1075; oblężenie trwa, wynik wojny jest otwarty.
+**Punkt końcowy obecnego materiału:** 27 grudnia 1075; wojna trwa, a wynik oblężenia pozostaje otwarty.
 
 ## Polecenie dla Astry
 
@@ -45,7 +45,7 @@ Inspekcja i wcześniejsze zdobycie Hohenbergu stanowią tło rządzenia. Podkre�
 
 Wyprawa łowiecka w okolicach Tribergu kończy się ucieczką wilka, ale Burkhard osiąga zamiar odpoczynku i zdobywa cechę łowcy oraz legitymizację. Reinhard okazuje się użytecznym rycerzem: oskórowuje jeża, odnajduje trop wilka, zdobywa zaufanie Burkharda, a później dowodzi wojskiem. Nie przypisuj Burkhardowi czynności wykonanych przez Reinharda.
 
-Inga choruje w podróży 5 maja; Burkhard pozwala jej odpocząć, opóźniając wyprawę o 21 dni. Inga traci cechę „Choroba”, zyskuje +20 opinii o Burkhardzie na 10 lat, a cierpliwi uczestnicy orszaku +5 na 5 lat. Później Inga leczy Burkharda ostrożną metodą; zyskuje on roczny modyfikator złagodzenia objawów. W grudniu 1075 Burkhard odzyskuje siły, kaszel znika, a cecha „Choroba” zostaje usunięta. Dokładny dzień nie jest znany. Dokładny dzień nie jest znany. Nie sugeruj, że Burkhard zaraził się od Ingi.
+Inga choruje w podróży 5 maja; Burkhard pozwala jej odpocząć, opóźniając wyprawę o 21 dni. Inga traci cechę „Choroba”, zyskuje +20 opinii o Burkhardzie na 10 lat, a cierpliwi uczestnicy orszaku +5 na 5 lat. Później Inga leczy Burkharda ostrożną metodą; zyskuje on roczny modyfikator złagodzenia objawów. W grudniu 1075 Burkhard odzyskuje siły, kaszel znika, a cecha „Choroba” zostaje usunięta. Dokładny dzień nie jest znany. Nie sugeruj, że Burkhard zaraził się od Ingi.
 
 ### 4. Ambicja terytorialna i cena polityczna — jesień 1075
 
@@ -61,7 +61,13 @@ Koszty utrzymania armii szybko obciążają skarbiec. Burkhard wybiera trzyletni
 
 16 grudnia ekran pokazuje 2. armię Burkharda (około 1 239 żołnierzy) i armię z Thurgau w tej samej lokalizacji. Oddział Hohenzollernów prowadzi Reinhard. Oblężenie ma duży wyłom, 40 machin, postęp 2,4 dziennie i widoczny szacowany czas oblężenia 14 dni. Wojsko jest dobrze zaopatrzone, wyniszczenie wynosi 1% miesięcznie. Nazwa obleganej posiadłości jest nieczytelna; wynik oblężenia i wojny pozostają otwarte. Zakończ ten etap napięciem oczekiwania, nie dopisując zdobycia twierdzy.
 
-### 6. Wątek dyplomatyczny o nieustalonej dacie
+### 6. Dodatkowe siły w Clettgau i niepewny komunikat — grudzień 1075
+
+Na screenie bez czytelnej daty mapa pokazuje sojuszniczą armię Urach prowadzącą oblężenie w rejonie Clettgau. Podgląd postaci wskazuje hrabiego Matthiasa z Urach (44 lata) jako koniuszego księcia Rudolfa. Można opisać Urach jako część szerszego zaplecza sił Rudolfa, ale nie przypisuj Matthiasowi osobistego dowództwa nad tą armią: ekran tego nie potwierdza. Nie podawaj nazwy konkretnej obleganej posiadłości.
+
+27 grudnia panel pokazuje oddział pod dowództwem burmistrza Pietra, zbierający się jeszcze przez dwa dni, z zaopatrzeniem 100 i przyrostem +20 miesięcznie. Powiadomienie z kluczem lokalizacji miv_toast_enemy_join_one wskazuje na dołączenie jednej armii wroga do wojny. Jej nazwa i dokładna strona/relacja nie są czytelne, więc nie łącz jej z konkretnym władcą ani z siłami Hohenzollernów.
+
+### 7. Wątek dyplomatyczny o nieustalonej dacie
 
 Odrębny ekran informuje, że hrabia Friedrich III dał się przekonać do Burkharda i zyskał 25 opinii. Starania „Przekonywania do siebie” są kontynuowane po resecie fazy. Data ekranu nie jest widoczna; nie przypisuj tego wydarzenia do konkretnego miesiąca ani nie łącz z innym schematem, którego uczestnicy są niepewni.
 
@@ -74,6 +80,6 @@ Odrębny ekran informuje, że hrabia Friedrich III dał się przekonać do Burkh
 5. **Papier na Nagoldgau** — dokument Meinharda i nowa możliwość polityczna.
 6. **Wierność Wanzelowi** — wybór Burkharda oraz jego koszt dyplomatyczny.
 7. **Droga do armii Rudolfa** — wymarsz z Zollern, Reinhard i trzej rycerze.
-8. **Podatek wojenny i oblężenie** — wspólne wojska, ciężar utrzymania armii oraz cliffhanger 16 grudnia 1075.
+8. **Podatek wojenny i oblężenie** — wspólne wojska, ciężar utrzymania armii oraz cliffhanger z grudnia 1075.
 
 Podział jest propozycją kompozycyjną, nie nowym kanonem. Zachowaj swobodę literacką w scenach, lecz wszystkie konkretne wyniki kampanii oprzyj na osi czasu.
