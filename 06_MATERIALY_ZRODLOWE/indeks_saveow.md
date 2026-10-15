@@ -10,6 +10,14 @@
 | **12 XI 1070** | **`von_Hohenzollern(10).ck3`** | **1.20.1** | Archiwalny zatwierdzony save (14 X 2026). Porównanie rodziny, sukcesji w rejestrze praw, wybranych tytułów i żyjących postaci z 2 VIII 1070; pola niezmapowane: NIEUSTALONE. [Raport weryfikacji](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md). |
 | **18 X 1073** | **`von_Hohenzollern(20261014-200855).ck3`**; duplikat `von_Hohenzollern(20261014-201208).ck3` | **1.20.1** | **Najnowszy zatwierdzony pełny save (14 X 2026).** Zgon Leopolda 7 VII 1071; wojna i zdobycie Hohenbergu 17 I 1073; Hedwig w ciąży, aktualne tytuły i zadania rady. [Raport](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md). |
 
+## Rozpoznane nowsze zapisy — bez przesunięcia zatwierdzonej osi
+
+| Data w grze | Plik | Status |
+|---|---|---|
+| **4 II 1075** | `von_Hohenzollern(20261015-182245).ck3` | **Data odczytana z metadanych w badaniu Deep Research 15 X 2026.** Nie zatwierdzono tego pliku jako nowego punktu świata; nie używać stanu 1075 do scen na 18 X 1073. |
+
+Zatwierdzony 15 X 2026 [kanon polityczny Cesarstwa 1067–1073](../campaign/Kanon_polityki_Cesarstwa_1067-1073.md) rozszerza interpretację wcześniejszych pełnych zapisów **bez przesuwania daty ostatniego zatwierdzonego stanu**.
+
 Plik z 2 VIII 1070 zawiera dane Jomini i skompresowaną sekcję `gamestate`; sam rozpoznany format nie oznacza pełnego odczytu. Wartości zasobów uzyskane ze wstępnego mapowania wymagają dalszej walidacji.
 
 **Uwaga o chronologii:** screeny od września do 3 XI 1070 poprzedzają save z 12 XI; zatwierdzone obserwacje do 1 X 1073 poprzedzają najnowszy pełny save z 18 X 1073. Odczytanie stanu nie potwierdza dat ani przebiegu wydarzeń w przerwach między zapisami.
