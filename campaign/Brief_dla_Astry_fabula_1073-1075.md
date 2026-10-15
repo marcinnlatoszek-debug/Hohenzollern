@@ -37,7 +37,7 @@ Martin przychodzi na świat 2 listopada 1073. W kolejnych latach rodzina wchodzi
 
 ### 2. Zollern, Balingen i Hohenberg — inwestycje i rządy
 
-Burkhard wybiera planowanie długoterminowego rozwoju stolicy Zollern. Ukończona prywatna willa w pobliżu Balingen oraz jej łaźnie mogą stać się rozpoznawalnym miejscem życia rodzinnego i dworskiego. Przedstawiaj je zgodnie z ustaleniem geograficznym: między Zollern a Balingen, bliżej Balingen. Nie opisuj dostępnego ulepszenia willi jako wykonanego, bo źródło pokazuje tylko możliwość ulepszenia.
+Burkhard wybiera planowanie długoterminowego rozwoju stolicy Zollern. Ufortyfikowana prywatna willa Hohenzollernów została ukończona 4 lutego 1075. Leży między Zollern a wsią Balingen, bliżej Balingen. Budowle w tej posiadłości przedstawiaj jako łaźnie. Ulepszenie do poziomu 2 było dostępne, ale jego wykonania nie potwierdzono. Tooltip wymienia korzyści dla bezpiecznego leczenia przez osobistego medyka, odporności na choroby i opinii o atrakcyjności postaci.
 
 Inspekcja i wcześniejsze zdobycie Hohenbergu stanowią tło rządzenia. Podkreślaj, że przejęcie kontroli nad ziemią pociąga za sobą sprawy mieszkańców, dochodów i porządku; nie dopisuj nowych reform bez ekranu potwierdzającego ich wykonanie.
 
@@ -45,7 +45,7 @@ Inspekcja i wcześniejsze zdobycie Hohenbergu stanowią tło rządzenia. Podkre�
 
 Wyprawa łowiecka w okolicach Tribergu kończy się ucieczką wilka, ale Burkhard osiąga zamiar odpoczynku i zdobywa cechę łowcy oraz legitymizację. Reinhard okazuje się użytecznym rycerzem: oskórowuje jeża, odnajduje trop wilka, zdobywa zaufanie Burkharda, a później dowodzi wojskiem. Nie przypisuj Burkhardowi czynności wykonanych przez Reinharda.
 
-Inga choruje w podróży; Burkhard pozwala jej odpocząć, choć opóźnia to wyprawę. Później Inga leczy Burkharda. W grudniu 1075 Burkhard odzyskuje siły, kaszel znika, a cecha „Choroba” zostaje usunięta. Dokładny dzień nie jest znany. Nie sugeruj, że Burkhard zaraził się od Ingi.
+Inga choruje w podróży 5 maja; Burkhard pozwala jej odpocząć, opóźniając wyprawę o 21 dni. Inga traci cechę „Choroba”, zyskuje +20 opinii o Burkhardzie na 10 lat, a cierpliwi uczestnicy orszaku +5 na 5 lat. Później Inga leczy Burkharda ostrożną metodą; zyskuje on roczny modyfikator złagodzenia objawów. W grudniu 1075 Burkhard odzyskuje siły, kaszel znika, a cecha „Choroba” zostaje usunięta. Dokładny dzień nie jest znany. Dokładny dzień nie jest znany. Nie sugeruj, że Burkhard zaraził się od Ingi.
 
 ### 4. Ambicja terytorialna i cena polityczna — jesień 1075
 
@@ -59,7 +59,7 @@ W październiku Wanzel zostaje oskarżony przez Judike Constantinu z Gallury o p
 
 Koszty utrzymania armii szybko obciążają skarbiec. Burkhard wybiera trzyletni pobór podatków wojennych od chłopów. To dobry punkt do pokazania kosztu wojny dla poddanych, ale nie przypisuj im buntu ani innych reakcji bez źródła.
 
-16 grudnia screen pokazuje armię Hohenzollernów i armię z Thurgau w tej samej lokalizacji, pod dowództwem Reinharda po stronie Hohenzollernów. Oblężenie ma duży wyłom, 40 machin, postęp 2,4 dziennie i 14 dni do kolejnego etapu. Nazwa obleganej posiadłości jest nieczytelna; wynik oblężenia i wojny pozostają otwarte. Zakończ ten etap napięciem oczekiwania, nie dopisując zdobycia twierdzy.
+16 grudnia ekran pokazuje 2. armię Burkharda (około 1 239 żołnierzy) i armię z Thurgau w tej samej lokalizacji. Oddział Hohenzollernów prowadzi Reinhard. Oblężenie ma duży wyłom, 40 machin, postęp 2,4 dziennie i 14 dni do kolejnego etapu. Wojsko jest dobrze zaopatrzone, wyniszczenie wynosi 1% miesięcznie. Nazwa obleganej posiadłości jest nieczytelna; wynik oblężenia i wojny pozostają otwarte. Zakończ ten etap napięciem oczekiwania, nie dopisując zdobycia twierdzy.
 
 ### 6. Wątek dyplomatyczny o nieustalonej dacie
 
