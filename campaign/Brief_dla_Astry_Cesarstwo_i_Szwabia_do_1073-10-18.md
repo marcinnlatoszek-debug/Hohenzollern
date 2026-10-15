@@ -1,3 +1,5 @@
+> **Kontynuacja:** aktualny brief fabularny dla okresu 18 X 1073 – 16 XII 1075 znajduje się w [Briefie dla Astry 1073–1075](Brief_dla_Astry_fabula_1073-1075.md), a szczegółowa chronologia w [osi czasu 1073–1075](Os_czasu_Zollern_1073-1075.md).
+
 # Brief aktualny dla Astry — Cesarstwo, Szwabia i Hohenzollernowie do 18 X 1073
 
 **Status: ZATWIERDZONY DO WGLĄDU I WYKORZYSTANIA PRZEZ ASTRĘ, 15 X 2026.**
