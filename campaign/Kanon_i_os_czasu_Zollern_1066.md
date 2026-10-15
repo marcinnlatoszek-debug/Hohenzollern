@@ -9,6 +9,20 @@
 **Wersja CK3 w trzech ostatnich zapisach:** 1.20.1  
 **Bieżące ustalenia:** [stan kampanii na 18 X 1073](../01_KAMPANIA/stan_aktualny.md), [raport 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md), [oś 1070–1073](Os_czasu_Zollern_1070-1073.md) i [oś wydarzeń 1068–1073](Os_czasu_Zollern_1068-1070.md). Starsze wpisy tego dokumentu zachowują ich historyczne daty.
 
+## Rozszerzenie kanonu — polityka Cesarstwa i Szwabii (15 X 2026)
+
+**Zatwierdzono nowy [kanon polityczny Cesarstwa 1067–1073](Kanon_polityki_Cesarstwa_1067-1073.md) oraz [aktualny brief dla Astry](Brief_dla_Astry_Cesarstwo_i_Szwabia_do_1073-10-18.md).** Źródłem jest pogłębiony odczyt `gamestate` i porównanie zatwierdzonych zapisów 12 XI 1070 i 18 X 1073.
+
+- **19 XII 1067–2 VI 1068:** Heinrich (41198) prowadzi zwycięską wojnę przeciw Domenicowi (32313), związaną z `d_istria`; dokładne CB nieustalone.
+- **12 VIII 1070–1 VI 1073:** Heinrich wygrywa wojnę **de iure o `c_stormarn`** przeciw Svendowi (33989).
+- **4 III 1071 i 15 XI 1072:** zachowane pamięci przegranych bitew strony Heinricha odpowiednio pod Auch i Lugues; liczebności i związki z konkretnymi wojnami nieustalone.
+- **12 XI 1070 i 18 X 1073:** siedem tytułów elektorskich i ich posiadacze niezmienieni (Kolonia, Moguncja, Trewir, Czechy, Wschodnia Frankonia, Ostmark, Angria).
+- **18 X 1073:** aktywna frakcja populistyczna `16777365` przeciw Heinrichowi; w 1070 jej nie odczytano. Brak odczytanej aktywnej frakcji przeciw Rudolfowi w obu punktach.
+- **1070–1073:** odczytano zmiany posiadaczy tytułów poza Szwabią (m.in. Stormarn, Nordgau, Österreich, Wiedeń, Holsztyn), ale **bez potwierdzonej przyczyny każdej zmiany**.
+- **Granica:** save `von_Hohenzollern(20261015-182245).ck3` pochodzi z **4 II 1075**; nie jest zatwierdzonym przesunięciem kanonu poza 18 X 1073.
+
+Nie rozstrzygnięto zakończenia regencji Rudolfa, szczegółów cesarskich sojuszy i frakcji, warunków pokojów ani największej bitwy całej kampanii. Hohenberg (750 przeciw 252) jest największą bitwą **liczbowo udokumentowaną** w przejrzanym materiale, nie globalnie największą.
+
 ## Nowy zatwierdzony punkt — 18 października 1073
 
 **Źródło:** [weryfikacja save'a](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md) i [oś 1070–1073](Os_czasu_Zollern_1070-1073.md).
@@ -17,7 +31,7 @@
 - **7 V 1072:** Burkhard zwycięża Adelheid w bitwie; dowódcy NIEUSTALENI.
 - **17 I 1073:** Burkhard wygrywa wojnę roszczeniową i przejmuje `c_hohenberg` od Adelheid. Nadal pozostaje wasalem Rudolfa.
 - **18 X 1073:** Burkhard posiada Zollern i Hohenberg; Rudolf pozostaje księciem Szwabii, Heinrich cesarzem. Hedwig ma `pregnant`; starszy syn Burkhard `curious`. Nie ma potwierdzonego nowego porodu.
-- **Granice:** frakcje, aktualne sojusze, opinie UI, stan regencji 18 X, przyczyna śmierci i dokładni dowódcy — NIEUSTALONE.
+- **Granice:** odczytano jedną frakcję populistyczną przeciw Heinrichowi na 18 X 1073; jej skład i siła, aktualne sojusze, opinie UI, stan regencji 18 X, przyczyna śmierci i dokładni dowódcy — NIEUSTALONE.
 
 ## Kanon charakterów i mechanika interpretacji — 12 listopada 1070
 
