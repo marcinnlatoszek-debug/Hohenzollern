@@ -83,3 +83,6 @@ Odrębny ekran informuje, że hrabia Friedrich III dał się przekonać do Burkh
 8. **Podatek wojenny i oblężenie** — wspólne wojska, ciężar utrzymania armii oraz cliffhanger z grudnia 1075.
 
 Podział jest propozycją kompozycyjną, nie nowym kanonem. Zachowaj swobodę literacką w scenach, lecz wszystkie konkretne wyniki kampanii oprzyj na osi czasu.
+
+
+**Dalszy ciąg:** [brief dla Astry 1076–28 XII 1077](Brief_dla_Astry_fabula_1076-1077.md), bazujący na [osi czasu do 28 XII 1077](Os_czasu_Zollern_1075-1077.md).
