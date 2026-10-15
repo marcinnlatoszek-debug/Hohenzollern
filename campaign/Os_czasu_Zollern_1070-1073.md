@@ -48,3 +48,5 @@
 **NIEUSTALONE:** przyczyna śmierci Leopolda, dokładni dowódcy, skład i siła frakcji populistycznej, motywy postaci, obecna regencja i wynik ciąży.
 
 Oś wcześniejsza [1068–1073](Os_czasu_Zollern_1068-1070.md) zachowuje dokładne daty screenów, w tym inspekcję i politykę. [Raport 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md) stanowi dowód nowych odczytów.
+
+**Dalszy ciąg:** [oś czasu 18 X 1073 – 16 XII 1075](Os_czasu_Zollern_1073-1075.md).
