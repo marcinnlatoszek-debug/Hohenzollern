@@ -1,3 +1,5 @@
+> **UWAGA — TEN BRIEF JEST ARCHIWALNY W ZAKRESIE STANU WIEDZY.** Od 15 X 2026 obowiązuje [zaktualizowany brief dla Astry — Cesarstwo, Szwabia i Hohenzollernowie do 18 X 1073](Brief_dla_Astry_Cesarstwo_i_Szwabia_do_1073-10-18.md) oraz [kanon polityczny](Kanon_polityki_Cesarstwa_1067-1073.md). Starszy dokument zachowano jako historycznie zatwierdzony zestaw obserwacji ekranowych, ale **nie wolno powtarzać z niego nieaktualnych stwierdzeń**: ostatni zatwierdzony pełny save jest z **18 X 1073**, Burkhard **wygrał wojnę i przejął Hohenberg 17 I 1073**, a starszy syn ma potwierdzone `curious` na 18 X. Regencja Rudolfa nadal ma nieustalony koniec.
+
 # Brief dla Astry — dalsza historia Zollern i oś czasu
 
 > **Status: ZATWIERDZONY BRIEF DLA ASTRY.**  
