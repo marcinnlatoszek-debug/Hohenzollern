@@ -55,11 +55,11 @@ W październiku Wanzel zostaje oskarżony przez Judike Constantinu z Gallury o p
 
 ### 5. Wojna o Clettgau i oblężenie — październik–grudzień 1075
 
-17 października rozpoczyna się wojna de iure o Clettgau; stroną atakującą jest Księstwo Szwabii. Burkhard dołącza do wojny i wysyła całe wojsko Hohenzollernów, by połączyło się z armią księcia Rudolfa. Dowódcą czterech rycerzy jest Reinhard; trzej pozostali rycerze wyruszają z nim. Nie pokazuj ich jako wyprawy osobistej Burkharda i Hedwig.
+17 października ekran pokazuje, że Burkhard dołącza do trwającej wojny de iure o Clettgau po stronie atakującego Księstwa Szwabii. Data rozpoczęcia wojny nie jest ustalona. Burkhard wysyła całe wojsko Hohenzollernów, by połączyło się z armią księcia Rudolfa. Dowódcą czterech rycerzy jest Reinhard; trzej pozostali rycerze wyruszają z nim. Nie pokazuj ich jako wyprawy osobistej Burkharda i Hedwig.
 
 Koszty utrzymania armii szybko obciążają skarbiec. Burkhard wybiera trzyletni pobór podatków wojennych od chłopów. To dobry punkt do pokazania kosztu wojny dla poddanych, ale nie przypisuj im buntu ani innych reakcji bez źródła.
 
-16 grudnia ekran pokazuje 2. armię Burkharda (około 1 239 żołnierzy) i armię z Thurgau w tej samej lokalizacji. Oddział Hohenzollernów prowadzi Reinhard. Oblężenie ma duży wyłom, 40 machin, postęp 2,4 dziennie i 14 dni do kolejnego etapu. Wojsko jest dobrze zaopatrzone, wyniszczenie wynosi 1% miesięcznie. Nazwa obleganej posiadłości jest nieczytelna; wynik oblężenia i wojny pozostają otwarte. Zakończ ten etap napięciem oczekiwania, nie dopisując zdobycia twierdzy.
+16 grudnia ekran pokazuje 2. armię Burkharda (około 1 239 żołnierzy) i armię z Thurgau w tej samej lokalizacji. Oddział Hohenzollernów prowadzi Reinhard. Oblężenie ma duży wyłom, 40 machin, postęp 2,4 dziennie i widoczny szacowany czas oblężenia 14 dni. Wojsko jest dobrze zaopatrzone, wyniszczenie wynosi 1% miesięcznie. Nazwa obleganej posiadłości jest nieczytelna; wynik oblężenia i wojny pozostają otwarte. Zakończ ten etap napięciem oczekiwania, nie dopisując zdobycia twierdzy.
 
 ### 6. Wątek dyplomatyczny o nieustalonej dacie
 
