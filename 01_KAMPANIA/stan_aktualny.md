@@ -1,14 +1,24 @@
 # Stan kampanii — wykaz punktów kontrolnych
 
-**Ostatni zweryfikowany i zatwierdzony odczyt pełnego save'a:** **18 października 1073**, `von_Hohenzollern(20261014-200855).ck3` (CK3 1.20.1). Duplikat `von_Hohenzollern(20261014-201208).ck3` jest identyczny bajtowo.  
+**Ostatni pełny, zweryfikowany i zatwierdzony audyt save'a:** **18 października 1073**, `von_Hohenzollern(20261014-200855).ck3` (CK3 1.20.1). Duplikat `von_Hohenzollern(20261014-201208).ck3` jest identyczny bajtowo.  
 **Poprzedni zatwierdzony pełny save:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (1070 dni gry wcześniej).  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **1 X 1080**; szczegóły w osi 1078–1080. Ostatni zatwierdzony odczyt pełnego save'a pozostaje osobnym punktem: 18 X 1073.
+**Najnowsza zatwierdzona obserwacja ekranowa:** **1 X 1080**; szczegóły w osi 1078–1080. **Najnowszy save użyty do punktowego dopisku:** 2 X 1080; jego zakres opisano poniżej i w osi 1078–1080.
 **Starszy punkt archiwalny:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja najnowszego punktu 18 X 1073:** 14 października 2026, potwierdzenie użytkownika „zatwierdzam” po raporcie porównawczym. Wcześniejszy punkt 12 XI 1070 zatwierdzono osobno („Tak”).  
 **Początek właściwej opowieści:** 6 marca 1067.  
 **Chronologia:** screeny potwierdzają obserwacje od 16 XI 1070 do 1 X 1073; zachowują własne daty i są uzupełnione pełnym save'em z 18 X 1073.
 
-## Aktualny pełny save — 18 października 1073
+## Punkt save’a wykorzystany w aktualizacji — 2 października 1080
+
+**Źródło:** `von_Hohenzollern(20261016-154350).ck3`, CK3 1.20.1; zatwierdzony przez użytkownika do punktowego uzupełnienia osi i briefu 16 X 2026. Nie zastępuje pełnego audytu save’a z 18 X 1073.
+
+- Burkhard (66952) ma 30 lat, włada Zollern i Hohenbergiem; w save’ie nie ma jego aktywnej wojny.
+- `last_war_finish_date`: 1 VI 1080. Wcześniej zatwierdzone 18 V 1080 pozostaje narracyjną datą zamknięcia wojny; rozróżnienie obu zapisów opisano w [osi 1078–1080](../campaign/Os_czasu_Zollern_1078-1080.md).
+- Żyjące dzieci: Burkhard, Martin, Adelheid i Ulrich. Widoczna kolejność sukcesji: Burkhard, Martin, Ulrich, Adelheid. Adelheid jest zaręczona z Friedrichem von Stauferem.
+- Save odnotowuje śmierć Leopolda 7 VII 1071 po chorobie dziecięcej. Stres Burkharda: 65.
+- Nie ustalono z tego save’a warunków pokoju ani szczegółów końcowego raportu bitwy.
+
+## Ostatni pełny, zatwierdzony audyt save’a — 18 października 1073
 
 **Zatwierdzenie:** użytkownik „zatwierdzam” po raporcie pogłębionego porównania (14 X 2026). [Pełny raport 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md) · [oś 1070–1073](../campaign/Os_czasu_Zollern_1070-1073.md).
 
