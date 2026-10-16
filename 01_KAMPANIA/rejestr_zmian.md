@@ -2,6 +2,8 @@
 
 **Decyzja użytkownika:** „Zapisz dopiski”, następnie „Zapisz w githube”.
 
+**Dodatkowe potwierdzenie użytkownika:** „zatwierdzam wszysko zapisz” (16 X 2026). Potwierdza cały powyższy zapis, w tym odrębne statusy dat 18 V (narracyjna) i 1 VI (pole save’a).
+
 - Do [osi 1078–1080](../campaign/Os_czasu_Zollern_1078-1080.md) i [briefu dla Astry](../campaign/Brief_dla_Astry_fabula_1078-1080.md) dodano punkt z `von_Hohenzollern(20261016-154350).ck3` (CK3 1.20.1): stan Burkharda i jego ziem, dzieci, kolejność sukcesji, zaręczyny Adelheid, śmierć Leopolda oraz wartość stresu.
 - Zaktualizowano [stan kampanii](stan_aktualny.md) i [indeks save’ów](../06_MATERIALY_ZRODLOWE/indeks_saveow.md), odnotowując, że jest to punktowe uzupełnienie, nie pełny audyt wszystkich pól save’a.
 - Save zapisuje `last_war_finish_date=1 VI 1080`. Zachowano osobno wcześniejsze rozstrzygnięcie użytkownika: **18 V 1080 jako narracyjną datę zamknięcia wojny**. Nie utożsamiono tych dat; warunki pokoju i końcowy raport bitwy pozostają nieustalone.
