@@ -69,3 +69,8 @@ Wojnę prowadzi się już długo. Rycerze i żołnierze Hohenzollernów zdobyli 
 8. **Meldunek z Elsgau** — końcowa scena 28 grudnia 1077, Adalbert w drodze, armie jeszcze się nie połączyły.
 
 To propozycja kompozycji, nie nowy kanon. Zachowaj możliwość literackiej oprawy, ale wszystkie wyniki kampanii i granice pewności pozostaw zgodne z osią.
+
+
+## Następny odcinek
+
+Po zakończeniu tego odcinka na 28 XII 1077 kontynuuj według [materiału dla Astry 1078–1 X 1080](Brief_dla_Astry_fabula_1078-1080.md) i [nowej osi czasu](Os_czasu_Zollern_1078-1080.md). Ograniczenia dat tego briefu dotyczą jego zakresu, nie zakazu korzystania z nowego zatwierdzonego odcinka.
