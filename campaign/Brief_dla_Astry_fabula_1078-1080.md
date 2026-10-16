@@ -1,10 +1,10 @@
-# Materiał fabularny dla Astry — Hohenzollernowie, 1078–1 października 1080
+# Materiał fabularny dla Astry — Hohenzollernowie, 1078–2 października 1080
 
 **Podstawa faktów:** [poprawiona oś czasu 1078–1080](Os_czasu_Zollern_1078-1080.md).  
 **Weryfikacja:** [rejestr 59 ponownie obejrzanych zrzutów i korekt](Audyt_screenow_1078-1080_2026-10-16.md).  
 **Poprzedni odcinek:** [brief 1076–1077](Brief_dla_Astry_fabula_1076-1077.md).  
 **Zlecenie gracza:** 16 X 2026 — ponowna analiza wszystkich zrzutów tej rozmowy i zapis do osi oraz fabuły dla Astry.  
-**Punkt końcowy:** 1 X 1080, początek fabrykowania roszczenia do Fürstenbergu przez Meinharda.
+**Koniec zestawu ekranów:** 1 X 1080. **Najnowszy punkt save’a:** 2 X 1080; szczegóły i granice ustaleń poniżej.
 
 ## Zadanie Astry
 
@@ -195,3 +195,14 @@ Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal k
 - Astra może opisać zwycięskie zakończenie kampanii Rudolfa i przejście do odbudowy. Nie przypisuje powracającego w marcu kontyngentu Hohenzollernów do majowej bitwy. Szczegółowe klauzule traktatu, transfer tytułów i lista uwolnionych jeńców nie zostały odczytane.
 - **Zatwierdzona oprawa literacka:** wieść o końcu wojny dociera na dwór; Burkhard i rada skupiają się na przywracaniu porządku w Hohenbergu, rodzinie i gospodarce. Rozmowy, emocje, sceny powrotu i codziennej odbudowy są dopowiedzeniem autorskim, nie dodatkowymi rekordami gry.
 - Nie dopowiadamy jako danych źródłowych sprawcy spisku, przyczyn śmierci, dokładnej daty końca regencji, narodzin Adelheid ani ukończenia budów. W narracji można pozostawić te szczegóły poza kadrem, bez blokowania opowieści.
+
+
+## Dopisek dla Astry — save z 2 października 1080
+
+Punkt źródłowy: `von_Hohenzollern(20261016-154350).ck3`, CK3 1.20.1. Uzupełnia zestaw 59 screenów kończący się 1 X.
+
+**Fakty z save’a:** Burkhard ma 30 lat, włada Zollern i Hohenbergiem i nie prowadzi aktywnej wojny. Jego ostatnia zakończona wojna ma w polu `last_war_finish_date` datę **1 VI 1080**. Żyjące dzieci to Burkhard (11 lat), Martin (6), Adelheid (3) i Ulrich (2); widoczna kolejność sukcesji: Burkhard, Martin, Ulrich, Adelheid. Adelheid jest zaręczona z Friedrichem von Stauferem (ur. 13 V 1080), nie poślubiona. Save odnotowuje śmierć Leopolda 7 VII 1071 po chorobie dziecięcej. Stres Burkharda to 65 w mechanice gry.
+
+**Rozbieżność dat do zachowania:** użytkownik zatwierdził **18 V 1080** jako narracyjną datę zamknięcia wojny, a save zapisuje **1 VI 1080** jako datę zakończenia ostatniej wojny Burkharda. Zachowuj 18 V jako wcześniejsze rozstrzygnięcie narracyjne i 1 VI jako pole save’a; nie przesuwaj samodzielnie daty sceny ani nie przedstawiaj jednej z nich jako błędu drugiej. To zestawienie nie ustala warunków pokoju ani przebiegu końcowego starcia.
+
+**Możliwy kierunek scen — interpretacja, nie fakt:** powrót do rządzenia Zollern i Hohenbergiem oraz polityczne plany dorosłych wokół dziecięcych zaręczyn. Stres z save’a nie wystarcza sam w sobie do przypisania Burkhardowi konkretnego nastroju. Nie dopisuj sceny śmierci Leopolda ani wyniku turnieju na podstawie samego sierpniowego znacznika aktywności.
