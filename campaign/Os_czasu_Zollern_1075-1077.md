@@ -21,7 +21,7 @@
 | **22 V 1077** | Ida z Habsburga, 13 lat, znajduje się w areszcie od jednego dnia. Burkhard przyjmuje okup od landgrafa Wernera z Transjuranii: 25 (waluta z panelu odczytywana jako złoto); Ida wychodzi na wolność. | Wariant z najechaną opcją traktuję jako dokonany. Nie dopisuj dalszych losów Idy ani jej relacji z rodem. |
 | **12 VI 1077** | Ekran oblężenia pokazuje postęp 22,3/400. | Nazwa miejsca nie jest czytelna; wynik pozostaje otwarty. |
 | **5 VIII 1077** | Hedwig jest w ciąży z dzieckiem Burkharda. W tej samej operacji mapa pokazuje 2. armię Hohenzollernów oraz siły Thurgau, St. Gallen, Wirtembergii, Ravensburga, Urach i Pfinzgau. Oblężenie jest w impasie: około 3,2 postępu dziennie, widoczne 50 machin i szacunek 14 dni. | Nie przypisuj temu miejscu nazwy Berno bez czytelnej etykiety fortu. Wynik ciąży i oblężenia nie jest pokazany. |
-| **9 VIII 1077** | Panel rycerzy pokazuje pełną obsadę 4/4 i 100% skuteczności: Gerlach, Siegmund, Reinhard i Radbot. Gerlach ma 24 lata, cechę „Aspirujący mistrz ostrzy” (+3 do waleczności) i opis wskazujący na uzdolnienie w walce wręcz. | Nie odczytuj niewyraźnej liczebności wojska z tego kadru. |
+| **9 VIII 1077** | Panel rycerzy pokazuje pełną obsadę 4/4 i 100% skuteczności: Gerlach, Siegmund, Reinhard i Radbot. Gerlach ma cechę „Aspirujący mistrz ostrzy” (+3 do waleczności) i opis wskazujący na uzdolnienie w walce wręcz. | Nie odczytuj niewyraźnej liczebności wojska z tego kadru. |
 | **22 IX 1077** | Mapa nazywa miejsce **fortem w Frickgau**. Postęp oblężenia wynosi 384,4/400 przy tempie około 3,2 dziennie; przewidywane zakończenie za około 5 dni. | Próg jest bliski, lecz ekran nie pokazuje upadku fortu. Nie zapisuj zdobycia jako dokonanego. |
 | **19 X 1077** | Ekran nazywa trwające oblężenie **Pruntrut**: 50,2/285, 50 machin, tempo około 3,2 dziennie, zdarzenie oblężnicze przewidywane za około 20 dni. Osobna etykieta mapy mówi, że **fort w Clettgau jest okupowany przez księcia Rudolfa**. | Zapis okupacji Clettgau jest potwierdzony; nie myl go z wciąż trwającym oblężeniem Pruntrut. |
 | **6 XII 1077** | Hrabia Adalbert z Ansbach, marszałek/spymaster księcia Rudolfa (urząd widoczny jako spymaster), ma większą siłę wojskową niż Burkhard. Panel Burkharda: 1 311/1 311 pospolitego ruszenia, 3 rycerzy, 300 pikinierów, 300 ciężkiej piechoty, 200 lekkiej piechoty i 10 mangoneli. Panel sił sojuszniczych: 1 842/1 842 pospolitego ruszenia, 13 rycerzy, 967 pikinierów, 858 ciężkiej piechoty, 300 lekkiej piechoty, 93 łuczników, 456 lekkiej jazdy, 540 najemników i 60 machin. | Liczebności zapisane zgodnie z widocznymi panelami; nie sumuj ich do jednego stanu, jeśli armie lub oddziały mogą się nakładać. |
@@ -47,3 +47,8 @@ Hohenzollernowie nadal uczestniczą w wojnie po stronie zwycięskich w bitwach s
 ## Kontynuacja po 28 grudnia 1077
 
 Dalszy ciąg oraz ponowny odczyt kolejnych screenów: [oś czasu 1078–1 X 1080](Os_czasu_Zollern_1078-1080.md). Materiał dla Astry: [brief 1078–1080](Brief_dla_Astry_fabula_1078-1080.md). Historyczny punkt końcowy tego pliku pozostaje 28 XII 1077.
+
+
+## Korekta redakcyjna — 16 X 2026
+
+Usunięto sprzeczny odczyt „24 lata” przy Gerlachu z 9 VIII 1077. Karta z 1070 podaje 27 lat, a zapis z 1075 — 31 lat. Bez sprawdzenia daty urodzenia nie nadajemy nowego dokładnego wieku; Astra używa określenia doświadczony rycerz.
