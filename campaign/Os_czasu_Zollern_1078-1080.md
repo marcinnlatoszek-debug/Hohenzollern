@@ -1,4 +1,4 @@
-# Oś czasu Hohenzollernów — 26 stycznia 1078 – 1 października 1080
+# Oś czasu Hohenzollernów — 26 stycznia 1078 – 2 października 1080
 
 **Kontynuacja:** [oś 1076–1077](Os_czasu_Zollern_1075-1077.md).  
 **Materiał dla Astry:** [fabuła 1078–1080](Brief_dla_Astry_fabula_1078-1080.md).  
@@ -81,7 +81,7 @@
 | **27 IX 1080** | **Adelheid, córka Burkharda, zostaje zaręczona z Friedrichem von Staufer**, synem i dziedzicem hrabiego **Friedricha III z Grüningen**. Sojusz z ojcem narzeczonego jest potwierdzony; relacja rodów Hohenzollern i Staufer poprawia się o **10%**. | S55–S58. Umowa wprost dotyczy dziecięcych zaręczyn. Dzieci przyszłego małżeństwa mają należeć do dynastii Friedricha (małżeństwo patrylinearne). Ogólny toast „wzięły ślub” nie zmienia zaręczyn w ślub dorosłych. S57 i S58 to duplikat. |
 | **1 X 1080** | **Meinhard rozpoczyna fabrykowanie roszczenia do Fürstenbergu**, postęp **0,0/100**, szacunkowo **2 lata**. **Marszałek Radbot nadal zwiększa kontrolę w Hohenbergu**, szacunkowo **4 lata**. Hedwig wykonuje **„Asystuj władcy”**. | S59 i jednoznaczna korekta gracza. Zadania i czas są pod kartami Meinharda i Radbota. Nie przypisywać Fürstenbergu Hedwig ani roszczenia Hohenbergu Meinhardowi. Brak jeszcze uzyskanego roszczenia i wojny o Fürstenberg. |
 
-## Stan na koniec odcinka — 1 października 1080
+## Stan z zestawu ekranów — 1 października 1080
 
 - Burkhard włada Zollern i Hohenbergiem. Wojna przyniosła okupację i splądrowanie Hohenbergu, następnie jego odzyskanie 12 XII 1079.
 - Ostatni odczyt kontroli: **100 w Zollern, 25 w Hohenbergu (+1,57/miesiąc) w lipcu 1080**. W październiku nadal działa tam Radbot; brak nowego pomiaru kontroli.
@@ -113,3 +113,20 @@ Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal k
 - Astra może opisać zwycięskie zakończenie kampanii Rudolfa i przejście do odbudowy. Nie przypisuje powracającego w marcu kontyngentu Hohenzollernów do majowej bitwy. Szczegółowe klauzule traktatu, transfer tytułów i lista uwolnionych jeńców nie zostały odczytane.
 - **Zatwierdzona oprawa literacka:** wieść o końcu wojny dociera na dwór; Burkhard i rada skupiają się na przywracaniu porządku w Hohenbergu, rodzinie i gospodarce. Rozmowy, emocje, sceny powrotu i codziennej odbudowy są dopowiedzeniem autorskim, nie dodatkowymi rekordami gry.
 - Nie dopowiadamy jako danych źródłowych sprawcy spisku, przyczyn śmierci, dokładnej daty końca regencji, narodzin Adelheid ani ukończenia budów. W narracji można pozostawić te szczegóły poza kadrem, bez blokowania opowieści.
+
+
+## Punkt save’a — 2 października 1080
+
+**Źródło:** `von_Hohenzollern(20261016-154350).ck3`, CK3 1.20.1. To punktowy dopisek do osi na podstawie save’a; sekwencja 59 zrzutów ekranu kończy się 1 X 1080.
+
+- Burkhard ma 30 lat, żyje i włada Zollern oraz Hohenbergiem. W save’ie z 2 X nie ma aktywnej wojny Burkharda.
+- Pole save’a `last_war_finish_date` wskazuje **1 VI 1080** jako datę zakończenia jego ostatniej wojny.
+- Żyjące dzieci Burkharda i Hedwig: Burkhard (ur. 27 XII 1068), Martin (2 XI 1073), Adelheid (18 X 1076) i Ulrich (12 III 1078). Widoczna lista sukcesji po Burkhardzie: Burkhard, Martin, Ulrich, Adelheid — jest to stan w chwili zapisu, nie gwarancja przyszłego następstwa.
+- Adelheid jest zaręczona z Friedrichem von Stauferem (ur. 13 V 1080); save potwierdza zaręczyny dzieci, nie małżeństwo.
+- Save odnotowuje śmierć Leopolda (ur. 21 IV 1070, zm. 7 VII 1071) po chorobie dziecięcej. Stres Burkharda wynosi 65; to wartość mechaniczna, nie gotowy opis emocji.
+
+### Data save’a a zatwierdzone zamknięcie narracyjne wojny
+
+Użytkownik zatwierdził **18 V 1080** jako datę zamknięcia wojny w kanonie narracyjnym. Save zawiera osobny, surowy wpis `last_war_finish_date=1080.6.1`. Zachowujemy oba zapisy z ich statusem: 18 V pozostaje zatwierdzoną datą narracyjną, a 1 VI — datą zapisaną w polu save’a. Nie utożsamiamy ich i nie zmieniamy poprzedniego rozstrzygnięcia bez nowej decyzji użytkownika.
+
+Save nie podaje warunków pokoju ani końcowego raportu bitwy. Powiązanie pola z ostatnią wojną z majowym meldunkiem o Clettgau jest zestawieniem punktów źródłowych; nie dopisujemy szczegółów traktatu ani przebiegu ostatniego starcia.
