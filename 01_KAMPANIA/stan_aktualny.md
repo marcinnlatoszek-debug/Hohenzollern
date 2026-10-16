@@ -2,7 +2,7 @@
 
 **Ostatni zweryfikowany i zatwierdzony odczyt pełnego save'a:** **18 października 1073**, `von_Hohenzollern(20261014-200855).ck3` (CK3 1.20.1). Duplikat `von_Hohenzollern(20261014-201208).ck3` jest identyczny bajtowo.  
 **Poprzedni zatwierdzony pełny save:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (1070 dni gry wcześniej).  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **1 października 1073** — po udanej inspekcji Hohenbergu i rozpoczęciu regencji Burkharda nad księciem Rudolfem, ekran epidemii pokazuje grypę Wszebora i gruźlicę; widoczna liczba ofiar wynosi 0. Pełny save z 18 X 1073 jest nowszy od tej obserwacji ekranowej.  
+**Najnowsza zatwierdzona obserwacja ekranowa:** **1 X 1080**; szczegóły w osi 1078–1080. Ostatni zatwierdzony odczyt pełnego save'a pozostaje osobnym punktem: 18 X 1073.
 **Starszy punkt archiwalny:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja najnowszego punktu 18 X 1073:** 14 października 2026, potwierdzenie użytkownika „zatwierdzam” po raporcie porównawczym. Wcześniejszy punkt 12 XI 1070 zatwierdzono osobno („Tak”).  
 **Początek właściwej opowieści:** 6 marca 1067.  
@@ -31,7 +31,7 @@
 - **Frakcje:** **18 X 1073** odczytano frakcję populistyczną `16777365` przeciw Heinrichowi; **12 XI 1070** brak jej w odczycie. W obu punktach nie odczytano aktywnej frakcji przeciw Rudolfowi. Skład i siła frakcji nieustalone.
 - **Poza Szwabią:** odczytano zmiany posiadaczy `c_stormarn`, `d_nordgau`, `d_salzburg`, `d_osterreich`, `c_vienna`, `c_holstein`, `c_ditmarschen`, `c_brunswick`. **Nie rozstrzygnięto przyczyn zmian**.
 - **Regencja Rudolfa:** początek 3 VIII 1073 potwierdzony, koniec i trwanie 18 X 1073 nadal **NIEUSTALONE**.
-- **Późniejszy plik:** `von_Hohenzollern(20261015-182245).ck3` to save z **4 II 1075**, nie zatwierdzony jako nowa granica osi. Stan świata i fabuła pozostają przy **18 X 1073**.
+- **Późniejszy plik:** `von_Hohenzollern(20261015-182245).ck3` to save z **4 II 1075**, nie zatwierdzony jako nowa granica osi. Zakres tego odczytu politycznego pozostaje przy **18 X 1073**; późniejsze zatwierdzone screeny rozwijają chronologię do **1 X 1080**.
 
 ## Wcześniejsza obserwacja — 16 listopada 1070
 
@@ -120,3 +120,19 @@
 - **1 X 1073:** panel epidemii pokazuje grypę Wszebora i gruźlicę, 0 ofiar śmiertelnych; Turnov nie jest zagrożony zakażeniem grypą Wszebora.
 - Propozycja uczynienia Luitgard opiekunką syna Burkharda pozostaje niewysłana na widocznym ekranie; data i odpowiedź nieustalone.
 - To obserwacje ekranowe, nie nowy punkt pełnego save'a. Nowy pełny save z 18 X 1073 zweryfikowano; jego zakres i ograniczenia opisuje raport 1073.
+
+
+## Bieżąca chronologia ekranowa — 1 X 1080
+
+Źródło: [oś 1078–1080](../campaign/Os_czasu_Zollern_1078-1080.md) i [brief Astry](../campaign/Brief_dla_Astry_fabula_1078-1080.md). Burkhard posiada Zollern i Hohenberg; zamek Hohenberg odbito 12 XII 1079. Ostatni pomiar lipcowy: kontrola Zollern 100, Hohenberg 25 (+1,57/miesiąc), rozwój odpowiednio 8 i 9; nie przenosić liczb na październik. Meinhard rozpoczyna roszczenie do Fürstenbergu, Radbot zwiększa kontrolę w Hohenbergu, Hedwig asystuje. Hupold III zmarł 12 IV 1080; we wrześniu potwierdzono nowe sojusze i zaręczyny Adelheid. Wojna o Clettgau zakończona zgodnie z potwierdzeniem gracza opisanym poniżej.
+
+
+## Korekta i rozstrzygnięcie gracza — 16 X 2026
+
+Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal koniec, reszte dopowiedz zatwierdzam zapisz”.
+
+- **Zakończenie wojny Rudolfa o Clettgau jest potwierdzone przez gracza**; wcześniejsze traktowanie jej końca jako niepotwierdzonego jest nieaktualne.
+- **18 V 1080 przyjmujemy jako datę zamknięcia wojny w kanonie narracyjnym**, wiążąc zakończenie z ostatnim datowanym starciem i wynikiem +100%. Jest to ustalenie redakcyjne wykonane na polecenie i za zgodą gracza, nie ponowny odczyt daty traktatu z obrazu lub save'a.
+- Astra może opisać zwycięskie zakończenie kampanii Rudolfa i przejście do odbudowy. Nie przypisuje powracającego w marcu kontyngentu Hohenzollernów do majowej bitwy. Szczegółowe klauzule traktatu, transfer tytułów i lista uwolnionych jeńców nie zostały odczytane.
+- **Zatwierdzona oprawa literacka:** wieść o końcu wojny dociera na dwór; Burkhard i rada skupiają się na przywracaniu porządku w Hohenbergu, rodzinie i gospodarce. Rozmowy, emocje, sceny powrotu i codziennej odbudowy są dopowiedzeniem autorskim, nie dodatkowymi rekordami gry.
+- Nie dopowiadamy jako danych źródłowych sprawcy spisku, przyczyn śmierci, dokładnej daty końca regencji, narodzin Adelheid ani ukończenia budów. W narracji można pozostawić te szczegóły poza kadrem, bez blokowania opowieści.
