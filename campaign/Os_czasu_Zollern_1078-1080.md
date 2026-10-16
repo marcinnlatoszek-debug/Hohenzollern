@@ -90,15 +90,26 @@
 - Wanzel jest przyjacielem Burkharda. Sojusze z Adalbertem z Nördlingen i Friedrichem III z Grüningen są potwierdzone. Sojusz związany z Hupoldem III wygasł po jego śmierci.
 - Ulrich urodził się 12 III 1078; syn Burkhard zachowuje Ambitny i Pokorny w dwóch opisanych wydarzeniach. Martinowi wybrano opiekunkę Luitgard, Adelheid zaręczono ze Stauferem.
 - Meinhard zaczyna nowy proces roszczeniowy dotyczący Fürstenbergu, nie odzyskanego już Hohenbergu.
-- Pod Hegau zwycięstwo jest potwierdzone. W maju wojna o Clettgau osiąga +100%, lecz **zestaw nie zawiera dokumentu pokoju ani końcowego raportu bitwy pod Clettgau**. Nie ustalono z tych obrazów formalnej daty zakończenia wojny i warunków pokoju.
+- Pod Hegau zwycięstwo jest potwierdzone. Zakończenie wojny o Clettgau potwierdził gracz 16 X 2026; 18 V 1080 przyjęto jako datę zamknięcia narracyjnego. Szczegóły podstawy datowania opisano w korekcie poniżej.
 
 ## Hipotezy i prognozy gracza — poza faktami dokonanymi
 
 1. Wrześniowy marsz wroga na południe w 1078 mógł służyć szukaniu walnej bitwy z Rudolfem.
 2. Zgrupowanie z 26 II 1080 prawdopodobnie przygotowywało się do rozstrzygającej walki; po nim faktycznie pokazano Hegau.
-3. Bitwa z 18 V 1080 miała zakończyć prawie pięcioletnią wojnę. To zapowiedź gracza; nie zastępuje dokumentu końcowego pokoju.
+3. Dawna niepewność zakończenia wojny została rozstrzygnięta późniejszym potwierdzeniem gracza; patrz korekta 16 X 2026.
 4. Określenia „największa wojna” i „największa bitwa na tych ziemiach” są zatwierdzonym opisem skali kampanii przez gracza, nie statystycznym porównaniem ze wszystkimi wojnami świata.
 
 ## Historia zapisu
 
 16 X 2026: pełny ponowny przegląd obrazów i zapis po wyraźnym poleceniu gracza. Błędy wcześniejszych odpowiedzi z tej rozmowy rozliczono w [audycie](Audyt_screenow_1078-1080_2026-10-16.md); nie są alternatywnym kanonem.
+
+
+## Korekta i rozstrzygnięcie gracza — 16 X 2026
+
+Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal koniec, reszte dopowiedz zatwierdzam zapisz”.
+
+- **Zakończenie wojny Rudolfa o Clettgau jest potwierdzone przez gracza**; wcześniejsze traktowanie jej końca jako niepotwierdzonego jest nieaktualne.
+- **18 V 1080 przyjmujemy jako datę zamknięcia wojny w kanonie narracyjnym**, wiążąc zakończenie z ostatnim datowanym starciem i wynikiem +100%. Jest to ustalenie redakcyjne wykonane na polecenie i za zgodą gracza, nie ponowny odczyt daty traktatu z obrazu lub save'a.
+- Astra może opisać zwycięskie zakończenie kampanii Rudolfa i przejście do odbudowy. Nie przypisuje powracającego w marcu kontyngentu Hohenzollernów do majowej bitwy. Szczegółowe klauzule traktatu, transfer tytułów i lista uwolnionych jeńców nie zostały odczytane.
+- **Zatwierdzona oprawa literacka:** wieść o końcu wojny dociera na dwór; Burkhard i rada skupiają się na przywracaniu porządku w Hohenbergu, rodzinie i gospodarce. Rozmowy, emocje, sceny powrotu i codziennej odbudowy są dopowiedzeniem autorskim, nie dodatkowymi rekordami gry.
+- Nie dopowiadamy jako danych źródłowych sprawcy spisku, przyczyn śmierci, dokładnej daty końca regencji, narodzin Adelheid ani ukończenia budów. W narracji można pozostawić te szczegóły poza kadrem, bez blokowania opowieści.
