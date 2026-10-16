@@ -12,7 +12,7 @@ Ułóż dalszy ciąg opowieści po 28 XII 1077, w krótkich rozdziałach możliw
 
 Źródła pozwalają pokazać długą, zwycięską w bitwach kampanię Rudolfa, lecz z **realną klęską lokalną: utratą zamku Hohenberg w sierpniu 1078**. Gracz mówi o największej wojnie na tych ziemiach i cudownym ocaleniu Zollern. Nie zamieniaj tego w oblężenie i zdobycie Zollern.
 
-Nie przedstawiaj bitwy pod Hegau z marca oraz bitwy pod Clettgau z maja 1080 jako jednego starcia. Nie ustalaj formalnej daty pokoju: ostatni kadr wojenny pokazuje wynik +100%, ale brak dokumentu końcowego.
+Nie przedstawiaj bitwy pod Hegau z marca oraz bitwy pod Clettgau z maja 1080 jako jednego starcia. Zakończenie wojny potwierdził gracz 16 X 2026; datą zamknięcia narracyjnego jest 18 V 1080, zgodnie z rozstrzygnięciem na końcu dokumentu.
 
 ## Łuk I — Wojna podchodzi pod dom
 ### 26 stycznia – 30 maja 1078
@@ -111,7 +111,7 @@ Nie przedstawiaj bitwy pod Hegau z marca oraz bitwy pod Clettgau z maja 1080 jak
 
 **Granice:** nie przypisywać całych 288 ofiar Hohenzollernom; nie ustalać straty żadnego z czterech nazwanych rycerzy. Nie stawiać hrabiego Burkharda osobiście w pierwszym szeregu wyłącznie na podstawie obecności jego wojska.
 
-## Łuk VII — Po bitwie, jeszcze przed udokumentowanym pokojem
+## Łuk VII — Zakończenie wojny i odbudowa
 ### Kwiecień – maj 1080
 
 **Fakty obowiązkowe:**
@@ -123,7 +123,7 @@ Nie przedstawiaj bitwy pod Hegau z marca oraz bitwy pod Clettgau z maja 1080 jak
 
 **Proponowana funkcja w fabule:** po marcowym powrocie kontyngentu wojna nadal może być obecna w meldunkach. Rodzina przeżywa śmierć Hupolda i utratę dawnego oparcia politycznego. Nowe sojusze z września są późniejszymi faktami, ale nie przypisuj im automatycznie motywu zastąpienia Hupolda — źródła nie pokazują takiej deklaracji.
 
-**Granice:** nie wysyłać powracających Hohenzollernów z powrotem pod Clettgau bez potwierdzenia. Nie dopisywać raportu zwycięstwa z 18 V, podpisanego pokoju, cesji terytorialnej ani uwolnienia jeńców. Nie pomijać, że +100% wyniku i formalny traktat są różnymi rzeczami.
+**Granice:** nie wysyłać powracających Hohenzollernów z powrotem pod Clettgau bez potwierdzenia. Zakończenie wojny uwzględnić według późniejszego potwierdzenia gracza. Nie dopisywać nieodczytanych klauzul traktatu ani listy uwolnionych jeńców. Nie pomijać, że +100% wyniku i formalny traktat są różnymi rzeczami.
 
 ## Łuk VIII — Odbudowa siły i wychowanie następcy
 ### Lipiec – lato 1080
@@ -184,3 +184,14 @@ Nie przedstawiaj bitwy pod Hegau z marca oraz bitwy pod Clettgau z maja 1080 jak
 - Zwracać uwagę, komu przypisano podpis pod portretem. „Dworzanin Arnolda” dotyczy Gebharda, nie Burkharda.
 - Powiadomienie ogólne „wzięły ślub” zestawić z właściwą umową: w tym przypadku zawarto zaręczyny dzieci.
 - Najnowszy dzień odcinka to 1 X 1080. Szacowane terminy koszar, rynku i roszczenia nie są potwierdzonymi przyszłymi wynikami.
+
+
+## Korekta i rozstrzygnięcie gracza — 16 X 2026
+
+Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal koniec, reszte dopowiedz zatwierdzam zapisz”.
+
+- **Zakończenie wojny Rudolfa o Clettgau jest potwierdzone przez gracza**; wcześniejsze traktowanie jej końca jako niepotwierdzonego jest nieaktualne.
+- **18 V 1080 przyjmujemy jako datę zamknięcia wojny w kanonie narracyjnym**, wiążąc zakończenie z ostatnim datowanym starciem i wynikiem +100%. Jest to ustalenie redakcyjne wykonane na polecenie i za zgodą gracza, nie ponowny odczyt daty traktatu z obrazu lub save'a.
+- Astra może opisać zwycięskie zakończenie kampanii Rudolfa i przejście do odbudowy. Nie przypisuje powracającego w marcu kontyngentu Hohenzollernów do majowej bitwy. Szczegółowe klauzule traktatu, transfer tytułów i lista uwolnionych jeńców nie zostały odczytane.
+- **Zatwierdzona oprawa literacka:** wieść o końcu wojny dociera na dwór; Burkhard i rada skupiają się na przywracaniu porządku w Hohenbergu, rodzinie i gospodarce. Rozmowy, emocje, sceny powrotu i codziennej odbudowy są dopowiedzeniem autorskim, nie dodatkowymi rekordami gry.
+- Nie dopowiadamy jako danych źródłowych sprawcy spisku, przyczyn śmierci, dokładnej daty końca regencji, narodzin Adelheid ani ukończenia budów. W narracji można pozostawić te szczegóły poza kadrem, bez blokowania opowieści.
