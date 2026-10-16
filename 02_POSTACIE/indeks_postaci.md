@@ -7,6 +7,12 @@
 **Metoda tworzenia wiarygodnych osobowości dla Astry:** [Zasady interpretacji charakteru CK3](../05_MECHANIKI_CK3/Zasady_interpretacji_charakteru.md).  
 Wpisane identyfikatory cech i wartości UI są faktami gry; możliwe motywacje są interpretacją, nie zdarzeniami historycznymi.
 
+## Referencje wizualne do opowiadania — rok 1080 (zatwierdzone 16 X 2026)
+
+- **[Hrabia Burkhard starszy, ID 66952 — wygląd w październiku 1080](66952/wyglad.md):** 30 lat, bardzo jasny blond, szaroniebieskie oczy, jasny krótki zarost, kolczuga i ciemny płaszcz z czerwonym obszyciem.
+- **[Burkhard młodszy, ID 79306 — wygląd w wieku 11 lat w 1080](79306/wyglad.md):** krótkie ciemnobrązowe włosy, jasne zielononiebieskie oczy, czarno-czerwona tunika z haftem.
+- Referencje opracowano na podstawie serii screenów przesłanych 16 X 2026; **opis tekstowy jest zapisany w repozytorium, same pliki obrazów pozostają w rozmowie**. Nie używać portretów do dopisywania wydarzeń, cech ani szczegółów świata gry. Wspólny portret hiperrealistyczny wykonany w rozmowie to artystyczna adaptacja, nie samodzielny dowód kanonu.
+
 ## Zatwierdzony nowy stan — 18 października 1073
 
 Źródło: [raport odczytu save'a 18 X 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md), [oś wydarzeń 1070–1073](../campaign/Os_czasu_Zollern_1070-1073.md).
