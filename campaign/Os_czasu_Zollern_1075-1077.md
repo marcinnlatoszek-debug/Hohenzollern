@@ -42,3 +42,8 @@
 Hohenzollernowie nadal uczestniczą w wojnie po stronie zwycięskich w bitwach sił księcia Rudolfa. Ich rycerze i żołnierze są zahartowani, lecz okupione to zostało licznymi poległymi. Fort w Clettgau pozostaje pod okupacją Rudolfa; inne widoczne oblężenia nie mają potwierdzonego finału. Adalbert maszeruje do Elsgau, a połączenie jego sił z drugą armią i dalszy wynik kampanii pozostają otwarte.
 
 **Dalszy ciąg dla fabuły:** [brief dla Astry, 1076–28 XII 1077](Brief_dla_Astry_fabula_1076-1077.md).
+
+
+## Kontynuacja po 28 grudnia 1077
+
+Dalszy ciąg oraz ponowny odczyt kolejnych screenów: [oś czasu 1078–1 X 1080](Os_czasu_Zollern_1078-1080.md). Materiał dla Astry: [brief 1078–1080](Brief_dla_Astry_fabula_1078-1080.md). Historyczny punkt końcowy tego pliku pozostaje 28 XII 1077.
