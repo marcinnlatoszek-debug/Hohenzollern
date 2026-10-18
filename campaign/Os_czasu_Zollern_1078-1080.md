@@ -169,3 +169,11 @@ Powiązania historyczne niezmienione: **8 VII 1073** inspekcja i pobór Hohenber
 **Interpretacja, nie fakt dokonany:** dodatni bilans po wojnie jest argumentem za odbudową finansową domeny; pozostałych wydarzeń nie wyprowadzamy z samych wartości.
 
 [Pełny raport U02](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md).
+
+---
+
+## Doprecyzowanie przy punkcie 2 X 1080 — HZ-1080-10-02-U02-C01
+
+Użytkownik potwierdził 18 X 2026: **małżeństwo Gerlacha i Luitgard istnieje od dawna**; data jego zawarcia nie została podana. Zdjęcia z 1080 miały pokazać **ich syna Gautselina**, nie nowe wesele. **Nie dodawać nowej daty ślubu ani narodzin.**
+
+**Oddzielna warstwa literacka:** można opowiadać o **początkach przyjaznych relacji Gautselina z młodszym Burkhardem (79306)**. Na 2 X 1080 obaj mają 11 lat. To **dopuszczone dopowiedzenie fabularne**, a nie potwierdzony w CK3 status `friend` czy nowe datowane wydarzenie. [Brief dla Astry](Brief_dla_Astry_Gautselin_i_Burkhard_1080.md).
