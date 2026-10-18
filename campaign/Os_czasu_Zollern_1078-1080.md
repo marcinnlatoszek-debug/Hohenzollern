@@ -149,3 +149,23 @@ Powiązania historyczne niezmienione: **8 VII 1073** inspekcja i pobór Hohenber
 **Opis polityczny:** Zollern jest względnie stabilnym centrum domeny, Hohenberg odbudowuje kontrolę po wojnie; to **wniosek interpretacyjny**, nie nowa decyzja Burkharda. Szczegóły: [raport uzupełniający](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U01_uzupelnienie.md).
 
 **Historia zapisu:** 18 X 2026 — przyjęto nowy pakiet użytkownika jako uzupełnienie, bez korekty starszych zatwierdzonych dat, narodzin, zgonów, wojen, małżeństw lub sukcesji.
+
+---
+
+## Zatwierdzony przekrój rodziny i zasobów — 2 października 1080 (`HZ-1080-10-02-U02`)
+
+**Status:** zatwierdzony przez użytkownika 18 X 2026; **data gry 2 X 1080 wskazana dla zestawu**, nie jest osobno widoczna na każdym kadrze. 6 screenshotów: [źródła i SHA-256](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U02.md). Uzupełnienie **nie zmienia** przyjętych wcześniej faktów i dat ani pakietu U01.
+
+| Data gry | Obserwacja (stan, nie nowe zdarzenie) | Ograniczenia |
+|---|---|---|
+| **2 X 1080** | **Gautselin, 11 lat** — dworzanin, szwabski, nisko urodzony; 4 dyplomacji, 8 wojskowości, 10 zarządzania, 4 intrygi, 4 nauki i 6 waleczności. Rodzice: **Gerlach (72054)** i **Luitgard**. | Brak daty urodzenia i ID CK3 Gautselina. Nie wpisywać porodu w 1080. |
+| **2 X 1080** | **Gerlach, 37 lat**, zarządca, wielki łowczy, rycerz; żona **Luitgard**, syn **Gautselin**, przebywa w Zollern. | Brak daty ślubu i pewnego ID CK3 małżonki. Nie utożsamiać z inną Luitgard. |
+| **2 X 1080** | **Burkhard**: skarb **371 złota**, łączny dochód **+9,2**, wydatki **−5,3**, bilans **+3,9/miesiąc**, wojsko **1406**. | Zaokrąglone dane UI, nie pomiar składu regimentów ani dowód rozkazu rekrutacji. |
+| **2 X 1080** | Burkhard: **946 prestiżu** (+0,99/mies.), **271 pobożności** (+2,10/mies.); **renoma dynastii 102** (+0,35/mies.). Poziomy: Postać wybitna; Postać sumienna; Początek korzeni. | Renoma dynastii oddzielna od zasobów osobistych. |
+| **2 X 1080** | Legitymacja Burkharda **„Uznany władca” 2/5, 350/1000**, zmiana 0/mies. Efekty: −25% okresu krótkiego panowania, niewielka ulga w kosztach roszczenia i wzrost akceptacji małżeństw; oczekiwania wasali „Ambitny (1/5)”. | **Nie** jest nowym awansem poziomu 2/5, który był już zapisany w 1073; oczekiwania wasali nie są cechami wszystkich postaci. |
+
+**Weryfikacja między pomiarami:** stan wojska 1207 w panelu z 24 VII 1080 i obecnie 1406 daje różnicę +199, ale jej przyczyna nie wynika z tych screenshotów. Niezidentyfikowany licznik **2/4** przy pasku zasobów pozostaje otwarty.
+
+**Interpretacja, nie fakt dokonany:** dodatni bilans po wojnie jest argumentem za odbudową finansową domeny; pozostałych wydarzeń nie wyprowadzamy z samych wartości.
+
+[Pełny raport U02](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md).
