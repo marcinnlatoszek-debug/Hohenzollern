@@ -29,3 +29,11 @@ Na zrzucie: młoda osoba o krótkich ciemnych włosach, jasnej cerze; zielone ub
 Nie ustalono daty urodzenia, ID gry, daty ślubu rodziców, kodów cech, przyszłego urzędu, więzi z synami Burkharda ani faktu wspólnej nauki. Wpis rodziny jest obserwacją jej stanu, **nie zdarzeniem narodzin w 1080**.
 
 [Raport szczegółowy](../../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md).
+
+---
+
+## Kierunek fabularny zatwierdzony 18 X 2026 — HZ-1080-10-02-U02-C01
+
+Gautselin jest **synem Gerlacha i Luitgard, których małżeństwo trwa już od dawna**. Użytkownik przekazał nowy screenshot, aby przedstawić chłopca, nie by informować o ślubie rodziców. **Nie wprowadzać nowego porodu ani ceremonii w 1080 roku.**
+
+Użytkownik dopuścił przedstawienie w powieści **początków przyjaznych relacji Gautselina i młodszego Burkharda von Hohenzollern (ID CK3 79306)**. Obaj mają **11 lat na 2 X 1080**. Sceny pierwszych rozmów i stopniowego zaufania można kreować literacko, ale **nie ma potwierdzonego z gry statusu przyjaciela** ani daty zawarcia przyjaźni. Nierówność urodzenia — syn zarządcy i łowczego oraz syn hrabiego — stanowi możliwe tło, nie dowód określonego konfliktu. [Brief dla Astry](../../campaign/Brief_dla_Astry_Gautselin_i_Burkhard_1080.md).
