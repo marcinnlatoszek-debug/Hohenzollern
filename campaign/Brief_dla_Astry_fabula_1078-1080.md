@@ -206,3 +206,13 @@ Punkt źródłowy: `von_Hohenzollern(20261016-154350).ck3`, CK3 1.20.1. Uzupełn
 **Rozbieżność dat do zachowania:** użytkownik zatwierdził **18 V 1080** jako narracyjną datę zamknięcia wojny, a save zapisuje **1 VI 1080** jako datę zakończenia ostatniej wojny Burkharda. Zachowuj 18 V jako wcześniejsze rozstrzygnięcie narracyjne i 1 VI jako pole save’a; nie przesuwaj samodzielnie daty sceny ani nie przedstawiaj jednej z nich jako błędu drugiej. To zestawienie nie ustala warunków pokoju ani przebiegu końcowego starcia.
 
 **Możliwy kierunek scen — interpretacja, nie fakt:** powrót do rządzenia Zollern i Hohenbergiem oraz polityczne plany dorosłych wokół dziecięcych zaręczyn. Stres z save’a nie wystarcza sam w sobie do przypisania Burkhardowi konkretnego nastroju. Nie dopisuj sceny śmierci Leopolda ani wyniku turnieju na podstawie samego sierpniowego znacznika aktywności.
+
+---
+
+## Uzupełnienie fabularne U02-C01 — Gautselin i młodszy Burkhard (potwierdzenie 18 X 2026)
+
+**Korekta faktograficzna użytkownika:** Gerlach, zarządca, wielki łowczy i rycerz, **już dawno poślubił Luitgard**; aktualny ekran pokazuje **ich 11-letniego syna Gautselina**, a nie nowe małżeństwo. Data ceremonii nieustalona. Nie umieszczać ślubu ani narodzin Gautselina w 1080 jako nowego zdarzenia.
+
+**Zatwierdzona swoboda narracyjna:** w okresie około 2 X 1080 wolno **stopniowo rozpocząć przyjazne kontakty** między Gautselinem a **młodszym Burkhardem (79306)**, też 11-letnim. Rozmowy, wspólne chwile i rosnące zaufanie mogą być tworzone przez Astrę **jako proza**, lecz nie przedstawiać formalnej przyjaźni jako danych mechanicznych z gry. Rozróżniać ojca hrabiego (66952) od syna (79306). Nie utożsamiać Luitgard z opiekunką Martina bez odrębnych dowodów.
+
+Pełne rozdzielenie faktów i oprawy literackiej: [brief Astry dotyczący Gautselina i młodszego Burkharda](Brief_dla_Astry_Gautselin_i_Burkhard_1080.md).
