@@ -102,3 +102,17 @@ Nie dopisano niepotwierdzonych bitew, wojen, wydarzeń religijnych, narodzin ani
 **Kopia awaryjna:** GitHub — [indeks źródeł i sumy](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U02.md), [audyt](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md), karty Gerlacha, Gautselina, Luitgard i Burkharda, indeks postaci, oś 1078–1080 oraz stan kampanii. **Pliki PNG nie zostały binarnie dodane do GitHuba.**
 
 **Ochrona historii:** nie nadpisano punktu U01, nie dopisano wydarzeń porodów, ślubów, wojen lub awansów, nie wymyślono dat urodzenia i numerów CK3. Data gry przypisana przez użytkownika zestawowi 6 niedatowanych osobno kadrów.
+
+
+## 18 października 2026 — zatwierdzona obsada literacka 22 postaci / oś fabularna 2 X 1080
+
+**Decyzja:** użytkownik zatwierdził wszystkich dotychczasowych bohaterów autorskich i zażądał uzupełnienia danych fabuły oraz osi czasu. Ustalono 16 wcześniejszych + 6 nowych od 2 października 1080 = **22 fikcyjne postacie**. 
+
+- W głównej bazie Supabase `chronicle` wprowadzono karty 22 postaci, daty urodzenia, referencyjne wyglądy 2 X 1080, relacje, wpisy i powiązania osi fabularnej. Źródło: jawne zatwierdzenie użytkownika w rozmowie, nie odczyt save'a.
+- **Hartwig**, ur. 16 VI 1046, ciężkozbrojny MIECZNIK, służba od 1071; **Konrad**, ur. 24 V 1040, ciężkozbrojny MIECZNIK, służba od 1068. Obaj są weteranami wojny 1075–1080.
+- **Volkmar**, ur. 23 VIII 1049, pieszy ŁUCZNIK, służba od 1073, weteran wojny 1075–1080. Nie zastępować jego imienia błędnym „Ulrich” z grafiki.
+- Rodzina z karczmy **„Pod Trzema Dębami”** koło Bellingam, niedaleko willi Burkharda: **Kuno** (ur. 4 IV 1035), **Adelheid z Bellingam** (ur. 11 VIII 1039), **Berthold** (ur. 20 III 1062). Adelheid z Bellingam nie jest Adelheid ID 31878 ani córką Burkharda; Berthold z Bellingam nie jest Bertholdem z Zähringen ani Rheinfelden.
+- Zapisano rozróżnienie między retrospektywnymi początkami służby 1068/1071/1073, wojną 1075–1080 i **debiutem narracyjnym od 2 X 1080**. Nie dopisano fabularnych żołnierzy do potwierdzonych przez CK3 bitew.
+- [Karty autorskich bohaterów](../02_POSTACIE/FIKCYJNE/obsada_autorska_1080-10-02.md) · [osobna oś fabularna](../campaign/Os_fabularna_postaci_autorskich_do_1080-10-02.md).
+
+**Status danych:** `fiction` / zatwierdzony kanon literacki; `verified_game` pozostaje bez zmian.
