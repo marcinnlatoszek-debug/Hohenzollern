@@ -82,3 +82,13 @@ Dokument źródłowy: [rozpoznanie cech w raporcie](../07_ANALIZY/raporty_zmian/
 Nie dopisano niepotwierdzonych bitew, wojen, wydarzeń religijnych, narodzin ani zmian w radzie. Statystyki z surowych tokenów binarnych nie są traktowane jako wartości interfejsu gry. Nie ustalono aktualnych zasobów, pełnego składu dworu, frakcji, armii, budynków ani sukcesji poszczególnych tytułów. Osobne karty Rudolfa (35525), Gerlacha (72054) i Matthiasa (61022) nie zostały utworzone w tej operacji; ich dane pozostają w raporcie źródłowym.
 
 [Stan aktualny](stan_aktualny.md) · [Raport 12 XI 1070](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md) · [Oś wydarzeń](../campaign/Os_czasu_Zollern_1068-1070.md)
+
+---
+
+## 18 X 2026 — pakiet HZ-1080-10-02-U01, obserwacja 2 X 1080
+
+**Decyzja:** wyraźne zatwierdzenie użytkownika: Rudolf, Zollern, Hohenberg, cztery modyfikatory Hohenbergu, inwestycje, zbiorcza oś czasu i rejestr źródeł; zakaz dopisywania niepotwierdzonych zdarzeń.  
+**Główna baza:** Supabase `Hohenzollern`, schemat `chronicle`; kontrola odczytu po zapisie: 11 screenshotów, 1 źródło zgody, 1 wydarzenie `screen_batch:HZ-1080-10-02-U01:1080-10-02`, 1 snapshot Rudolfa i 1 nowa pozycja osi, 12 linków do źródeł.  
+**Backup GitHub:** [rejestr zrzutów](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U01.md), [raport](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U01_uzupelnienie.md), aktualizacja kart Rudolfa, Zollern, Hohenbergu, Szwabii i osi chronologicznej. PNG nie przesłano binarnie do repozytorium; ich nazwy, rozmiary i sumy SHA-256 zapisano w rejestrze.
+
+**Zachowanie historii:** nadal rozróżnia się dane z 1073, 1076, 1078, 21 VII 1080 i 2 X 1080; modyfikatory już odnotowane nie stanowią nowych wydarzeń w 1080; przyszłe daty wygaśnięcia i zakończenia budowy nie są wynikami dokonanymi.
