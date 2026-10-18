@@ -67,3 +67,14 @@ Dane z 12 XI 1070 pozostają prawdziwe **wyłącznie dla tamtej daty**; w szczeg
 - Źródłem jest ten sam save z 12 XI 1070, przesłany ponownie jako `von_Hohenzollern(20261014-155345).ck3`. Data kanonicznej osi **nie zmienia się**. Zestaw źródeł i ograniczenia podano także w [raporcie źródłowym](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).
 
 Archiwalna obserwacja z 12 XI 1070 potwierdza **życie** wymienionych postaci w tamtej chwili, nie dowodzi ciągłości ich urzędów ani tytułów niewymienionych w odczytanych rekordach. Datowany stan rady z 6 III 1067 pozostaje archiwalny.
+
+---
+
+## Zatwierdzone nowe powiązania rodzinne — 2 X 1080 (`HZ-1080-10-02-U02`)
+
+- **[Gautselin](Gautselin_syn_Gerlacha/karta.md)** — 11-letni syn Gerlacha (72054) i Luitgard, dworzanin, nisko urodzony. **ID CK3 i data urodzenia NIEUSTALONE**; klucz archiwalny `gautselin-son-of-gerlach-1080` nie jest numerem CK3.
+- **[Gerlach (72054)](72054/karta.md)** — na 2 X 1080 ma 37 lat, jest zarządcą, wielkim łowczym i rycerzem; potwierdzona małżonka Luitgard i syn Gautselin. Nie kanclerz.
+- **[Luitgard, żona Gerlacha](Luitgard_zona_Gerlacha/karta.md)** — matka Gautselina; dokładna tożsamość w stosunku do innych osób imieniem Luitgard **NIEUSTALONA**, brak CK3 ID. Osobny klucz archiwalny.
+- **[Burkhard (66952)](66952/karta.md)** — nowy datowany przekrój finansów, prestiżu, pobożności, renomy dynastii i legitymacji (2 X 1080), bez zmian w genealogii.
+
+Źródła: [indeks 6 screenów](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U02.md) i [raport](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md).
