@@ -28,3 +28,17 @@ Opis interfejsu „Wspaniałomyślny idealista” jest podsumowaniem osobowości
 - Osobowość `wrathful`, `forgiving`, `just` bez zmiany. Surowe pola: złoto **230,50**, prestiż **619,49**, pobożność **386,3**, pole sił **2980** (niekoniecznie licznik UI).
 - **3 VIII 1073:** zatwierdzony ekran potwierdza rozpoczęcie regencji Burkharda nad Rudolfem; nie potwierdzono jej trwania 18 X.
 - Aktualne frakcje, pełna rada, konflikty i relacje osobiste NIEUSTALONE. Źródło: [raport porównawczy 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
+
+---
+
+## Zatwierdzona obserwacja ekranowa — 2 X 1080 (pakiet HZ-1080-10-02-U01)
+
+**Status:** zatwierdzone przez użytkownika 18 X 2026, Supabase `chronicle`, bez nadpisania obserwacji z 1073. **Źródło:** `Zrzut ekranu 2026-10-18 210923.png` (SHA-256 w [indeksie](../../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U01.md)).
+
+- Rudolf z Rheinfelden (ID 35525), **54 lata**, książę Szwabii, nadal senior Burkharda; kultura **szwabska**, obrządek **rzymski**, UI „Wspaniałomyślny idealista”.
+- Umiejętności widoczne w UI: **dyplomacja 12**, **wojskowość 12**, **zarządzanie 12**, **intryga 6**, **nauka 22**, **waleczność 20**; oddzielny wskaźnik z ikoną między nauką a walecznością ma **1**, ale jego nazwa nie została wiarygodnie rozpoznana. Nie przypisywać mu arbitralnie nowej umiejętności.
+- Złoto **150**, prestiż **242**, pobożność **183**, poziom legitymacji **2/5**, wojsko **4031** (licznik UI, nie pole binarne); domena **4/4**, tytuły **6**.
+- Zakładki rodziny pokazują **6 dzieci** i **7 osób w rodzeństwie**; widoczne miniatury małżonki i głównego dziedzica. **Imion dzieci, pełnej kolejności sukcesji i całej listy krewnych nie ustalono** na podstawie tych miniaturek. Wiek 54 lata odnosi się wyłącznie do Rudolfa.
+- Nie dopisano trwania regencji, nowej wojny, intencji politycznych, frakcji ani zmian tytułów niepokazanych w źródle. Wartości surowego save'a z 1073 r. mają odrębny status.
+
+**[Raport pakietu](../../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U01_uzupelnienie.md)**.
