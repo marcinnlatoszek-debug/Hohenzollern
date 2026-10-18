@@ -55,6 +55,37 @@
 - **Weterani:** Hartwig i Konrad (**ciężkozbrojni miecznicy**) oraz Volkmar (**pieszy łucznik**).
 - **Bellingam:** Kuno, Adelheid i Berthold; karczma **„Pod Trzema Dębami”** blisko willi Burkharda.
 
+## Życie codzienne — punkt odniesienia: 2 października 1080
+
+Poniższe krótkie sceniczne migawki osadzają **wszystkie 22 postacie** w żywym świecie ziem Zollern. To fabularne punkty wyjścia na dzień referencyjny (nie osobne zdarzenia gry i nie przesądzenie nowych małżeństw, zgonów czy bitew). Wiek jest ukończony na dokładną datę; czynności mogą później zostać rozwinięte w opowiadania.
+
+| Postać | Wiek 2 X 1080 | Scena codzienności / sytuacja |
+|---|---:|---|
+| Wernher | 51 | Przegląda uprząż i przygotowuje wóz do kolejnego kursu. |
+| Richeza | 49 | Pilnuje rachunków i rozlicza kolejną dostawę. |
+| Rüdiger | 28 | Dogląda wozów i końskich uprzęży po wojennych latach. |
+| Oda | 54 | Uzgadnia zamówienia i sprawdza zużycie żelaza w kuźni. |
+| Ortwin | 58 | Pracuje przy kowadle, oszczędzając coraz bardziej dokuczający łokieć. |
+| Liutwin | 29 | Samodzielnie wykonuje okucia, konsultując trudniejsze prace z Ortwinem. |
+| Dietmar | 46 | Pełni straż przy bramie i obserwuje podróżnych. |
+| Willa | 43 | Pracuje przy krośnie i ćwiczy odczytywanie krótkich zapisów. |
+| Guntbert | 69 | Obchodzi obejście i zastanawia się nad przyszłością ziemi i syna. |
+| Heilika | 61 | Liczy zapasy przed zimą, dogląda drobiu i spiżarni. |
+| Notker | 35 | Pracuje na roli, ale wypatruje dodatkowego zarobku przy transporcie. |
+| Irmentrud | 64 | Kieruje przygotowaniem posiłków i zapasów w kuchni warowni. |
+| Isentrud | 26 | Pomaga na zapleczu dworu i wykorzystuje umiejętność czytania. |
+| Ekkehard | 38 | Sporządza pisma na zamówienie i nadal pomaga Isentrud. |
+| Anselm | 75 | Opiekuje się małym kościołem, zmaga się ze słabnącym wzrokiem. |
+| Salome | 48 | Porównuje ceny przędzy i płótna, planuje kolejne przewozy. |
+| Hartwig | 34 | Po wojnie pozostaje przy broni; lewa noga daje się we znaki. Ćwiczy MIECZEM. |
+| Konrad | 40 | Dba o dyscyplinę i ostrzy swój MIECZ, nie potrafi porzucić służby. |
+| Kuno z Bellingam | 45 | Przyjmuje gości w karczmie „Pod Trzema Dębami” niedaleko willi Burkharda. |
+| Adelheid z Bellingam | 41 | Dba o zapasy, kuchnię i rachunki karczmy „Pod Trzema Dębami”. |
+| Berthold z Bellingam | 18 | Pomaga rodzicom przy gościach i wypytuje weteranów o wojnę. |
+| Volkmar | 31 | Sprawdza cięciwę i strzały; bywa w Bellingam i karczmie Kuno. |
+
+**Ruch i przenikanie światów:** woźnica i kupcowe łączą wieś, kuźnię, zamek i karczmę; karczma „Pod Trzema Dębami” przy Bellingam przyjmuje wracających z wojny; miecznicy Hartwig i Konrad oraz łucznik Volkmar pozostają ludźmi dworu Burkharda, nie anonimowym tłem. Wątki społeczne rozwijają się równolegle do historii politycznej kampanii i nie zmieniają kanonu CK3.
+
 ## Granice dowodowe
 
 Chronologia autorska rozwija życie ludzi spoza bazy postaci gry. Nie dodawać żadnego z powyższych wydarzeń jako `verified_game`; wszystkie oznaczać `fiction`. Kontekst kampanii CK3 ma pierwszeństwo wobec decyzji politycznych, bitew, wojsk i losów postaci o ID gry. Narracyjna data zamknięcia wojny **18 V 1080** jest odrębna od save'owej daty końca `last_war_finish_date=1 VI 1080`; brak podstaw do podmieniania jednej drugą.
