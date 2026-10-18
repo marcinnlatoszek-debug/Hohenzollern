@@ -67,3 +67,13 @@ Poziom 2/5 został wcześniej zaobserwowany **14 IV 1073**. Zrzut z 1080 **potwi
 Wszystkie sześć kadrów zakwalifikowano jako **przekrój sytuacji na 2 X 1080**. Nie dopisano dat urodzin, ślubów, awansów czy nowych konfliktów. Wiek jest pełnymi latami z panelu, a nie źródłem konkretnej daty urodzenia.
 
 Równolegle zachowano starsze pomiary w kanonie oraz punkt zatwierdzonego zapisu `von_Hohenzollern(20261016-154350).ck3`. Pakiet U02 ma własny klucz i źródła, nie podmienia U01. W Supabase zweryfikowano 6 rekordów `screenshot`, zatwierdzenie `conversation`, snapshoty Gautselina/Gerlacha/Burkharda, 3 relacje, jeden event i jeden wpis osi.
+
+---
+
+## Aneks zatwierdzony 18 X 2026 — HZ-1080-10-02-U02-C01
+
+**Korekta źródłowa gracza:** „ślub gerlacha byl juz dawno, chcialem pokazac jego syna”. Wcześniejsze ustalenie, że **dokładna data ślubu jest nieznana**, nadal obowiązuje. Należy jednak wyraźnie zapisać, że ślub **odbył się dawno przed chwilą obserwacji 2 X 1080**, nie jest nowym wydarzeniem na osi 1080. Gautselin pozostaje **11-letnim synem Gerlacha i Luitgard**.
+
+**Odrębna zgoda twórcza gracza:** „fabuła moze pokazywac poczatek przyjaznych relacji z młodszym Burkhardem”. To zezwolenie na **rozwijanie więzi Gautselina z młodszym Burkhardem von Hohenzollern (79306)**, również 11-letnim na 2 X 1080. **Nie ma nowego dowodu z gry, że posiadają już relację przyjaźni; bez daty rzekomego zaprzyjaźnienia.** Obowiązujący [brief dla Astry](../../campaign/Brief_dla_Astry_Gautselin_i_Burkhard_1080.md).
+
+Ten aneks zapisuje korektę i uprawnienie autorskie, nie dodaje drugiego zdarzenia 2 X 1080.
