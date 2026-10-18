@@ -116,3 +116,10 @@ Nie dopisano niepotwierdzonych bitew, wojen, wydarzeń religijnych, narodzin ani
 - [Karty autorskich bohaterów](../02_POSTACIE/FIKCYJNE/obsada_autorska_1080-10-02.md) · [osobna oś fabularna](../campaign/Os_fabularna_postaci_autorskich_do_1080-10-02.md).
 
 **Status danych:** `fiction` / zatwierdzony kanon literacki; `verified_game` pozostaje bez zmian.
+
+
+## 18 X 2026 — korekta HZ-1080-10-02-U02-C01
+
+**Użytkownik potwierdził:** ślub Gerlacha i Luitgard odbył się już dawno; jego dokładna data pozostaje nieustalona, a nowy screenshot miał pokazać ich syna Gautselina (11 lat). **Odrębne upoważnienie fabularne:** Astra może stopniowo ukazywać początki przyjaznych relacji Gautselina z młodszym Burkhardem von Hohenzollern (CK3 ID 79306, 11 lat), ale brak potwierdzenia formalnej przyjaźni w mechanice gry.
+
+**Supabase:** zatwierdzenie jako nowe źródło, korekta relacji małżeńskiej bez datowania i adnotacja literacka bez nowego wydarzenia na osi. **GitHub:** uzupełnienia kart Gerlacha, Luitgard, Gautselina, młodszego Burkharda, raportu U02 i osi oraz osobny [brief Astry](../campaign/Brief_dla_Astry_Gautselin_i_Burkhard_1080.md). Poprzednich wydarzeń i źródeł nie nadpisano.
