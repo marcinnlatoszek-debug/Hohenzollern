@@ -24,3 +24,13 @@
 - Żyje; w nowym save ma cechę dziecięcą **`curious` (ciekawski)**. Dokładna data nabycia cechy NIEUSTALONA; starszy ekran wydarzenia nie dowodził wyboru opcji.
 - Młodszy brat **Leopold (81336) zmarł 7 VII 1071**. Lista genealogiczna rodziców nadal obejmuje oboje dzieci, nie oznacza to, że oboje żyją.
 - Surowy wektor bazowych umiejętności `[2,3,1,2,1,3]` (w 1070 `[0,1,0,1,1,1]`); to nie wynikowe statystyki UI. Aktualna pełna kolejność dziedziczenia NIEUSTALONA. Źródło: [raport porównawczy 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
+
+---
+
+## Zatwierdzona możliwość fabularna — HZ-1080-10-02-U02-C01 (2 X 1080)
+
+W punkcie **2 X 1080** młodszy **Burkhard (CK3 79306)** ma **11 lat** (ur. **27 XII 1068**). **Gautselin**, również 11-letni, jest synem wielkiego łowczego i zarządcy **Gerlacha (CK3 72054)** oraz jego dawno poślubionej małżonki **Luitgard**.
+
+Użytkownik pozwolił ukazywać w powieści **stopniowe początki przyjaznych relacji między chłopcami**. Jest to **warstwa literacka**, nie odczyt potwierdzonego przyjacielskiego statusu CK3 ani już dokonanego wydarzenia z datą. Nie mylić młodszego Burkharda z jego ojcem, hrabią Burkhardem (66952).
+
+[Brief dla Astry](../../campaign/Brief_dla_Astry_Gautselin_i_Burkhard_1080.md).
