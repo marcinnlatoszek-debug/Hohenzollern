@@ -146,3 +146,17 @@ Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal k
 - Astra może opisać zwycięskie zakończenie kampanii Rudolfa i przejście do odbudowy. Nie przypisuje powracającego w marcu kontyngentu Hohenzollernów do majowej bitwy. Szczegółowe klauzule traktatu, transfer tytułów i lista uwolnionych jeńców nie zostały odczytane.
 - **Zatwierdzona oprawa literacka:** wieść o końcu wojny dociera na dwór; Burkhard i rada skupiają się na przywracaniu porządku w Hohenbergu, rodzinie i gospodarce. Rozmowy, emocje, sceny powrotu i codziennej odbudowy są dopowiedzeniem autorskim, nie dodatkowymi rekordami gry.
 - Nie dopowiadamy jako danych źródłowych sprawcy spisku, przyczyn śmierci, dokładnej daty końca regencji, narodzin Adelheid ani ukończenia budów. W narracji można pozostawić te szczegóły poza kadrem, bez blokowania opowieści.
+
+---
+
+## Najnowsza zatwierdzona obserwacja ekranowa — 2 października 1080 (`HZ-1080-10-02-U01`)
+
+**Zatwierdzono:** 18 X 2026. **Baza główna:** Supabase `chronicle` (12 rekordów źródłowych: 11 screenshotów i akceptacja), **GitHub:** kopia zapasowa. Zrzuty przedstawiają stan gry na **2 X 1080** wskazany przez użytkownika; **nie zastępują pełnego audytu save’a z 18 X 1073** ani punktowego save’a z 2 X 1080.
+
+- **Rudolf** (35525), 54 l., nadal książę Szwabii: dypl. 12, wojsk. 12, zarz. 12, intryga 6, nauka 22, waleczność 20, dodatkowy nierozpoznany wskaźnik 1; złoto 150, prestiż 242, pobożność 183, legitymacja 2/5, 4031 żołnierzy UI, domena 4/4, 6 tytułów, 6 dzieci w zakładce.
+- **Zollern:** kontrola 100, rozwój 8 (58/100, +0,8/mies.), podatki +4,00, garnizon 480, ruszenie 195; potwierdzone trzy aktywne modyfikatory (bydło, pracownicy, warsztat murarski) z terminami z tooltipów.
+- **Hohenberg:** kontrola 30 (+1,57/mies.) wobec 25 z 21 VII 1080, rozwój 9, podatki +1,65, garnizon 320, ruszenie 127; cztery aktywne modyfikatory (obecność wojskowa, rolnicy z najemników, usprawniony pobór, garnizon najemników) z terminami; wcześniej potwierdzone splądrowanie zachowuje własną datę.
+- **W budowie:** drewniane koszary — 37 dni; rynek Dworu von Hohenzollern do poz. 2 — 22 miesiące, termin 21 VII 1082. **Ufortyfikowana willa:** +0,25 prestiżu miesięcznie, +2 miejsca budowli, „Wiaderko” na panelu.
+- **Nieustalone:** przyszłe ukończenia, wygaśnięcie modyfikatorów jako fakt, aktualne frakcje Rudolfa i pełna kolejność jego sukcesji. Brak nowego dokumentu pokoju.
+
+**Źródła:** [rejestr screenów](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U01.md), [raport](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U01_uzupelnienie.md), [oś 1078–1080](../campaign/Os_czasu_Zollern_1078-1080.md). Wszystkie wcześniejsze zapisy pozostają archiwalnie rozróżnione.
