@@ -174,3 +174,8 @@ Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal k
 - **Nierozstrzygnięte:** licznik 2/4 na pasku UI, daty zdarzeń rodzinnych, dokładny ID CK3 Gautselina i Luitgard, źródło przyrostu liczebności armii.
 
 **Źródła:** [6 zrzutów i SHA-256](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U02.md), [karty Gautselina i Gerlacha](../02_POSTACIE/Gautselin_syn_Gerlacha/karta.md), [oś 1078–1080](../campaign/Os_czasu_Zollern_1078-1080.md).
+
+
+## Korekta U02-C01 (18 X 2026)
+
+Gerlach i Luitgard są małżeństwem od dawna (dokładna data ślubu nieustalona), a zrzut z 2 X 1080 przedstawia ich syna Gautselina, 11 lat. W powieści dopuszczono stopniowe początki przyjaznych relacji Gautselina z młodszym Burkhardem von Hohenzollern (ID 79306, także 11 lat); przyjaźń nie jest potwierdzona jako relacja mechaniki CK3. Nie dodawać wydarzenia ślubu ani formalnego zawarcia przyjaźni do osi. [Brief dla Astry](../campaign/Brief_dla_Astry_Gautselin_i_Burkhard_1080.md).
