@@ -1,5 +1,12 @@
 # Indeks kart postaci — kampania Hohenzollern
 
+## Postacie autorskie — stan fabularny 2 X 1080 (zatwierdzone 18 X 2026)
+
+- **[22 bohaterów fikcyjnych, w tym Hartwig, Konrad, Volkmar i rodzina Kuno](FIKCYJNE/obsada_autorska_1080-10-02.md)** — odrębny kanon literacki (nie ID CK3), daty urodzenia, wiek, wygląd i relacje.
+- **[Oś fabularna: narodziny, służba, wojna i debiuty](../campaign/Os_fabularna_postaci_autorskich_do_1080-10-02.md)** — tylko fikcja zatwierdzona; nie zmienia osi faktów gry.
+- **Korekta ról:** Hartwig i Konrad to ciężkozbrojni **MIECZNICY**, Volkmar to pieszy **ŁUCZNIK**. Referencja wyglądu i wieku: **2 października 1080**.
+
+
 **Aktualizacja:** 14 października 2026.  
 **Ostatni zatwierdzony odczyt save'a:** **18 października 1073** (poprzedni 12 listopada 1070; starszy 2 sierpnia 1070).
 
