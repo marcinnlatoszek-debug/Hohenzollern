@@ -123,3 +123,15 @@ Nie dopisano niepotwierdzonych bitew, wojen, wydarzeń religijnych, narodzin ani
 **Użytkownik potwierdził:** ślub Gerlacha i Luitgard odbył się już dawno; jego dokładna data pozostaje nieustalona, a nowy screenshot miał pokazać ich syna Gautselina (11 lat). **Odrębne upoważnienie fabularne:** Astra może stopniowo ukazywać początki przyjaznych relacji Gautselina z młodszym Burkhardem von Hohenzollern (CK3 ID 79306, 11 lat), ale brak potwierdzenia formalnej przyjaźni w mechanice gry.
 
 **Supabase:** zatwierdzenie jako nowe źródło, korekta relacji małżeńskiej bez datowania i adnotacja literacka bez nowego wydarzenia na osi. **GitHub:** uzupełnienia kart Gerlacha, Luitgard, Gautselina, młodszego Burkharda, raportu U02 i osi oraz osobny [brief Astry](../campaign/Brief_dla_Astry_Gautselin_i_Burkhard_1080.md). Poprzednich wydarzeń i źródeł nie nadpisano.
+
+---
+
+## 18 X 2026 — zatwierdzony pakiet HZ-1076-BITWY-U01
+
+Użytkownik potwierdził trzy zwycięstwa Rudolfa z udziałem Hohenzollernów: Sisgau **12 IV 1076**, Wolhusen **30 VI 1076**, Clettgau **12 VIII 1076**, wraz z pierwotnymi raportami liczebności, strat i ocalałych. Dwa wspomnienia Wolhusen to jedno starcie. Clettgau 1076 jest odrębne od Clettgau 18 V 1080. Dawna informacja o fazie bitwy Sisgau z 3 IV pozostaje osobną obserwacją tej samej operacji.
+
+**Supabase — baza pierwotna:** `chronicle.events` (2 istniejące wydarzenia uzupełnione i 1 nowy rekord), `chronicle.military_records` (2 wzbogacone i 1 nowy), `chronicle.timeline_entries` (3 dodatkowe datowane wpisy) oraz `chronicle.sources` (3 oryginalne screeny PNG jako rejestry źródłowe z checksumami SHA-256 i osobne zatwierdzenie). Zachowano literalne historyczne liczby poległych z CK3.
+
+**Oddzielny, również zatwierdzony model fabularny:** podobne, NIE identyczne armie; koalicja Rudolf 5474/6420/6927, przeciwnik 5250/6650/7200; modelowane straty bojowe koalicji **274/449/693**, przeciwnika **1095/2054/3117**. Ubytki Hohenzollernów **25 (2%)**, **36 (3%)**, **71 (6%)** od modelowego stanu 1239 bez uzupełnień, w sumie 132. Nie są to potwierdzone liczby zabitych ani odczyt CK3.
+
+**Kopia:** [raport historyczny i literacki](../07_ANALIZY/raporty_zmian/CK3_1076_BITWY_U01_raport.md), [indeks screenshotów z hashami](../06_MATERIALY_ZRODLOWE/indeks_screenow_1076_bitwy_U01.md), [oś 1075–1077](../campaign/Os_czasu_Zollern_1075-1077.md), brief Astry. Binarne PNG nie trafiły do GitHuba. Starsze rekordy i daty pozostają zachowane.
