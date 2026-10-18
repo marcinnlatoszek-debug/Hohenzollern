@@ -160,3 +160,17 @@ Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal k
 - **Nieustalone:** przyszłe ukończenia, wygaśnięcie modyfikatorów jako fakt, aktualne frakcje Rudolfa i pełna kolejność jego sukcesji. Brak nowego dokumentu pokoju.
 
 **Źródła:** [rejestr screenów](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U01.md), [raport](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U01_uzupelnienie.md), [oś 1078–1080](../campaign/Os_czasu_Zollern_1078-1080.md). Wszystkie wcześniejsze zapisy pozostają archiwalnie rozróżnione.
+
+---
+
+## Uzupełnienie aktualnego punktu kontrolnego — 2 X 1080 (`HZ-1080-10-02-U02`)
+
+**Zatwierdzenie:** 18 X 2026; baza pierwotna Supabase `chronicle`, kopia GitHub. Nowa obserwacja ekranowa sześciu zrzutów, **nie zastępuje save'a** ani pakietu U01.
+
+- **Gautselin** — 11 lat, dworzanin, nisko urodzony, syn **Gerlacha (72054)** i jego małżonki **Luitgard**. Umiejętności: 4/8/10/4/4/6; UI „Bezduszny oportunista”. Identyfikator CK3, pełna data urodzenia i kody cech nieustalone.
+- **Gerlach** — 37 lat, zarządca, **wielki łowczy**, rycerz, pobyt Zollern; małżonka Luitgard i syn Gautselin. Małżeństwa nie datowano; nie utożsamiać Luitgard z imienniczką z wątku Martina.
+- **Burkhard** — złoto 371; dochód +9,2, wydatki −5,3, bilans +3,9 złota/mies.; siły 1406; prestiż 946 (+0,99/mies.), pobożność 271 (+2,10/mies.), renoma dynastii 102 (+0,35/mies.).
+- **Legitymacja Burkharda:** 2/5 „Uznany władca”, 350/1000, brak miesięcznego wzrostu; efekty i oczekiwania wasali w [raporcie](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md). Nie udokumentowano nowego awansu.
+- **Nierozstrzygnięte:** licznik 2/4 na pasku UI, daty zdarzeń rodzinnych, dokładny ID CK3 Gautselina i Luitgard, źródło przyrostu liczebności armii.
+
+**Źródła:** [6 zrzutów i SHA-256](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U02.md), [karty Gautselina i Gerlacha](../02_POSTACIE/Gautselin_syn_Gerlacha/karta.md), [oś 1078–1080](../campaign/Os_czasu_Zollern_1078-1080.md).
