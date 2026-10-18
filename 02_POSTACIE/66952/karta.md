@@ -55,3 +55,31 @@
 - **Zasoby — surowe pola:** złoto **318,63**, prestiż **728,19**, pobożność **90,1**, pole sił **893** (inne pola **936**, kategoria UI NIEUSTALONA). Bazowy wektor umiejętności `[3,5,4,5,0,8]` bez zmiany, **nie** statystyki wynikowe interfejsu.
 - **Regencja:** ekran 3 VIII 1073 potwierdza rozpoczęcie regencji nad Rudolfem; jej trwanie na 18 X nie zostało potwierdzone.
 - **Granice:** pełna sukcesja, aktualne opinie, frakcje i dowódcy — NIEUSTALONE. Źródło: [raport porównawczy 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
+
+---
+
+## Zatwierdzony przekrój finansów i legitymacji — 2 X 1080 (`HZ-1080-10-02-U02`)
+
+**Źródła:** sześć screenshotów z 18 X 2026; [rejestr SHA-256](../../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U02.md). Data gry **2 X 1080** pochodzi od użytkownika. To ekranowe wartości UI, **nie surowe pola save'a z 1073**.
+
+| Zasób / wielkość | Wartość UI | Zmiana miesięczna |
+|---|---:|---:|
+| Złoto | **371** | **+3,9** |
+| Przychody brutto | **+9,2** | — |
+| Wydatki łącznie | **−5,3** | — |
+| Wojsko | **1406** | nieustalona |
+| Prestiż | **946** | **+0,99** |
+| Pobożność | **271** | **+2,10** |
+| Renoma dynastii | **102** | **+0,35** |
+
+**Przychody:** budowle siedziby **+0,6**, domena **+7,6**, podatki wasalne **+0,1**, skupienie na bogactwie **+10%**.  
+**Wydatki:** niepowołani zbrojni **−3,8**, podatki senioralne **−0,8**, urzędy dworskie **−0,5**. Kwoty oraz sumy UI są zaokrąglone.
+
+- Poziom sławy: **„Postać wybitna”** (następny: „Postać niezrównana”).
+- Poziom religijności: **„Postać sumienna”** (następny: „Postać wierząca”).
+- Splendor dynastii: **„Początek korzeni”** (następny wyświetlany: „Nieznana”). Renoma **należy do dynastii**, nie jest osobistym zasobem prestiżu.
+- Legitymacja: **„Uznany władca”, poziom 2/5, 350/1000, zmiana 0,00/mies.** Efekty: okres krótkiego panowania **−25%**, nieznacznie obniżony koszt roszczenia `casus belli`, nieznacznie zwiększona akceptacja małżeństw. Oczekiwana legitymacja wpływowych i pozostałych wasali: **„Ambitny (1/5)”**. To **etykieta oczekiwań legitymacji, nie trait wszystkich wasali**.
+- Poziom 2/5 notowany był już w 1073 — nowy screen potwierdza stan, a nie nowy awans. Wzrost wojska od **1207 (24 VII 1080)** do **1406** to różnica między dwoma pomiarami, nie udokumentowane wydarzenie rekrutacji.
+- Wskaźnik **2/4** na pasku zasobów jest **nierozstrzygnięty**. Nie określać go jako domeny ani obsady rycerzy bez tooltipu.
+
+[Raport pakietu](../../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md). Poprzednie pełne obserwacje z save'ów z 1070 i 1073 oraz nowszy punkt save z 2 X 1080 pozostają odrębnymi źródłami.
