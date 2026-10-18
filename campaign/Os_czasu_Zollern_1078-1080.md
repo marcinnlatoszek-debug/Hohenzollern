@@ -130,3 +130,22 @@ Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal k
 Użytkownik zatwierdził **18 V 1080** jako datę zamknięcia wojny w kanonie narracyjnym. Save zawiera osobny, surowy wpis `last_war_finish_date=1080.6.1`. Zachowujemy oba zapisy z ich statusem: 18 V pozostaje zatwierdzoną datą narracyjną, a 1 VI — datą zapisaną w polu save’a. Nie utożsamiamy ich i nie zmieniamy poprzedniego rozstrzygnięcia bez nowej decyzji użytkownika.
 
 Save nie podaje warunków pokoju ani końcowego raportu bitwy. Powiązanie pola z ostatnią wojną z majowym meldunkiem o Clettgau jest zestawieniem punktów źródłowych; nie dopisujemy szczegółów traktatu ani przebiegu ostatniego starcia.
+
+---
+
+## Zatwierdzone uzupełnienie ekranowe — 2 października 1080 (`HZ-1080-10-02-U01`)
+
+**Źródło:** [11 nowych screenów z indeksu](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U01.md). Data gry **2 X 1080** przypisana całemu zestawowi przez użytkownika. **Akceptacja:** 18 X 2026; zapis źródłowy: Supabase `chronicle`. To **kolejny datowany pomiar** — nie unieważnia obserwacji z 21 VII i 1 X 1080 ani punktu save z 2 X.
+
+| Data gry | Zatwierdzona obserwacja | Źródło i granice |
+|---|---|---|
+| **2 X 1080** | **Książę Rudolf** (35525), 54 lata: 12 dyplomacja, 12 wojskowość, 12 zarządzanie, 6 intryga, 22 nauka, 20 waleczność oraz osobny nierozpoznany wskaźnik 1; złoto 150, prestiż 242, pobożność 183, legitymacja 2/5, siły 4031 w UI, domena 4/4, 6 tytułów; zakładki rodziny: dzieci (6), rodzeństwo (7). | Screen 210923; nie ustala imion krewnych, końca regencji, frakcji ani nowych wojen. |
+| **2 X 1080** | **Zollern:** kontrola **100**, rozwój **8**, postęp 58/100 (+0,8/mies.), opinia +10, podatek +4,00, ruszenie 195, garnizon 480. Trwają efekty: Duże stado bydła (+20% rozwoju, do 26 X 1091), Zmotywowani pracownicy (−15% budowy, do 16 VIII 1082) i Wielka inwestycja w warsztat murarski (−15% budowy, +20% podatków, do 26 X 1108). | Screeny 212613–212739; wprowadzenie efektów miało wcześniejsze daty; tutaj wyłącznie potwierdzenie stanu. |
+| **2 X 1080** | **Hohenberg:** kontrola **30** (+1,57/mies.), rozwój **9**, opinia 0, podatek +1,65, ruszenie 127, garnizon 320. Aktywne: Obecność wojskowa (+20% garnizon, +1,00 kontrola/mies., do 4 VII 1083), Zamiana najemników w rolników (+5% podatki, +200% wskaźnik kmieci, do 5 VI 1094), Usprawniony pobór podatków (+20% podatki, do 3 VII 1083), Garnizon najemników (+25% garnizon, +0,30 kontrola/mies., −10 opinii, do 29 VI 1083). | Screeny 212809–212844; względem **21 VII** kontrola wzrosła z 25 do 30; zmiana rozłożona w czasie, bez dowodu na nowy incydent. |
+| **2 X 1080** | **Budowy:** Drewniane koszary w Zollern — nadal w budowie, **37 dni** do końca (wcześniej prognoza 8 XI 1080). Rynek w Dworze von Hohenzollern — ulepszenie z poziomu 1 do 2, trwa budowa, **22 miesiące**, plan 21 VII 1082 (zatwierdzony koszt 285 prestiżu). Ufortyfikowana willa: +0,25 prestiżu/mies. i +2 miejsca na budowle, „Wiaderko” wewnątrz. | Screeny 212912 i 212943; **nie odnotowywać jako ukończonych** przyszłych budów. |
+
+Powiązania historyczne niezmienione: **8 VII 1073** inspekcja i pobór Hohenbergu; **26 X 1076** bydło w Zollern; **4 VII 1078** obecność wojskowa w Hohenbergu; **26 X 1078** murarski warsztat w Zollern. Termin końca modyfikatora i przewidywany koniec budowy nie są datami dokonanych wydarzeń. Przy „Usprawnionym poborze podatków” dokładny dzień wygaśnięcia z UI (3 VII 1083) nie musi być równy 10. rocznicy zakończenia inspekcji (8 VII 1073).
+
+**Opis polityczny:** Zollern jest względnie stabilnym centrum domeny, Hohenberg odbudowuje kontrolę po wojnie; to **wniosek interpretacyjny**, nie nowa decyzja Burkharda. Szczegóły: [raport uzupełniający](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U01_uzupelnienie.md).
+
+**Historia zapisu:** 18 X 2026 — przyjęto nowy pakiet użytkownika jako uzupełnienie, bez korekty starszych zatwierdzonych dat, narodzin, zgonów, wojen, małżeństw lub sukcesji.
