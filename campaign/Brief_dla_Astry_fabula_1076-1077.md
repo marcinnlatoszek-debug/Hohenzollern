@@ -74,3 +74,19 @@ To propozycja kompozycji, nie nowy kanon. Zachowaj możliwość literackiej opra
 ## Następny odcinek
 
 Po zakończeniu tego odcinka na 28 XII 1077 kontynuuj według [materiału dla Astry 1078–1 X 1080](Brief_dla_Astry_fabula_1078-1080.md) i [nowej osi czasu](Os_czasu_Zollern_1078-1080.md). Ograniczenia dat tego briefu dotyczą jego zakresu, nie zakazu korzystania z nowego zatwierdzonego odcinka.
+
+---
+
+## Zatwierdzone doprecyzowanie militarne i literackie — HZ-1076-BITWY-U01
+
+**Od 18 X 2026 obowiązuje osobny [pełny raport trzech bitew 1076](../07_ANALIZY/raporty_zmian/CK3_1076_BITWY_U01_raport.md).** Zapis pierwotny w Supabase, kopia GitHub.
+
+**Daty i wynik historyczny CK3:** zwycięstwo Rudolfa z udziałem Hohenzollernów pod **Sisgau 12 IV 1076**, **Wolhusen 30 VI 1076** i **Clettgau 12 VIII 1076**. Nie pomijać trzeciej bitwy. Wolhusen z dwóch wspomnień to **jedna bitwa**; Clettgau **1076** nie jest Clettgau **18 V 1080**.
+
+**Wariant powieściowy, zaakceptowany przez użytkownika:** bitwy pomiędzy **porównywalnymi, lecz nieidentycznymi** liczebnie armiami. Sisgau 5474 przeciw 5250, straty bojowe 274 przeciw 1095; Wolhusen 6420 przeciw 6650, straty 449 przeciw 2054; Clettgau 6927 przeciw 7200, straty 693 przeciw 3117. Te dane **nie są oryginalnymi raportami strat gry**.
+
+Hohenzollernowie: **model** 1239 ludzi przed Sisgau (przeniesiony wyłącznie fabularnie od ekranu **16 XII 1075**), potem 1214, 1178 i 1107, czyli ubytki **25 (2%)**, **36 (3%)**, **71 (6%)** — razem **132**. To założone straty bojowe obejmujące ludzi niezdolnych do służby, a **nie 132 potwierdzonych zabitych**. Dokładny podział na poległych i rannych oraz osobiste rany rycerzy pozostaje NIEUSTALONY.
+
+**Oryginalne dane CK3 zachować jako prawdę świata gry:** 5474/190/5284 przeciw 1931/577/1354 pod Sisgau; 6420/16/6404 przeciw 3681/1585/2096 pod Wolhusen; 6927/6/6921 przeciw 1636/1259/377 pod Clettgau. Nie wolno udawać, że literackie siły wrogów i straty pochodzą ze screenshotów.
+
+Na potrzeby scen można ukazać wojenną cenę zwycięstw, rannych, ewakuację i zmęczenie, lecz nie przypisywać konkretnych zgonów lub ran postaciom bez dowodu. Poprzedni ogólny zakaz wymyślania liczb dotyczy faktów CK3, a **nie niniejszego zatwierdzonego wariantu literackiego**.
