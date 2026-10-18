@@ -179,3 +179,11 @@ Gracz potwierdził: „bylo pokazane zakonczenie” oraz polecił „sam ustal k
 ## Korekta U02-C01 (18 X 2026)
 
 Gerlach i Luitgard są małżeństwem od dawna (dokładna data ślubu nieustalona), a zrzut z 2 X 1080 przedstawia ich syna Gautselina, 11 lat. W powieści dopuszczono stopniowe początki przyjaznych relacji Gautselina z młodszym Burkhardem von Hohenzollern (ID 79306, także 11 lat); przyjaźń nie jest potwierdzona jako relacja mechaniki CK3. Nie dodawać wydarzenia ślubu ani formalnego zawarcia przyjaźni do osi. [Brief dla Astry](../campaign/Brief_dla_Astry_Gautselin_i_Burkhard_1080.md).
+
+---
+
+## Uzupełnienie archiwum wojny 1076 — HZ-1076-BITWY-U01 (zatwierdzone 18 X 2026)
+
+Szczegółowe raporty trzech zwycięstw koalicji Rudolfa z udziałem Hohenzollernów zapisano w Supabase i [osi 1075–1077](../campaign/Os_czasu_Zollern_1075-1077.md). **Sisgau 12 IV 1076, Wolhusen 30 VI 1076, Clettgau 12 VIII 1076**. Dwa wspomnienia Wolhusen dotyczą jednego starcia; Clettgau 1076 nie jest końcową bitwą Clettgau 18 V 1080. Oryginalne liczby poległych CK3 nie zostały podmienione.
+
+Zatwierdzono **oddzielny wariant fabularny** o podobnych, lecz nierównych siłach obu stron. Hipotetyczne ubytki Hohenzollernów: **25/36/71, razem 132** — nie jest to 132 potwierdzonych zabitych. Wariant i metodologia w [raporcie U01](../07_ANALIZY/raporty_zmian/CK3_1076_BITWY_U01_raport.md). Nie zmienia to aktualnego punktu stanu świata z **2 X 1080**.
