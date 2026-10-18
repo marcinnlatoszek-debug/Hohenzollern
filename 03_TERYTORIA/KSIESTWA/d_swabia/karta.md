@@ -37,3 +37,11 @@
 - Ekran z **3 VIII 1073** potwierdza, że Burkhard rozpoczął regencję nad Rudolfem. **Czy trwała 18 X, nie ustalono.** Nie potwierdzono konkretnych aktualnych frakcji ani nowego buntu.
 - Surowe pola nowego save'a dla Rudolfa: złoto **230,50**, prestiż **619,49**, pobożność **386,3**, pole sił **2980**; wartości mogą nie odpowiadać sumarycznym licznikom UI.
 - [Raport 18 X 1073](../../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
+
+---
+
+## Obserwacja polityczna i wojskowa — 2 X 1080 (pakiet HZ-1080-10-02-U01)
+
+Ekran księcia Rudolfa z Rheinfelden (CK3 35525) potwierdza, że nadal występuje jako **książę Szwabii i senior Burkharda von Hohenzollern**. Na panelu: 54 lata, 6 tytułów, domena 4/4, siły **4031 (UI)**, złoto 150, prestiż 242, pobożność 183, legitymacja 2/5, kultura szwabska, obrządek rzymski. Pełne parametry i rodzina w [karcie Rudolfa](../../../02_POSTACIE/35525/karta.md).
+
+**Granice:** panel nie rozstrzyga aktualnego składu frakcji, sił wszystkich wasali, formalnego stanu regencji ani nowych wojen. 4031 nie jest porównywalne bezpośrednio z surowym polem save'a z 1073. Bez zmian pozostają zatwierdzone starsze wydarzenia i obsada tytułów. [Raport i źródła](../../../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U01_uzupelnienie.md).
