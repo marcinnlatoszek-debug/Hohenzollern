@@ -67,4 +67,3 @@ Dane z 12 XI 1070 pozostają prawdziwe **wyłącznie dla tamtej daty**; w szczeg
 - Źródłem jest ten sam save z 12 XI 1070, przesłany ponownie jako `von_Hohenzollern(20261014-155345).ck3`. Data kanonicznej osi **nie zmienia się**. Zestaw źródeł i ograniczenia podano także w [raporcie źródłowym](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).
 
 Archiwalna obserwacja z 12 XI 1070 potwierdza **życie** wymienionych postaci w tamtej chwili, nie dowodzi ciągłości ich urzędów ani tytułów niewymienionych w odczytanych rekordach. Datowany stan rady z 6 III 1067 pozostaje archiwalny.
-
