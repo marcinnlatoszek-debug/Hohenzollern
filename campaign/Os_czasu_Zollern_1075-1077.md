@@ -52,3 +52,19 @@ Dalszy ciąg oraz ponowny odczyt kolejnych screenów: [oś czasu 1078–1 X 1080
 ## Korekta redakcyjna — 16 X 2026
 
 Usunięto sprzeczny odczyt „24 lata” przy Gerlachu z 9 VIII 1077. Karta z 1070 podaje 27 lat, a zapis z 1075 — 31 lat. Bez sprawdzenia daty urodzenia nie nadajemy nowego dokładnego wieku; Astra używa określenia doświadczony rycerz.
+
+---
+
+## Zatwierdzone uzupełnienie raportów bitewnych — 1076 (HZ-1076-BITWY-U01; 18 X 2026)
+
+**Pierwotna baza faktów:** Supabase `chronicle`. **Oryginały:** [trzy screeny CK3 i SHA-256](../06_MATERIALY_ZRODLOWE/indeks_screenow_1076_bitwy_U01.md). **Pełny raport wraz z osobną warstwą literacką:** [audyt 1076 U01](../07_ANALIZY/raporty_zmian/CK3_1076_BITWY_U01_raport.md).
+
+| Data gry | Bitwa i **oryginalny raport CK3** | Warstwa fabularna — osobna od raportu gry |
+|---|---|---|
+| **12 IV 1076** | **Sisgau** — zwycięstwo koalicji Rudolfa z udziałem Hohenzollernów. Strona Rudolfa: **5474**, w tym **190 poległych, 5284 ocalałych**. Przeciwnik: **1931**, w tym **577 poległych, 1354 ocalałych**. Wynik wojny: **+2%**. | Siły Rudolfa **5474**, przeciwnika **5250**; hipotetyczne straty bojowe **274** i **1095**. Hohenzollernowie: **25** szacowanych ubytków z 1239 (**2%**). |
+| **30 VI 1076** | **Wolhusen** — zwycięstwo koalicji Rudolfa z udziałem Hohenzollernów. Rudolf: **6420**, **16 poległych, 6404 ocalałych**. Przeciwnik: **3681**, **1585 poległych, 2096 ocalałych**. Wynik wojny: **+7%**. | Siły **6420 do 6650**; straty bojowe **449 do 2054**; Hohenzollernowie: **36** ubytków z 1214 (**3%**). |
+| **12 VIII 1076** | **Clettgau** — odrębne zwycięstwo koalicji Rudolfa z udziałem Hohenzollernów. Rudolf: **6927**, **6 poległych, 6921 ocalałych**. Przeciwnik: **1636**, **1259 poległych, 377 ocalałych**. Wynik wojny: **+5%**. | Siły **6927 do 7200**; straty bojowe **693 do 3117**; Hohenzollernowie: **71** ubytków z 1178 (**6%**). |
+
+**Łącznie:** oryginalne raporty CK3: **212 poległych** całej koalicji i **3421** po stronie wrogów. Model fabularny: **1416 strat bojowych** koalicji, **6266** wrogów oraz **132** szacowane ubytki bojowe Hohenzollernów (25+36+71), przy przyjętej modelowo malejącej liczebności 1239 → 1214 → 1178 → 1107, bez uzupełnień. **Ubytek ≠ potwierdzony poległy** i nie należy stosować liczb z modelu do rekonstrukcji rzeczywistych stanów armii.
+
+**Wolhusen:** wspomnienie Rudolfa o Géraudzie d’Geneva oraz Bertranda o Matthiasie z Urach dotyczą **jednego** starcia. **Sisgau 3 IV** oznacza wcześniejszą fazę operacji zakończonej zwycięstwem 12 IV, a nie drugie, zdublowane zwycięstwo. **Clettgau 12 VIII 1076** jest czym innym niż bitwa **18 V 1080**. Nowy wpis uzupełnia wcześniejszą oś, nie zmienia jej starych obserwacji.
