@@ -92,3 +92,13 @@ Nie dopisano niepotwierdzonych bitew, wojen, wydarzeń religijnych, narodzin ani
 **Backup GitHub:** [rejestr zrzutów](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U01.md), [raport](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U01_uzupelnienie.md), aktualizacja kart Rudolfa, Zollern, Hohenbergu, Szwabii i osi chronologicznej. PNG nie przesłano binarnie do repozytorium; ich nazwy, rozmiary i sumy SHA-256 zapisano w rejestrze.
 
 **Zachowanie historii:** nadal rozróżnia się dane z 1073, 1076, 1078, 21 VII 1080 i 2 X 1080; modyfikatory już odnotowane nie stanowią nowych wydarzeń w 1080; przyszłe daty wygaśnięcia i zakończenia budowy nie są wynikami dokonanymi.
+
+---
+
+## 18 X 2026 — zatwierdzony pakiet HZ-1080-10-02-U02
+
+**Zakres akceptacji:** nowe karty i powiązania Gautselina, Gerlacha i Luitgard; finanse, siły, prestiż, pobożność, renoma dynastii i legitymacja Burkharda; uzupełnienie stanu gry 2 X 1080 i źródeł.  
+**Zapis główny:** Supabase `Hohenzollern` `chronicle`: 6 screenshotów + zgoda użytkownika (7 źródeł), Gautselin i Luitgard z tymczasowymi **kluczami archiwalnymi, bez ID CK3**; 3 relacje genealogiczne, 3 snapshoty, 1 wpis wydarzenia i 1 wpis osi czasu.  
+**Kopia awaryjna:** GitHub — [indeks źródeł i sumy](../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U02.md), [audyt](../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md), karty Gerlacha, Gautselina, Luitgard i Burkharda, indeks postaci, oś 1078–1080 oraz stan kampanii. **Pliki PNG nie zostały binarnie dodane do GitHuba.**
+
+**Ochrona historii:** nie nadpisano punktu U01, nie dopisano wydarzeń porodów, ślubów, wojen lub awansów, nie wymyślono dat urodzenia i numerów CK3. Data gry przypisana przez użytkownika zestawowi 6 niedatowanych osobno kadrów.
