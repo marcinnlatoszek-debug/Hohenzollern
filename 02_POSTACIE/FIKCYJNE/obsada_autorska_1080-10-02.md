@@ -109,3 +109,35 @@ Wiek liczony w **ukończonych** latach dokładnie na 2 X 1080, według daty urod
 ## V. Źródło i status
 
 Jawne zatwierdzenie przez użytkownika w rozmowach 18 X 2026. Główne rekordy: `chronicle.characters` (klucze `fiction-1080-*`), `chronicle.character_snapshots`, `chronicle.character_relationships`; oś: `chronicle.events`, `chronicle.timeline_entries` z `evidence_status='fiction'`. Zapis nie zmienia `verified_game` ani identyfikatorów CK3.
+
+## VI. Kontrola realistycznych wizerunków na 2 X 1080
+
+Wszystkie poniższe wizerunki są autorskimi interpretacjami inspirowanymi proporcjami i wiarygodnym starzeniem postaci CK3, **nie oryginalnymi modelami postaci z zapisu gry**. Ten sam bohater ma zachować stałe cechy twarzy we wszystkich datach. Wiek 2 X 1080 jest ścisły; młodsze portrety obliczać od daty urodzenia i daty sceny.
+
+| Postać | Ukończony wiek | Nieprzemijające cechy / wygląd 1080 |
+|---|---:|---|
+| Wernher | 51 | Postawny, spracowany; brązowe włosy i krótka broda z siwizną, poorana twarz, ciężki płaszcz, uprząż i wóz. |
+| Richeza | 49 | Dojrzała, przenikliwe spojrzenie, lniane nakrycie głowy, zielono-bordowe ubranie, sakiewka, tkaniny. |
+| Rüdiger | 28 | Silny, ciemnobrązowe falujące włosy, niewielki zarost, znoszony strój drożny i rzemienie. |
+| Oda | 54 | Mocna budowa, pewne spojrzenie, twarz dojrzała, lniany zawój, fartuch i księga zamówień. |
+| Ortwin | 58 | Szeroki w barach, posiwiała broda, spracowane dłonie, fartuch skórzany, młot; bolący łokieć. |
+| Liutwin | 29 | Szczupły, dojrzały już rzemieślnik, ciemne falujące włosy, sadza na dłoniach, własne narzędzia. |
+| Dietmar | 46 | Dojrzały mężczyzna, krótki zarost, czujne spojrzenie, hełm z nosalem, kolczuga i włócznia strażnicza. |
+| Willa | 43 | Twarz energiczna, lniana chusta, wełniana suknia, palce przy krośnie, nici i płótno. |
+| Guntbert | 69 | Bardzo stary gospodarz, siwe włosy i długa broda, zmarszczki, ciężki płaszcz, kostur. |
+| Heilika | 61 | Starsza kobieta, lniany zawój, zdecydowane spojrzenie, kosz zapasów i klucze. |
+| Notker | 35 | Muskularny, ciemne kędzierzawe włosy i zarost, spracowane dłonie, ubranie polowe. |
+| Irmentrud | 64 | Starsza energiczna kobieta, chusta, fartuch, chropowate dłonie, palenisko i kocioł. |
+| Isentrud | 26 | Młoda dorosła kobieta, spokojne oczy, skromny strój i jasny czepek, zwój płótna lub tabliczka. |
+| Ekkehard | 38 | Ciemne falujące włosy, staranna broda, skupiony wzrok, schludny ubiór, pióro i pergamin. |
+| Anselm | 75 | Sędziwy kapłan o osłabionym wzroku, siwy zarost i tonsura, skromne szaty, księga. |
+| Salome | 48 | Dojrzała kupcowa, uporządkowany strój w przygaszonej zieleni i burgundzie, lniany welon, bele sukna. |
+| Hartwig | 34 | Wysoki, barczysty; ciemnobrązowe włosy, krótka broda, szare oczy, blizna lewego policzka; miecz, tarcza, kolczuga. |
+| Konrad | 40 | Krępy i masywny; broda z siwizną, krzywo zrośnięty nos; miecz, tarcza, kolczuga i hełm. |
+| Kuno z Bellingam | 45 | Krępy, okrągła twarz, gęsta ciemna broda z siwizną, wełniana tunika, fartuch, kubek. |
+| Adelheid z Bellingam | 41 | Mocna budowa, jasnobrązowe włosy skryte pod lnem, zielona suknia i fartuch, gliniany dzban. |
+| Berthold z Bellingam | 18 | Szczupły, ciemne falujące włosy, młodzieńcza twarz, prosta tunika, dzbany dla gości. |
+| Volkmar | 31 | Szczupły, silne barki; ciemny blond, zielonoszare oczy, krótki zarost, blizna lewej brwi; łuk i kołczan. |
+
+**Zakaz zamiany specjalizacji:** Hartwig i Konrad to ciężkozbrojni **miecznicy** (miecz, tarcza, kolczuga); Volkmar to pieszy **łucznik** (łuk, strzały, nóż). Cechy wyglądu i rany to konwencja literacka, nie potwierdzone odczyty CK3.
+
