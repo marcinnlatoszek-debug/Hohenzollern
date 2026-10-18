@@ -26,3 +26,16 @@ Nie potwierdzono faktycznego udziału Gerlacha w konkretnej bitwie, oblężeniu 
 
 - Gerlach (72054) żyje; osobowość `brave`, `lustful`, `gregarious` bez zmiany.
 - Zadanie zarządcy: **`task_collect_taxes`** (pobór podatków), jak w 1070. Brak dowodu dowodzenia konkretną bitwą wojny o Hohenberg. Źródło: [raport 18 X 1073](../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
+
+---
+
+## Zatwierdzony stan — 2 X 1080 (pakiet `HZ-1080-10-02-U02`)
+
+**Źródło:** `Zrzut ekranu 2026-10-18 214932.png`; [indeks plików i SHA-256](../../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U02.md). Data gry **2 X 1080** nadana zestawowi przez użytkownika. Wartości starszych screenów zachowują własne daty.
+
+- **Gerlach, 37 lat** (CK3 ID **72054**) — zarządca, **wielki łowczy** (w podpowiedzi „Łowczy”) oraz **rycerz**. Należy do otoczenia Burkharda, przebywa w **Zollern**. **Nie jest kanclerzem.**
+- **Małżonka:** [Luitgard](../Luitgard_zona_Gerlacha/karta.md). **Syn:** [Gautselin](../Gautselin_syn_Gerlacha/karta.md), **11 lat**, nisko urodzony dworzanin. To uzupełnia starszą wzmiankę o żonie i jednym dziecku; nie jest datą narodzin.
+- Szwabska kultura, obrządek rzymski, charakterystyka UI **„Współczujący oportunista”**. To opis ekranowy, nie dowód zmiany kodowych cech osobowości zapisanych wcześniej.
+- Nie odczytano dnia urodzenia, daty ślubu ani ID CK3 małżonki lub dziecka. **Nie utożsamiać automatycznie Luitgard z opiekunką Martina** bez odrębnego potwierdzenia.
+
+Nowy datowany snapshot zapisano w Supabase jako `HZ-1080-10-02-U02`, zachowując poprzednie rekordy. [Raport](../../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md).
