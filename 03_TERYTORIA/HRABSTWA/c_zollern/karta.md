@@ -33,3 +33,18 @@ Aktualne budowle, dochody, pobór, kontrola, rozwój, fortyfikacje i przynależn
 - **Od 17 I 1073** Burkhard posiada także [Hohenberg](../c_hohenberg/karta.md). Zollern pozostaje w jego domenie, a senior nadal jest Rudolf (35525), książę Szwabii.
 - Aktualne wartości kontroli, rozwoju, pełnej listy budynków i dochodu Zollern **nie zostały osobno zweryfikowane** na 18 X 1073. Wartości z 1067 i 1070 zachowują własne daty.
 - [Raport nowego save'a](../../../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).
+
+---
+
+## Zatwierdzony przekrój — 2 X 1080 (pakiet HZ-1080-10-02-U01)
+
+**Źródło:** zrzuty 212613, 212628, 212641, 212739, 212912 z 18 X 2026; [rejestr SHA-256](../../../06_MATERIALY_ZRODLOWE/indeks_screenow_1080-10-02_U01.md). Data gry przypisana przez użytkownika: **2 X 1080**. Starsze pomiary bez zmian.
+
+- Właściciel **Burkhard von Hohenzollern (66952)**; kontrola **100**, rozwój **8**, opinia powszechna **+10**, podatek **+4,00/mies.**, pospolite ruszenie **195**, garnizon **480**, poziom fortyfikacji **4**, limit zaopatrzenia **10440**, łup **109**, odporność na zarazę **2**. Widoczna posiadłość: zamek poziomu 1.
+- Rozwój **8/100**, pasek postępu **58/100**, przyrost **+0,8/mies.**; związane premie: +4% podatków, +4% pospolitego ruszenia, +1200 zaopatrzenia.
+- **Duże stado bydła**: +20% przyrostu rozwoju; UI: **do 26 X 1091**. Już odnotowane jako wydarzenie **26 X 1076**; tu potwierdzenie trwania.
+- **Zmotywowani pracownicy**: −15% czasu wznoszenia budowli; UI: **do 16 VIII 1082**. Powiązać z obserwacją **17 VIII 1072**, nie tworzyć nowego wydarzenia.
+- **Wielka inwestycja w warsztat murarski**: −15% czasu budowy, +20% podatków z posiadłości; UI: **do 26 X 1108**. Historyczne zdarzenie: **26 X 1078**.
+- **Drewniane koszary**: budowa w toku, **37 dni do końca**. Przewidziane efekty po ukończeniu: +100 pospolitego ruszenia i +20% obrażeń stacjonującej ciężkiej piechoty oraz włóczników. Wcześniejsza szacowana data ukończenia: **8 XI 1080**, nadal **niepotwierdzona jako dokonana**.
+
+Daty wygaśnięcia i ukończenia są terminami podanymi przez UI, nie dowodem przyszłych zdarzeń. [Raport](../../../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U01_uzupelnienie.md).
