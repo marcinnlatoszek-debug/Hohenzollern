@@ -7,6 +7,10 @@
 **Metoda tworzenia wiarygodnych osobowości dla Astry:** [Zasady interpretacji charakteru CK3](../05_MECHANIKI_CK3/Zasady_interpretacji_charakteru.md).  
 Wpisane identyfikatory cech i wartości UI są faktami gry; możliwe motywacje są interpretacją, nie zdarzeniami historycznymi.
 
+## Wzorce na 2 X 1080 — aktualizacja 18 X 2026
+
+[Jedenaście osobnych wzorców wyglądu, źródła i zasada realistycznego starzenia](../campaign/referencje_wizualne/wzorce_postaci_1080-10-02.md). Główny zapis znajduje się w Supabase (`chronicle.character_snapshots`, `sources`, `project_policies`); tutaj kopia zapasowa. Niepodpisane identyfikacje rodzinne mają jawny status wniosku. Gerlach: zarządca i wielki łowczy. Reinhard pozostaje odrębnym rycerzem, poza rodziną i poza rozpoznanymi osobami tej serii.
+
 ## Referencje wizualne do opowiadania — rok 1080 (zatwierdzone 16 X 2026)
 
 - **[Hrabia Burkhard starszy, ID 66952 — wygląd w październiku 1080](66952/wyglad.md):** 30 lat, bardzo jasny blond, szaroniebieskie oczy, jasny krótki zarost, kolczuga i ciemny płaszcz z czerwonym obszyciem.
@@ -63,3 +67,4 @@ Dane z 12 XI 1070 pozostają prawdziwe **wyłącznie dla tamtej daty**; w szczeg
 - Źródłem jest ten sam save z 12 XI 1070, przesłany ponownie jako `von_Hohenzollern(20261014-155345).ck3`. Data kanonicznej osi **nie zmienia się**. Zestaw źródeł i ograniczenia podano także w [raporcie źródłowym](../07_ANALIZY/raporty_zmian/CK3_1070-11-12_weryfikacja.md).
 
 Archiwalna obserwacja z 12 XI 1070 potwierdza **życie** wymienionych postaci w tamtej chwili, nie dowodzi ciągłości ich urzędów ani tytułów niewymienionych w odczytanych rekordach. Datowany stan rady z 6 III 1067 pozostaje archiwalny.
+
