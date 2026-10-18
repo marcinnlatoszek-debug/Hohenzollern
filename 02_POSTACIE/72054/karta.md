@@ -39,3 +39,11 @@ Nie potwierdzono faktycznego udziału Gerlacha w konkretnej bitwie, oblężeniu 
 - Nie odczytano dnia urodzenia, daty ślubu ani ID CK3 małżonki lub dziecka. **Nie utożsamiać automatycznie Luitgard z opiekunką Martina** bez odrębnego potwierdzenia.
 
 Nowy datowany snapshot zapisano w Supabase jako `HZ-1080-10-02-U02`, zachowując poprzednie rekordy. [Raport](../../07_ANALIZY/raporty_zmian/CK3_1080-10-02_U02_rodzina_i_finanse.md).
+
+---
+
+## Doprecyzowanie użytkownika — HZ-1080-10-02-U02-C01 (18 X 2026)
+
+**Małżeństwo z Luitgard jest dawno zawarte.** Użytkownik jednoznacznie wyjaśnił, że przesłany ekran miał przedstawić **ich syna Gautselina**, a nie ślub Gerlacha. Nie ustalono dokładnej **daty ani miejsca ślubu**. W szczególności **nie datować ślubu na 2 X 1080** ani nie przedstawiać go jako świeżego zdarzenia.
+
+Zatwierdzony **wątek literacki**: 11-letni Gautselin może **stopniowo rozwijać przyjazne relacje z młodszym Burkhardem von Hohenzollern (CK3 79306)**. Nie jest to dowód istniejącej już w grze relacji „przyjaciel”. Nie zmienia się kanonicznych urzędów Gerlacha: zarządca, wielki łowczy i rycerz. [Brief Astry — Gautselin i Burkhard](../../campaign/Brief_dla_Astry_Gautselin_i_Burkhard_1080.md).
