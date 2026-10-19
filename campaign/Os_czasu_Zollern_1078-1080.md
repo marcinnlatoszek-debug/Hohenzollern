@@ -177,3 +177,15 @@ Powiązania historyczne niezmienione: **8 VII 1073** inspekcja i pobór Hohenber
 Użytkownik potwierdził 18 X 2026: **małżeństwo Gerlacha i Luitgard istnieje od dawna**; data jego zawarcia nie została podana. Zdjęcia z 1080 miały pokazać **ich syna Gautselina**, nie nowe wesele. **Nie dodawać nowej daty ślubu ani narodzin.**
 
 **Oddzielna warstwa literacka:** można opowiadać o **początkach przyjaznych relacji Gautselina z młodszym Burkhardem (79306)**. Na 2 X 1080 obaj mają 11 lat. To **dopuszczone dopowiedzenie fabularne**, a nie potwierdzony w CK3 status `friend` czy nowe datowane wydarzenie. [Brief dla Astry](Brief_dla_Astry_Gautselin_i_Burkhard_1080.md).
+
+
+---
+
+## Kanoniczny indeks twarzy, rodziny i rady — stan porównawczy 2 października 1080 (19 X 2026)
+
+**Status:** uporządkowanie i identyfikacja **12 oryginalnych modeli CK3** na podstawie 46 przypisanych portretów. Jest to **checkpoint archiwalny**, nie nowe wydarzenie w świecie gry; nie zmienia przebiegu bitew, związków ani dat urodzenia. Oryginały są w Bibliotece `/Hohenzollern/CK3_wzorce_1080/`, karty i źródła w Supabase `chronicle`.
+
+- **Rodzina:** hrabia Burkhard (CK3 66952, 30), Hedwig (41150, 30), Burkhard młodszy (79306, 11), Martin (5 lat w ostatnim oświadczeniu użytkownika; metryka z save daje 6), Adelheid córka (3), Ulrich (2).
+- **Rada i rycerze:** Siegmund (76331, 48; **kanclerz**), Gerlach (72054, 37; **zarządca, wielki łowczy, rycerz**), Radbot (66953, 35; **marszałek i rycerz**), Meinhard (69353, 41; **kapelan/biskup sufragan**), Walpurga (66954; **mistrzyni szpiegów**, ostatnio wskazano 41 lat, wcześniej 40), Reinhard (52; **rycerz i dowódca wojsk w kampanii 1075–1080**).
+- W 1066 Radbot pełnił funkcję kanclerza — **nie przenosić stanowisk z 1080 na 1066**. Nie utożsamiać młodszego Burkharda z ojcem ani córki Adelheid z dawną władczynią Hohenbergu CK3 31878.
+- Ścieżki plików, pełne aliasy wywoływania postaci oraz audyt rozbieżności: **[Indeks 12 postaci — aliasy i powiązania z osią](referencje_wizualne/wywolywanie_postaci_i_indeks_osi_1080.md)**; **[manifest 46 oryginalnych portretów](referencje_wizualne/indeks_portretow_zrodlowych_1080.md)**. Data 6 X występująca w nazwie części zrzutów dotyczy serii zdjęć, a nie odrębnego zdarzenia fabularnego.
