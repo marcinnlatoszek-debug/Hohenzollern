@@ -1,6 +1,6 @@
 # Kanon charakterów i otoczenia Burkharda — 12 listopada 1070
 
-**Status:** ZATWIERDZONY **ARCHIWALNY PRZEKRÓJ** 12 XI 1070, na wyraźne polecenie użytkownika 14 X 2026. **Nowszy pełny punkt kampanii: 18 X 1073** — [raport 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).  
+**Status:** ZATWIERDZONY **ARCHIWALNY PRZEKRÓJ** 12 XI 1070, na wyraźne polecenie użytkownika 14 X 2026. **Nowszy pełny punkt kampanii: 18 X 1073** — [raport 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md). Nowszy, ograniczony audyt cech na 6 X 1080: [kanon cech i osi osobowości](Kanon_charakterow_1080-10-06.md).  
 **Data w grze:** **12 listopada 1070**.  
 **Źródła pierwszorzędne:** zapis `von_Hohenzollern(10).ck3` (duplikat `von_Hohenzollern(20261014-155345).ck3`, identyczny SHA-256), odczyt tablicy cech oraz seria screenów od `Zrzut ekranu 2026-10-14 173059.png` do `Zrzut ekranu 2026-10-14 174332.png`, w tym screen rady z widoczną datą 12 XI 1070.  
 **Metoda interpretacji:** [Zasady mechanik CK3](../05_MECHANIKI_CK3/Zasady_interpretacji_charakteru.md).  
