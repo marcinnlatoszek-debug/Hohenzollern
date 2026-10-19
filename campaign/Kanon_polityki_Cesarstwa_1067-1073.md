@@ -110,3 +110,8 @@ Wojna de iure o Stormarn zakończyła się zwycięstwem Heinricha, ale posiadacz
 - [Oś 1070–1073](Os_czasu_Zollern_1070-1073.md)
 - [Brief dla Astry — Cesarstwo i Szwabia](Brief_dla_Astry_Cesarstwo_i_Szwabia_do_1073-10-18.md)
 - [Raport pełnego save'a 18 X 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md)
+
+
+## Aneks autorski — 19 X 2026
+
+Autor zatwierdził historyczne tło konfliktu Henryka IV z Sasami (1073–1075) do wykorzystania literackiego. **Nie jest ono dodatkową wojną potwierdzoną w save'ie**; obowiązuje rozdział między historią rzeczywistą a stanem gry. Szczegóły i korekty raportu: [Tło historyczne Cesarstwa 1073–1075 — zatwierdzone](Tlo_historyczne_Cesarstwa_1073-1075_zatwierdzone.md). Zapis `von_Hohenzollern(20261019-041612).ck3` wymaga odrębnego odczytu; nie dopisano na jego podstawie nowych wojen ani frakcji.
