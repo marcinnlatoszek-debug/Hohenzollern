@@ -1,5 +1,7 @@
 # Wzorce wyglądu postaci — 2 października 1080
 
+> **Aktualizacja 19 X 2026 — oryginalne PNG już zabezpieczono.** Użytkownik dostarczył i jednoznacznie oznaczył 46 indywidualnych zdjęć CK3, przejrzanych i przypisanych do 12 osób. Wszystkie 46 pełnowymiarowych plików umieszczono w Bibliotece pod `/Hohenzollern/CK3_wzorce_1080/<postać>/`; nie przesłano ich binarnie do GitHub ani Supabase. Dokładne parowanie każdego pliku z postacią i datą jest w [indeksie oryginalnych portretów 1080](indeks_portretow_zrodlowych_1080.md) — ten indeks uzupełnia, a nie unieważnia starsze obserwacje. Użytkownik potwierdził: Adelheid-córka 3 lata, Siegmund 48, Radbot 35, Meinhard 41, Reinhard 52 oraz Martin 5 lat (konflikt z wcześniej zapisaną datą 1073-11-02, dającą 6 lat na 2 X 1080; metrykę zachowano do wyjaśnienia). Zdjęcia z nazwą `1080_10_06` archiwizuje się jako pochodzące z 6 X, a nie 2 X.
+
 **Projekt:** Nobilis gens von Hohenzollern. **Aktualizacja:** 18 X 2026, na bezpośrednie polecenie użytkownika. Główny zapis: Supabase `Hohenzollern` (`aieqqyglilxgyjnbfzws`), schemat `chronicle`, 11 rekordów `character_snapshots` typu `visual_reference`, źródła w `sources` i `media_assets`, zasada w `project_policies` (`visual_identity_and_realistic_aging`). Ten plik jest kopią zapasową.
 
 ## Źródła i ograniczenia
