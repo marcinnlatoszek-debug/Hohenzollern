@@ -86,7 +86,7 @@ Ekran księcia Rudolfa z Rheinfelden (CK3 35525) potwierdza, że nadal występuj
 | Martin — 35125 | Württemberg |
 | Reinhold — 89398 | Zürich |
 
-Nazwy o tym samym brzmieniu, takie jak Friedrich i Berthold, oznaczają odrębne postacie; identyfikację rozstrzyga CK3 ID. Save pokazuje stan posiadania na 6 X, lecz nie daty wszystkich wcześniejszych zmian. Wśród wyraźnie porównywalnych zmian względem początku: Rudolf zachowuje swój czterohra­b­ski rdzeń, Friedrich (40600) nadal ma te same cztery hrabstwa, Hermann (40599) ma dwa z siedmiu hrabstw wymienionych przy nim w przekroju startowym, a domena Burkharda obejmuje dodatkowo Hohenberg. Nie przypisujemy nieodczytanym transferom konkretnych dat.
+Nazwy o tym samym brzmieniu, takie jak Friedrich i Berthold, oznaczają odrębne postacie; identyfikację rozstrzyga CK3 ID. Save pokazuje stan posiadania na 6 X, lecz nie daty wszystkich wcześniejszych zmian. Wśród wyraźnie porównywalnych zmian względem początku: Rudolf zachowuje swój rdzeń czterech hrabstw, Friedrich (40600) nadal ma te same cztery hrabstwa, Hermann (40599) ma dwa z siedmiu hrabstw wymienionych przy nim w przekroju startowym, a domena Burkharda obejmuje dodatkowo Hohenberg. Nie przypisujemy nieodczytanym transferom konkretnych dat.
 
 ## Tło fabularne — interpretacja do wykorzystania w opowieści
 
