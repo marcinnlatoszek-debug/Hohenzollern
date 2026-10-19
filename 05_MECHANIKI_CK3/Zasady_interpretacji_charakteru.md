@@ -2,9 +2,10 @@
 
 **Status:** ZATWIERDZONA METODA INTERPRETACJI — polecenie użytkownika 14 października 2026: „zapisz do kanonu, sprawdz informacje o mechanikach ck3 o tym jak odczytywac charakter itd”.  
 **Zastosowanie:** wszystkie karty postaci, plany powieści i opowiadania Astry.  
-**Wersja kampanii:** Crusader Kings III 1.20.1, **19 wpisów modów**; nie potwierdzono źródeł ani dokładnych wersji modów.  
-**Najnowszy zatwierdzony pełny save:** **18 X 1073**; przekrój cech z 12 XI 1070 pozostaje źródłem archiwalnym. [Raport 18 X 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).  
-**Kanon cech postaci:** [12 XI 1070](../campaign/Kanon_charakterow_1070-11-12.md).
+**Wersja bazowej analizy mechanik:** Crusader Kings III 1.20.1. **Uzupełnienie:** 19 X 2026, po audycie save’a 1.20.1.1 z datą gry 6 X 1080. W archiwalnym playsecie zapisano 19 wpisów modów, ale ich źródła i dokładne wersje pozostają niepotwierdzone; mody mogą zmieniać zachowanie AI, wydarzenia i efekty.  
+**Najnowszy zatwierdzony punkt cech:** save z **6 X 1080**; porównywalny stan archiwalny obejmuje pełny save z 18 X 1073 i wcześniejsze przekroje. [Audyt cech i osi osobowości 6 X 1080](../campaign/Kanon_charakterow_1080-10-06.md); [raport 18 X 1073](../07_ANALIZY/raporty_zmian/CK3_1073-10-18_weryfikacja.md).  
+**Archiwalny kanon cech:** [12 XI 1070](../campaign/Kanon_charakterow_1070-11-12.md).  
+**Powiązany zapis terytorialny:** [Szwabia — porównanie 6 III 1067 i 6 X 1080](../03_TERYTORIA/KSIESTWA/d_swabia/karta.md).
 
 ## 1. Hierarchia dowodów: cztery różne poziomy
 
@@ -102,3 +103,44 @@ Powyższe **nie są zdarzeniami kampanii** i nie należą do osi czasu. Są zatw
 - [Dokumentacja modowania cech](https://github.com/jesec/ck3-modding-wiki/blob/master/wiki_pages/Trait_modding.md) oraz [AI](https://github.com/jesec/ck3-modding-wiki/blob/master/wiki_pages/AI_modding.md) — sposób definiowania kategorii i parametrów, materiały referencyjne, miejscami starsze od wersji kampanii.
 
 **Nadrzędny źródłowo jest odczyt własnego save'a wraz ze screenami aktualnej instalacji**; źródła zewnętrzne wyjaśniają zasady, a nie ustalają faktów tej alternatywnej kampanii. 
+
+
+## 9. Uzupełnienie metody — źródła CK3 i pisanie fabuły (19 X 2026)
+
+### 9.1. Co potwierdzają źródła o mechanice
+
+- Encyklopedia [CK3 Wiki: Traits](https://ck3.paradoxwikis.com/Traits) opisuje cechy osobowości jako najbardziej charakterystyczne cechy postaci i wiąże je z tym, czy oraz w jakim stopniu działania sprzeczne z nimi generują stres. Jest to wiki społecznościowa, nie oficjalna dokumentacja Paradox; strona wyników wyszukiwania wskazywała weryfikację do wersji 1.19. Używamy jej do ogólnej orientacji, nie jako dowodu dokładnych efektów w save’ie 1.20.1.1.
+- [CK3 Wiki: Attributes](https://ck3.paradoxwikis.com/Attributes) opisuje stres, jego poziomy i zdarzenia załamania. [CK3 Wiki: Character decisions](https://ck3.paradoxwikis.com/Character_decisions) pokazuje, że część decyzji i reakcji zależy od cech, ale dostępność i efekty trzeba sprawdzać w aktualnej grze.
+- Oficjalny opis Paradox [Crusader Kings III — Character](https://www.paradoxinteractive.com/games/crusader-kings-iii/add-ons/crusader-kings-iii-pre-order) mówi, że cechy kierują działaniami, a postępowanie wbrew naturze postaci może przynosić stres. Jest to opis ogólnej koncepcji gry, nie dokumentacja wszystkich wartości liczbowych.
+- Ogłoszenie Paradox o [By God Alone](https://www.paradoxinteractive.com/media/press-releases/paradox-interactive/keep-the-faith-in-upcoming-crusader-kings-iii-expansion) przedstawia dodatkowy związek cech, działań i tenetów z duchowością. Stosować tę warstwę wyłącznie wtedy, gdy obecność odpowiedniego DLC i mechaniki jest potwierdzona dla analizowanej rozgrywki.
+- Źródła zewnętrzne tłumaczą mechanikę; fakty o konkretnej postaci nadal pochodzą z datowanego save’a, screenów i jednoznacznych potwierdzeń użytkownika. Efekty liczbowe należy weryfikować w definicjach wersji i tooltipach aktywnej instalacji, szczególnie przy modach.
+
+### 9.2. Zasada czytania profilu
+
+1. **Zacznij od daty i identyfikacji.** Ustal ID postaci, datę gry, źródło i wersję. Tych samych imion nie łącz bez ID lub potwierdzonej relacji.
+2. **Oddziel kategorie.** Trzy cechy osobowości czytaj osobno od edukacji, umiejętności, cech stylu życia, dowodzenia, zdrowia, dziedziczności, mechanizmów radzenia sobie ze stresem i złożonego opisu AI z interfejsu. Żadna z tych kategorii nie zastępuje pozostałych.
+3. **Czytaj zestaw, nie etykietę.** Dla każdej cechy zapisz możliwą preferencję lub wrażliwość; następnie sprawdź, jak pozostałe cechy ją wzmacniają albo ograniczają. Sprzeczne skłonności są użytecznym napięciem fabularnym, a nie dowodem hipokryzji czy konkretnego czynu.
+4. **Porównuj wyłącznie datowane stany.** Zapisz cechy niezmienione, nowe lub nieobecne w starszym odczycie. Brak cechy na starszym screenie nie dowodzi dokładnej daty jej uzyskania. U dzieci zaznacz, że profil może się jeszcze kształtować.
+5. **Nie diagnozuj.** Cechy CK3 są uproszczonymi etykietami mechaniki i nie są diagnozą psychologiczną ani pełnym historycznym opisem człowieka.
+6. **Rozdziel skłonność od zdarzenia.** Cecha może podpowiedzieć prawdopodobny sposób reagowania; nie potwierdza, że postać tak postąpiła. Stres, załamanie, motyw, romans, kłamstwo, zdrada, okrucieństwo, wojna i sukcesja wymagają osobnego źródła, jeśli mają być faktem kanonicznym.
+
+### 9.3. Przekład cech na scenę
+
+Przy projektowaniu sceny dla Astry używaj krótkiego łańcucha:
+
+**potwierdzona sytuacja → cechy istotne w tej sytuacji → możliwe napięcie lub preferowana reakcja → koszt / ograniczenie → wariant literacki oznaczony jako interpretacja.**
+
+- Najpierw wybierz sytuację popartą kanonem: np. decyzję w sprawie ziemi, obowiązek wobec seniora, audiencję, rodzinny spór już potwierdzony albo trud wojny. Nie twórz zdarzenia tylko po to, by „zademonstrować” cechę.
+- Pokaż cechę przez zachowanie, dobór słów, rytm decyzji lub to, co postać zauważa. Nie każ jej wypowiadać nazwy traitu ani sprowadzaj do jednej cechy.
+- Konflikt cech może dać wewnętrzne wahanie, kompromis lub maskowanie preferencji. To literacka możliwość; nie zapisuj jej jako psychologicznego faktu.
+- Jeśli ważna jest sprzeczność z cechą, można pokazać jej możliwy ciężar, ale konkretnego poziomu stresu, załamania i skutku zdrowotnego nie dopisuj bez potwierdzenia mechaniki lub źródła.
+- Urząd, wiara, kultura, relacje i sytuacja polityczna ograniczają wybór. Cechy nie działają w próżni ani nie przesądzają wyniku.
+- Przy każdej notatce dla fabuły oznacz: **FAKT GRY**, **WNIOSEK / INTERPRETACJA**, **FIKCJA ŁĄCZNIKOWA** albo **NIEUSTALONE**. Nowy fakt wydarzeniowy wymaga osobnego zatwierdzenia użytkownika.
+
+### 9.4. Przykłady z kanonu 6 X 1080
+
+- **Burkhard 66952 — ambitious, diligent, patient:** można pisać o cierpliwym, konsekwentnym dążeniu do celu. Sama triada nie dowodzi buntu przeciw Rudolfowi, konkretnego roszczenia ani tajnego planu.
+- **Rudolf 35525 — wrathful, forgiving, just:** profil pozwala badać napięcie między gniewem, wybaczeniem i własnym standardem sprawiedliwości. Nie dowodzi represji ani tego, jak rozstrzygnął konkretny spór.
+- Pełne cechy i osie najbliższego dworu oraz porównanie z wcześniejszymi snapshotami znajdują się w [kanonie cech 6 X 1080](../campaign/Kanon_charakterow_1080-10-06.md). Zmiany w ziemiach i interpretacyjne tło Szwabii są opisane osobno w [karcie terytorium](../03_TERYTORIA/KSIESTWA/d_swabia/karta.md); nie przenosić tła ani wniosków terytorialnych na osobiste motywy postaci.
+
+**Status tego uzupełnienia:** metoda wykorzystania mechanik do interpretacji i pisania, nie nowe wydarzenie świata gry. Przegląd źródeł zewnętrznych: 19 X 2026; w razie zmiany wersji, DLC lub modów sprawdź je ponownie.
