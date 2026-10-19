@@ -1,5 +1,7 @@
 # Protokół zgodności postaci i zatwierdzania grafik — Hohenzollern
 
+> **Aktualizacja katalogu 19 X 2026.** 46 oryginalnych PNG z podpisami osób zarchiwizowano w Bibliotece `/Hohenzollern/CK3_wzorce_1080/` i przypisano w Supabase. [Indeks plików i 12 tożsamości](indeks_portretow_zrodlowych_1080.md) jest odtąd obowiązkowym pierwszym odnośnikiem przy pracy nad grafiką. Reinhard otrzymał własne portrety `1080_10_02_0206`, `0207`; nie podmieniać go żadną inną osobą. Wcześniejsza adnotacja o braku wzorca dotyczy wyłącznie starych grupowych ujęć 0184–0186. Same pliki graficzne są w Bibliotece, a nie w repozytorium GitHub.
+
 **Status:** zatwierdzona przez użytkownika zasada pracy, 18 października 2026.  
 **Główna baza:** Supabase Hohenzollern, projekt `aieqqyglilxgyjnbfzws`, schemat `chronicle`, `project_policies.policy_key = visual_graphics_identity_approval_protocol`.  
 **Repozytorium GitHub:** wyłącznie kopia awaryjna. Nie uznawać pliku GitHub za nadrzędny wobec najnowszych, potwierdzonych wpisów Supabase.
