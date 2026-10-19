@@ -23,6 +23,8 @@
 | Reinhard, rycerz i dowódca | `reinhard-knight-of-zollern` | 52 | 10_02: 0206, 0207 | `reinhard/` |
 | Walpurga, mistrzyni szpiegów | `66954` | 40 | 10_02: 0195, 0197, 0198, 0199, 0200, 0201 | `walpurga/` |
 
+> **Aktualizacja wywołań 19 X 2026:** [kanoniczny indeks postaci z aliasami i powiązaniem z osią](wywolywanie_postaci_i_indeks_osi_1080.md) jest najnowszą warstwą identyfikacji. **Walpurga:** najnowsze oświadczenie użytkownika to **41 lat w 1080**, chociaż wcześniejszy manifest podaje 40 — zachowano oba zapisy i zaznaczono konflikt. **Martin:** ostatnie oświadczenie to 5 lat, podczas gdy data narodzin z save daje 6. Zmian nie wprowadzać wstecz bez weryfikacji. Wiek w tabeli poniżej jest historycznym stanem zapisu manifestu.
+
 ## Pełne listy plików
 
 ### Burkhard von Hohenzollern, hrabia
