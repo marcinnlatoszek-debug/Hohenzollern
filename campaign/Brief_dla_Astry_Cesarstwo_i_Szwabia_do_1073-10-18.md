@@ -73,3 +73,8 @@ Opracuj oś czasu i oś fabuły jako historię **trzech poziomów władzy**: Ces
 **NIEUSTALONE:** pełne warunki pokojów Heinricha, sojusznicy i straty, największa bitwa całego Cesarstwa (Hohenberg jest tylko największą liczbowo udokumentowaną w materiale), dokładne preferencje elektorów, skład frakcji populistycznej, sieć cesarskich małżeństw, motywy i koniec regencji, przyczyna śmierci Leopolda, wynik ciąży Hedwig. Nie przypisuj Heinricha do każdej wojny toczącej się w Cesarstwie ani Burkharda do bitew cesarskich.
 
 **Zasada nadrzędna:** GRA DOSTARCZA FAKTÓW. KANON USTALA HISTORIĘ. OPOWIADANIE NADAJE JEJ ŻYCIE. Astra może wymyślać atrakcyjne dialogi i drobne zdarzenia literackie, ale **nie** nowe wojny, zgony, narodziny, spiski, zdrady, sukcesje, rozstrzygnięcia chorób, wyniki bitew i zmiany tytułów. Nowe wiążące interpretacje przedstawiaj użytkownikowi do akceptacji.
+
+
+## Uzupełnienie dla Astry — zatwierdzone 19 X 2026
+
+Autor zatwierdził historyczne tło powstania Sasów 1073–1075, bitwy pod Homburgiem nad Unstrutą 9 VI 1075 i napięć między Henrykiem IV a możnymi jako **tło literackie**. W żadnym razie nie oznacza to automatycznego potwierdzenia tych wydarzeń w save'ie CK3. Szczegółowe rozróżnienie: [Tło historyczne Cesarstwa 1073–1075 — zatwierdzone](Tlo_historyczne_Cesarstwa_1073-1075_zatwierdzone.md). W świecie kampanii utrzymać odczytane wojny Heinricha o Istrię i Stormarn, faktycznych elektorów 1073, frakcję populistyczną i regencję Burkharda nad Rudolfem. Nie zastępować ich błędnymi uogólnieniami raportu historycznego.
