@@ -2,7 +2,7 @@
 
 **Ostatni pełny, zweryfikowany i zatwierdzony audyt save'a:** **18 października 1073**, `von_Hohenzollern(20261014-200855).ck3` (CK3 1.20.1). Duplikat `von_Hohenzollern(20261014-201208).ck3` jest identyczny bajtowo.  
 **Poprzedni zatwierdzony pełny save:** **12 listopada 1070**, `von_Hohenzollern(10).ck3` (1070 dni gry wcześniej).  
-**Najnowsza zatwierdzona obserwacja ekranowa:** **1 X 1080**; szczegóły w osi 1078–1080. **Najnowszy save użyty do punktowego dopisku:** 2 X 1080; jego zakres opisano poniżej i w osi 1078–1080.
+**Najnowsza zatwierdzona obserwacja ekranowa:** **1 X 1080**; szczegóły w osi 1078–1080. **Najnowszy save użyty do punktowego dopisku:** 6 X 1080 — wyłącznie cechy i osobowości wskazanych postaci; pełny audyt tytułów, wojen i kampanii pozostaje na 18 X 1073. Wcześniejszy punkt 2 X 1080 zachowuje własny zakres opisany poniżej i w osi 1078–1080.
 **Starszy punkt archiwalny:** 2 sierpnia 1070, `von_Hohenzollern(9).ck3`.  
 **Akceptacja najnowszego punktu 18 X 1073:** 14 października 2026, potwierdzenie użytkownika „zatwierdzam” po raporcie porównawczym. Wcześniejszy punkt 12 XI 1070 zatwierdzono osobno („Tak”).  
 **Początek właściwej opowieści:** 6 marca 1067.  
@@ -17,6 +17,10 @@
 - Żyjące dzieci: Burkhard, Martin, Adelheid i Ulrich. Widoczna kolejność sukcesji: Burkhard, Martin, Ulrich, Adelheid. Adelheid jest zaręczona z Friedrichem von Stauferem.
 - Save odnotowuje śmierć Leopolda 7 VII 1071 po chorobie dziecięcej. Stres Burkharda: 65.
 - Nie ustalono z tego save’a warunków pokoju ani szczegółów końcowego raportu bitwy.
+
+## Punktowy audyt cech postaci — 6 października 1080
+
+**Źródło:** `von_Hohenzollern.ck3`, CK3 1.20.1.1, `meta_date=1080.10.6`. Użytkownik zlecił porównanie cech, interpretację osi osobowości i dodanie do kanonu. Zakres nie stanowi pełnego audytu save’a. [Kanon cech 6 X 1080](../campaign/Kanon_charakterow_1080-10-06.md). Dane cech zapisano w `chronicle.character_snapshots`; interpretacje pozostają wyraźnie oznaczone jako wnioskowanie literackie.
 
 ## Ostatni pełny, zatwierdzony audyt save’a — 18 października 1073
 
