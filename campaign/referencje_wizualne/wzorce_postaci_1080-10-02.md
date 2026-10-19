@@ -24,6 +24,9 @@ Obejrzano trzy ostatnie screenshoty odzyskane z [rozmowy Grafiki](https://chatgp
 - **Strój i rekwizyty:** Kolczuga tułowia i nóg, metalowe osłony kolan, czarny płaszcz z czerwoną taśmą i okrągłą złocistą zapinką, jasny kołnierz, pas i broń w pochwie.
 - **Źródła:** 0184, 0185, 0186. Rekord bazy postaci: `dc5af85f-7924-4f5b-a0df-cf588c95d469`.
 
+
+> **Kontrola zgodności przy generowaniu scen — 19 X 2026.** Wytworzona ilustracja czterech postaci (hrabia, Reinhard, Gerlach i Martin) **nie jest kanonicznym portretem hrabiego**: środkowemu mężczyźnie nadano zbyt ciemne włosy, widoczną bródkę oraz przesadnie bogaty czerwono-złoty ubiór zamiast prawidłowej tożsamości CK3 66952. Przy następnych ilustracjach należy zachować dokładną fizjonomię z oryginałów `burkhard-hrabia/`, zwłaszcza bardzo jasne, niemal platynowoblond włosy wyraźnie uniesione nad czołem i zaczesane w tył, jasne szaroniebieskie oczy, prosty nos, mocną linię żuchwy oraz brak wyraźnej brody (najwyżej bardzo krótki, jasny zarost widoczny na CK3). Kanoniczny strój referencyjny: kolczuga, ciemny niemal czarny płaszcz z czerwonym obszyciem, okrągła złocista zapinka przy ramieniu i jasny kołnierz. Nie zastępować twarzy hrabiego twarzą Radbota ani starszego, brodatego Reinharda. Wygenerowanego błędnego obrazu **nie używać jako źródła przyszłych grafik**. Jest to korekta zasad rekonstrukcji, a nie zmiana oryginalnych fotografii ani faktów historycznych.
+
 ## Hedwig
 
 - **Tożsamość:** Żona Burkharda starszego, matka dzieci; CK3 ID 41150.
