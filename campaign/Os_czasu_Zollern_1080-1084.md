@@ -447,4 +447,8 @@ Pan Udo z Trewiru oferuje uwolnienie Gerlacha za **10 sztuk złota**. Zrzut ukaz
 
 ## Zastrzeżenia kanoniczne
 
-Siegmund wyzdrowiał w ok. dwa tygodnie od rany pod Lohrbach; rycerz Welf nie jest hrabią Welfem IV. Brak potwierdzenia uwolnienia Gerlacha, wyboru roszczenia Tybinga, przydomka „Lis”, cechy Martina oraz szczegółów pokoju o Colmar. Dla Andernach nie znamy dokładnego dnia i 16 IX jest wyłącznie kotwicą chronologiczną, nie datą zdarzenia. Rozróżniać wielkości obserwowanych oddziałów od strat z ekranu końcowego bitwy.
+Siegmund wyzdrowiał w ok. dwa tygodnie od rany pod Lohrbach; rycerz Welf nie jest hrabią Welfem IV. Gerlach jest już wolny według niedatowanej karty z końca 1084, ale sposób jego uwolnienia (w tym akceptacja okupu 10 złota) nie został ustalony. Przydomek „Lis” jest potwierdzony na ekranie 4 XI 1084, lecz data jego nadania pozostaje nieznana. Martin otrzymał +2 Nauki, ale dokładna data tego wydarzenia nie jest widoczna. Nie potwierdzono wyboru roszczenia Tybinga ani szczegółów pokoju o Colmar. Dla Andernach nie znamy dokładnego dnia i 16 IX jest wyłącznie kotwicą chronologiczną, nie datą zdarzenia. Rozróżniać wielkości obserwowanych oddziałów od strat z ekranu końcowego bitwy.
+
+
+---
+**Kontynuacja prowadzona od 20 X 1084:** [wydzielona oś czasu](Os_czasu_Zollern_od_1084-10-20.md) i [oś fabularna dla Astry](Os_fabularna_Zollern_od_1084-10-20.md).
