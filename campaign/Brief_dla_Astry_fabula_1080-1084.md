@@ -31,3 +31,6 @@ Burkhard ma już przydomek **Lis** (potwierdzony na ekranie z 4 XI), choć nadan
 
 ---
 **Kopia GitHub. Źródło pierwotne:** Supabase `chronicle.narrative_chapters`; szczegóły liczb i wydarzeń: [oś 1080–1084](Os_czasu_Zollern_1080-1084.md).
+
+
+**Następny odcinek powieści, początek 20 X 1084:** [wydzielona oś fabularna](Os_fabularna_Zollern_od_1084-10-20.md) oraz [oś czasu](Os_czasu_Zollern_od_1084-10-20.md). Datowanie 20 X jest granicą nowego opracowania, nie nowym zdarzeniem CK3.
