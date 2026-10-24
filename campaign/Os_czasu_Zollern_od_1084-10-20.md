@@ -1,7 +1,9 @@
 # Nobilis gens von Hohenzollern — oś czasu od 20 października 1084
 
 **Początek nowego odcinka kanonu: 20 X 1084.**  
-**Ostatnie udokumentowane wydarzenie z dokładną datą: 28 XII 1084.**  
+**Ostatnia data źródłowo kompletna na ekranie: 15 II 1088.**  
+**Bieżący punkt końcowy kampanii wg użytkownika: 5 XI 1088.**  
+**Daty innych obserwacji 1085–1088: por. niżej, część lat przyjęta domyślnie.**  
 Status: **oś źródłowa; NIE jest opowiadaniem**. Kontynuacja [osi wydarzeń do jesieni 1084](Os_czasu_Zollern_1080-1084.md). Poprzedni odcinek literacki kończy się 20 X 1084. Dla samego dnia 20 X 1084 nie ma nowego ekranu ani potwierdzonego wydarzenia — to **granica redakcyjna**, nie wymyślony punkt kroniki.
 
 ## Punkt wyjścia — 20 X 1084
@@ -60,3 +62,43 @@ W bazie 28 XII przy tych trzech obserwacjach jest **kotwicą okresu końca roku*
 **Baza pierwotna:** Supabase `chronicle.events` oraz `chronicle.timeline_entries`, kampania `Nobilis gens von Hohenzollern`. Pakiet `HZ-1084-Q4-SCREENS-2026-10-24`, 11 potwierdzonych obserwacji (4 z nich z nieprecyzyjną datą). Ten plik jest wydzieloną, redakcyjną osią czasu **od 20 X 1084**, bez duplikowania rekordów w bazie.
 
 **Powiązana oś fabularna:** [Os_fabularna_Zollern_od_1084-10-20.md](Os_fabularna_Zollern_od_1084-10-20.md).
+
+
+---
+
+## Rozszerzenie osi: styczeń 1085 – 5 listopada 1088 (pakiet U01)
+
+**Punkt końcowy osi: 5 XI 1088 — data bieżąca podana przez użytkownika, nie odrębne wydarzenie gry.**  
+**Źródło główne:** Supabase `chronicle.events`, `chronicle.timeline_entries`, pakiet `HZ-1085-1088-U01-2026-10-24` (15 obserwacji zdarzeń/stanów i 1 wpis kontrolny).  
+**Data pewna ostatniego kompletnego kadru:** 15 II 1088. W pozostałych dwóch późniejszych powiadomieniach dzień/miesiąc (6 VIII) albo sam fakt zdarzenia widoczne są bez roku/dnia. Lata 1087 i 1088 uzupełniono według zaakceptowanej przez gracza domyślnej kolejności screenów; **nie są bezpośrednim odczytem roku ze wszystkich obrazów**. Tekstowe odczyty stycznia–lata 1085 pochodzą z poprzedniego zestawu analiz udostępnionego przez użytkownika.
+
+| Data / precyzja | Obserwacja | Zastrzeżenia |
+|---|---|---|
+| **10 I 1085** | Zamek Nagold (Nagoldgau) okupowany przez króla Bertranda; Nagold ma modyfikator „Niedawno splądrowane”. | Data zdobycia i sprawca spustoszenia NIEUSTALONE; brak udziału Hohenzollernów w źródle. |
+| **10 I 1085** | 1. armia Püttlingen księcia Gerharda widoczna jako neutralna względem gracza. | Neutralność nie rozstrzyga udziału w wojnie Bertranda. |
+| **16 I 1085** | Wskaźnik wojny **−11%**, liczebności **13 029 / 19 376**. | Liczby dotyczą sił wojny, nie bitwy; przyporządkowanie stron niepewne w przekazanym odczycie. |
+| **2 II 1085 — rok domyślny** | **Gautselin**, syn Gerlacha i Luitgard, dorasta (16 lat); „Genialny strateg” i „Elastyczny przywódca”; Szwab, nisko urodzony, bez ziemi. | Rok nie był czytelny; data narodzin **2 II 1069** pozostaje wyłącznie wyliczeniem warunkowym. Nie nadano urzędu. |
+| **Luty 1085, dzień nieustalony** | Zollern **wolne od zarazy**. W interfejsie dostępne zadanie medyka „Kontrola zarazy”: +10 przeciwdziałania, +0,20 prestiżu medyka miesięcznie, koszt 0,06 miesięcznie. | Przycisk „Kliknij, aby aktywować” — brak potwierdzenia uruchomienia zadania. |
+| **15 III 1085** | Luitgard przekazuje nauki Ulrichowi von Hohenzollern, **Nauka +1**. | Status formalnej opiekunki NIEUSTALONY, bez identyfikatora nie scalać imienniczek. |
+| **21 VI 1085** | W wojnie przeciw tyranii Heinricha IV osiem wpisów przegranych bitew: Stendal, Harzgerode, Schwarmstedt **dwukrotnie**, Elsenzgau, Lobdengau, Meiningen, Amorbach. Stany wojsk (atakujący/obrońcy) **34 967/17 416** oraz **35 572/18 847**. | Daty bitew, strony porażek i udział Hohenzollernów NIEUSTALONE. |
+| **21 VI 1085** | Nagoldgau częściowo okupowane; w panelu także Nedersticht, Twente, okupowana sojusznicza stolica i cel wojny kontrolowany przez obrońcę. | Brak zakończenia wojny i przeniesienia prawa własności. |
+| **Lato 1085, data nieustalona** | Burkhard: przyrost pobożności **+2,25 miesięcznie**. | Nie przypisywać przyczyny. |
+| **Lato 1085, data nieustalona** | Podczas ćwiczeń łuczniczych z ojcem 11-letni Martin zabija ranną łanię. Widoczna opcja „Wielkość jest twoją przyszłością, Martin” pozwala zachować „Ambitny”. | **Widoczna opcja nie jest potwierdzonym wyborem**; cecha nie jest nowo nabyta. |
+| **13 V 1087 — rok domyślny** | Powiadomienie: senior gracza **książę Berthold** uchwala prawo **„Wysoki autorytet korony”**. | 13 maja odczytano ze screena, rok wywnioskowano. Dzień przejęcia senioratu i pełna identyfikacja Bertholda NIEUSTALONE. |
+| **22 X 1087 — rok domyślny** | Powiadomienie: **książę Hermann wygrał wojnę de iure o Traungau** przeciw władcy Bawarii, księciu Siegfriedowi. Atakującym w wojnie było Księstwo Bawaria. | Dzień i miesiąc odczytane; rok z domyślnej chronologii. Nie dopisywać warunków pokoju ani przeniesienia tytułu. |
+| **15 II 1088 — pełna data widoczna** | Styl życia Burkharda: **Zarządzanie**; obecne „Skupienie na bogactwie” (+10% dochodu/mies.), premia doświadczenia z wykształcenia +30%, **17/1000** bieżącego doświadczenia, **11/27** atrybutów odblokowanych. Tooltip „Podzielna uwaga”: **limit domeny +1**. | To obserwacja stanu rozwoju, nie dzień zdobycia wcześniejszych atrybutów. |
+| **Po 15 II, przed 6 VIII 1088 — okres domyślny** | Powiadomienie **„Zyskano przyjaciela”**: **Gerlach** pobiera dodatkowe podatki dla hrabiego Burkharda; relacja przyjaźni, widoczny efekt **+100 opinii**. | Dokładna data nieustalona. Nie ustala z całą pewnością dnia ponownego powołania Gerlacha na urząd. |
+| **6 VIII 1088 — rok domyślny** | Nadworna medyczka **Inga** otrzymuje cechę **„Suchoty”**. | Nie dopisywać śmierci, skutków leczenia ani zarażenia innych. |
+| **5 XI 1088 — punkt kontrolny użytkownika** | **Bieżąca data świata gry i granica obecnego odcinka osi.** | Nie przypisano żadnego dodatkowego wydarzenia do tego dnia. |
+
+### Aktualizacja wcześniejszych niewiadomych
+
+- Wcześniejsza niepewność, czy Nagold zostało zajęte, jest rozstrzygnięta **na 10 I 1085** (okupacja króla Bertranda), ale nie jest rozstrzygnięta data zdobycia ani ostateczny pokój.
+- Wojna o **Traungau** obserwowana 4 XI 1084 jako trwająca ma **późniejszy komunikat o zwycięstwie Hermanna** (22 X, rok domyślnie 1087). Nie wymyślać szczegółów ugody.
+- Wcześniejsza identyfikacja Rudolfa jako seniora dotyczy wcześniejszych lat. Z powiadomienia 13 V (rok domyślnie 1087) wynika, że seniorem jest już **książę Berthold**. Gracz oddzielnie informował, że **Rudolf abdykował po uwolnieniu z niewoli**; dokładna data i procedura zmiany seniora pozostają nieustalone.
+- **Gerlach** pod koniec 1084 był ciężko chory po niewoli; późniejsza przyjaźń z Burkhardem nie dowodzi dokładnego terminu wyzdrowienia. **Inga** ma potwierdzone suchoty w sierpniowym powiadomieniu roku domyślnie 1088; nie przesądzać dalszego losu.
+- **Nie łączyć** bitew wymienionych w panelu 21 VI 1085 z wojskami Hohenzollernów bez kolejnego źródła.
+- Wszystkie domyślne lata i kotwice techniczne są jawnie oznaczone w bazie, nie są równoważne pełnym datom widocznym na ekranie.
+
+**Powiązany szkic literacki:** [Oś fabularna od 20 X 1084](Os_fabularna_Zollern_od_1084-10-20.md).  
+**Dokument jest kopią redakcyjną. Bazą główną pozostaje Supabase.**
