@@ -1,8 +1,8 @@
-# Oś czasu Zollern — 2 października 1080 – 20 października 1084
+# Oś czasu Zollern — 2 października 1080 – 28 grudnia 1084
 
 **Kopia awaryjna zatwierdzonego kanonu.** Główna baza: Supabase `chronicle.events` i `chronicle.timeline_entries`. Pakiet `HZ-1080-1084-CHAT-2026-10-20`.
 
-Zakres obejmuje 2 X 1080 – 20 X 1084; ostatni dokładnie datowany punkt to 16 IX 1084. Nie dopisano zdarzeń po tej dacie. Już zatwierdzone obserwacje 2 X 1080 znajdują się w [starszej osi 1078–1080](Os_czasu_Zollern_1078-1080.md) oraz [obsadzie autorskiej](../02_POSTACIE/FIKCYJNE/obsada_autorska_1080-10-02.md). Zdjęcia nie zostały binarnie przesłane do repozytorium.
+Zakres obejmuje 2 X 1080 – 28 XII 1084; ostatni dokładnie datowany punkt to 28 XII 1084. Późniejsze niedatowane karty postaci przypisano do końca 1084 bez ustalania dokładnych dni. Już zatwierdzone obserwacje 2 X 1080 znajdują się w [starszej osi 1078–1080](Os_czasu_Zollern_1078-1080.md) oraz [obsadzie autorskiej](../02_POSTACIE/FIKCYJNE/obsada_autorska_1080-10-02.md). Zdjęcia nie zostały binarnie przesłane do repozytorium.
 
 
 ## 1080
@@ -402,6 +402,48 @@ Koniec wojny de iure o Colmar po porażce agresora Rudolfa przeciw księciu Gerh
 Ekran rozliczenia: wkład wojenny Burkharda 867 punktów (37% końcowego udziału), 375 prestiżu i +38 opinii u Rudolfa. Nie traktować wcześniejszego 51% z kwietnia jako ostatecznego.
 
 *Status: zatwierdzony fakt/obserwacja gry.*
+
+## Uzupełnienie: październik–grudzień 1084
+
+### 31 X 1084 — „Czyrak Heinricha” rozprzestrzenia się
+
+Wiadomość CK3 wymienia Trierweiler, Deventer i kolejne 27 miejsc dotkniętych chorobą. Brak potwierdzenia wystąpienia choroby w Zollern.
+
+### Okres około 4 XI 1084 — edukacja Martina
+
+Luitgard uczy Martina von Hohenzollern; zrzut potwierdza wzrost umiejętności Nauka o 2. Daty na przyciętym ekranie brak — **4 XI jest kotwicą**, nie datą pewną.
+
+### 4 XI 1084 — Burkhard Lis, hrabia Zollern
+
+Na karcie: wiek 34, aktywny przydomek **Lis**, 449 złota, 1487 prestiżu, 380 pobożności, liczba sił 1484, domena 2/4; genealogia pokazuje 5 dzieci (co nie dowodzi pięciorga żyjących — wcześniej udokumentowano zgon Leopolda). Moment nadania przydomka nieznany, ale nie później niż 4 XI 1084.
+
+### 4 XI 1084 — Rudolf przeciwko tyranii Henryka IV
+
+Rudolf (58 lat) figuruje po stronie atakujących w **wojnie przeciw tyranii cesarza Heinricha IV**, rozpoczętej 5 IX 1082. Obserwowany wynik atakujących **−57,4%**; armie **37 286** kontra **19 055**, po **12** i **6** sprzymierzeńców. To nie wojna papieża Aleksandra II ogłoszona w czerwcu 1084 i nie skończona wojna o Colmar. Nie ustalono końcowego wyniku.
+
+### 4 XI 1084 — oblężenie Nagold
+
+Pod Nagold **5218** oblegających (Püttlingen **4094** pod księciem Gerhardem, Chablais **720**, Stahleck **404**) wobec **400** załogi. Machin oblężniczych **37**, postęp **2,4/dzień**, niewielki wyłom w murach. Wojska Gerharda oznaczone jako neutralne w interfejsie gracza. Zdobycie twierdzy niepotwierdzone.
+
+### 4 XI 1084 — wojna Bawarii o Traungau
+
+Osobna wojna de iure: Bawaria atakuje w sporze o Traungau, przewaga wojenna atakujących **−16%**, siły **18 431** do **20 146**. Nie łączyć z wojną o Colmar ani konfliktem z cesarzem.
+
+### 20 XII 1084 — oferta okupu Gerlacha
+
+Pan Udo z Trewiru oferuje uwolnienie Gerlacha za **10 sztuk złota**. Zrzut ukazuje przyciski „Odmów” oraz „Zaakceptuj” i potencjalne skutki. **Nie ustalono**, czy Burkhard zapłacił i wybrał tę opcję.
+
+### 28 XII 1084 — pełnoletność następcy
+
+**Burkhard młodszy**, urodzony 27 XII 1068, jest już szesnastoletni. Zakończył edukację z wykształceniem dyplomatycznym **„Charyzmatyczny negocjator”**. Karta potwierdza: bez ziemi, bez żony i dzieci.
+
+### Koniec XII 1084 — karty zdrowia dworzan (bez dokładnego dnia)
+
+- **Gerlach, 41 lat:** wolny, pozostaje rycerzem; cierpi na **odrę** (gorączka, wysypka, kaszel, zdrowie krytyczne). Samo odzyskanie wolności jest potwierdzone, sposób i data zwolnienia oraz powrót na urząd zarządcy — nie.
+- **Reinhard, 56 lat:** żyje, ma rozwijającą się cechę **„Kruche kości”**, z m.in. −10% wojskowości i −10% szybkości podróży. Bez ustalonej daty początku.
+- **Siegmund, 52 lata:** nadal kanclerz i rycerz; rozwijająca się cecha **„Więdnący umysł”** (−2 nauki, +20% stresu, −25% doświadczenia stylu życia). Nie oznacza niezdolności ani ponownego zranienia pod Lohrbach, które wyleczono jeszcze w 1082.
+
+**Dokumentacja:** 11 dodatkowych rekordów `chronicle.events` i `chronicle.timeline_entries` w bazie Supabase (pakiet `HZ-1084-Q4-SCREENS-2026-10-24`). To opisy screenów; nie zawierają plików graficznych.
 
 ## Zastrzeżenia kanoniczne
 
